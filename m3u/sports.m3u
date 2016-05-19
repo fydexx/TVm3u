@@ -1,0 +1,15 @@
+﻿#EXTM3U
+#EXTINF:-1,CTH STADIUM 1 HD*
+http://149.202.207.8:8080/cth1/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 2 HD*
+http://149.202.207.8:8080/cth2/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 3 HD*
+http://149.202.207.8:8080/cth3/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 4 HD*
+http://149.202.207.8:8080/cth4/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 5 HD*
+http://149.202.207.8:8080/cth5/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM 6 HD*
+http://149.202.207.8:8080/cth6/sallu/index.m3u8
+#EXTINF:-1,CTH STADIUM X HD*
+http://149.202.207.8:8080/cthx/sallu/index.m3u8
