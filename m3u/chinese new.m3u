@@ -60,6 +60,8 @@ http://219.232.160.161:5080/hls/fdwypqk6.m3u8
 http://v.znds.com/aaebedb3d38710755fb0c0a142d39e9e0
 #EXTINF:-1, 经典电影
 http://www.szmgiptv.com:14436/hls/25.m3u8
+#EXTINF:-1, 欢喜 HD
+p2p://60.249.213.25:9900/569b52b10001d5dd124e62c736483a86
 #EXTINF:-1, 星影
 http://61.129.131.53/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
 #EXTINF:-1, 动作影院
@@ -136,3 +138,19 @@ rtmp://110.164.48.237:1935/tcctv_ch002/tcctv02.stream_live1#http://110.164.48.23
 http://122.202.129.136:1935/live/ch5/playlist.m3u8
 #EXTINF:-1, 美国中文台
 http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8#http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/droid/live/snvn_4.m3u8#http://media3.sinovision.net:1935/live/livestream/playlist.m3u8#http://ec.sinovision.net/video/ts/lv.m3u8#rtmp://media3.sinovision.net:1935/live/livestream
+#EXTINF:-1, 日本直播1
+p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
+#EXTINF:-1, 日本直播4
+p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9
+#EXTINF:-1, 日本直播5
+p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
+#EXTINF:-1, 日本直播6
+p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3
+#EXTINF:-1, 日本直播7
+p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
+#EXTINF:-1, 日本直播8
+p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
+#EXTINF:-1, 日本直播9
+p2p://50.7.104.10:9906/540050290000343a015059b37121116a
+#EXTINF:-1, 日本直播10
+p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
