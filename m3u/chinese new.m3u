@@ -54,6 +54,40 @@ http://59.120.43.180:17833
 http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
 #EXTINF:-1, 凤凰中文
 http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
+#EXTINF:-1, 凤凰电影
+http://219.232.160.161:5080/hls/fdwypqk6.m3u8
+#EXTINF:-1, 东方电影
+http://v.znds.com/aaebedb3d38710755fb0c0a142d39e9e0
+#EXTINF:-1, 经典电影
+http://www.szmgiptv.com:14436/hls/25.m3u8
+#EXTINF:-1, 星影
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 动作影院
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 精选影视
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 家庭影院
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 喜剧影院
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 家庭影院1
+http://59.46.18.133:8114/lntvch/01000000000000000000000000000093?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
+#EXTINF:-1, 家庭影院2
+http://59.46.18.133:8114/lntvch/01000000000000000000000000000097?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
+#EXTINF:-1, 家庭影院3
+http://59.46.18.133:8114/lntvch/01000000000000000000000000000099?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
+#EXTINF:-1, 探索集锦
+http://59.46.18.133:8114/lntvch/01000000000000000000000000000131?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
+#EXTINF:-1, VIP电影-悬战
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
+#EXTINF:-1, VIP电影-非常营救
+http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
+#EXTINF:-1, VIP电影-公路美人
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
+#EXTINF:-1, VIP电影-博物馆奇妙夜3
+http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
+#EXTINF:-1, VIP电影-涉足荒野
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
 #EXTINF:-1, 東森
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8#http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8#http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://101.71.90.21:5021/live/333
 #EXTINF:-1, 澳亚卫视
@@ -78,9 +112,9 @@ http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8#http://kt
 http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
 #EXTINF:-1, ICN国际卫视
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
-#EXTINF:-1, 八大第1台 Sopcast
+#EXTINF:-1, 八大第1台SOPCAST
 sop://124.232.150.188:3920/5705
-#EXTINF:-1, 三立台灣 Sopcast
+#EXTINF:-1, 三立台灣SOPCAST
 sop://124.232.150.188:3920/5706 
 #EXTINF:-1, 三立都会
 http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8#http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8#http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
