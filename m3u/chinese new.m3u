@@ -44,3 +44,37 @@ http://14.199.245.83:9981/stream/channelid/7
 http://14.199.245.83:9981/stream/channelid/6
 #EXTINF:-1, 互动新闻 HD
 http://14.199.245.83:9981/stream/channelid/5
+#EXTINF:-1, 香港電視HKTV2
+http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338
+#EXTINF:-1, 凤凰香港
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:-1, TVBS
+http://59.120.43.180:17833
+#EXTINF:-1, 凤凰资讯
+http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:-1, 凤凰中文
+http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
+#EXTINF:-1, 東森
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8#http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8#http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://101.71.90.21:5021/live/333
+#EXTINF:-1, 澳亚卫视
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
+#EXTINF:-1, 东森新闻
+http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
+#EXTINF:-1, 台视美洲
+http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+#EXTINF:-1, 民视HD
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
+#EXTINF:-1, 华视HD
+http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_4.m3u8
+#EXTINF:-1, 东森幼幼
+http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
+#EXTINF:-1, 宏观卫视
+http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
+#EXTINF:-1, 莲花卫视
+http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8
+#EXTINF:-1, 大爱
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+#EXTINF:-1, 人间卫视
+http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
+#EXTINF:-1, ICN国际卫视
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
