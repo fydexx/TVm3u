@@ -48,8 +48,68 @@ http://14.199.245.83:9981/stream/channelid/5
 http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338
 #EXTINF:-1, 凤凰香港
 http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
+#EXTINF:-1, DOXTV
+http://www.szmgiptv.com:14437/hls/12.m3u8
 #EXTINF:-1, TVBS
 http://59.120.43.180:17833
+#EXTINF:-1, TVBS欢乐
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY30-A0415.m3u8
+#EXTINF:-1, TVBS欢乐
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY30-A0415.m3u8
+#EXTINF:-1, TVBS欢乐
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY30-A0415.m3u8
+#EXTINF:-1, TVBS欢乐
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY30-A0415.m3u8
+#EXTINF:-1, TVBS欢乐
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY30-A0415.m3u8
+#EXTINF:-1, 纬来戏剧
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY31-A0416.m3u8
+#EXTINF:-1, 纬来戏剧
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY31-A0416.m3u8
+#EXTINF:-1, 纬来戏剧
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY31-A0416.m3u8
+#EXTINF:-1, 纬来戏剧
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY31-A0416.m3u8
+#EXTINF:-1, 纬来戏剧
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY31-A0416.m3u8
+#EXTINF:-1, 纬来戏剧
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY31-A0416.m3u8
+#EXTINF:-1, 纬来体育HD
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY32-C0133.m3u8
+#EXTINF:-1, 纬来体育HD
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY32-C0133.m3u8
+#EXTINF:-1, 纬来体育HD
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY32-C0133.m3u8
+#EXTINF:-1, 纬来体育HD
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY32-C0133.m3u8
+#EXTINF:-1, 纬来体育HD
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY32-C0133.m3u8
+#EXTINF:-1, 纬来体育HD
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY32-C0133.m3u8
+#EXTINF:-1, 纬来日本
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY33-C0134.m3u8
+#EXTINF:-1, 纬来日本
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY33-C0134.m3u8
+#EXTINF:-1, 纬来日本
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY33-C0134.m3u8
+#EXTINF:-1, 纬来日本
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY33-C0134.m3u8
+#EXTINF:-1, 纬来日本
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY33-C0134.m3u8
+#EXTINF:-1, 纬来日本
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY33-C0134.m3u8
+#EXTINF:-1, 国兴卫视
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY34-C0135.m3u8
+#EXTINF:-1, 国兴卫视
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY34-C0135.m3u8
+#EXTINF:-1, 国兴卫视
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY34-C0135.m3u8
+#EXTINF:-1, 国兴卫视
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY34-C0135.m3u8
+#EXTINF:-1, 国兴卫视
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY34-C0135.m3u8
+#EXTINF:-1, 国兴卫视
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY34-C0135.m3u8
 #EXTINF:-1, 凤凰资讯
 http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
 #EXTINF:-1, 凤凰中文
@@ -138,8 +198,44 @@ http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/droid/live/daai_4.m3u8
 http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
 #EXTINF:-1, ICN国际卫视
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:-1, 八大第1台
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY21-A0206.m3u8
+#EXTINF:-1, 八大第1台
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY21-A0206.m3u8
+#EXTINF:-1, 八大第1台
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY21-A0206.m3u8
+#EXTINF:-1, 八大第1台
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY21-A0206.m3u8
+#EXTINF:-1, 八大第1台
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY21-A0206.m3u8
+#EXTINF:-1, 八大第1台
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY21-A0206.m3u8
 #EXTINF:-1, 八大第1台SOPCAST
 sop://124.232.150.188:3920/5705
+#EXTINF:-1, 八大综合
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY22-A0207.m3u8
+#EXTINF:-1, 八大综合
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY22-A0207.m3u8
+#EXTINF:-1, 八大综合
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY22-A0207.m3u8
+#EXTINF:-1, 八大综合
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY22-A0207.m3u8
+#EXTINF:-1, 八大综合
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY22-A0207.m3u8
+#EXTINF:-1, 八大综合
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY22-A0207.m3u8
+#EXTINF:-1, 三立台湾
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
+#EXTINF:-1, 三立台湾
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
+#EXTINF:-1, 三立台湾
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
+#EXTINF:-1, 三立台湾
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
+#EXTINF:-1, 三立台湾
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
+#EXTINF:-1, 三立台湾
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY23-A0208.m3u8
 #EXTINF:-1, 三立台灣SOPCAST
 sop://124.232.150.188:3920/5706 
 #EXTINF:-1, 三立都会
@@ -148,6 +244,26 @@ http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
 #EXTINF:-1, 三立都会
 http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
+#EXTINF:-1, 中天综合
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY26-A0311.m3u8
+#EXTINF:-1, 中天综合
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY26-A0311.m3u8
+#EXTINF:-1, 中天综合
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY26-A0311.m3u8
+#EXTINF:-1, 中天综合
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY26-A0311.m3u8
+#EXTINF:-1, 中天娱乐
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY27-A0312.m3u8
+#EXTINF:-1, 中天娱乐
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY27-A0312.m3u8
+#EXTINF:-1, 中天娱乐
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY27-A0312.m3u8
+#EXTINF:-1, 中天娱乐
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY27-A0312.m3u8
+#EXTINF:-1, 中天娱乐
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY27-A0312.m3u8
+#EXTINF:-1, 中天娱乐
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY27-A0312.m3u8
 #EXTINF:-1, 博斯运动
 http://live1.wowotv.tw/live2/b_sports/chunklist.m3u8
 #EXTINF:-1, FOX体育3 HD
@@ -164,6 +280,66 @@ http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8
 http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-1.m3u8
 #EXTINF:-1, 好消息2台
 http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:-1, ANIMAX动漫
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY35-C0136.m3u8
+#EXTINF:-1, ANIMAX动漫
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY35-C0136.m3u8
+#EXTINF:-1, ANIMAX动漫
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY35-C0136.m3u8
+#EXTINF:-1, ANIMAX动漫
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY35-C0136.m3u8
+#EXTINF:-1, ANIMAX动漫
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY35-C0136.m3u8
+#EXTINF:-1, ANIMAX动漫
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY35-C0136.m3u8
+#EXTINF:-1, 壹综合
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1, 壹综合
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1, 壹综合
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1, 壹综合
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1, 壹综合
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1, 壹综合
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY36-C0237.m3u8
+#EXTINF:-1, 壹电影
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1, 壹电影
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1, 壹电影
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1, 壹电影
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1, 壹电影
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1, 壹电影
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY37-C0238.m3u8
+#EXTINF:-1, Z格斗
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1, Z格斗
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1, Z格斗
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1, Z格斗
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1, Z格斗
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1, Z格斗
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY38-C0239.m3u8
+#EXTINF:-1, 霹雳台湾
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
+#EXTINF:-1, 霹雳台湾
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
+#EXTINF:-1, 霹雳台湾
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
+#EXTINF:-1, 霹雳台湾
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
+#EXTINF:-1, 霹雳台湾
+http://60.251.43.211:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
+#EXTINF:-1, 霹雳台湾
+http://125.227.47.103:8134/hls-live/livepkgr/_definst_/liveevent/SKY39-C0240.m3u8
 #EXTINF:-1, 生命电视
 http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=15
 #EXTINF:-1, 生命电视
