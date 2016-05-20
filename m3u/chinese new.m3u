@@ -65,13 +65,23 @@ http://61.129.131.62/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist
 #EXTINF:-1, IPTV热播剧场
 http://61.129.131.62/live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8
 #EXTINF:-1, IPTV经典电影
-http://61.129.131.62/live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8#http://www.szmgiptv.com:14436/hls/25.m3u8
+http://61.129.131.62/live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8
+#EXTINF:-1, IPTV经典电影
+http://www.szmgiptv.com:14436/hls/25.m3u8
 #EXTINF:-1, 星空卫视
-http://110.77.0.182:1935/dvr/1010.stream/playlist.m3u8#http://110.77.0.182:1935/dvr/1010.stream/chunklist_w1609220598.m3u8#http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=49&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b#http://116.199.4.196:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=53&Fsv_rate_id=1&Fsv_SV_PARAM1=3&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
+http://110.77.0.182:1935/dvr/1010.stream/playlist.m3u8
+#EXTINF:-1, 星空卫视
+http://110.77.0.182:1935/dvr/1010.stream/chunklist_w1609220598.m3u8
+#EXTINF:-1, 星空卫视
+http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=49&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
+#EXTINF:-1, 星空卫视
+http://116.199.4.196:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=53&Fsv_rate_id=1&Fsv_SV_PARAM1=3&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
 #EXTINF:-1, 欢喜 HD
 p2p://60.249.213.25:9900/569b52b10001d5dd124e62c736483a86
 #EXTINF:-1, 星影
-http://61.129.131.53/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8#http://59.56.75.17/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 星影
+http://59.56.75.17/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
 #EXTINF:-1, 动作影院
 http://61.129.131.53/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
 #EXTINF:-1, 精选影视
@@ -99,7 +109,11 @@ http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlis
 #EXTINF:-1, VIP电影-涉足荒野
 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
 #EXTINF:-1, 東森
-http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8#http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8#http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://101.71.90.21:5021/live/333
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+#EXTINF:-1, 東森
+http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+#EXTINF:-1, 東森
+http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=http://101.71.90.21:5021/live/333
 #EXTINF:-1, 澳亚卫视
 http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8
 #EXTINF:-1, 东森新闻
@@ -117,7 +131,9 @@ http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
 #EXTINF:-1, 莲花卫视
 http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8
 #EXTINF:-1, 大爱
-http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8#http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/droid/live/daai_4.m3u8
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+#EXTINF:-1, 大爱
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/droid/live/daai_4.m3u8
 #EXTINF:-1, 人间卫视
 http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
 #EXTINF:-1, ICN国际卫视
@@ -127,7 +143,11 @@ sop://124.232.150.188:3920/5705
 #EXTINF:-1, 三立台灣SOPCAST
 sop://124.232.150.188:3920/5706 
 #EXTINF:-1, 三立都会
-http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8#http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8#http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
+#EXTINF:-1, 三立都会
+http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
+#EXTINF:-1, 三立都会
+http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
 #EXTINF:-1, 博斯运动
 http://live1.wowotv.tw/live2/b_sports/chunklist.m3u8
 #EXTINF:-1, FOX体育3 HD
@@ -135,17 +155,33 @@ http://220.130.149.128:19358/live/ch3-1/playlist.m3u8
 #EXTINF:-1, 欧洲足球
 http://stream1.grtn.cn/ozzq/sd/live.m3u8?_upt=?ts
 #EXTINF:-1, 好消息1台
-http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
+#EXTINF:-1, 好消息1台
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8
+#EXTINF:-1, 好消息1台
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1, 好消息2台
-http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-1.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1, 好消息2台
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8
 #EXTINF:-1, 生命电视
-http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=15#http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=15
+#EXTINF:-1, 生命电视
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1
 #EXTINF:-1, 泰国中文台
-rtmp://110.164.48.237:1935/tcctv_ch002/tcctv02.stream_live1#http://110.164.48.237:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+rtmp://110.164.48.237:1935/tcctv_ch002/tcctv02.stream_live1
+#EXTINF:-1, 泰国中文台
+http://110.164.48.237:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
 #EXTINF:-1, 韩国中文台
 http://122.202.129.136:1935/live/ch5/playlist.m3u8
 #EXTINF:-1, 美国中文台
-http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8#http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/droid/live/snvn_4.m3u8#http://media3.sinovision.net:1935/live/livestream/playlist.m3u8#http://ec.sinovision.net/video/ts/lv.m3u8#rtmp://media3.sinovision.net:1935/live/livestream
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8
+#EXTINF:-1, 美国中文台
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/droid/live/snvn_4.m3u8
+#EXTINF:-1, 美国中文台
+http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+#EXTINF:-1, 美国中文台
+http://ec.sinovision.net/video/ts/lv.m3u8#rtmp://media3.sinovision.net:1935/live/livestream
 #EXTINF:-1, 日本直播1
 p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
 #EXTINF:-1, 日本直播4
