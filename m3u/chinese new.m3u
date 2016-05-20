@@ -73,8 +73,32 @@ http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
 #EXTINF:-1, 莲花卫视
 http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/lotustv/as/live/lotustv_4.m3u8
 #EXTINF:-1, 大爱
-http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
+http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8#http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/droid/live/daai_4.m3u8
 #EXTINF:-1, 人间卫视
 http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
 #EXTINF:-1, ICN国际卫视
 http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/as/live/iavc_4.m3u8
+#EXTINF:-1, 八大第1台
+sop://124.232.150.188:3920/5705
+#EXTINF:-1, 三立台灣
+sop://124.232.150.188:3920/5706 
+#EXTINF:-1, 三立都会
+http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8#http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8#http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
+#EXTINF:-1, 博斯运动
+http://live1.wowotv.tw/live2/b_sports/chunklist.m3u8
+#EXTINF:-1, FOX体育3 HD
+http://220.130.149.128:19358/live/ch3-1/playlist.m3u8
+#EXTINF:-1, 欧洲足球
+http://stream1.grtn.cn/ozzq/sd/live.m3u8?_upt=?ts
+#EXTINF:-1, 好消息1台
+http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1, 好消息2台
+http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-1.m3u8#http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8
+#EXTINF:-1, 生命电视
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=15#http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=1
+#EXTINF:-1, 泰国中文台
+rtmp://110.164.48.237:1935/tcctv_ch002/tcctv02.stream_live1#http://110.164.48.237:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+#EXTINF:-1, 韩国中文台
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:-1, 美国中文台
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/as/live/snvn_4.m3u8#http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/droid/live/snvn_4.m3u8#http://media3.sinovision.net:1935/live/livestream/playlist.m3u8#http://ec.sinovision.net/video/ts/lv.m3u8#rtmp://media3.sinovision.net:1935/live/livestream
