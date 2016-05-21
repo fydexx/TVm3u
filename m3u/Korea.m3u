@@ -1,573 +1,431 @@
-#EXTINF:-1,ANT TV
-
+#EXTINF:-1, ANT TV
 http://lm01.everyon.tv:1935/ptv/phd839/graficantul.m3u8
 
-#EXTINF:-1,ARTE,
-
+#EXTINF:-1, ARTE
 http://lm01.everyon.tv:1935/ptv/phd35/graficantul.m3u8
 
-#EXTINF:-1,beoblyul TV
-
+#EXTINF:-1, beoblyul TV
 http://lm01.everyon.tv:1935/ptv/phd33/graficantul.m3u8
 
-#EXTINF:-1,bogji TV
-
+#EXTINF:-1, bogji TV
 http://lm02.everyon.tv:1935/ptv2/phd46/graficantul.m3u8
 
-#EXTINF:-1,bujidomyeongja1
-
+#EXTINF:-1, bujidomyeongja1
 http://lm01.everyon.tv:1935/ptv/phd725/graficantul.m3u8
 
-#EXTINF:-1,bul ji®§o
-
+#EXTINF:-1, bul ji®§o
 http://lm01.everyon.tv:1935/ptv/phd553/graficantul.m3u8
 
-#EXTINF:-1,CALLAWAY
-
+#EXTINF:-1, CALLAWAY
 http://lm01.everyon.tv:1935/ptv/phd762/graficantul.m3u8
 
-#EXTINF:-1,CAR.togsyo
-
+#EXTINF:-1, CAR.togsyo
 http://lm02.everyon.tv:1935/ptv2/phd409/graficantul.m3u8
 
-#EXTINF:-1,CBS
-
+#EXTINF:-1, CBS
 http://lm02.everyon.tv:1935/ptv2/phd27/graficantul.m3u8
 
-#EXTINF:-1,CBS
-
+#EXTINF:-1, CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/graficantul.m3u8
 
-#EXTINF:-1,CHINA1
-
+#EXTINF:-1, CHINA1
 http://lm03.everyon.tv:1935/ptv3/phd6/graficantul.m3u8
 
-#EXTINF:-1,CTS
-
+#EXTINF:-1, CTS
 http://ctsnanum.rtsp.vercoop.com:1935/CTS/CTS_34312_200.sdp/graficantul.m3u8
 
-#EXTINF:-1,CTS
-
+#EXTINF:-1, CTS
 http://lm02.everyon.tv:1935/ptv2/phd28/graficantul.m3u8
 
-#EXTINF:-1,CTS
-
+#EXTINF:-1, CTS
 http://ctsnanum.rtsp.vercoop.com:1935/CTS/_definst_/CTS_34312_100.sdp/graficantul.m3u8
 
-#EXTINF:-1,CTS
-
+#EXTINF:-1, CTS
 http://ctsnanum.rtsp.vercoop.com:1935/CTS/CTS_5689_200.sdp/graficantul.m3u8
 
-#EXTINF:-1,daehwagseupocheu tv
-
+#EXTINF:-1, daehwagseupocheu tv
 http://lm01.everyon.tv:1935/ptv/phd848/graficantul.m3u8
 
-#EXTINF:-1,dakyuseutoli HD
-
+#EXTINF:-1, dakyuseutoli HD
 http://lm01.everyon.tv:1935/ptv/phd239/graficantul.m3u8
 
-#EXTINF:-1,di®§nyeong2
-
+#EXTINF:-1, di®§nyeong2
 http://lm01.everyon.tv:1935/ptv/phd723/graficantul.m3u8
 
-#EXTINF:-1,Distinguished Hospod TV
-
+#EXTINF:-1, Distinguished Hospod TV
 http://lm01.everyon.tv:1935/ptv/pld639/graficantul.m3u8
 
-#EXTINF:-1,doga
-
+#EXTINF:-1, doga
 http://lm02.everyon.tv:1935/ptv2/phd43/graficantul.m3u8
 
-#EXTINF:-1,DOKUMENTARNI PRIBEH
-
+#EXTINF:-1, DOKUMENTARNI PRIBEH
 http://lm01.everyon.tv:1935/ptv/pld239/graficantul.m3u8
 
-#EXTINF:-1,d®∞ng hu®§pyeon
-
+#EXTINF:-1, d®∞ng hu®§pyeon
 http://lm03.everyon.tv:1935/ptv3/phd507/graficantul.m3u8
 
-#EXTINF:-1,DONGA,
-
+#EXTINF:-1, DONGA
 http://lm02.everyon.tv:1935/ptv2/phd43/graficantul.m3u8
 
-#EXTINF:-1,ebeulising TV
-
+#EXTINF:-1, ebeulising TV
 http://lm03.everyon.tv:1935/ptv3/phd129/graficantul.m3u8
 
-#EXTINF:-1,eolin-i TV
-
+#EXTINF:-1, eolin-i TV
 http://lm03.everyon.tv:1935/ptv3/phd5/graficantul.m3u8
 
-#EXTINF:-1,ESTRADIOL TV
-
+#EXTINF:-1, ESTRADIOL TV
 http://lm01.everyon.tv:1935/ptv/pld197/graficantul.m3u8
 
-#EXTINF:-1,eum l®®tae
-
+#EXTINF:-1, eum l®®tae
 http://lm01.everyon.tv:1935/ptv/phd71/graficantul.m3u8
 
-#EXTINF:-1,eum-a
-
+#EXTINF:-1, eum-a
 http://lm01.everyon.tv:1935/ptv/phd377/graficantul.m3u8
 
-#EXTINF:-1,EVENT TV
-
+#EXTINF:-1, EVENT TV
 http://lm01.everyon.tv:1935/ptv/phd389/graficantul.m3u8
 
-#EXTINF:-1,f®•nggyeong
-
+#EXTINF:-1, f®•nggyeong
 http://lm01.everyon.tv:1935/ptv/phd657/graficantul.m3u8
 
-#EXTINF:-1,FSTV
-
+#EXTINF:-1, FSTV
 http://lm03.everyon.tv:1935/ptv3/phd269/graficantul.m3u8
 
-#EXTINF:-1,G TV
-
+#EXTINF:-1, G TV
 http://lm01.everyon.tv:1935/ptv/phd44/graficantul.m3u8
 
-#EXTINF:-1,gayo TV
-
+#EXTINF:-1, gayo TV
 http://lm01.everyon.tv:1935/ptv/phd273/graficantul.m3u8
 
-#EXTINF:-1,GBNgang-wonbangsong
-
+#EXTINF:-1, GBNgang-wonbangsong
 http://lm02.everyon.tv:1935/ptv2/phd653/graficantul.m3u8
 
-#EXTINF:-1,GMB
-
+#EXTINF:-1, GMB
 http://lm03.everyon.tv:1935/ptv3/phd275/graficantul.m3u8
 
-#EXTINF:-1,Good gidoggyobog-eumbangsong
-
+#EXTINF:-1, Good gidoggyobog-eumbangsong
 http://lm03.everyon.tv:1935/ptv3/phd29/graficantul.m3u8
 
-#EXTINF:-1,GTV
-
+#EXTINF:-1, GTV
 http://lm01.everyon.tv:1935/ptv/pld44/graficantul.m3u8
 
-#EXTINF:-1,gugbang TV
-
+#EXTINF:-1, gugbang TV
 http://lm01.everyon.tv:1935/ptv/pld389/graficantul.m3u8
 
-#EXTINF:-1,gugbang TV
-
+#EXTINF:-1, gugbang TV
 http://lm03.everyon.tv:1935/ptv3/phd31/graficantul.m3u8
 
-#EXTINF:-1,guglibgong-wonbangsong
+#EXTINF:-1, guglibgong-wonbangsong
 
 http://lm03.everyon.tv:1935/ptv3/phd851/graficantul.m3u8
 
-#EXTINF:-1,haeyang-gyeongchal
-
+#EXTINF:-1, haeyang-gyeongchal
 http://lm01.everyon.tv:1935/ptv/phd639/graficantul.m3u8
 
-#EXTINF:-1,hanguggihaeng
-
+#EXTINF:-1, hanguggihaeng
 http://lm03.everyon.tv:1935/ptv3/phd755/graficantul.m3u8
 
-#EXTINF:-1,hangugjig-eobbangsong HD
-
+#EXTINF:-1, hangugjig-eobbangsong HD
 http://lm01.everyon.tv:1935/ptv/phd345/graficantul.m3u8
 
-#EXTINF:-1,HCN HYUNDAI
-
+#EXTINF:-1, HCN HYUNDAI
 http://lm03.everyon.tv:1935/ptv3/phd745/graficantul.m3u8
 
-#EXTINF:-1,hosangsilyeoyu
-
+#EXTINF:-1, hosangsilyeoyu
 http://lm03.everyon.tv:1935/ptv3/phd763/graficantul.m3u8
 
 #EXTINF:-1, TESTING 1
-
 http://lm01.everyon.tv:1935/ptv/pld101/graficantul.m3u8
 
 #EXTINF:-1, TESTING 2
-
 http://lm01.everyon.tv:1935/ptv/pld203/graficantul.m3u8
 
 #EXTINF:-1, TESTING 3
-
 http://lm01.everyon.tv:1935/ptv/pld377/graficantul.m3u8
 
 #EXTINF:-1, TESTING 4
-
 http://lm01.everyon.tv:1935/ptv/pld319/graficantul.m3u8
 
 #EXTINF:-1, TESTING 5
-
 http://lm01.everyon.tv:1935/ptv/pld325/graficantul.m3u8
 
 #EXTINF:-1, TESTING 6
-
 http://lm01.everyon.tv:1935/ptv/pld33/graficantul.m3u8
 
 #EXTINF:-1, TESTING 7
-
 http://lm01.everyon.tv:1935/ptv/pld345/graficantul.m3u8
 
 #EXTINF:-1, TESTING 8
-
 http://lm01.everyon.tv:1935/ptv/pld401/graficantul.m3u8
 
 #EXTINF:-1, TESTING 9
-
 http://lm01.everyon.tv:1935/ptv/pld435/graficantul.m3u8
 
 #EXTINF:-1, TESTING 10
-
 http://lm01.everyon.tv:1935/ptv/pld437/graficantul.m3u8
 
 #EXTINF:-1, TESTING 11
-
 http://lm01.everyon.tv:1935/ptv/pld447/graficantul.m3u8
 
 #EXTINF:-1, TESTING 12
-
 http://lm01.everyon.tv:1935/ptv/pld467/graficantul.m3u8
 
 #EXTINF:-1, TESTING 13
-
 http://lm01.everyon.tv:1935/ptv/pld501/graficantul.m3u8
 
 #EXTINF:-1, TESTING 14
-
 http://lm01.everyon.tv:1935/ptv/pld513/graficantul.m3u8
 
 #EXTINF:-1, TESTING 15
-
 http://lm01.everyon.tv:1935/ptv/pld553/graficantul.m3u8
 
 #EXTINF:-1, TESTING 16
-
 http://lm02.everyon.tv:1935/ptv2/phd64/graficantul.m3u8
 
 #EXTINF:-1, TESTING 17
-
 http://lm01.everyon.tv:1935/ptv/pld655/graficantul.m3u8
 
 #EXTINF:-1, TESTING 18
-
 http://lm01.everyon.tv:1935/ptv/pld657/graficantul.m3u8
 
 #EXTINF:-1, TESTING 19
-
 http://lm01.everyon.tv:1935/ptv/pld695/graficantul.m3u8
 
 #EXTINF:-1, TESTING 20
-
 http://lm01.everyon.tv:1935/ptv/pld71/graficantul.m3u8
 
 #EXTINF:-1, TESTING 21
-
 http://lm01.everyon.tv:1935/ptv/pld723/graficantul.m3u8
 
 #EXTINF:-1, TESTING 22
-
 http://lm01.everyon.tv:1935/ptv/pld747/graficantul.m3u8
 
 #EXTINF:-1, TESTING 23
-
 http://lm01.everyon.tv:1935/ptv/pld753/graficantul.m3u8
 
 #EXTINF:-1, TESTING 24
-
 http://lm01.everyon.tv:1935/ptv/pld762/graficantul.m3u8
 
 #EXTINF:-1, TESTING 25
-
 http://lm01.everyon.tv:1935/ptv/pld839/graficantul.m3u8
 
 #EXTINF:-1, TESTING 26
-
 http://lm01.everyon.tv:1935/ptv/pld848/graficantul.m3u8
 
 #EXTINF:-1, TESTING 27
-
 http://lm01.everyon.tv:1935/ptv/pld852/graficantul.m3u8
 
 #EXTINF:-1, TESTING 28
-
 http://lm01.everyon.tv:1935/ptv/pld856/graficantul.m3u8
 
 #EXTINF:-1, TESTING 29
-
 http://lm01.everyon.tv:1935/ptv/pld857/graficantul.m3u8
 
 #EXTINF:-1, TESTING 30
-
 http://lm01.everyon.tv:1935/ptv/pld863/graficantul.m3u8
 
 #EXTINF:-1, TESTING 31
-
 http://lm01.everyon.tv:1935/ptv/pld877/graficantul.m3u8
 
 #EXTINF:-1, TESTING 32
-
 http://lm02.everyon.tv:1935/ptv2/phd60/graficantul.m3u8
 
 #EXTINF:-1, TESTING 33
-
 http://lm02.everyon.tv:1935/ptv2/phd703/graficantul.m3u8
 
 #EXTINF:-1, TESTING 34
-
 http://lm02.everyon.tv:1935/ptv2/phd739/graficantul.m3u8
 
-#EXTINF:-1,hu®§ hu®§
-
+#EXTINF:-1, hu®§ hu®§
 http://lm01.everyon.tv:1935/ptv/phd35/graficantul.m3u8
 
-#EXTINF:-1,hwangyeong TV
-
+#EXTINF:-1, hwangyeong TV
 http://lm01.everyon.tv:1935/ptv/phd195/graficantul.m3u8
 
-#EXTINF:-1,hyeondae HCN
-
+#EXTINF:-1, hyeondae HCN
 http://lm02.everyon.tv:1935/ptv2/phd407/graficantul.m3u8
 
-#EXTINF:-1,hyeondaeHCNsaelonesbangsong
-
+#EXTINF:-1, hyeondaeHCNsaelonesbangsong
 http://lm02.everyon.tv:1935/ptv2/phd779/graficantul.m3u8
 
-#EXTINF:-1,IGMB,
-
+#EXTINF:-1, IGMB
 http://lm01.everyon.tv:1935/ptv/phd481/graficantul.m3u8
 
-#EXTINF:-1,IMGB
-
+#EXTINF:-1, IMGB
 http://lm01.everyon.tv:1935/ptv/pld481/graficantul.m3u8
 
-#EXTINF:-1,J KIDS TV
-
+#EXTINF:-1, J KIDS TV
 http://lm02.everyon.tv:1935/ptv2/phd169/graficantul.m3u8
 
-#EXTINF:-1,Jazz Club (audio kanal)
-
+#EXTINF:-1, Jazz Club (audio kanal)
 http://lm02.everyon.tv:1935/ptv2/pld359/graficantul.m3u8
 
-#EXTINF:-1,jeompa
-
+#EXTINF:-1, jeompa
 http://lm01.everyon.tv:1935/ptv/phd101/graficantul.m3u8
 
-#EXTINF:-1,jeongcheol-yeong-eo TV
-
+#EXTINF:-1, jeongcheol-yeong-eo TV
 http://lm02.everyon.tv:1935/ptv2/phd169/graficantul.m3u8
 
-#EXTINF:-1,ji®£ng k®®
-
+#EXTINF:-1, ji®£ng k®®
 http://lm01.everyon.tv:1935/ptv/phd325/graficantul.m3u8
 
-#EXTINF:-1,joseon tv
-
+#EXTINF:-1, joseon tv
 http://live.chosun.gscdn.com/live/tvchosun1.stream/graficantul.m3u8
 
-#EXTINF:-1,KC
-
+#EXTINF:-1, KC
 http://122.202.129.136:1935/live/ch4/graficantul.m3u8
 
-#EXTINF:-1,KHR
-
+#EXTINF:-1, KHR
 http://lm03.everyon.tv:1935/ptv3/phd842/graficantul.m3u8
 
-#EXTINF:-1,KTN
-
+#EXTINF:-1, KTN
 http://lm02.everyon.tv:1935/ptv2/phd515/graficantul.m3u8
 
-#EXTINF:-1,KTV
-
+#EXTINF:-1, KTV
 http://lm03.everyon.tv:1935/ptv3/phd393/graficantul.m3u8
 
-#EXTINF:-1,KWEATHER
-
+#EXTINF:-1, KWEATHER
 http://lm02.everyon.tv:1935/ptv2/phd581/graficantul.m3u8
 
-#EXTINF:-1,libing TV
-
+#EXTINF:-1, libing TV
 http://lm03.everyon.tv:1935/ptv3/phd13/graficantul.m3u8
 
-#EXTINF:-1,lodehumsyoping live
-
+#EXTINF:-1, lodehumsyoping live
 http://lm03.everyon.tv:1935/ptv3/phd707/graficantul.m3u8
 
-#EXTINF:-1,MBN
-
+#EXTINF:-1, MBN
 http://lm01.everyon.tv:1935/ptv/pld17/graficantul.m3u8
 
-#EXTINF:-1,MEDICAL
-
+#EXTINF:-1, MEDICAL
 http://lm03.everyon.tv:1935/ptv3/phd32/graficantul.m3u8
 
-#EXTINF:-1,MFS Golf
-
+#EXTINF:-1, MFS Golf
 http://lm01.everyon.tv:1935/ptv/pld58/graficantul.m3u8
 
-#EXTINF:-1,moteug19geum
-
+#EXTINF:-1, moteug19geum
 http://lm02.everyon.tv:1935/ptv2/phd43/graficantul.m3u8
 
-#EXTINF:-1,MTN,
-
+#EXTINF:-1, MTN
 http://lm03.everyon.tv:1935/ptv3/phd18/graficantul.m3u8
 
-#EXTINF:-1,mubiNtibi
-
+#EXTINF:-1, mubiNtibi
 http://lm03.everyon.tv:1935/ptv3/phd79/graficantul.m3u8
 
-#EXTINF:-1,news y
-
+#EXTINF:-1, news y
 http://lm03.everyon.tv:1935/ptv3/phd133/graficantul.m3u8
 
-#EXTINF:-1,NOBOOK,
-
+#EXTINF:-1, NOBOOK
 http://lm02.everyon.tv:1935/ptv2/phd549/graficantul.m3u8
 
-#EXTINF:-1,NOCU TV
-
+#EXTINF:-1, NOCU TV
 http://lm01.everyon.tv:1935/ptv/phd747/graficantul.m3u8
 
-#EXTINF:-1,nyuseuwai
-
+#EXTINF:-1, nyuseuwai
 http://lm03.everyon.tv:1935/ptv3/phd133/graficantul.m3u8
 
-#EXTINF:-1,onbook tv
-
+#EXTINF:-1, onbook tv
 http://lm02.everyon.tv:1935/ptv2/phd549/graficantul.m3u8
 
-#EXTINF:-1,OUTDOOR
-
+#EXTINF:-1, OUTDOOR
 http://lm02.everyon.tv:1935/ptv2/phd613/graficantul.m3u8
 
-#EXTINF:-1,Runway TV
-
+#EXTINF:-1, Runway TV
 http://lm01.everyon.tv:1935/ptv/phd753/graficantul.m3u8
 
-#EXTINF:-1,silbeo TV
-
+#EXTINF:-1, silbeo TV
 http://lm03.everyon.tv:1935/ptv3/phd45/graficantul.m3u8
 
-#EXTINF:-1,sosang-gong-inbangsong
-
+#EXTINF:-1, sosang-gong-inbangsong
 http://lm02.everyon.tv:1935/ptv2/phd493/graficantul.m3u8
 
-#EXTINF:-1,stn
-
+#EXTINF:-1, stn
 http://lm01.everyon.tv:1935/ptv/phd852/graficantul.m3u8
 
-#EXTINF:-1,Stree HD
-
+#EXTINF:-1, Stree HD
 http://lm01.everyon.tv:1935/ptv/phd197/graficantul.m3u8
 
-#EXTINF:-1,TBS-LIVE
-
+#EXTINF:-1, TBS-LIVE
 http://lm03.everyon.tv:1935/ptv3/phd40/graficantul.m3u8
 
-#EXTINF:-1,TVis
-
+#EXTINF:-1, TVis
 http://lm02.everyon.tv:1935/ptv2/phd551/graficantul.m3u8
 
-#EXTINF:-1,UP TV
-
+#EXTINF:-1, UP TV
 http://lm03.everyon.tv:1935/ptv3/phd752/graficantul.m3u8
 
-#EXTINF:-1,w®¶igi
-
+#EXTINF:-1, w®¶igi
 http://lm01.everyon.tv:1935/ptv/phd207/graficantul.m3u8
 
-#EXTINF:-1,XINHAO
-
+#EXTINF:-1, XINHAO
 http://lm01.everyon.tv:1935/ptv/phd203//graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT BUT GO
-
+#EXTINF:-1, XXX ADULT BUT GO
 http://lm01.everyon.tv:1935/ptv/phd772/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT BUT GO HD
-
+#EXTINF:-1, XXX ADULT BUT GO HD
 http://lm01.everyon.tv/ptv/phd772/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT Deilght Empire HD
-
+#EXTINF:-1, XXX ADULT Deilght Empire HD
 http://lm02.everyon.tv:1935/ptv2/phd63/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT Girls 4 U HD-+18 Adult
-
+#EXTINF:-1, XXX ADULT Girls 4 U HD-+18 Adult
 http://lm01.everyon.tv/ptv//phd501/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT GirlTV
-
+#EXTINF:-1, XXX ADULT GirlTV
 http://lm01.everyon.tv:1935/ptv/phd501/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT ink TV ADULT
-
+#EXTINF:-1, XXX ADULT ink TV ADULT
 http://lm02.everyon.tv:1935/ptv2/phd62/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT J Hot Girl
-
+#EXTINF:-1, XXX ADULT J Hot Girl
 http://lm02.everyon.tv:1935/ptv2/phd59/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT Midnight
-
+#EXTINF:-1, XXX ADULT Midnight
 http://lm02.everyon.tv:1935/ptv2/phd766/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT Midnight-HD- +18 Adult
-
+#EXTINF:-1, XXX ADULT Midnight-HD- +18 Adult
 http://lm02.everyon.tv/ptv2/phd766/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT Okadai
-
+#EXTINF:-1, XXX ADULT Okadai
 http://lm03.everyon.tv:1935/ptv3/phd61/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT P.BoyTV
-
+#EXTINF:-1, XXX ADULT P.BoyTV
 http://lm03.everyon.tv:1935/ptv3/phd499/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT P.BoyTV-HD
-
+#EXTINF:-1, XXX ADULT P.BoyTV-HD
 http://lm03.everyon.tv:1935/ptv3/phd497/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT pink TV
-
+#EXTINF:-1, XXX ADULT pink TV
 http://lm02.everyon.tv:1935/ptv2/phd62/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT Playy>19+ HD-+18 Adult
-
+#EXTINF:-1, XXX ADULT Playy>19+ HD-+18 Adult
 http://lm03.everyon.tv/ptv3//phd769/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT RLAYY19 +
-
+#EXTINF:-1, XXX ADULT RLAYY19 +
 http://lm03.everyon.tv:1935/ptv3/phd769/graficantul.m3u8
 
-#EXTINF:-1,XXX ADULT The O
-
+#EXTINF:-1, XXX ADULT The O
 http://lm03.everyon.tv:1935/ptv3/phd771/graficantul.m3u8
 
-#EXTINF:-1,YBShangugcheongsonyeonbangsong
-
+#EXTINF:-1, YBShangugcheongsonyeonbangsong
 http://lm02.everyon.tv:1935/ptv2/phd189/graficantul.m3u8
 
-#EXTINF:-1,YES,
-
+#EXTINF:-1,YES
 http://lm02.everyon.tv:1935/ptv2/phd493/graficantul.m3u8
 
-#EXTINF:-1,YTN,
-
+#EXTINF:-1, YTN
 http://slive.ytn.co.kr:1935/live/ylivehd_0702_1.sdp/graficantul.m3u8
 
-#EXTINF:-1,YTN-SCIENCE
-
+#EXTINF:-1, YTN-SCIENCE
 http://lm02.everyon.tv:1935/ptv2/phd265/graficantul.m3u8
 
-#EXTINF:-1,YTNScience,
-
+#EXTINF:-1, YTNScience
 http://slive.sciencetv.kr:1935/live/yslive_0624_1.sdp/graficantul.m3u8
 
-#EXTINF:-1,YTNWeather,
-
+#EXTINF:-1, YTNWeather
 http://slive.ytnweather.co.kr:1935/live/weather.sdp/graficantul.m3u8
 
 #EXTINF:-1,yug-abangsong
-
 http://lm03.everyon.tv:1935/ptv3/phd42/graficantul.m3u8
 
 #EXTINF:-1, ≥Øœ ÷–—ÎÃ®
