@@ -6,8 +6,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
 #EXTINF:-1, 耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1, 艺华高清
-http://116.199.4.196:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=70&Fsv_rate_id=1&Fsv_SV_PARAM1=3&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
 #EXTINF:-1, 华视高清
 http://ktv037.cdnllnwnl.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_3.m3u8
 #EXTINF:-1, 华视高清
@@ -462,19 +460,3 @@ http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/snvn/droid/live/snvn_4.m3u8
 http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
 #EXTINF:-1, 美国中文台
 http://ec.sinovision.net/video/ts/lv.m3u8#rtmp://media3.sinovision.net:1935/live/livestream
-#EXTINF:-1, 日本直播1
-p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
-#EXTINF:-1, 日本直播4
-p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9
-#EXTINF:-1, 日本直播5
-p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
-#EXTINF:-1, 日本直播6
-p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3
-#EXTINF:-1, 日本直播7
-p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
-#EXTINF:-1, 日本直播8
-p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
-#EXTINF:-1, 日本直播9
-p2p://50.7.104.10:9906/540050290000343a015059b37121116a
-#EXTINF:-1, 日本直播10
-p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
