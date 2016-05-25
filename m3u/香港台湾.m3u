@@ -6,30 +6,14 @@ http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
 #EXTINF:-1, 耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1, 1天华综艺标清
-http://116.77.70.98:5080/hls/4mju5nc7.m3u8
-#EXTINF:-1, 2天华综艺高清
-http://116.77.70.98:5080/hls/228v48qf.m3u8
-#EXTINF:-1, 3天华探索标清
-http://116.77.70.98:5080/hls/ekxktv6e.m3u8
-#EXTINF:-1, 4天华探索高清
-http://116.77.70.98:5080/hls/wn5fsvdn.m3u8
-#EXTINF:-1, 5天华剧场标清
-http://116.77.70.98:5080/hls/g9bfmwth.m3u8
-#EXTINF:-1, 6天华综艺高清
-http://116.77.70.98:5080/livestream/228v48qf.flv
-#EXTINF:-1, 7天华剧场标清
-http://116.77.70.98:5080/livestream/g9bfmwth.flv
 #EXTINF:-1, 中经电视
 http://116.213.200.53/tslsChannelLive/PCG0DuD.m3u8
 #EXTINF:-1, 艺华高清
 http://116.199.4.196:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=70&Fsv_rate_id=1&Fsv_SV_PARAM1=3&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
-#EXTINF:-1, 壹视新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
-#EXTINF:-1, 壹视新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
 #EXTINF:-1, 华视高清
-http://ktv037.cdnllnwnl.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_3.m3u8 华视高清，http://tw.stream.omc.hk:1935/live/ctshd/chunklist.m3u8
+http://ktv037.cdnllnwnl.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_3.m3u8
+#EXTINF:-1, 华视高清
+http://tw.stream.omc.hk:1935/live/ctshd/chunklist.m3u8
 #EXTINF:-1, 华视综合娱乐
 http://ktv037.cdnak.ds.kylintv.net/nlds/kylin/ctshd/as/live/ctshd_4.m3u8
 #EXTINF:-1, 华视
