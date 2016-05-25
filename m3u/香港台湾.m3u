@@ -6,8 +6,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
 #EXTINF:-1, 耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1, 中经电视
-http://116.213.200.53/tslsChannelLive/PCG0DuD.m3u8
 #EXTINF:-1, 艺华高清
 http://116.199.4.196:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=70&Fsv_rate_id=1&Fsv_SV_PARAM1=3&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
 #EXTINF:-1, 华视高清
