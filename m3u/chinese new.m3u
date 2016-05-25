@@ -52,11 +52,11 @@ http://ktv039.cdnak.ds.kylintv.net/nlds/kylin/pxhkus/as/live/pxhkus_4.m3u8
 http://59.120.43.180:17833
 #EXTINF:-1, 凤凰资讯
 http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
-#EXTINF:-1, 凤凰资讯
+#EXTINF:-1, 凤凰资讯 OFFLINE
 http://live.3gv.ifeng.com/zixun800k.m3u8
-#EXTINF:-1, 凤凰资讯
+#EXTINF:-1, 凤凰资讯 OFFLINE
 http://live.3gv.ifeng.com:80/live/FHZXHD.m3u8
-#EXTINF:-1, 凤凰资讯
+#EXTINF:-1, 凤凰资讯 OFFLINE
 http://live.3gv.ifeng.com/live/zixun.m3u8?fmt=x264_0k_mpegts
 #EXTINF:-1, 凤凰卫视台
 http://live.3gv.ifeng.com/live/hongkong.m3u8
