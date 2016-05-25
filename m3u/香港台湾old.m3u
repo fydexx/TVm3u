@@ -1,3 +1,77 @@
+#EXTINF:-1, 博斯魅力
+http://live1.wowotv.tw/live2/b_charm/chunklist.m3u8
+#EXTINF:-1, 博斯网球
+http://live1.wowotv.tw/live2/b_tennis/chunklist.m3u8
+#EXTINF:-1, 博斯无限
+http://live1.wowotv.tw/live2/b_infinity/chunklist.m3u8
+#EXTINF:-1, 博斯运动
+http://live1.wowotv.tw/live2/b_sports/chunklist.m3u8
+#EXTINF:-1, 博斯高球II
+http://live1.wowotv.tw/live2/b_golf2/chunklist.m3u8
+#EXTINF:-1, 博斯高球
+http://live1.wowotv.tw/live2/b_golf/chunklist.m3u8
+#EXTINF:-1, 博斯足球
+http://live1.wowotv.tw/live2/b_football/chunklist.m3u8
+#EXTINF:-1, 凤凰电影
+http://219.232.160.161:5080/hls/fdwypqk6.m3u8
+#EXTINF:-1, 东方电影
+http://v.znds.com/aaebedb3d38710755fb0c0a142d39e9e0
+#EXTINF:-1, 经典电影
+http://www.szmgiptv.com:14436/hls/25.m3u8
+#EXTINF:-1, 星影
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 动作影院
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 精选影视
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 家庭影院
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 喜剧影院
+http://61.129.131.53/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+#EXTINF:-1, 家庭影院1
+http://59.46.18.133:8114/lntvch/01000000000000000000000000000093?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
+#EXTINF:-1, 家庭影院2
+http://59.46.18.133:8114/lntvch/01000000000000000000000000000097?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
+#EXTINF:-1, 家庭影院3
+http://59.46.18.133:8114/lntvch/01000000000000000000000000000099?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
+#EXTINF:-1, 探索集锦
+http://59.46.18.133:8114/lntvch/01000000000000000000000000000131?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
+#EXTINF:-1, VIP电影-悬战
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
+#EXTINF:-1, VIP电影-非常营救
+http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
+#EXTINF:-1, VIP电影-公路美人
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
+#EXTINF:-1, VIP电影-博物馆奇妙夜3
+http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
+#EXTINF:-1, VIP电影-涉足荒野
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
+#EXTINF:-1, HIM音乐2
+http://58.99.33.4:1935/liveedge/live_187_3.stream/playlist.m3u8
+#EXTINF:-1, ELLETV
+http://58.99.33.4:1935/liveedge/live_148_3.stream/playlist.m3u8
+#EXTINF:-1, FOX体育3HD
+http://220.130.149.128:19358/live/ch3-1/playlist.m3u8
+#EXTINF:-1, 欧洲足球
+http://stream1.grtn.cn/ozzq/sd/live.m3u8?_upt=?ts
+#EXTINF:-1, CHC高清电影
+http://ivi.stream.omc.hk/hls/chchd.m3u8
+#EXTINF:-1, CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1, CHC动作电影
+http://59.56.75.17/live.aishang.ctlcdn.com/00000110240270_1/encoder/0/playlist.m3u8
+#EXTINF:-1, CHC动作电影
+http://222.246.232.154/live01.cache.m.wasu.com/dongzuody/z.m3u8
+#EXTINF:-1, CHC家庭影院
+http://222.246.232.154/live01.cache.m.wasu.com/jiatingyy/z.m3u8
+#EXTINF:-1, 国家地理野生
+http://en356.edem.tv/iptv/D3MBMTV79H9TYM/133/index.m3u8
+#EXTINF:-1, 国家地理
+http://en356.edem.tv/iptv/D3MBMTV79H9TYM/134/index.m3u8
+#EXTINF:-1, 探索世界
+http://en356.edem.tv/iptv/D3MBMTV79H9TYM/135/index.m3u8
+#EXTINF:-1, 探索科学
+http://en356.edem.tv/iptv/D3MBMTV79H9TYM/136/index.m3u8
 #EXTINF:-1, 高清三立都会
 http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
 #EXTINF:-1, 标清三立都会
