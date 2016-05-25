@@ -4,12 +4,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
 http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
 #EXTINF:-1, 流畅三立都会
 http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
-#EXTINF:-1, 冠军电视台
-http://27.100.64.99:1935/liveedg ... .smil/playlist.m3u8
-#EXTINF:-1, 南投新闻台
-http://27.100.64.99:1935/liveedg ... .smil/playlist.m3u8
-#EXTINF:-1, 云林新闻台
-http://27.100.64.99:1935/liveedg ... .smil/playlist.m3u8
 #EXTINF:-1, 耀才财经台
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 #EXTINF:-1, 1天华综艺标清
