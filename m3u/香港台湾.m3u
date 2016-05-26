@@ -314,8 +314,14 @@ http://fms.cntv.lxdns.com/live/flv/channel93.flv
 http://fms.cntv.lxdns.com/live/flv/channel95.flv
 #EXTINF:-1, 翡翠台
 rtmp://219.232.160.161:1935/livestream/bycgekwh
+#EXTINF:-1, 翡翠台
+rtmp://tl.allook.8686c.com:1935/vod/livetvbcom01
 #EXTINF:-1, TVBJ5 HD
 http://14.199.245.83:9981/stream/channelid/4
+#EXTINF:-1, TVBJ5
+rtmp://tl.allook.8686c.com:1935/vod/livetvbcom03
+#EXTINF:-1, 娱乐新闻台
+rtmp://tl.allook.8686c.com:1935/vod/livetvbcom04
 #EXTINF:-1, 明珠台 HD
 http://14.199.245.83:9981/stream/channelid/7
 #EXTINF:-1, J2 HD
