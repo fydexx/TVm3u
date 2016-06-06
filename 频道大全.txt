@@ -2124,7 +2124,25 @@ HBO原创巨献,http://du1.ottclub.info:1935/live/c190.stream/playlist.m3u8?a=57
 美国Al Hurra1,rtmp://ns8.indexforce.com/home/mystream
 美国HSN购物,rtmp://hsn.mpl.miisolutions.net/hsn-live01/_definst_/420p500kB31
 美东频道,http://174.127.67.246/live330/playlist.m3u8
-境外频道,http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/intl/hdr-globe-central.gif
+
+TVB翡翠,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
+TVB翡翠明珠,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=47&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
+澳亚卫视,http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=50&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
+华娱卫视,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=49&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
+星空卫视,http://116.199.4.201:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=49&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
+华娱卫视,http://708824079:13164/playurl?programid=4200900106&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+凤凰卫视中文,http://708824079:13164/playurl?programid=4200900107&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+星空卫视,http://708824079:13164/playurl?programid=4200900108&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+TVB8,http://708824079:13164/playurl?programid=4200900109&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+凤凰卫视资讯,http://708824079:13164/playurl?programid=4200900110&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+星空卫视电影,http://708824079:13164/playurl?programid=4200900111&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+凤凰卫视电影,http://708824079:13164/playurl?programid=4200900112&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+Channel[V]音乐亚洲,http://708824079:13164/playurl?programid=4200900113&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+国家地理,http://708824079:13164/playurl?programid=4200900114&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+国家地理,http://httpdvb.slave.nx96200.cn:13160/httpdvb?chnlname=sdng&playtype=live&auth=no
+HBO亚洲电影,http://708824079:13164/playurl?programid=4200900115&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+天映频道,http://708824079:13164/playurl?programid=4200900116&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
+CHC高清电影,http://708824079:13164/playurl?programid=4200900121&playtype=live&accesstoken=R574666F7U3FAB8289K77360588M30E3218W78470&qamname=djammon&auth=no
 
 精彩影视高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdhqjc&playtype=live&auth=yes
 热播美剧高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdrbmj&playtype=live&auth=yes
