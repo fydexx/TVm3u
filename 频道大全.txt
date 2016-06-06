@@ -1,22 +1,104 @@
 ﻿TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug
 TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw
-BT Sports 1 HD,rtmp://95.211.168.65:1935/mytv/bthd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-BT Sports 1 SD,rtmp://95.211.168.65:1935/mytv/btsd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-BT Sports 2 HD,rtmp://95.211.168.65:1935/mytv/bthd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-BT Sports 2 SD,rtmp://95.211.168.65:1935/mytv/btsd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 1 HD,rtmp://95.211.168.65:1935/mytv/skyhd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 1 SD,rtmp://95.211.168.65:1935/mytv/skysd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 2 HD,rtmp://95.211.168.65:1935/mytv/skyhd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 2 SD,rtmp://95.211.168.65:1935/mytv/skysd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 3 HD,rtmp://95.211.168.65:1935/mytv/skyhd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 3 SD,rtmp://95.211.168.65:1935/mytv/skysd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 4 HD,rtmp://95.211.168.65:1935/mytv/skyhd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 4 SD,rtmp://95.211.168.65:1935/mytv/skysd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 5 HD,rtmp://95.211.168.65:1935/mytv/skyhd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports 5 SD,rtmp://95.211.168.65:1935/mytv/skysd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports F1 SD,rtmp://95.211.168.65:1935/local/skynews?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports News HD,rtmp://95.211.168.65:1935/mytv/skyhdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-Sky Sports News SD,rtmp://95.211.168.65:1935/mytv/skysdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+UK-Sky-Sports-1,http://149.202.197.37:8000/live/amr123/amr123/684.ts
+UK-Sky-Sports-2,http://149.202.197.37:8000/live/amr123/amr123/685.ts
+UK-Sky-Sports-3,http://149.202.197.37:8000/live/amr123/amr123/686.ts
+UK-Sky-Sports-4,http://149.202.197.37:8000/live/amr123/amr123/714.ts
+UK-Sky-Sports-5,http://149.202.197.37:8000/live/amr123/amr123/687.ts
+UK-Premier-Sports,http://149.202.197.37:8000/live/amr123/amr123/1022.ts
+UK-Setanta-Sport-1,http://149.202.197.37:8000/live/amr123/amr123/1018.ts
+UK-BT-Sport/ESPN,http://149.202.197.37:8000/live/amr123/amr123/1044.ts
+UK-BT-Sport-Mosaic,http://149.202.197.37:8000/live/amr123/amr123/1041.ts
+UK-BT-Sport-Extra-1,http://149.202.197.37:8000/live/amr123/amr123/1043.ts
+UK-BT-Sport-Europe,http://149.202.197.37:8000/live/amr123/amr123/1042.ts
+UK-CTH-STADIUM-1HD,http://149.202.197.37:8000/live/amr123/amr123/1353.ts
+UK-CTH-STADIUM-2HD,http://149.202.197.37:8000/live/amr123/amr123/1354.ts
+UK-CTH-STADIUM-3HD,http://149.202.197.37:8000/live/amr123/amr123/1355.ts
+UK-CTH-STADIUM-4HD,http://149.202.197.37:8000/live/amr123/amr123/1357.ts
+UK-CTH-STADIUM-5HD,http://149.202.197.37:8000/live/amr123/amr123/1356.ts
+UK-CTH-STADIUM-6HD,http://149.202.197.37:8000/live/amr123/amr123/1358.ts
+UK-Motors-TV,http://149.202.197.37:8000/live/amr123/amr123/1040.ts
+UK-AMC-from-BT,http://149.202.197.37:8000/live/amr123/amr123/1039.ts
+UK-Setanta-Sports-Ireland,http://149.202.197.37:8000/live/amr123/amr123/1019.ts
+UK-Sony-Movie,http://149.202.197.37:8000/live/amr123/amr123/1023.ts
+UK-Movies-4-Men,http://149.202.197.37:8000/live/amr123/amr123/1020.ts
+UK-Comedy-Extra,http://149.202.197.37:8000/live/amr123/amr123/708.ts
+UK-Comedy-Central,http://149.202.197.37:8000/live/amr123/amr123/709.ts
+UK-Comedy-Central+1,http://149.202.197.37:8000/live/amr123/amr123/710.ts
+UK-Sky-Movies-Action,http://149.202.197.37:8000/live/amr123/amr123/691.ts
+UK-Sky-Movies-Select,http://149.202.197.37:8000/live/amr123/amr123/692.ts
+UK-Sky-Movies-Family,http://149.202.197.37:8000/live/amr123/amr123/695.ts
+UK-Sky-Movies-Disney.,http://149.202.197.37:8000/live/amr123/amr123/696.ts
+UK-Sky-Movies-Greats,http://149.202.197.37:8000/live/amr123/amr123/1360.ts
+UK-Sky-movies-Thriller,http://149.202.197.37:8000/live/amr123/amr123/688.ts
+UK-Sky-Movies-Comedy,http://149.202.197.37:8000/live/amr123/amr123/697.ts
+UK-Sky-Movies -Premiere,http://149.202.197.37:8000/live/amr123/amr123/693.ts
+UK-Sky-Movies-Showcase,http://149.202.197.37:8000/live/amr123/amr123/690.ts
+UK-Investigation-Discovery,http://149.202.197.37:8000/live/amr123/amr123/715.ts
+UK-Animal-Planet,http://149.202.197.37:8000/live/amr123/amr123/723.ts
+UK-Nat-Geo-Wild,http://149.202.197.37:8000/live/amr123/amr123/675.ts
+UK-National-Geographic,http://149.202.197.37:8000/live/amr123/amr123/676.ts
+UK-Discovery,http://149.202.197.37:8000/live/amr123/amr123/719.ts
+UK-Discovery-Shed,http://149.202.197.37:8000/live/amr123/amr123/718.ts
+UK-Discovery-Turbo,http://149.202.197.37:8000/live/amr123/amr123/720.ts
+UK-Discovery-History,http://149.202.197.37:8000/live/amr123/amr123/722.ts
+UK-Discovery-Home-&Health,http://149.202.197.37:8000/live/amr123/amr123/716.ts
+UK-BBC.1,http://149.202.197.37:8000/live/amr123/amr123/1531.ts
+UK-BBC.2,http://149.202.197.37:8000/live/amr123/amr123/1530.ts
+UK-BBC.3,http://149.202.197.37:8000/live/amr123/amr123/1529.ts
+UK-BBC.4,http://149.202.197.37:8000/live/amr123/amr123/1528.ts
+UK-More-4,http://149.202.197.37:8000/live/amr123/amr123/1359.ts
+UK-History,http://149.202.197.37:8000/live/amr123/amr123/680.ts
+UK-History-1,http://149.202.197.37:8000/live/amr123/amr123/679.ts
+UK-History-2,http://149.202.197.37:8000/live/amr123/amr123/678.ts
+UK-Nick-Jr+1,http://149.202.197.37:8000/live/amr123/amr123/704.ts
+UK-Nick-Jr-Too,http://149.202.197.37:8000/live/amr123/amr123/703.ts
+UK-Nicktoons-Ireland,http://149.202.197.37:8000/live/amr123/amr123/702.ts
+UK-Disney-XD,http://149.202.197.37:8000/live/amr123/amr123/705.ts
+UK-Disney-Junior,http://149.202.197.37:8000/live/amr123/amr123/706.ts
+UK-Disney-Channel,http://149.202.197.37:8000/live/amr123/amr123/707.ts
+UK-Sky-Living,http://149.202.197.37:8000/live/amr123/amr123/694.ts
+UK-UTV-Ireland,http://149.202.197.37:8000/live/amr123/amr123/673.ts
+UK-ITV1*,http://149.202.197.37:8000/live/amr123/amr123/758.ts
+UK-ITV2*,http://149.202.197.37:8000/live/amr123/amr123/757.ts
+UK-ITV3,http://149.202.197.37:8000/live/amr123/amr123/509.ts
+UK-ITV4,http://149.202.197.37:8000/live/amr123/amr123/814.ts
+UK-FOX,http://149.202.197.37:8000/live/amr123/amr123/698.ts
+UK-Sky-2,http://149.202.197.37:8000/live/amr123/amr123/700.ts
+UK-Sky-12,http://149.202.197.37:8000/live/amr123/amr123/701.ts
+UK-Racing,http://149.202.197.37:8000/live/amr123/amr123/1021.ts
+UK-Sky-Arts1,http://149.202.197.37:8000/live/amr123/amr123/699.ts
+UK-Real-Lives,http://149.202.197.37:8000/live/amr123/amr123/674.ts
+UK-QUEST,http://149.202.197.37:8000/live/amr123/amr123/724.ts
+UK-DMAX,http://149.202.197.37:8000/live/amr123/amr123/717.ts
+UK-MUTV,http://149.202.197.37:8000/live/amr123/amr123/677.ts
+UK-TLC,http://149.202.197.37:8000/live/amr123/amr123/712.ts
+UK-BET,http://149.202.197.37:8000/live/amr123/amr123/711.ts
+UK-TLC-IRELAND,http://149.202.197.37:8000/live/amr123/amr123/713.ts
+UK-At-The-Races,http://149.202.197.37:8000/live/amr123/amr123/683.ts
+UK-Fox-News-Channel,http://149.202.197.37:8000/live/amr123/amr123/681.ts
+UK-Crime&Investigation-Network,http://149.202.197.37:8000/live/amr123/amr123/682.ts
+UK-True Movies 2,http://149.202.197.37:8000/live/amr123/amr123/1210.ts
+UK-True Movies 1,http://149.202.197.37:8000/live/amr123/amr123/1209.ts
+UK-Tiny Pop,http://149.202.197.37:8000/live/amr123/amr123/1211.ts
+UK-SYFY,http://149.202.197.37:8000/live/amr123/amr123/1212.ts
+UK-RTE 2 HD,http://149.202.197.37:8000/live/amr123/amr123/1207.ts
+UK-RTE 1 HD,http://149.202.197.37:8000/live/amr123/amr123/1206.ts
+UK-Really,http://149.202.197.37:8000/live/amr123/amr123/1208.ts
+UK-Movies 4 Men,http://149.202.197.37:8000/live/amr123/amr123/1213.ts
+UK-LiverPool TV,http://149.202.197.37:8000/live/amr123/amr123/1214.ts
+UK-Good Food,http://149.202.197.37:8000/live/amr123/amr123/1215.ts
+UK-Food Network,http://149.202.197.37:8000/live/amr123/amr123/1216.ts
+UK-Film 4,http://149.202.197.37:8000/live/amr123/amr123/1217.ts
+UK-EuroSport 2,http://149.202.197.37:8000/live/amr123/amr123/1219.ts
+UK-EuroSport 1,http://149.202.197.37:8000/live/amr123/amr123/1218.ts
+UK-ESPN HD,http://149.202.197.37:8000/live/amr123/amr123/1220.ts
+UK-E4,http://149.202.197.37:8000/live/amr123/amr123/1221.ts
+UK-Drama,http://149.202.197.37:8000/live/amr123/amr123/1222.ts
+UK-CNN,http://149.202.197.37:8000/live/amr123/amr123/1223.ts
+UK-CBS Reality,http://149.202.197.37:8000/live/amr123/amr123/1224.ts
+UK-CBS Drama,http://149.202.197.37:8000/live/amr123/amr123/1225.ts
+UK-CBS Action,http://149.202.197.37:8000/live/amr123/amr123/1226.ts
 
 ELTA综合HD,p2p://60.249.213.25:9900/570cd69200043ef16400f544430c7878
 ELTA影剧HD,p2p://60.249.213.25:9900/5711ad21000e857900a25abf2505723e
