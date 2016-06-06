@@ -2076,7 +2076,7 @@ HBO原创巨献,http://du1.ottclub.info:1935/live/c190.stream/playlist.m3u8?a=57
 东森洋片,http://du1.ottclub.info:1935/live/c194.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
 东森超视,http://du1.ottclub.info:1935/live/c195.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
 三立台湾HD,http://du1.ottclub.info:1935/live
-
+高清电影
 精彩影视高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdhqjc&playtype=live&auth=yes
 热播美剧高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdrbmj&playtype=live&auth=yes
 经典电影高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdjddy2&playtype=live&auth=yes
