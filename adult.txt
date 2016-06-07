@@ -1290,7 +1290,7 @@ XX | Primafila Hot Club 5,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/37.t
 XX | Primafila Hot Club 4,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/36.ts
 XX | Primafila Hot Club 3,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/35.ts
 XX | Primafila Hot Club 2,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/34.ts
-#EXTINF:-1XX | Primafila Hot Club 1,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/32.ts
+XX | Primafila Hot Club 1,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/32.ts
 XX | Playboy,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/31.ts
 XX | Platinum,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/30.ts
 XX | Pink TV,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/29.ts
