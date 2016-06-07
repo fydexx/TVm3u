@@ -31,7 +31,7 @@ UK: Sky Movies Premiere HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so
 UK: Sky Movies Disney,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/516.ts
 UK: Sky Movies Select HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/517.ts
 UK: Sky Movies Action HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/511.ts
-https://iptv.zone/en UK: Sky Movies Greats,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/518.ts
+UK: Sky Movies Greats,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/518.ts
 UK: Sky Movies Family HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/520.ts
 UK: Sky Movies Drama HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/521.ts
 UK: Sky Movies Comedy HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/524.ts
