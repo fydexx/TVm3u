@@ -1,14 +1,160 @@
-﻿TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug
-TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw
+﻿TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug;http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8
+TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw;plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
 马来西亚MARA,http://stream2.1malaysiaiptv.com:1935/mylive/smil:maratv_all.smil/playlist.m3u8
-SINGAPORE,http://orbit-iptv.com:2500/live/XYJ7FK5R8p/QjGVpAjn8B/3169.ts
-MediaCorp 5,http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch5.smil/playlist.m3u8?
-MediaCorp 8,http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87ch8.smil/playlist.m3u8?
-SURIA,http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87suria.smil/playlist.m3u8?
-CHANNEL U,http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87chu.smil/playlist.m3u8?
-OKTO,http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87okto.smil/playlist.m3u8?
-NEWS ASIA,http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87cna.smil/playlist.m3u8
-VASANTHAM,http://d1g7sccev8onz8.cloudfront.net/dvrcf/smil:87vasantham.smil/playlist.m3u8
+TVi,http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4Nn0.pqTaZWAnZakA2RkLSgfAk63eXbU0Tdz5ayoUzpkkt2RTF8PoDlWARY6PhzZopWiM_qJsA0LEppBHBqhs0ivoeg
+MUZIK AKTIF,http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4N30.ro-QIyNGm1WGKnhd0gri7rJExai4M233NUujCBhcEH3EadH1dah1q6xGxQREPeF7Zg2jxYPrFiqU1-w_Kt8fSQ
+AL HIJRAH,http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
+AWANI,http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+BERNAMA,http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
+1NEWS,http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4OH0.9MoWFKWTtQtXsOdNB2hEa6yBhk9jo1UQ3xFjqHOY0SmzicNR4c9R8x_W-jchyEyCGvl9v9RpSfiuYpDvDALgZA
+KBS WORLD,rtmp://118.97.183.196/jhos//kbs
+Korean Drama (ENG),rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
+METRO TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+AL JAZEERA ENGLISH,http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+ABC NEWS,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+BLOOMBERG,http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+NHK WORLD,http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+NASA TV HD,http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+UK: Nicktoons,http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8
+UK: Nickelodeon,http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8
+World Travel Channel,http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
+MBC MAX,http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+DUBAI ONE,http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+PLAYY WEST,http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
+FOX Action Movies,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
+FOX Movies,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
+VEVO 1 HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+VEVO 2 HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+VEVO 3 HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+ONE 1 HD,http://rtmp.one.by:1300
+Korea Hits,rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/1293/korea-hits
+*BACKUP BPL LIVE,http://50.7.96.210:8285
+UK: BT Sport 1 HD,http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/223.m3u8
+Sky Sports 1,rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv21_6vhudlq8
+Sky Sports 2,rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv22_j5p1mted
+Sky Sports 3,rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv23_5px3ntfs
+Sky Sports 4,rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv24_f84rdmkk
+Sky Sports 5,rtmp://lb.miplayer.net:1935/goLive/_definst_/ibrodtv25_wt250ssk
+SKY SPORTS 3 UK,http://51.255.81.190:8080/UK-Sky-Sports-3/mono.m3u8?token=3uvk_1xf83
+SKY SPORTS 4 UK,http://51.255.81.190:8080/UK-Sky-Sports-4/mono.m3u8?token=3uvk_1xf83
+SKY SPORTS 5 UK,http://51.255.81.190:8080/UK-Sky-Sports-5/mono.m3u8?token=3uvk_1xf83
+GR: CTH Stadium X HD,http://ipsatpro.com:8000/live/10002/100021/839.m3u8
+GR: CTH Stadium 1 HD,http://ipsatpro.com:8000/live/10002/100021/841.m3u8
+GR: CTH Stadium 2 HD,http://ipsatpro.com:8000/live/10002/100021/840.m3u8
+GR: CTH Stadium 3 HD,http://ipsatpro.com:8000/live/10002/100021/870.m3u8
+GR: CTH Stadium 4 HD,http://ipsatpro.com:8000/live/10002/100021/868.m3u8
+GR: CTH Stadium 5 HD,http://ipsatpro.com:8000/live/10002/100021/869.m3u8
+True Sport 2,rtmp://216.185.103.158/live2 playpath=chthaipremier11 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/3569/true-sport-2
+KIM FM,http://50.7.96.210:8285/;stream.mp3
+ERA FM,http://astro2.rastream.com/era?type=.flv
+HOT FM,http://2343.live.streamtheworld.com/HOTFMAAC
+HOT FM KELATE,http://2633.live.streamtheworld.com/HOTFMKELATEAAC
+HOT FM T'Ganu,http://2173.live.streamtheworld.com/HOTFMTGANUAAC
+SURIA FM,http://starrfm.rastream.com/starrfm-suria?type=.flv&_=0.27098811650648713
+THR GEGAR,http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+SINAR FM,http://astro2.rastream.com/sinar?type=.flv
+XFRESH FM,http://audri.rastream.com/amp-xfm_audri?type=.flv
+Bapakku FM,http://radio.bapakku.fm:8000
+HITZ FM,http://astro1.rastream.com/hitz?type=.flv
+MIX FM,http://astro2.rastream.com/mix?type=.flv
+FLY FM,http://2283.live.streamtheworld.com/FLYFM_SC
+RED FM,http://starrfm.rastream.com/starrfm-redfm?type=.flv
+LITE FM,http://astro1.rastream.com/lite?type=.flv
+¤¤¤¤¤¤Generale¤¤¤¤¤¤,http://163.172.17.191:5890/live/brahim1/brahim1/922.ts
+RTÉ Two,http://163.172.17.191:5890/live/brahim1/brahim1/923.ts
+Tlc,http://163.172.17.191:5890/live/brahim1/brahim1/1256.ts
+BBC News,http://163.172.17.191:5890/live/brahim1/brahim1/301.ts
+BBC One HD,http://163.172.17.191:5890/live/brahim1/brahim1/297.ts
+BBC Two HD,http://163.172.17.191:5890/live/brahim1/brahim1/298.ts
+BBC Three HD,http://163.172.17.191:5890/live/brahim1/brahim1/299.ts
+BBC Four,http://163.172.17.191:5890/live/brahim1/brahim1/300.ts
+TG4,http://163.172.17.191:5890/live/brahim1/brahim1/1263.ts
+ITV HD,http://163.172.17.191:5890/live/brahim1/brahim1/1080.ts
+ITV2 HD,http://163.172.17.191:5890/live/brahim1/brahim1/1081.ts
+ITV3 HD,http://163.172.17.191:5890/live/brahim1/brahim1/1082.ts
+ITV4 HD,http://163.172.17.191:5890/live/brahim1/brahim1/1083.ts
+Cbs Reality,http://163.172.17.191:5890/live/brahim1/brahim1/1209.ts
+Cbs Drama,http://163.172.17.191:5890/live/brahim1/brahim1/1210.ts
+Cbs Action,http://163.172.17.191:5890/live/brahim1/brahim1/1211.ts
+London Live,http://163.172.17.191:5890/live/brahim1/brahim1/1128.ts
+Channel 4 HD,http://163.172.17.191:5890/live/brahim1/brahim1/270.ts
+Channel 5 HD,http://163.172.17.191:5890/live/brahim1/brahim1/1079.ts
+Home,http://163.172.17.191:5890/live/brahim1/brahim1/1255.ts
+Sky News HD,http://163.172.17.191:5890/live/brahim1/brahim1/812.ts
+¤¤¤¤¤¤Sports¤¤¤¤¤¤,http://163.172.17.191:5890/live/brahim1/brahim1/1449.ts
+BT Sport 1 HD,http://163.172.17.191:5890/live/brahim1/brahim1/279.ts
+BT Sport 2 HD,http://163.172.17.191:5890/live/brahim1/brahim1/280.ts
+BT Sport // ESPN,http://163.172.17.191:5890/live/brahim1/brahim1/1257.ts
+BT Sport EuroHD,http://163.172.17.191:5890/live/brahim1/brahim1/1215.ts
+Sky Sports 1 HD,http://163.172.17.191:5890/live/brahim1/brahim1/273.ts
+Sky Sports 2 HD,http://163.172.17.191:5890/live/brahim1/brahim1/274.ts
+Sky Sports 3 HD,http://163.172.17.191:5890/live/brahim1/brahim1/275.ts
+Sky Sports 4 HD,http://163.172.17.191:5890/live/brahim1/brahim1/276.ts
+Sky Sports 5 HD,http://163.172.17.191:5890/live/brahim1/brahim1/277.ts
+Sky Sports F1 HD,http://163.172.17.191:5890/live/brahim1/brahim1/278.ts
+Box Nation,http://163.172.17.191:5890/live/brahim1/brahim1/1711.ts
+Setanta Ireland,http://163.172.17.191:5890/live/brahim1/brahim1/281.ts
+Racing UK,http://163.172.17.191:5890/live/brahim1/brahim1/1259.ts
+MOTORS TV UK,http://163.172.17.191:5890/live/brahim1/brahim1/1258.ts
+¤¤¤¤¤¤Cinema¤¤¤¤¤¤,http://163.172.17.191:5890/live/brahim1/brahim1/1448.ts
+Sky1 HD,http://163.172.17.191:5890/live/brahim1/brahim1/266.ts
+Sky2,http://163.172.17.191:5890/live/brahim1/brahim1/267.ts
+Film4 HD,http://163.172.17.191:5890/live/brahim1/brahim1/1086.ts
+Sky Arts 1,http://163.172.17.191:5890/live/brahim1/brahim1/1254.ts
+Sky Select HD,http://163.172.17.191:5890/live/brahim1/brahim1/257.ts
+Sky Movies Premiere,http://163.172.17.191:5890/live/brahim1/brahim1/264.ts
+UK:SkyMoviesGreat&amp;Modern,http://163.172.17.191:5890/live/brahim1/brahim1/1207.ts
+Sky Movies Disney HD,http://163.172.17.191:5890/live/brahim1/brahim1/1253.ts
+Sky Moveis Drama,http://163.172.17.191:5890/live/brahim1/brahim1/258.ts
+UK:DinsenyChannelUK,http://163.172.17.191:5890/live/brahim1/brahim1/1090.ts
+Sky Disney HD,http://163.172.17.191:5890/live/brahim1/brahim1/282.ts
+Sky Movies Comedy,http://163.172.17.191:5890/live/brahim1/brahim1/806.ts
+Sky Atlantic HD,http://163.172.17.191:5890/live/brahim1/brahim1/261.ts
+Sky ScFi/HorHD,http://163.172.17.191:5890/live/brahim1/brahim1/263.ts
+Sky Movies Showcase,http://163.172.17.191:5890/live/brahim1/brahim1/1087.ts
+Sky Movies Family,http://163.172.17.191:5890/live/brahim1/brahim1/1088.ts
+Sky Movies Action,http://163.172.17.191:5890/live/brahim1/brahim1/1089.ts
+Sky Living,http://163.172.17.191:5890/live/brahim1/brahim1/1085.ts
+Sky Movies Thriller,http://163.172.17.191:5890/live/brahim1/brahim1/260.ts
+Sky True Movies,http://163.172.17.191:5890/live/brahim1/brahim1/271.ts
+Sky True Movies 2,http://163.172.17.191:5890/live/brahim1/brahim1/272.ts
+Dave,http://163.172.17.191:5890/live/brahim1/brahim1/269.ts
+UK:Fox,http://163.172.17.191:5890/live/brahim1/brahim1/1208.ts
+uk:Syfy,http://163.172.17.191:5890/live/brahim1/brahim1/265.ts
+Good Food,http://163.172.17.191:5890/live/brahim1/brahim1/1213.ts
+Food Network,http://163.172.17.191:5890/live/brahim1/brahim1/1212.ts
+¤¤¤¤¤¤Culture¤¤¤¤¤¤,http://163.172.17.191:5890/live/brahim1/brahim1/1450.ts
+Uk:NatGeoGraphic,http://163.172.17.191:5890/live/brahim1/brahim1/286.ts
+UK:NationalGeography-Wild,http://163.172.17.191:5890/live/brahim1/brahim1/807.ts
+Uk:DiscoverySc,http://163.172.17.191:5890/live/brahim1/brahim1/291.ts
+Uk:DiscoveryHistory,http://163.172.17.191:5890/live/brahim1/brahim1/292.ts
+Disc. Turbo,http://163.172.17.191:5890/live/brahim1/brahim1/1106.ts
+Uk:DiscoveryCI,http://163.172.17.191:5890/live/brahim1/brahim1/290.ts
+Discovery HD,http://163.172.17.191:5890/live/brahim1/brahim1/289.ts
+Uk:DiscoveryWorld,http://163.172.17.191:5890/live/brahim1/brahim1/1260.ts
+Uk:AnimalPlanet,http://163.172.17.191:5890/live/brahim1/brahim1/288.ts
+¤¤¤¤¤¤Enfants¤¤¤¤¤¤,http://163.172.17.191:5890/live/brahim1/brahim1/1451.ts
+Nick Jr.,http://163.172.17.191:5890/live/brahim1/brahim1/1084.ts
+Nicktoons,http://163.172.17.191:5890/live/brahim1/brahim1/284.ts
+nickelodeon,http://163.172.17.191:5890/live/brahim1/brahim1/285.ts
+Disney Junior,http://163.172.17.191:5890/live/brahim1/brahim1/283.ts
+Cartoon Netwrk,http://163.172.17.191:5890/live/brahim1/brahim1/813.ts
+———–USA————-,http://163.172.17.191:5890/live/brahim1/brahim1/1771.ts
+beIN SPORTS US,http://163.172.17.191:5890/live/brahim1/brahim1/1723.ts
+NFL,http://163.172.17.191:5890/live/brahim1/brahim1/1789.ts
+ESPN,http://163.172.17.191:5890/live/brahim1/brahim1/1791.ts
+TSN 1,http://163.172.17.191:5890/live/brahim1/brahim1/1765.ts
+TSN 2,http://163.172.17.191:5890/live/brahim1/brahim1/1764.ts
+TSN 3,http://163.172.17.191:5890/live/brahim1/brahim1/1763.ts
+TSN 4,http://163.172.17.191:5890/live/brahim1/brahim1/1762.ts
+TSN 5,http://163.172.17.191:5890/live/brahim1/brahim1/1761.ts
+FOX SPORT 1 HD,http://163.172.17.191:5890/live/brahim1/brahim1/1767.ts
+FOX SPORT 2 HD,http://163.172.17.191:5890/live/brahim1/brahim1/1766.ts
+ASTRO SPORT 1,http://163.172.17.191:5890/live/brahim1/brahim1/1769.ts
+ASTRO SPORT 2,http://163.172.17.191:5890/live/brahim1/brahim1/1770.ts
+ASTRO SPORT 3,http://163.172.17.191:5890/live/brahim1/brahim1/1768.ts
+ASTRO SPORT 4,http://163.172.17.191:5890/live/brahim1/brahim1/1790.ts
+ABC NEWS,http://163.172.17.191:5890/live/brahim1/brahim1/1760.ts
 
 朝鲜中央电视台,mms://121.167.43.161/chosun
 美国航天局NASA,http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
