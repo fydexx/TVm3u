@@ -1,0 +1,511 @@
+﻿
+UK: Sky News HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/550.ts
+UK: Sky Sports News HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/549.ts
+UK: Sky Sports 1 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/548.ts
+UK: Sky Sport 1 SD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/533.ts
+UK: Sky Sports 2 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/547.ts
+UK: Sky Sport 2 SD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/532.ts
+UK: Sky Sports 3 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/546.ts
+UK: Sky Sport 3 SD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/531.ts
+UK: Sky Sports 4 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/545.ts
+UK: Sky Sport 4 SD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/530.ts
+UK: Sky Sports 5 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/544.ts
+UK: Sky Sport 5 SD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/529.ts
+UK: Sky Sports F1,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/539.ts
+UK: Sky Premier Sports HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/513.ts
+UK: Sky Setanta Sports,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/484.ts
+UK: Sky Eurosport 1 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/541.ts
+UK: Sky Eurosport 2 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/540.ts
+UK: Sky BT Sport 1,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/543.ts
+UK: Sky BT Sport 2,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/542.ts
+UK: Sky BT Sport 1 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/528.ts
+UK: Sky BT Sport 2 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/527.ts
+UK: Sky BT Sport Europe,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/453.ts
+UK: Sky Liverpool FC TV HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/536.ts
+UK: Sky Chelsea TV HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/537.ts
+UK: Sky MUTV,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/535.ts
+Uk: Sky LFC TV,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/461.ts
+UK: Sky Movies Premiere HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/519.ts
+UK: Sky Movies Disney,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/516.ts
+UK: Sky Movies Select HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/517.ts
+UK: Sky Movies Action HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/511.ts
+UK: Sky Movies Greats,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/518.ts
+UK: Sky Movies Family HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/520.ts
+UK: Sky Movies Drama HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/521.ts
+UK: Sky Movies Comedy HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/524.ts
+UK: Sky Movies Crime,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/512.ts
+UK: Sky Movies Sci-Fi+,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/515.ts
+UK: Sky Movies 24,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/523.ts
+UK: Sky True Movies1,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/472.ts
+UK: Sky True Movies 2,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/534.ts
+UK: Sky More 4 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/504.ts
+UK: Sky Film 4 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/505.ts
+UK: Sky ITV 1,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/471.ts
+UK: Sky ITV 2,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/470.ts
+UK: Sky ITV 3,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/469.ts
+UK: Sky ITV 4,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/468.ts
+UK: Sky ITV Encore,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/467.ts
+UK: Sky Cbs Drama,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/482.ts
+UK: Sky Cbs Action,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/481.ts
+UK: Sky CBS Reality,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/510.ts
+UK: Sky BBC One HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/488.ts
+UK: Sky BBC Two HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/487.ts
+UK: Sky BBC Three HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/486.ts
+UK: Sky BBC Four HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/485.ts
+UK: Sky BT Sport Extra,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/479.ts
+UK: Sky Comedy Central,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/463.ts
+UK: Sky Comedy Central Ex,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/462.ts
+UK: Sky History 2,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/452.ts
+UK: Sky Nickelodeon,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/503.ts
+UK: Sky Disney XD HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/493.ts
+UK: Sky Disney Junior HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/494.ts
+UK: Sky Food Network,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/495.ts
+UK: Sky Discovery,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/464.ts
+UK: Sky Disney Chaneel HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/492.ts
+UK: Sky Cartoon Network,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/522.ts
+UK: Sky Discovery Science,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/526.ts
+UK: Sky Discovery History,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/491.ts
+UK: Sky Discovery Turbo,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/465.ts
+UK: Sky Ci,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/514.ts
+UK: Sky Animal Planet HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/497.ts
+UK: Sky National Geographic HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/499.ts
+UK: Sky Nat Geo Wild HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/498.ts
+UK: Sky History HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/496.ts
+UK: Sky 1,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/475.ts
+UK: Sky 2,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/507.ts
+UK: Sky Atlantic,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/483.ts
+UK: Sky VH1,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/449.ts
+UK: Sky E4,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/451.ts
+UK: Sky Syfy,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/538.ts
+UK: Sky MTV Classic,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/500.ts
+UK: Sky CNBC,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/466.ts
+UK: Sky Dave HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/506.ts
+UK: Sky RTE One,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/474.ts
+UK: Sky RTE Two,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/478.ts
+UK: SKY Fox,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/460.ts
+UK: Sky Five,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/473.ts
+UK: Sky Arts 1 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/489.ts
+UK: Sky Alibi,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/509.ts
+UK: Sky Living HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/502.ts
+UK: Sky BoxNation,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/490.ts
+UK: Sky Racing,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/458.ts
+https://iptv.zone/en UK: Sky Gold,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/508.ts
+UK: Sky 5 USA,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/480.ts
+UK: Sky 5 star,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/477.ts
+UK: Sky life Time,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/476.ts
+UK: Sky E4+1,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/525.ts
+UK: Sky Good Food HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/501.ts
+UK: Sky TCM,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/459.ts
+UK: Mtv Rocks,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/450.ts
+UK: CNN,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/454.ts
+UK: Dmax,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/456.ts
+UK: Sky Bloomberg HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/457.ts
+UK: Sky TLC,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/455.ts
+UK: Sky Magic,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/448.ts
+US: Fox Sports 1,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1161.ts
+US: Fox Sports 2,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1160.ts
+US: Sport ThaiPBS,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1442.ts
+US: Sport 1 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1177.ts
+US: Sport Network,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1172.ts
+US: Sports Versus HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1431.ts
+US: World Fashion TV,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1432.ts
+US: Sports NFL Now HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1434.ts
+US: Nasa TV Education,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1433.ts
+US: Sports MLS Soccer,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1151.ts
+US: Sports Tonight,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1158.ts
+US: Sports Fight Sports,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1436.ts
+US: Sports HI,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1435.ts
+US: Red Bull TV HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1153.ts
+US: NFL Now,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1148.ts
+US: Star Movies HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1157.ts
+US: Moveis Nuoc Ngoai,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1165.ts
+US: AFN Sport HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1438.ts
+US: Fox 1 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1450.ts
+US: Fox Action HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1447.ts
+US: Fox Moveis HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1448.ts
+US: Fox Classics,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1449.ts
+US: Cine Canel,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1451.ts
+US: WFTV ABC,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1441.ts
+US: Animal Planet Canada,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1443.ts
+US: Amazing Music,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1446.ts
+US: US: AFN Sport 2 HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1429.ts
+US: WFTV Channel 9,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1430.ts
+US: AMG Entertainment,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1437.ts
+US: Movies HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1176.ts
+US: HBO Movies,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1175.ts
+US: Espan 3,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1162.ts
+US: HSN,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1170.ts
+US: HSN 2,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1163.ts
+US: Hallmark HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1159.ts
+US: Famly Channle,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1156.ts
+US: NBA TV,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1174.ts
+US: starzcinema,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1169.ts
+US: ABC NEWS HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1179.ts
+US: Poker Central,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1155.ts
+US: Movies Network HD,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1178.ts
+US: California TV,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1171.ts
+US: Bloomberg,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1180.ts
+US: Amazing Discoveries,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1181.ts
+US: Daystart,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1145.ts
+US: BYU,http://176.31.237.228:8000/live/Antonioenzo/Wqvbh99so2/1147.ts
+UK True Movies 1 UK,http://cp.dmbshare.net:8000/live/mills/mills/5692.ts
+UK TLC UK,http://cp.dmbshare.net:8000/live/mills/mills/5693.ts
+UK Tiny Pop UK,http://cp.dmbshare.net:8000/live/mills/mills/5694.ts
+UK TG4 UK,http://cp.dmbshare.net:8000/live/mills/mills/5695.ts
+UK SyFy UK,http://cp.dmbshare.net:8000/live/mills/mills/5696.ts
+UK Sky Sports News HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5697.ts
+UK Sky Sports F1 UK,http://cp.dmbshare.net:8000/live/mills/mills/5698.ts
+UK Sky Sports F1 HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5699.ts
+UK Sky Sports 5 UK,http://cp.dmbshare.net:8000/live/mills/mills/5700.ts
+UK Sky Sports 5 HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5701.ts
+UK Sky Sports 4 UK,http://cp.dmbshare.net:8000/live/mills/mills/5702.ts
+UK Sky Sports 4 HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5703.ts
+UK Sky Sports 3 UK,http://cp.dmbshare.net:8000/live/mills/mills/5704.ts
+UK Sky Sports 2 UK,http://cp.dmbshare.net:8000/live/mills/mills/5705.ts
+UK Sky Sports 1 UK,http://cp.dmbshare.net:8000/live/mills/mills/5706.ts
+UK Sky Sports 1 HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5707.ts
+UK SKY NEWS,http://cp.dmbshare.net:8000/live/mills/mills/5708.ts
+UK Sky Movies Showcase UK,http://cp.dmbshare.net:8000/live/mills/mills/5709.ts
+UK Sky Movies Sci-Fi & Horror UK,http://cp.dmbshare.net:8000/live/mills/mills/5710.ts
+UK Sky Movies Sci-Fi & Horror HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5711.ts
+UK Sky Movies Premiere HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5712.ts
+UK Sky Movies Greats UK,http://cp.dmbshare.net:8000/live/mills/mills/5713.ts
+UK Sky Movies Greats HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5714.ts
+UK Sky Movies Family UK,http://cp.dmbshare.net:8000/live/mills/mills/5715.ts
+UK Sky Movies Family HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5716.ts
+UK Sky Movies Drama & Romance HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5717.ts
+UK Sky Movies Disney UK,http://cp.dmbshare.net:8000/live/mills/mills/5718.ts
+UK Sky Movies Disney  UK,http://cp.dmbshare.net:8000/live/mills/mills/5719.ts
+UK Sky Movies Crime & Thriller UK,http://cp.dmbshare.net:8000/live/mills/mills/5720.ts
+UK Sky Movies Crime & Thriller HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5721.ts
+UK Sky Movies Comedy HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5722.ts
+UK Sky Movies Action & Adventure UK,http://cp.dmbshare.net:8000/live/mills/mills/5723.ts
+UK Sky Movies Action & Adventure HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5724.ts
+UK Sky Atlantic UK,http://cp.dmbshare.net:8000/live/mills/mills/5725.ts
+UK Sky 2 UK,http://cp.dmbshare.net:8000/live/mills/mills/5726.ts
+UK Sky 1 UK,http://cp.dmbshare.net:8000/live/mills/mills/5727.ts
+UK Setanta Sports UK,http://cp.dmbshare.net:8000/live/mills/mills/5728.ts
+UK RTE Two HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5729.ts
+UK RTE One HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5730.ts
+UK RT. Two UK,http://cp.dmbshare.net:8000/live/mills/mills/5731.ts
+UK RT. One UK,http://cp.dmbshare.net:8000/live/mills/mills/5732.ts
+UK RT. News Now UK,http://cp.dmbshare.net:8000/live/mills/mills/5733.ts
+UK Really UK,http://cp.dmbshare.net:8000/live/mills/mills/5734.ts
+UK Real Lives UK,http://cp.dmbshare.net:8000/live/mills/mills/5735.ts
+UK Racing UK,http://cp.dmbshare.net:8000/live/mills/mills/5736.ts
+UK Premier Sports UK,http://cp.dmbshare.net:8000/live/mills/mills/5737.ts
+UK Pick UK,http://cp.dmbshare.net:8000/live/mills/mills/5738.ts
+UK Nick Jr. UK,http://cp.dmbshare.net:8000/live/mills/mills/5739.ts
+UK National Geographic Channel UK,http://cp.dmbshare.net:8000/live/mills/mills/5740.ts
+UK Nat Geo Wild UK,http://cp.dmbshare.net:8000/live/mills/mills/5741.ts
+UK MUTV UK,http://cp.dmbshare.net:8000/live/mills/mills/5742.ts
+UK MTV Music UK,http://cp.dmbshare.net:8000/live/mills/mills/5743.ts
+UK Movies4Men UK,http://cp.dmbshare.net:8000/live/mills/mills/5744.ts
+UK Mototrs TV UK,http://cp.dmbshare.net:8000/live/mills/mills/5745.ts
+UK More4 UK,http://cp.dmbshare.net:8000/live/mills/mills/5746.ts
+UK Liverpool TV UK,http://cp.dmbshare.net:8000/live/mills/mills/5747.ts
+UK ITV Encore UK,http://cp.dmbshare.net:8000/live/mills/mills/5748.ts
+UK ITV BE UK,http://cp.dmbshare.net:8000/live/mills/mills/5749.ts
+UK ITV 4 UK,http://cp.dmbshare.net:8000/live/mills/mills/5750.ts
+UK ITV 3 UK,http://cp.dmbshare.net:8000/live/mills/mills/5751.ts
+UK ITV 2 UK,http://cp.dmbshare.net:8000/live/mills/mills/5752.ts
+UK ITV 1 UK,http://cp.dmbshare.net:8000/live/mills/mills/5753.ts
+UK Horror Channel UK,http://cp.dmbshare.net:8000/live/mills/mills/5754.ts
+UK History UK,http://cp.dmbshare.net:8000/live/mills/mills/5755.ts
+UK H2 UK,http://cp.dmbshare.net:8000/live/mills/mills/5756.ts
+UK Good Food UK,http://cp.dmbshare.net:8000/live/mills/mills/5757.ts
+UK Gold UK,http://cp.dmbshare.net:8000/live/mills/mills/5758.ts
+UK FOX UK,http://cp.dmbshare.net:8000/live/mills/mills/5759.ts
+UK FOX News UK,http://cp.dmbshare.net:8000/live/mills/mills/5760.ts
+UK Food Network UK,http://cp.dmbshare.net:8000/live/mills/mills/5761.ts
+UK FLAVA UK,http://cp.dmbshare.net:8000/live/mills/mills/5762.ts
+UK Film4 UK,http://cp.dmbshare.net:8000/live/mills/mills/5763.ts
+UK Eurosport 2 UK,http://cp.dmbshare.net:8000/live/mills/mills/5764.ts
+UK Eurosport 2 HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5765.ts
+UK Eurosport 1 UK,http://cp.dmbshare.net:8000/live/mills/mills/5766.ts
+UK Eurosport 1 HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5767.ts
+UK ETV1 UK,http://cp.dmbshare.net:8000/live/mills/mills/5768.ts
+UK ETV HD,http://cp.dmbshare.net:8000/live/mills/mills/5769.ts
+UK E4 UK,http://cp.dmbshare.net:8000/live/mills/mills/5770.ts
+UK E! UK,http://cp.dmbshare.net:8000/live/mills/mills/5771.ts
+UK Drama UK,http://cp.dmbshare.net:8000/live/mills/mills/5772.ts
+UK DMAX UK,http://cp.dmbshare.net:8000/live/mills/mills/5773.ts
+UK Disney XD UK,http://cp.dmbshare.net:8000/live/mills/mills/5774.ts
+UK Disney Junior UK,http://cp.dmbshare.net:8000/live/mills/mills/5775.ts
+UK Disney Channel UK,http://cp.dmbshare.net:8000/live/mills/mills/5776.ts
+UK Discovery World UK,http://cp.dmbshare.net:8000/live/mills/mills/5777.ts
+UK Discovery Turbo UK,http://cp.dmbshare.net:8000/live/mills/mills/5778.ts
+UK Discovery Science UK,http://cp.dmbshare.net:8000/live/mills/mills/5779.ts
+UK Discovery Science HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5780.ts
+UK Discovery Investigation UK,http://cp.dmbshare.net:8000/live/mills/mills/5781.ts
+UK Discovery Channel UK,http://cp.dmbshare.net:8000/live/mills/mills/5782.ts
+UK Dave UK,http://cp.dmbshare.net:8000/live/mills/mills/5783.ts
+UK Dave ja vu UK,http://cp.dmbshare.net:8000/live/mills/mills/5784.ts
+UK Comedy Central UK,http://cp.dmbshare.net:8000/live/mills/mills/5785.ts
+UK Comedy Central Extra UK,http://cp.dmbshare.net:8000/live/mills/mills/5786.ts
+UK Colors UK,http://cp.dmbshare.net:8000/live/mills/mills/5787.ts
+UK CNN UK,http://cp.dmbshare.net:8000/live/mills/mills/5788.ts
+UK CITV UK,http://cp.dmbshare.net:8000/live/mills/mills/5789.ts
+UK Chelsea TV UK,http://cp.dmbshare.net:8000/live/mills/mills/5790.ts
+UK Channel 5  UK,http://cp.dmbshare.net:8000/live/mills/mills/5791.ts
+UK Channel 4 UK,http://cp.dmbshare.net:8000/live/mills/mills/5792.ts
+UK CBS Reality UK,http://cp.dmbshare.net:8000/live/mills/mills/5793.ts
+UK CBS Drama UK,http://cp.dmbshare.net:8000/live/mills/mills/5794.ts
+UK CBS Action UK,http://cp.dmbshare.net:8000/live/mills/mills/5795.ts
+UK CBeebies UK,http://cp.dmbshare.net:8000/live/mills/mills/5796.ts
+UK Cartoon Network UK,http://cp.dmbshare.net:8000/live/mills/mills/5797.ts
+UK BT Sport EXTRA UK,http://cp.dmbshare.net:8000/live/mills/mills/5798.ts
+UK BT Sport EUROPE HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5799.ts
+UK BT Sport 2 UK,http://cp.dmbshare.net:8000/live/mills/mills/5800.ts
+UK BT Sport 2 HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5801.ts
+UK BT Sport 1 UK,http://cp.dmbshare.net:8000/live/mills/mills/5802.ts
+UK BT Sport 1 HD UK,http://cp.dmbshare.net:8000/live/mills/mills/5803.ts
+UK BOX Nation UK,http://cp.dmbshare.net:8000/live/mills/mills/5804.ts
+UK Boomerang UK,http://cp.dmbshare.net:8000/live/mills/mills/5805.ts
+UK Bloomberg UK,http://cp.dmbshare.net:8000/live/mills/mills/5806.ts
+UK BBC Two UK,http://cp.dmbshare.net:8000/live/mills/mills/5807.ts
+UK BBC RB1 UK,http://cp.dmbshare.net:8000/live/mills/mills/5808.ts
+UK BBC One West UK,http://cp.dmbshare.net:8000/live/mills/mills/5809.ts
+UK BBC One UK,http://cp.dmbshare.net:8000/live/mills/mills/5810.ts
+UK BBC One East UK,http://cp.dmbshare.net:8000/live/mills/mills/5811.ts
+UK BBC News UK,http://cp.dmbshare.net:8000/live/mills/mills/5812.ts
+UK BabyTV UK,http://cp.dmbshare.net:8000/live/mills/mills/5813.ts
+UK At The Races UK,http://cp.dmbshare.net:8000/live/mills/mills/5814.ts
+UK 5 USA UK,http://cp.dmbshare.net:8000/live/mills/mills/5815.ts
+UK 5 Star UK,http://cp.dmbshare.net:8000/live/mills/mills/5816.ts
+UK 3E UK,http://cp.dmbshare.net:8000/live/mills/mills/5817.ts
+USA: womens entertainment,http://cp.dmbshare.net:8000/live/mills/mills/4618.ts
+USA: Willow HD,http://cp.dmbshare.net:8000/live/mills/mills/4603.ts
+USA: VH1,http://cp.dmbshare.net:8000/live/mills/mills/4616.ts
+USA: USA Network,http://cp.dmbshare.net:8000/live/mills/mills/4605.ts
+USA: TSN 5,http://cp.dmbshare.net:8000/live/mills/mills/4598.ts
+USA: TSN 4,http://cp.dmbshare.net:8000/live/mills/mills/4597.ts
+USA: TSN 3,http://cp.dmbshare.net:8000/live/mills/mills/4596.ts
+USA: TSN 2,http://cp.dmbshare.net:8000/live/mills/mills/4595.ts
+USA: TSN 1,http://cp.dmbshare.net:8000/live/mills/mills/4594.ts
+USA: trutv,http://cp.dmbshare.net:8000/live/mills/mills/4619.ts
+USA: TNT,http://cp.dmbshare.net:8000/live/mills/mills/4571.ts
+USA: Syfy USA,http://cp.dmbshare.net:8000/live/mills/mills/4593.ts
+USA: Starz,http://cp.dmbshare.net:8000/live/mills/mills/4599.ts
+USA: SportsNet World,http://cp.dmbshare.net:8000/live/mills/mills/4592.ts
+USA: SportsNet Ontario,http://cp.dmbshare.net:8000/live/mills/mills/4591.ts
+USA: SportsNet ONE,http://cp.dmbshare.net:8000/live/mills/mills/4590.ts
+USA: Spike USA,http://cp.dmbshare.net:8000/live/mills/mills/4579.ts
+USA: Showtime USA,http://cp.dmbshare.net:8000/live/mills/mills/4581.ts
+USA: sec network,http://cp.dmbshare.net:8000/live/mills/mills/4615.ts
+USA: OWN,http://cp.dmbshare.net:8000/live/mills/mills/4620.ts
+USA: Nick Jr,http://cp.dmbshare.net:8000/live/mills/mills/4617.ts
+USA: NFL,http://cp.dmbshare.net:8000/live/mills/mills/4589.ts
+USA: NBC USA,http://cp.dmbshare.net:8000/live/mills/mills/4578.ts
+USA: NBC Sports,http://cp.dmbshare.net:8000/live/mills/mills/4587.ts
+USA: NBC Golf,http://cp.dmbshare.net:8000/live/mills/mills/4586.ts
+USA: NBA USA,http://cp.dmbshare.net:8000/live/mills/mills/4577.ts
+USA: MTV,http://cp.dmbshare.net:8000/live/mills/mills/4613.ts
+USA: MLB,http://cp.dmbshare.net:8000/live/mills/mills/4621.ts
+USA: History,http://cp.dmbshare.net:8000/live/mills/mills/4573.ts
+USA: HGTV,http://cp.dmbshare.net:8000/live/mills/mills/4570.ts
+USA: Hallmark,http://cp.dmbshare.net:8000/live/mills/mills/4606.ts
+USA: H2,http://cp.dmbshare.net:8000/live/mills/mills/4572.ts
+USA: Fox Sports 2,http://cp.dmbshare.net:8000/live/mills/mills/4585.ts
+USA: Fox Sports 1,http://cp.dmbshare.net:8000/live/mills/mills/4584.ts
+USA: Fox 1,http://cp.dmbshare.net:8000/live/mills/mills/4607.ts
+USA: food network,http://cp.dmbshare.net:8000/live/mills/mills/4614.ts
+USA: Fight Network,http://cp.dmbshare.net:8000/live/mills/mills/4580.ts
+USA: ESPN Usa,http://cp.dmbshare.net:8000/live/mills/mills/4604.ts
+USA: ESPN U,http://cp.dmbshare.net:8000/live/mills/mills/4574.ts
+USA: ESPN News,http://cp.dmbshare.net:8000/live/mills/mills/4612.ts
+USA: ESPN 2,http://cp.dmbshare.net:8000/live/mills/mills/4583.ts
+USA: Destination America,http://cp.dmbshare.net:8000/live/mills/mills/4608.ts
+USA: Cinemax East,http://cp.dmbshare.net:8000/live/mills/mills/4600.ts
+USA: CBS Sport,http://cp.dmbshare.net:8000/live/mills/mills/4575.ts
+USA: CBS,http://cp.dmbshare.net:8000/live/mills/mills/4576.ts
+USA: Bravo,http://cp.dmbshare.net:8000/live/mills/mills/4610.ts
+USA: Bet,http://cp.dmbshare.net:8000/live/mills/mills/4609.ts
+USA: Bein USA,http://cp.dmbshare.net:8000/live/mills/mills/4582.ts
+USA: AXS,http://cp.dmbshare.net:8000/live/mills/mills/4588.ts
+USA: AMC USA,http://cp.dmbshare.net:8000/live/mills/mills/4602.ts
+USA: ABC USA,http://cp.dmbshare.net:8000/live/mills/mills/4601.ts
+USA: ABC Family,http://cp.dmbshare.net:8000/live/mills/mills/4622.ts
+USA: A & E,http://cp.dmbshare.net:8000/live/mills/mills/4611.ts
+SkySport 1,http://185.59.222.65:8080/MHAJbmmhhjPIAmsky1/index.m3u8
+SkySport 2,http://185.59.222.65:8080/MHAJbmmhhjPIAmsky2/index.m3u8
+SkySport 3,http://185.59.222.65:8080/MHAJbmmhhjPIAmsky3/index.m3u8
+SkySport 4,http://185.59.222.65:8080/MHAJbmmhhjPIAmsky4/index.m3u8
+SkySport 5,http://185.59.222.65:8080/MHAJbmmhhjPIAmsky5/index.m3u8
+BT Sports 1,http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8
+BT Sports 2,http://185.59.222.65:8080/MHAJbmmhhjPIAmbt2/index.m3u8
+BT Sport Europe,http://185.59.222.65:8080/MHAJbmmhhjPIAmbteuro/index.m3u8
+UK Sky Sports 1,http://micutzuiptv.noip.me:8080/live/Champions/League/36.ts;http://149.202.197.37:8000/live/amr123/amr123/684.ts
+UK Sky Sports 2,http://micutzuiptv.noip.me:8080/live/Champions/League/37.ts;http://149.202.197.37:8000/live/amr123/amr123/685.ts
+UK Sky Sports 3,http://micutzuiptv.noip.me:8080/live/Champions/League/38.ts;http://149.202.197.37:8000/live/amr123/amr123/686.ts
+UK Sky Sports 4,http://micutzuiptv.noip.me:8080/live/Champions/League/39.ts;http://149.202.197.37:8000/live/amr123/amr123/714.ts
+UK Sky Sports 5,http://micutzuiptv.noip.me:8080/live/Champions/League/40.ts;http://149.202.197.37:8000/live/amr123/amr123/687.ts
+UK Sky Sports F1,http://micutzuiptv.noip.me:8080/live/Champions/League/41.ts
+UK BT Sports 1,http://micutzuiptv.noip.me:8080/live/Champions/League/32.ts
+UK BT Sports 2,http://micutzuiptv.noip.me:8080/live/Champions/League/33.ts
+UK BT Sports Europe,http://micutzuiptv.noip.me:8080/live/Champions/League/34.ts
+UK BT Sports ESPN,http://micutzuiptv.noip.me:8080/live/Champions/League/35.ts
+ITA Sky Sport 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/63.ts
+ITA Sky Sport 2 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/64.ts
+GER Sport 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/73.ts
+GER SKY SPORT 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/91.ts
+GER Sky Sport 2 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/71.ts
+GER Sky Bundesliga 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/72.ts
+ESP Canal Liga,http://micutzuiptv.noip.me:8080/live/Champions/League/47.ts
+ESP Canal Futbol,http://micutzuiptv.noip.me:8080/live/Champions/League/46.ts
+ESP Canal Deportes,http://micutzuiptv.noip.me:8080/live/Champions/League/49.ts
+ESP Canal Bein Spain,http://micutzuiptv.noip.me:8080/live/Champions/League/48.ts
+BEIN SPORT HD ASIA,http://micutzuiptv.noip.me:8080/live/Champions/League/22.ts
+FRA Bein Sport 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/67.ts
+FRA Bein Sport 2 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/68.ts
+RO Dolce Sport 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/75.ts
+RO Dolce Sport 2 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/76.ts
+RO Digi Sport 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/79.ts
+RO Digi Sport 2 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/80.ts
+Bein Sport HD 1,http://micutzuiptv.noip.me:8080/live/Champions/League/52.ts
+Bein Sport HD 2,http://micutzuiptv.noip.me:8080/live/Champions/League/55.ts
+Bein Sport HD 3,http://micutzuiptv.noip.me:8080/live/Champions/League/56.ts
+Bein Sport HD 4,http://micutzuiptv.noip.me:8080/live/Champions/League/57.ts
+Bein Sport HD 5,http://micutzuiptv.noip.me:8080/live/Champions/League/58.ts
+Bein Sport HD 6,http://micutzuiptv.noip.me:8080/live/Champions/League/59.ts
+Bein Sport HD 7,http://micutzuiptv.noip.me:8080/live/Champions/League/60.ts
+Bein Sport HD 8,http://micutzuiptv.noip.me:8080/live/Champions/League/61.ts
+Bein Sport HD 9,http://micutzuiptv.noip.me:8080/live/Champions/League/62.ts
+Bein Sport HD 10,http://micutzuiptv.noip.me:8080/live/Champions/League/53.ts
+Bein Sport HD 11,http://micutzuiptv.noip.me:8080/live/Champions/League/54.ts
+Bein Sport HD 12,http://micutzuiptv.noip.me:8080/live/Champions/League/50.ts
+Bein Sport HD 13,http://micutzuiptv.noip.me:8080/live/Champions/League/51.ts
+CRO ARENA SPORT 1,http://micutzuiptv.noip.me:8080/live/Champions/League/4.ts
+CRO ARENA SPORT 2,http://micutzuiptv.noip.me:8080/live/Champions/League/5.ts
+CRO ARENA SPORT 3,http://micutzuiptv.noip.me:8080/live/Champions/League/6.ts
+CRO ARENA SPORT 4,http://micutzuiptv.noip.me:8080/live/Champions/League/7.ts
+CRO ARENA SPORT 5,http://micutzuiptv.noip.me:8080/live/Champions/League/8.ts
+SER Sport Klub 1,http://micutzuiptv.noip.me:8080/live/Champions/League/1.ts
+SER Sport Klub 2,http://micutzuiptv.noip.me:8080/live/Champions/League/2.ts
+SER Sport Klub 3,http://micutzuiptv.noip.me:8080/live/Champions/League/3.ts
+Supersport News,http://micutzuiptv.noip.me:8080/live/Champions/League/14.ts
+Supersport 3,http://micutzuiptv.noip.me:8080/live/Champions/League/16.ts
+Supersport 2,http://micutzuiptv.noip.me:8080/live/Champions/League/15.ts
+POR Sport Tv 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/44.ts
+POR Sport Tv 2 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/45.ts
+Japan Sport 4 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/13.ts
+Japan Sport 3 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/12.ts
+Japan Sport 2 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/11.ts
+Japan Sport 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/10.ts
+IND Star Sports 1,http://micutzuiptv.noip.me:8080/live/Champions/League/28.ts
+IND Star Sports 2,http://micutzuiptv.noip.me:8080/live/Champions/League/29.ts
+IND Star Sports 3,http://micutzuiptv.noip.me:8080/live/Champions/League/30.ts
+IND Star Sports 4,http://micutzuiptv.noip.me:8080/live/Champions/League/31.ts
+HOL Fox Sport 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/42.ts
+HOL Fox Sport 2 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/43.ts
+CTH STADIUM 1 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/23.ts;http://149.202.197.37:8000/live/amr123/amr123/1353.ts
+CTH STADIUM 2 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/24.ts;http://149.202.197.37:8000/live/amr123/amr123/1354.ts
+CTH STADIUM 3 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/25.ts;http://149.202.197.37:8000/live/amr123/amr123/1355.ts
+CTH STADIUM 4 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/26.ts;http://149.202.197.37:8000/live/amr123/amr123/1357.ts
+CTH STADIUM 5 HD,http://micutzuiptv.noip.me:8080/live/Champions/League/27.ts;http://149.202.197.37:8000/live/amr123/amr123/1356.ts
+CTH STADIUM 6 HD,http://149.202.197.37:8000/live/amr123/amr123/1358.ts
+TRUE SPORT HD2,http://micutzuiptv.noip.me:8080/live/Champions/League/18.ts
+TRUE SPORT HD3,http://micutzuiptv.noip.me:8080/live/Champions/League/19.ts
+EuroSport HD,http://micutzuiptv.noip.me:8080/live/Champions/League/17.ts
+SUPER TENITS,http://micutzuiptv.noip.me:8080/live/Champions/League/21.ts
+UK-Premier-Sports,http://149.202.197.37:8000/live/amr123/amr123/1022.ts
+UK-Setanta-Sport-1,http://149.202.197.37:8000/live/amr123/amr123/1018.ts
+UK-BT-Sport/ESPN,http://149.202.197.37:8000/live/amr123/amr123/1044.ts
+UK-BT-Sport-Mosaic,http://149.202.197.37:8000/live/amr123/amr123/1041.ts
+UK-BT-Sport-Extra-1,http://149.202.197.37:8000/live/amr123/amr123/1043.ts
+UK-BT-Sport-Europe,http://149.202.197.37:8000/live/amr123/amr123/1042.ts
+UK-Motors-TV,http://149.202.197.37:8000/live/amr123/amr123/1040.ts
+UK-AMC-from-BT,http://149.202.197.37:8000/live/amr123/amr123/1039.ts
+UK-Setanta-Sports-Ireland,http://149.202.197.37:8000/live/amr123/amr123/1019.ts
+UK-Sony-Movie,http://149.202.197.37:8000/live/amr123/amr123/1023.ts
+UK-Movies-4-Men,http://149.202.197.37:8000/live/amr123/amr123/1020.ts
+UK-Comedy-Extra,http://149.202.197.37:8000/live/amr123/amr123/708.ts
+UK-Comedy-Central,http://149.202.197.37:8000/live/amr123/amr123/709.ts
+UK-Comedy-Central+1,http://149.202.197.37:8000/live/amr123/amr123/710.ts
+UK-Sky-Movies-Action,http://149.202.197.37:8000/live/amr123/amr123/691.ts
+UK-Sky-Movies-Select,http://149.202.197.37:8000/live/amr123/amr123/692.ts
+UK-Sky-Movies-Family,http://149.202.197.37:8000/live/amr123/amr123/695.ts
+UK-Sky-Movies-Disney.,http://149.202.197.37:8000/live/amr123/amr123/696.ts
+UK-Sky-Movies-Greats,http://149.202.197.37:8000/live/amr123/amr123/1360.ts
+UK-Sky-movies-Thriller,http://149.202.197.37:8000/live/amr123/amr123/688.ts
+UK-Sky-Movies-Comedy,http://149.202.197.37:8000/live/amr123/amr123/697.ts
+UK-Sky-Movies -Premiere,http://149.202.197.37:8000/live/amr123/amr123/693.ts
+UK-Sky-Movies-Showcase,http://149.202.197.37:8000/live/amr123/amr123/690.ts
+UK-Investigation-Discovery,http://149.202.197.37:8000/live/amr123/amr123/715.ts
+UK-Animal-Planet,http://149.202.197.37:8000/live/amr123/amr123/723.ts
+UK-Nat-Geo-Wild,http://149.202.197.37:8000/live/amr123/amr123/675.ts
+UK-National-Geographic,http://149.202.197.37:8000/live/amr123/amr123/676.ts
+UK-Discovery,http://149.202.197.37:8000/live/amr123/amr123/719.ts
+UK-Discovery-Shed,http://149.202.197.37:8000/live/amr123/amr123/718.ts
+UK-Discovery-Turbo,http://149.202.197.37:8000/live/amr123/amr123/720.ts
+UK-Discovery-History,http://149.202.197.37:8000/live/amr123/amr123/722.ts
+UK-Discovery-Home-&Health,http://149.202.197.37:8000/live/amr123/amr123/716.ts
+UK-BBC.1,http://149.202.197.37:8000/live/amr123/amr123/1531.ts
+UK-BBC.2,http://149.202.197.37:8000/live/amr123/amr123/1530.ts
+UK-BBC.3,http://149.202.197.37:8000/live/amr123/amr123/1529.ts
+UK-BBC.4,http://149.202.197.37:8000/live/amr123/amr123/1528.ts
+UK-More-4,http://149.202.197.37:8000/live/amr123/amr123/1359.ts
+UK-History,http://149.202.197.37:8000/live/amr123/amr123/680.ts
+UK-History-1,http://149.202.197.37:8000/live/amr123/amr123/679.ts
+UK-History-2,http://149.202.197.37:8000/live/amr123/amr123/678.ts
+UK-Nick-Jr+1,http://149.202.197.37:8000/live/amr123/amr123/704.ts
+UK-Nick-Jr-Too,http://149.202.197.37:8000/live/amr123/amr123/703.ts
+UK-Nicktoons-Ireland,http://149.202.197.37:8000/live/amr123/amr123/702.ts
+UK-Disney-XD,http://149.202.197.37:8000/live/amr123/amr123/705.ts
+UK-Disney-Junior,http://149.202.197.37:8000/live/amr123/amr123/706.ts
+UK-Disney-Channel,http://149.202.197.37:8000/live/amr123/amr123/707.ts
+UK-Sky-Living,http://149.202.197.37:8000/live/amr123/amr123/694.ts
+UK-UTV-Ireland,http://149.202.197.37:8000/live/amr123/amr123/673.ts
+UK-ITV1*,http://149.202.197.37:8000/live/amr123/amr123/758.ts
+UK-ITV2*,http://149.202.197.37:8000/live/amr123/amr123/757.ts
+UK-ITV3,http://149.202.197.37:8000/live/amr123/amr123/509.ts
+UK-ITV4,http://149.202.197.37:8000/live/amr123/amr123/814.ts
+UK-FOX,http://149.202.197.37:8000/live/amr123/amr123/698.ts
+UK-Sky-2,http://149.202.197.37:8000/live/amr123/amr123/700.ts
+UK-Sky-12,http://149.202.197.37:8000/live/amr123/amr123/701.ts
+UK-Racing,http://149.202.197.37:8000/live/amr123/amr123/1021.ts
+UK-Sky-Arts1,http://149.202.197.37:8000/live/amr123/amr123/699.ts
+UK-Real-Lives,http://149.202.197.37:8000/live/amr123/amr123/674.ts
+UK-QUEST,http://149.202.197.37:8000/live/amr123/amr123/724.ts
+UK-DMAX,http://149.202.197.37:8000/live/amr123/amr123/717.ts
+UK-MUTV,http://149.202.197.37:8000/live/amr123/amr123/677.ts
+UK-TLC,http://149.202.197.37:8000/live/amr123/amr123/712.ts
+UK-BET,http://149.202.197.37:8000/live/amr123/amr123/711.ts
+UK-TLC-IRELAND,http://149.202.197.37:8000/live/amr123/amr123/713.ts
+UK-At-The-Races,http://149.202.197.37:8000/live/amr123/amr123/683.ts
+UK-Fox-News-Channel,http://149.202.197.37:8000/live/amr123/amr123/681.ts
+UK-Crime&Investigation-Network,http://149.202.197.37:8000/live/amr123/amr123/682.ts
+UK-True Movies 2,http://149.202.197.37:8000/live/amr123/amr123/1210.ts
+UK-True Movies 1,http://149.202.197.37:8000/live/amr123/amr123/1209.ts
+UK-Tiny Pop,http://149.202.197.37:8000/live/amr123/amr123/1211.ts
+UK-SYFY,http://149.202.197.37:8000/live/amr123/amr123/1212.ts
+UK-RTE 2 HD,http://149.202.197.37:8000/live/amr123/amr123/1207.ts
+UK-RTE 1 HD,http://149.202.197.37:8000/live/amr123/amr123/1206.ts
+UK-Really,http://149.202.197.37:8000/live/amr123/amr123/1208.ts
+UK-Movies 4 Men,http://149.202.197.37:8000/live/amr123/amr123/1213.ts
+UK-LiverPool TV,http://149.202.197.37:8000/live/amr123/amr123/1214.ts
+UK-Good Food,http://149.202.197.37:8000/live/amr123/amr123/1215.ts
+UK-Food Network,http://149.202.197.37:8000/live/amr123/amr123/1216.ts
+UK-Film 4,http://149.202.197.37:8000/live/amr123/amr123/1217.ts
+UK-EuroSport 2,http://149.202.197.37:8000/live/amr123/amr123/1219.ts
+UK-EuroSport 1,http://149.202.197.37:8000/live/amr123/amr123/1218.ts
+UK-ESPN HD,http://149.202.197.37:8000/live/amr123/amr123/1220.ts
+UK-E4,http://149.202.197.37:8000/live/amr123/amr123/1221.ts
+UK-Drama,http://149.202.197.37:8000/live/amr123/amr123/1222.ts
+UK-CNN,http://149.202.197.37:8000/live/amr123/amr123/1223.ts
+UK-CBS Reality,http://149.202.197.37:8000/live/amr123/amr123/1224.ts
+UK-CBS Drama,http://149.202.197.37:8000/live/amr123/amr123/1225.ts
+UK-CBS Action,http://149.202.197.37:8000/live/amr123/amr123/1226.ts
+ESPN +,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+ESPN 3,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+FOX SPORTS,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+FOX SPORTS 2,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+ESPN,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+ESPN 2,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+ESPN + HD,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+ESPN 3 HD,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+FOX SPORTS HD,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+FOX SPORTS 2 HD,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+ESPN HD,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+ESPN 2 HD,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+Real Madrid Tv HD,http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
