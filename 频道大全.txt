@@ -252,6 +252,10 @@ JTBC,rtmp://edge2.everyon.tv:1935/etv2/phd343
 韩国JTBC golf,rtmp://edge1.everyon.tv:1935/etv1sb/phd58
 SBS CNBC,http://sbsplayer.sbs.co.kr/OnAir/NeTVOnAir_1_1_0_0.swf?url=http://sbsplayer.sbs.co.kr/OnAir/env/CNBC.xml&controlS
 JTBC FOX 体育,rtmp://edge1.everyon.tv:1935/etv1/phd197
+韩国KCTV-HD,rtmp://122.202.129.136:1935/live/ch5
+韩国KCTV-N SD,rtmp://122.202.129.136:1935/live/ch4
+韩国KCTV-HD,http://122.202.129.136:1935/live/ch4/playlist.m3u8
+韩国KCTV-N HQ,http://122.202.129.136:1935/live/ch5/playlist.m3u8
 TV ??,rtmp://edge1.everyon.tv:1935/etv1/phd341
 ????TV,rtmp://edge2.everyon.tv:1935/etv2/phd133
 ?? A,rtmp://edge1.everyon.tv:1935/etv1/phd251
@@ -294,7 +298,12 @@ A?,rtmp://edge1.everyon.tv:80/etv1sb/phd1076
 CMCHD,rtmp://edge1.everyon.tv:1935/etv1sb/phd1
 OO,rtmp://edge2.everyon.tv:80/etv2sb/phd42
 NN E,rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
-
+韩国有码成人高清1,http://123.108.164.70:1935/etv2sb/phd10062/playlist.m3u8
+韩国有码成人高清3,http://123.108.164.70:1935/etv2sb/phd10499/playlist.m3u8
+韩国有码成人高清4,http://123.108.164.70:1935/etv2sb/phd10501/playlist.m3u8
+韩国有码成人高清7,http://123.108.164.70:1935/etv2sb/phd10769/playlist.m3u8
+韩国有码成人高清8,http://123.108.164.70:1935/etv2sb/phd10771/playlist.m3u8
+韩国有码成人高清9,http://123.108.164.70:1935/etv2sb/phd10772/playlist.m3u8
 
 JAPAN
 日本NHK WORLD,http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
@@ -548,10 +557,8 @@ CN卡通頻道,http://du2.ottclub.info:1935/live/c178.stream/playlist.m3u8
 南投新聞台，http://58.99.33.1:1935/liveedge/smil:live_1_2_iphone.smil/chunklist.m3u8?c=123
 雲林新聞台，http://58.99.33.1:1935/liveedge/smil:live_1_0_iphone.smil/chunklist.m3u8?c=123
 民視綜合台,p2p://1023005977:9900/570683bb00035b394b4d5d387e7c2a91&link=HGFDSAihgfd
-中視,p2p://1023005977:9900/570683d900016f3d4b4dd1ea3c3f76bc&link=HGFDSAihgfd
 中視菁彩,p2p://1023005977:9900/570683f100092e384b4e31a6258f5c70&link=HGFDSAihgfd
-
-
+中視,p2p://1023005977:9900/570683d900016f3d4b4dd1ea3c3f76bc&link=HGFDSAihgfd
 中視HD,http://du1.ottclub.info:1935/live/c174.stream/playlist.m3u8
 八大第1HD,http://du1.ottclub.info:1935/live/c157.stream/playlist.m3u8
 八大綜合HD,http://du1.ottclub.info:1935/live/c197.stream/playlist.m3u8
@@ -559,7 +566,7 @@ CN卡通頻道,http://du2.ottclub.info:1935/live/c178.stream/playlist.m3u8
 JET綜合,http://du1.ottclub.info:1935/live/c225.stream/playlist.m3u8
 年代MUCH,http://du1.ottclub.info:1935/live/c226.stream/playlist.m3u8
 
-
+大爱,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twda
 大愛一台,http://210.201.54.101:1935/live/Di_sp.sdp/playlist.m3u8
 大愛二台,http://210.201.54.101:1935/live/di_2.sdp/playlist.m3u8
 大愛二台,p2p://1023005977:9900/5711ba600007482c00d616fd5f794fe7&link=HGFDSAihgfd
