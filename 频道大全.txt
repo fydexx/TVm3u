@@ -154,6 +154,9 @@ INDIA NDTV,http://bglive-a.bitgravity.com/ndtv/prolo/live/native
 INDIA india TV,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 INDIA APB,http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
+IN: STAR_PRAVAH,http://mediaipro.com:8000/live/One564/4ve91b9e494z/436.ts
+IN: SET_MAX,http://mediaipro.com:8000/live/One564/4ve91b9e494z/444.ts
+IN: JAYA_MOVIES,http://mediaipro.com:8000/live/One564/4ve91b9e494z/433.ts
 IN: Zee TV,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/748.ts
 IN: Zee TV ME,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/633.ts
 IN: Zee TV HD US,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/634.ts
@@ -253,6 +256,7 @@ IN: Zee Business,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/722.ts
 IN: News24,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/691.ts
 IN: ABP News,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/656.ts
 IN: Aajtak News,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/657.ts
+IN: SunTV,http://mediaipro.com:8000/live/One564/4ve91b9e494z/434.ts
 IN: SunTV HD (Tamil),http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/1261.ts
 IN: SunMusic HD (Tamil),http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/1260.ts
 IN: KTV HD (Tamil),http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/1259.ts
