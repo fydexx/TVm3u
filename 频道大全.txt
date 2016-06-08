@@ -30,6 +30,17 @@ ONE 1 HD,http://rtmp.one.by:1300
 Korea Hits,rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/1293/korea-hits
 *BACKUP BPL LIVE,http://50.7.96.210:8285
 
+SINGAPORE
+SG: Mio Sports 8,http://62.210.148.126:2500/live/kashif/kashif/3182.ts
+SG: Mio Sports 7,http://62.210.148.126:2500/live/kashif/kashif/3181.ts
+SG: Mio Sports 6,http://62.210.148.126:2500/live/kashif/kashif/3180.ts
+SG: Mio Sports 5,http://62.210.148.126:2500/live/kashif/kashif/3179.ts
+SG: Mio Sports 4,http://62.210.148.126:2500/live/kashif/kashif/3178.ts
+SG: Mio Sports 3,http://62.210.148.126:2500/live/kashif/kashif/3177.ts
+SG: Mio Sports 2,http://62.210.148.126:2500/live/kashif/kashif/3176.ts
+SG: Eleven sports 2,http://62.210.148.126:2500/live/kashif/kashif/3175.ts
+SG: Eleven sports 1,http://62.210.148.126:2500/live/kashif/kashif/3174.ts
+
 USA
 美国航天局NASA,http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 美国BOOK TV,http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
@@ -102,17 +113,46 @@ EPL fox sport 1,http://89.163.148.31:8000/live/michele/michele/4567.ts
 EPL Astro 4,http://89.163.148.31:8000/live/michele/michele/4566.ts
 EPL astro 3,http://89.163.148.31:8000/live/michele/michele/4565.ts
 
+
+SRI LANKA,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1850.ts
+SR: Zee Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1559.ts
+SR: vannathiraitv-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1560.ts
+SR: suntvus-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1561.ts
+SR: suntv-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1562.ts
+SR: sunmusic-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1563.ts
+SR: starvijay-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1564.ts
+SR: siripoli-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1565.ts
+SR: shakthitv-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1566.ts
+SR: sankaratam-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1567.ts
+SR: rajtvus-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1568.ts
+SR: rajtv-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1569.ts
+SR: rajnewstamil-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1570.ts
+SR: rajmusictamil-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1571.ts
+SR: rajdigitalplusus-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1572.ts
+SR: rajdigitalplus-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1573.ts
+SR: puthiyatha-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1574.ts
+SR: news7-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1575.ts
+SR: murasu-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1576.ts
+SR: makkal-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1577.ts
+SR: ktvus-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1580.ts
+SR: ktv-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1581.ts
+SR: kalaignartv-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1578.ts
+SR: kalaignarlive-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1579.ts
+SR: jayatvus-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1582.ts
+SR: jayatv-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1583.ts
+SR: jayaplus-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1584.ts
+
 INDIAN
-印度,http://204.107.27.38/live/3485.low.stream/playlist.m3u8
-印度电视,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-印度M,http://103.40.138.89:1935/live/modernindia/playlist.m3u8
-印度B4U MUSIC,http://iliketot.dyndns.tv/tot/web/81ff107849124ff389814b0b8816b1ba.m3u8
-印度IBN,http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3_av-p.m3u8
-印度T-NEWS,rtmp://edge-ind.inapcdn.in:1935/berry/vdevice3.stream_aac
-印度ibn,http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
-印度NDTV,http://bglive-a.bitgravity.com/ndtv/prolo/live/native
-印度 india TV,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-印度APB,http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+INDIA,http://204.107.27.38/live/3485.low.stream/playlist.m3u8
+INDIA电视,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+INDIA M,http://103.40.138.89:1935/live/modernindia/playlist.m3u8
+INDIA B4U MUSIC,http://iliketot.dyndns.tv/tot/web/81ff107849124ff389814b0b8816b1ba.m3u8
+INDIA IBN,http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3_av-p.m3u8
+INDIA T-NEWS,rtmp://edge-ind.inapcdn.in:1935/berry/vdevice3.stream_aac
+INDIA ibn,http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+INDIA NDTV,http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+INDIA india TV,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+INDIA APB,http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
 IN: Zee TV,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/748.ts
 IN: Zee TV ME,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/633.ts
@@ -300,10 +340,10 @@ OO,rtmp://edge2.everyon.tv:80/etv2sb/phd42
 NN E,rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
 韩国有码成人高清1,http://123.108.164.70:1935/etv2sb/phd10062/playlist.m3u8
 韩国有码成人高清3,http://123.108.164.70:1935/etv2sb/phd10499/playlist.m3u8
-韩国有码成人高清4,http://123.108.164.70:1935/etv2sb/phd10501/playlist.m3u8
-韩国有码成人高清7,http://123.108.164.70:1935/etv2sb/phd10769/playlist.m3u8
+韩国有码成人 GIRLS TV,http://123.108.164.70:1935/etv2sb/phd10501/playlist.m3u8
+韩国有码成人 PLAY 19++,http://123.108.164.70:1935/etv2sb/phd10769/playlist.m3u8
 韩国有码成人高清8,http://123.108.164.70:1935/etv2sb/phd10771/playlist.m3u8
-韩国有码成人高清9,http://123.108.164.70:1935/etv2sb/phd10772/playlist.m3u8
+韩国有码成人BUTGO,http://123.108.164.70:1935/etv2sb/phd10772/playlist.m3u8
 
 JAPAN
 日本NHK WORLD,http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
