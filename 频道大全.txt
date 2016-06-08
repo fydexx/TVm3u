@@ -33,6 +33,7 @@ Korea Hits,rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.
 USA
 美国航天局NASA,http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 美国BOOK TV,http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+US: HBO ZONE,http://orbit-iptv.com:2500/live/OnECwnB3Pl/i4mshabOsF/2209.ts
 EPL astro 2,http://89.163.148.31:8000/live/michele/michele/4564.ts
 EPL astro 1,http://89.163.148.31:8000/live/michele/michele/4563.ts
 USA: womens entertainment,http://89.163.148.31:8000/live/michele/michele/4618.ts
