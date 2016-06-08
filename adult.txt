@@ -1,6 +1,22 @@
-韩国女团,rtmp://strtmp.cdn.zhanqi.tv/zqlive/19969_TnDT2
+﻿韩国女团,rtmp://strtmp.cdn.zhanqi.tv/zqlive/19969_TnDT2
 韩国综艺,rtmp://strtmp.cdn.zhanqi.tv/zqlive/1285_Zloy4
 韩国跑男,rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/34822_KA3zE
+韩国有码成人高清1,http://123.108.164.70:1935/etv2sb/phd10062/playlist.m3u8
+韩国有码成人高清2,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
+韩国有码成人高清3,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
+韩国有码成人高清4,http://123.108.164.70:1935/etv2sb/phd10499/playlist.m3u8
+韩国有码成人高清5,http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
+韩国有码成人高清6,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
+韩国有码成人高清7,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+韩国有码成人高清8,http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
+韩国有码成人高清9,http://123.108.164.70:1935/etv2sb/phd10771/playlist.m3u8
+韩国有码成人高清10,http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
+韩国有码成人高清11,http://123.108.164.71/etv2sb/phd10772/playlist.m3u8
+韩国有码成人高清12,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
+韩国有码成人高清13,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+韩国有码成人 PLAY 19++,http://123.108.164.70:1935/etv2sb/phd10769/playlist.m3u8
+韩国有码成人 Girls TV ,http://123.108.164.70:1935/etv2sb/phd10501/playlist.m3u8
+韩国有码成人BUTGO,http://123.108.164.70:1935/etv2sb/phd10772/playlist.m3u8
 P2P新成人直播
 潘多拉粉红有码成人,p2p://60.249.213.25:9900/5713985f000b8b8a02aca8ba011b7763
 潘多拉完美有码成人,p2p://60.249.213.25:9900/57131d85000e2ff400ccc5e1018c4967
@@ -47,17 +63,7 @@ P2P旧成人直播
 潘多拉天使薄码成人,http://58.99.33.4:1935/liveedge/live_785_3.stream/playlist.m3u8
 潘多拉宝贝薄码成人,http://58.99.33.4:1935/liveedge/live_414_3.stream/playlist.m3u8
 潘多拉宝贝薄码成人,http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
-韩国有码成人高清1,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
-韩国有码成人高清2,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
-韩国有码成人高清3,http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
-韩国有码成人高清4,http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
-韩国有码成人高清5,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
-韩国有码成人高清6,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
-韩国有码成人高清7,http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
-韩国有码成人高清8,http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
-韩国有码成人高清9,http://123.108.164.71/etv2sb/phd10772/playlist.m3u8
-韩国有码成人高清10,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
-韩国有码成人高清11,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+
 韩国成人内衣秀,http://123.108.164.71/etv2sb/phd43/playlist.m3u8
 欧美成人无码1,http://195.154.183.48:8000/live/roberto/roberto/1080.ts
 欧美成人无码2,http://195.154.183.48:8000/live/roberto/roberto/1081.ts

@@ -342,12 +342,6 @@ A?,rtmp://edge1.everyon.tv:80/etv1sb/phd1076
 CMCHD,rtmp://edge1.everyon.tv:1935/etv1sb/phd1
 OO,rtmp://edge2.everyon.tv:80/etv2sb/phd42
 NN E,rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
-韩国有码成人高清1,http://123.108.164.70:1935/etv2sb/phd10062/playlist.m3u8
-韩国有码成人高清3,http://123.108.164.70:1935/etv2sb/phd10499/playlist.m3u8
-韩国有码成人 GIRLS TV,http://123.108.164.70:1935/etv2sb/phd10501/playlist.m3u8
-韩国有码成人 PLAY 19++,http://123.108.164.70:1935/etv2sb/phd10769/playlist.m3u8
-韩国有码成人高清8,http://123.108.164.70:1935/etv2sb/phd10771/playlist.m3u8
-韩国有码成人BUTGO,http://123.108.164.70:1935/etv2sb/phd10772/playlist.m3u8
 
 JAPAN
 日本NHK WORLD,http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
@@ -850,7 +844,6 @@ TVB翡翠明珠,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&F
 
 凤凰中文,http://110.77.0.182:1935/dvr/1008.stream/playlist.m3u8
 凤凰中文,http://zv.3gv.ifeng.com/live/zhongwen800k.m3u8
-
 凤凰中文HD,http://112.17.0.10:8085/ysten-business/live/fhchinese/yst.m3u8
 凤凰中文HD,http://110.77.0.182:1935/dvr/1008.stream/playlist.m3u8?DVR
 凤凰中文HD,http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8#p2p://106.186.121.94:8258/560729f3000610e756e6794c1da00384#p2p://61.221.233.81:9000/5606a903000dea4e0114456e67eb378c&link=HGFDSAihgfd#rtmp://183.238.77.4:1935/dvr/30181.stream
