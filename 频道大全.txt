@@ -142,7 +142,7 @@ SR: jayatvus-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1582.ts
 SR: jayatv-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1583.ts
 SR: jayaplus-Tamil,http://s1.ukhdtv.com:7860/live/ml2new/19LOHfWTNB/1584.ts
 
-INDIAN
+INDIA
 INDIA,http://204.107.27.38/live/3485.low.stream/playlist.m3u8
 INDIA电视,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 INDIA M,http://103.40.138.89:1935/live/modernindia/playlist.m3u8
