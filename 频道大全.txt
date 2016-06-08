@@ -577,6 +577,14 @@ MTVHD,http://du3.ottclub.info:1935/live/c241.stream/playlist.m3u8
 EVE生活,http://du3.ottclub.info:1935/live/c243.stream/playlist.m3u8
 BRAVO菁采,http://du3.ottclub.info:1935/live/c201.stream/playlist.m3u8
 
+HBO HD,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhbo
+TCL,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twtlc
+FXHD,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twfxhd
+Cinemax HD,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twcinemax
+HD电影,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twls
+卫视电影,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twwsdy
+星衛HD电影,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twxwdy
+好莱坞电影,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhlwdy
 國家地理HD,http://du3.ottclub.info:1935/live/c206.stream/playlist.m3u8
 國家地理野生HD,http://du3.ottclub.info:1935/live/c207.stream/playlist.m3u8
 國家人文,http://du3.ottclub.info:1935/live/c245.stream/playlist.m3u8

@@ -330,20 +330,38 @@ http://fms.cntv.lxdns.com/live/flv/channel89.flv
 http://fms.cntv.lxdns.com/live/flv/channel93.flv
 #EXTINF:-1, CCTV熊猫-母子园
 http://fms.cntv.lxdns.com/live/flv/channel95.flv
+#EXTINF:-1,CCTV-9 Documentary
+http://223.19.145.252:9981/stream/channelid/19?ticket=FEBED2981679FD035F1CDA475A57A0C8FD8C0079
+#EXTINF:-1,翡翠台
+http://223.19.145.252:9981/stream/channelid/11?ticket=FD5EFCB7EBD0B6D874F0526A08B0AA778F00DFD1
 #EXTINF:-1, 翡翠台
 rtmp://219.232.160.161:1935/livestream/bycgekwh
 #EXTINF:-1, 翡翠台
 rtmp://tl.allook.8686c.com:1935/vod/livetvbcom01
+#EXTINF:-1, J2 HD
+http://14.199.245.83:9981/stream/channelid/6
+#EXTINF:-1,J2
+http://223.19.145.252:9981/stream/channelid/3?ticket=6AFB5AE6681AC881BF9B705D3CEEC495076D1D1A
+#EXTINF:-1,J5
+http://223.19.145.252:9981/stream/channelid/1?ticket=ACEEC55599A06AFA118F87605163458A6D7687B3
 #EXTINF:-1, TVBJ5 HD
 http://14.199.245.83:9981/stream/channelid/4
 #EXTINF:-1, TVBJ5
 rtmp://tl.allook.8686c.com:1935/vod/livetvbcom03
-#EXTINF:-1, 娱乐新闻台
-rtmp://tl.allook.8686c.com:1935/vod/livetvbcom04
+#EXTINF:-1,RTHK TV 31
+http://223.19.145.252:9981/stream/channelid/18?ticket=896A9CD4C29982ACA9E9CAB97E3C57E39FD64FC7
+#EXTINF:-1,RTHK TV 32
+http://223.19.145.252:9981/stream/channelid/17?ticket=96AD5B786EBC5A65C6FB8D71E1E5D343DA8F6914
+#EXTINF:-1,ViuTV
+http://223.19.145.252:9981/stream/channelid/25?ticket=8D7378304492FE646816C389ABC6C9E6A5AD9DF6
+#EXTINF:-1,明珠台
+http://223.19.145.252:9981/stream/channelid/24?ticket=CAC903CCC2CC681BA3A13D71EC935416AA3940D1
 #EXTINF:-1, 明珠台 HD
 http://14.199.245.83:9981/stream/channelid/7
-#EXTINF:-1, J2 HD
-http://14.199.245.83:9981/stream/channelid/6
+#EXTINF:-1,無線新聞台
+http://223.19.145.252:9981/stream/channelid/2?ticket=980A5C21B5A8A359DE9EF99D22A1A56FE1DAAB76
+#EXTINF:-1, 娱乐新闻台
+rtmp://tl.allook.8686c.com:1935/vod/livetvbcom04
 #EXTINF:-1, 互动新闻 HD
 http://14.199.245.83:9981/stream/channelid/5
 #EXTINF:-1, 香港電視HKTV2
