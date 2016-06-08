@@ -65,6 +65,12 @@ SITAN,http://84.244.187.12:1935/live/livestream/playlist.m3u8
 印度电视,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
 印度M,http://103.40.138.89:1935/live/modernindia/playlist.m3u8
 印度B4U MUSIC,http://iliketot.dyndns.tv/tot/web/81ff107849124ff389814b0b8816b1ba.m3u8
+印度IBN,http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3_av-p.m3u8
+印度T-NEWS,rtmp://edge-ind.inapcdn.in:1935/berry/vdevice3.stream_aac
+印度ibn,http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
+印度NDTV,http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+印度 india TV,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+印度APB,http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 迪拜1,http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
 库尔德斯坦2,http://84.244.187.12:1935/live/livestream/playlist.m3u8
 音乐m20tv,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
@@ -263,14 +269,16 @@ MOMO親子,http://du2.ottclub.info:1935/live/c168.stream/playlist.m3u8
 CN卡通頻道,http://du2.ottclub.info:1935/live/c178.stream/playlist.m3u8
 南投新聞台，http://58.99.33.1:1935/liveedge/smil:live_1_2_iphone.smil/chunklist.m3u8?c=123
 雲林新聞台，http://58.99.33.1:1935/liveedge/smil:live_1_0_iphone.smil/chunklist.m3u8?c=123
-
 民視綜合台,p2p://1023005977:9900/570683bb00035b394b4d5d387e7c2a91&link=HGFDSAihgfd
 中視,p2p://1023005977:9900/570683d900016f3d4b4dd1ea3c3f76bc&link=HGFDSAihgfd
 中視菁彩,p2p://1023005977:9900/570683f100092e384b4e31a6258f5c70&link=HGFDSAihgfd
 華視,p2p://1023005977:9900/570684170003414b4b4ec49123576ab4&link=HGFDSAihgfd
 華視綜合娛樂,p2p://1023005977:9900/5706834d0003e5884b4bafaa72be5e35&link=HGFDSAihgfd
 
-民视新闻HD,http://59.120.43.180:17355#http://220.228.38.16/live/fet002/chunklist.m3u8#http://59.120.43.180:17355
+CTS,http://220.132.204.119:9981/stream/channelid/1?ticket=617082AE284E1A73A8AFC41CE0AADBC6D59672C2
+CTS 1,http://220.132.204.119:9981/stream/channelid/4?ticket=5780F351B1145AD1C8398210C6830DDABA5F6F34
+CTS 2,http://220.132.204.119:9981/stream/channelid/3?ticket=263FB7CE9DA14B34D673DF6247283480D240F716
+CTS 3,http://220.132.204.119:9981/stream/channelid/2?ticket=26C1575167AF13A990CEF000A94573865D889D56
 
 大愛二台,p2p://1023005977:9900/5711ba600007482c00d616fd5f794fe7&link=HGFDSAihgfd
 GoodTV好消息,rtmp://l.jdjys.net/livefy/livestream
@@ -283,7 +291,7 @@ GoodTV好消息2,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live
 台灣戲劇台,p2p://1023005977:9900/5711aced000607ad00a18d731b7d7c67&link=HGFDSAihgfd
 华视HD,rtsp://210.200.79.28:554/live/ctshd
 民视新闻,rtsp://210.200.79.28:554/live/ftvn_sp.sdp
-
+民视新闻HD,http://59.120.43.180:17355#http://220.228.38.16/live/fet002/chunklist.m3u8#http://59.120.43.180:17355
 台湾交通,rtsp://210.200.79.28:554/live/ftvm_sp.sdp
 民視四季台,p2p://1023005977:9900/57067d74000eef344b34dacf2f5d1ce3&link=HGFDSAihgfd
 华视HD,http://du1.ottclub.info:1935/live/c172.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
@@ -1622,13 +1630,6 @@ BTV北京纪实高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdg
 广东卫视高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdgdws&playtype=live&auth=yes
 深圳卫视高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdszws&playtype=live&auth=yes
 黑龙江卫视高清,http://httpdvb.slave.dzcatv.com:13160/httpdvb?chnlname=hdhljws&playtype=live&auth=yes
-
-印度IBN,http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3_av-p.m3u8
-印度T-NEWS,rtmp://edge-ind.inapcdn.in:1935/berry/vdevice3.stream_aac
-印度ibn,http://etv_marathi-lh.akamaihd.net/i/etv_marathi_n_1@87184/master.m3u8
-印度NDTV,http://bglive-a.bitgravity.com/ndtv/prolo/live/native
-印度 india TV,http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
-印度APB,http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 
 迪拜电视,http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 乌克兰BUKOVINA,rtmp://gigaz.wi.com.ua/hallDemoHLS/BUKOVINA
