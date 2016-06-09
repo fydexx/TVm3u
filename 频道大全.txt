@@ -13,6 +13,7 @@ METRO TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u
 AL JAZEERA ENGLISH,http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 ABC NEWS,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 BLOOMBERG,http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
 英语学习软件，http://125.88.92.166:30001/PLTV/88888956/224/3221227718/1.m3u8
 纽约高清电视1,http://ktv009.cdnak.ds.kylintv.net/nlds/kylin/kunlunhd/as/live/kunlunhd_4.m3u8
 纽约高清电视2，http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/yangtse/as/live/yangtse_4.m3u8
@@ -21,6 +22,137 @@ BLOOMBERG,http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 美国高清影院,http://dlhls.cdn.zhanqi.tv/zqlive/21333_CvnhE.m3u8
 温州新闻综合,rtmp://livetv.dhtv.cn:1935/live/news
 福建海峡卫视 http://ktv034.cdnak.ds.kylintv.net/nlds/kylin/fjstv/as/live/fjstv_3.m3u8
+
+==韩国频道==
+
+韩国DANG TV,http://123.108.164.71/etv2sb/phd43/playlist.m3u8
+朝鲜日报台,rtmp://live.chosun.gscdn.com:1935/live/tvchosun1.stream
+韩THE,rtmp://123.108.164.71:1935/etv2sb/phd8
+韩国电视,rtmp://218.38.152.69:1935/da_live/72136989/mp4:ch001
+SBS HD,http://211.33.88.77/sbsch6pc/sbs1ch61.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+SBS FUN E HD,http://211.33.88.77/sbsetvpc/sbsetv3.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+SBS CNBC,http://211.33.88.77/sbscnbcpc/sbscnbc3.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+SBS NICKELODEON,http://211.33.88.77/sbsnickpc/sbsnick3.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+韩国音乐,http://123.108.164.71/etv2sb/phd4/playlist.m3u8
+韩国event tv,http://123.108.164.71/etv2sb/phd389/playlist.m3u8
+朝鲜中央电视台,mms://121.167.43.161/chosun
+MBC MAX,http://63.237.48.3/ios/MBC_MAX/MBC_MAX.m3u8
+MBC宝莱坞,http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+韩-KCTVN,http://122.202.129.136:1935/live/ch4/playlist.m3u8
+韓國樂,http://du3.ottclub.info:1935/live/c718.stream/playlist.m3u8
+韓國M娱乐,http://du3.ottclub.info:1935/live/c740.stream/playlist.m3u8
+韓國娱乐台KMTV,p2p://1023005977:9900/57133cf8000d462001479ed46ccb4744&link=HGFDSAihgfd
+韓國釣魚台FTV,p2p://1023005977:9900/5606e2e00009825501f64b9a1e25003b&link=HGFDSAihgfd
+韓國時尚,rtmp://edge2.everyon.tv/etv2/pld24
+KTV-HD ,rtmp://218.38.152.31/klive/klive.stream
+KTV ,rtmp://218.38.152.69:1935/da_live/72136989/mp4:ch001
+HSN ,rtmp://hsn.mpl.miisolutions.net/hsn-live01/_definst_/420p500kB31
+韓國MV,http://dlhls.cdn.zhanqi.tv/zqlive/284_zMohT_400/index.m3u8
+韓-OBS,http://111.118.21.79/etv1sb/phd3/playlist.m3u8
+韓-OBS,rtmp://111.118.21.79/etv1sb/phd3
+韓國新唐人電視(國語),rtmp://123.108.164.71/etv2/phd1058#rtmp://123.108.164.71/etv2/phd926
+韩国动画,http://123.108.164.71/etv2sb/pld13/lihattv.m3u8
+韩JES英语,http://123.108.164.71/etv2sb/pld15/lihattv.m3u8
+韩INETHD,http://123.108.164.71/etv2sb/pld263/lihattv.m3u8
+韩KCTV,rtmp://122.202.129.136:1935/live/ch4
+韩alirang,http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+韩-alirang ld,http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld1.m3u8
+韩-timess,http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+韩-电影,http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+韩-PLAYY,http://123.108.164.71/etv2sb/phd770/lihattv.m3u8
+韩国KBS2高清,http://www.kktv5.com/swf/external/videoplayershare.swf?v=1457920830716&userId=86312365&redirectUrl=http%3A%2F%2Fwww.kktv5.com%2F86312365&autoPlay=1&topBar=1&screenLogo=1&barLogo=1&barrage=1&enterRoom=1&vclick=1&linking=0
+韩国SBS MTV,http://sbsplayer.sbs.co.kr/OnAir/NeTVOnAir_1_1_0_0.swf?url=http://sbsplayer.sbs.co.kr/OnAir/env/MTV.xml&controlSet
+韩国JTBC,rtmp://rtmpplay2.idol001.com/live/korea_jtbc
+JTBC,rtmp://edge2.everyon.tv:1935/etv2/phd343
+韩国JTBC golf,rtmp://edge1.everyon.tv:1935/etv1sb/phd58
+SBS CNBC,http://sbsplayer.sbs.co.kr/OnAir/NeTVOnAir_1_1_0_0.swf?url=http://sbsplayer.sbs.co.kr/OnAir/env/CNBC.xml&controlS
+JTBC FOX 体育,rtmp://edge1.everyon.tv:1935/etv1/phd197
+韩国KCTV-HD,rtmp://122.202.129.136:1935/live/ch5
+韩国KCTV-N SD,rtmp://122.202.129.136:1935/live/ch4
+韩国KCTV-HD,http://122.202.129.136:1935/live/ch4/playlist.m3u8
+韩国KCTV-N HQ,http://122.202.129.136:1935/live/ch5/playlist.m3u8
+TV ??,rtmp://edge1.everyon.tv:1935/etv1/phd341
+????TV,rtmp://edge2.everyon.tv:1935/etv2/phd133
+?? A,rtmp://edge1.everyon.tv:1935/etv1/phd251
+YTN,rtmp://edge1.everyon.tv:1935/etv1sb/phd20
+韩国a,rtmp://edge2.everyon.tv:1935/etv2/phd481
+QBS,rtmp://edge1.everyon.tv:1935/etv1sb/phd957
+OBS,rtmp://edge2.everyon.tv:1935/etv2sb/phd1042
+OBS W,rtmp://edge1.everyon.tv:1935/etv1sb/phd3
+MTN,rtmp://edge1.everyon.tv:1935/etv1sb/phd18
+RTNTV,rtmp://edge1.everyon.tv:1935/etv1sb/phd19
+xxtv,rtmp://edge1.everyon.tv:1935/etv1sb/phd563
+韩-阿里郎,http://korealive-ios.arirang.co.kr/arirang/arirangtvkoreaios.mp4.m3u8
+韩国,rtmp://edge1.everyon.tv:1935/etv1sb/phd385
+韩国1,rtmp://edge2.everyon.tv:1935/etv2sb/phd23
+EBS I,http://ebs.co.kr/common/swf/onair_player.swf?A=true&V=rtmp://ebsonair.ebs.co.kr/plus1familypc/familypc1m
+EBS1,http://ebs.co.kr/common/swf/onair_player.swf?A=true&V=rtmp://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m
+BBS,rtmp://edge1.everyon.tv:1935/etv1/phd553
+GGNTV HD,rtmp://edge2.everyon.tv:1935/etv2/phd235
+GMBTV,rtmp://edge1.everyon.tv:80/etv1/phd275
+GCNTV,rtmp://edge1.everyon.tv:1935/etv1sb/phd327
+C ,rtmp://edge1.everyon.tv:1935/etv1/phd335
+CBS,rtmp://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream
+CTS,rtmp://edge1.everyon.tv:1935/etv1/phd28
+PBC,rtmp://49.1.248.21:1935/live/mp4:tv
+STB,rtmp://edge2.everyon.tv:1935/etv2sb/phd38
+GOODTV,rtmp://edge2.everyon.tv:1935/etv2sb/phd29
+HOPE,rtmp://edge2.everyon.tv:1935/etv2/phd873
+EventTV,rtmp://edge2.everyon.tv:1935/etv2sb/phd389
+XXTV,rtmp://edge1.everyon.tv:1935/etv1/phd273
+钓鱼,rtmp://edge1.everyon.tv:1935/etv1/phd269
+钓鱼1,rtmp://edge2.everyon.tv:1935/etv2/phd12
+KBNTV,rtmp://edge1.everyon.tv:1935/etv1sb/phd387
+Billiards TV,rtmp://edge1.everyon.tv:1935/etv1sb/phd191
+围棋,rtmp://edge1.everyon.tv:1935/etv1/phd207
+象棋,rtmp://edge1.everyon.tv:1935/etv1sb/phd381
+海上钓鱼,rtmp://edge2.everyon.tv:1935/etv2sb/phd13
+STN,rtmp://edge1.everyon.tv:1935/etv1sb/phd849
+ETN,rtmp://edge2.everyon.tv:1935/etv2sb/phd2
+A?,rtmp://edge1.everyon.tv:80/etv1sb/phd1076
+CMCHD,rtmp://edge1.everyon.tv:1935/etv1sb/phd1
+OO,rtmp://edge2.everyon.tv:80/etv2sb/phd42
+NN E,rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
+韩国女团,http://dlhls.cdn.zhanqi.tv/zqlive/19969_TnDT2.m3u8
+韩INETHD,http://123.108.164.71/etv2sb/pld263/lihattv.m3u8
+韩国KBS2,p2p://60.249.213.25:9900/5606e3fb000ed28401fa9e6a75b77062
+经典鬼片,http://183.57.28.42/pl3.live.panda.tv/live_panda/828d3c99c1141d99baf6beb2f7481ac6.flv?wshc_tag=0&wsts_tag=57343d37&wsid_tag=e71168b&wsiphost=ipdbm
+韩国电影01,rtmp://lm01.everyon.tv:1935/ptv/_definst_/phd513
+韩国电影02,rtmp://lm03.everyon.tv:1935/ptv3/_definst_/phd505
+韩国YTN ,rtmp://112.175.248.34:1935/ytn/_definst_/ylivehd_20140419_1
+韩国中文台,http://122.202.129.136:1935/live/ch5/playlist.m3u8
+韓國娱乐,http://du3.ottclub.info:1935/live/c218.stream/playlist.m3u8
+韓國M樂,http://du3.ottclub.info:1935/live/c240.stream/playlist.m3u8
+韓國KTV-HD1,rtmp://218.38.152.31:1935/klive/klive.stream
+韓國CBS,rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
+CHOUXIAN,rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
+
+==日本频道==
+
+日本NHK WORLD,http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live_tv.m3u8
+NHK総合,p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3
+NHKＥテレ,p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
+NHK BSプレミアム,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
+テレビ东京,p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
+日テレビ,p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9
+テレビTBS,p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
+テレビ朝日,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
+NHK総合,p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3
+NHKＥテレ,p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
+NHK BSプレミアム,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
+テレビ东京,p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
+日テレビ,p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9
+テレビTBS,p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
+テレビ朝日,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
+日本直播1,p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
+日本直播4,p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9
+日本直播5,p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
+日本直播6,p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3
+日本直播7,p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
+日本直播8,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
+日本直播9,p2p://50.7.104.10:9906/540050290000343a015059b37121116a
+日本直播10,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
+
 
 ==香港频道==
 

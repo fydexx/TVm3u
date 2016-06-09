@@ -267,10 +267,10 @@ IN: StarVijay (Tamil),http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/1258.ts
 朝鲜日报台,rtmp://live.chosun.gscdn.com:1935/live/tvchosun1.stream
 韩THE,rtmp://123.108.164.71:1935/etv2sb/phd8
 韩国电视,rtmp://218.38.152.69:1935/da_live/72136989/mp4:ch001
-Korea:SBS HD,http://211.33.88.77/sbsch6pc/sbs1ch61.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
-Korea:SBS FUN E HD,http://211.33.88.77/sbsetvpc/sbsetv3.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
-Korea:SBS CNBC,http://211.33.88.77/sbscnbcpc/sbscnbc3.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
-Korea:SBS NICKELODEON,http://211.33.88.77/sbsnickpc/sbsnick3.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+SBS HD,http://211.33.88.77/sbsch6pc/sbs1ch61.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+SBS FUN E HD,http://211.33.88.77/sbsetvpc/sbsetv3.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+SBS CNBC,http://211.33.88.77/sbscnbcpc/sbscnbc3.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
+SBS NICKELODEON,http://211.33.88.77/sbsnickpc/sbsnick3.stream/playlist.m3u8?wowzasessionid=0&amp;u=sbs&amp;q=35jZ5rfJ2eoUHqODGGFSfwOKZotz0KlWW7IxDJiEGew=
 韩国音乐,http://123.108.164.71/etv2sb/phd4/playlist.m3u8
 韩国event tv,http://123.108.164.71/etv2sb/phd389/playlist.m3u8
 朝鲜中央电视台,mms://121.167.43.161/chosun
@@ -364,6 +364,7 @@ NN E,rtmp://edge1.everyon.tv:1935/etv1sb/phd1021
 韓國M樂,http://du3.ottclub.info:1935/live/c240.stream/playlist.m3u8
 韓國KTV-HD1,rtmp://218.38.152.31:1935/klive/klive.stream
 韓國CBS,rtmp://cbs-live.gscdn.com/cbs-live/cbs-live.stream
+CHOUXIAN,rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
 
 
 日本
@@ -422,7 +423,7 @@ SITAN,http://84.244.187.12:1935/live/livestream/playlist.m3u8
 俄罗斯ct,rtmp://80.245.113.12:1935/live/pubtalk1
 卡塔尔半岛台,rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
 法国ARTE,http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-CHOUXIAN,rtmp://live.chosun.gscdn.com/live/_definst_/mp4:tvchosun1.stream
+
 马其顿-Kanal 5,http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8
 尼日利亚Chosen Revival,rtmp://155.obj.netromedia.net/chosenavn/mpegts.stream
 洪都拉斯Cholusat Sur Canal 36,rtmp://live.audiotvserver.com:1935/livemedia/cholusat
