@@ -1,14 +1,14 @@
 ﻿马来西亚电视
-Astro Awani,http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8
-马来西亚,http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b329000_sleng.m3u8
-马来西亚,http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b974000_sleng.m3u8
-马来西亚,http://rtm-live.glueapi.io/smil:rtm-ch006/chunklist_b305000_sleng.m3u8
-1nwes,http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Ind3dy5tYWxheXNpYTFuZXdzLm15IiwiZCI6MTQ2NTM5MDk4Nn0.mUQehw9gaOZTHwHsIue8In8DzU2vGyhCJmDpc2KkaJ69fh-lyjlv8C94oEDQPVqA2lzLDQpwS6gdXlYeNhKIMQ
-tv1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MDc0M30.epqa4cWD13jWtb0dyxWDZ9W4ggd2wH19fQnAMf6EX53yf8s2qbV8V0XxbkyULKg6lo2_m8y0YXspqZgEQjwNNw
-tv2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8
-tv2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTYyNn0.AJ_HBe4LEpkl0CHsFVXK8pMJiopXAjx3-iODRFeIwGHmM2dYduORX-yoVxMsmQLpjhIxTCyb_g50zRSxtS2Lgw
-tv2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTE0NH0.9tXlg9qvJQsmMipUOFWfBZsGMYxSmHzzKe_VA1Exh6ydATQNRXM3O5gqNKxbR773zpVFbDIEZuC4lm4R7b6Ajw
-tv2,http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b644000_sleng.m3u8
+ASTRO AWANI,http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8
+马来西亚TV1,http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b329000_sleng.m3u8
+马来西亚TV1,http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b974000_sleng.m3u8
+马来西亚TV1,http://rtm-live.glueapi.io/smil:rtm-ch006/chunklist_b305000_sleng.m3u8
+马来西亚TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MDc0M30.epqa4cWD13jWtb0dyxWDZ9W4ggd2wH19fQnAMf6EX53yf8s2qbV8V0XxbkyULKg6lo2_m8y0YXspqZgEQjwNNw
+马来西亚TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8
+马来西亚TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTYyNn0.AJ_HBe4LEpkl0CHsFVXK8pMJiopXAjx3-iODRFeIwGHmM2dYduORX-yoVxMsmQLpjhIxTCyb_g50zRSxtS2Lgw
+马来西亚TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTE0NH0.9tXlg9qvJQsmMipUOFWfBZsGMYxSmHzzKe_VA1Exh6ydATQNRXM3O5gqNKxbR773zpVFbDIEZuC4lm4R7b6Ajw
+马来西亚TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/chunklist_b644000_sleng.m3u8
+马来西亚1NEWS,http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Ind3dy5tYWxheXNpYTFuZXdzLm15IiwiZCI6MTQ2NTM5MDk4Nn0.mUQehw9gaOZTHwHsIue8In8DzU2vGyhCJmDpc2KkaJ69fh-lyjlv8C94oEDQPVqA2lzLDQpwS6gdXlYeNhKIMQ
 tvi,http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTIxM30.q0YarF8rwfFzLNZScxUhd8S3jvYmRDYoRUAYOa2GnIddseDyinwGMzAeYYj5BS_wPs5GG9y59uG3tLRo_HJlGQ
 tvi,http://rtm-live.glueapi.io/smil:rtm-ch003.smil/chunklist_b329000_sleng.m3u8
 gala,http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTMwMH0.u9a-hhTEtM0wIIaDqvlE7qD2W8ipH4Jf9A7YIF4RZEVuyaFawRr61jpEqUsO6CrWo9d8kkDaM8PPqMBZjTTGdw
@@ -16,11 +16,10 @@ mobtv,http://52.76.43.125:1935/live/mystream/playlist.m3u8
 RTM Parlimen,http://rtm-live.glueapi.io/smil:rtm-ch007/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTIiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTQ3Nn0.jdFvtxEr8m-kVof7zftUCbPVzjCRNbeKgS8I-XZuStfRKlsZu7fzqbP4dCxoz31ZXLeyY3qrCboB-hA3s3g3lg
 Aksi Sukan,http://rtm-live.glueapi.io/smil:rtm-ch008/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTQiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTUyNH0.O_8FtW46hYOJ55wdP035ubr6VxhFsNBKcB5pvuP5kRqrfJujwP424RBzmCUjdBg7YdatU0Gq-O61r6hz6j2Rsw
 
-
-大牌频道
-star world,http://iptv-blue.mine.nu/fwtv/65f7358b813048a0898f5677e1793cf9.m3u8
+大牌频道 THAILAND
+STAR WORLD,http://iptv-blue.mine.nu/fwtv/65f7358b813048a0898f5677e1793cf9.m3u8
 FOX Crime HD,http://iptv-blue.mine.nu/fwtv/5028f7ff1d1b4d5f8189690233364737.m3u8
-sfsf,http://iptv-blue.mine.nu/fwtv/71f197de056e499a85265c03b44bdab1.m3u8
+SYFY,http://iptv-blue.mine.nu/fwtv/71f197de056e499a85265c03b44bdab1.m3u8
 ci,http://iptv-blue.mine.nu/fwtv/9961a963920f45f4bc0d81c3e478b334.m3u8
 国家地理野生,http://super.iptvbot.biz/iptv/5V4S36BNB322LL/133/index.m3u8
 NBA,http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
@@ -405,7 +404,6 @@ TOKYO-MX,p2p://60.249.213.25:9900/57143f04000c559d05379d7257fc0488.ts
 松视三,p2p://60.249.213.25:9900/57131d65000ba29b00cc483a6b266752
 松视四,p2p://60.249.213.25:9900/57131d130001f89a00cb0570203d37d1.ts
 松视四,p2p://60.249.213.25:9900/57131d130001f89a00cb0570203d37d1
-松视视頻,http://www.sonsee.com.tw/filmfiles4/HSDN-366-2_484521.mp4
 松视试看1,http://www.sonsee.com.tw//filmfiles4/HSDN-366-2_484521.mp4
 
 彩虹e有碼成人,p2p://60.249.213.25:9900/57133c9e000853e201463dff41c350a4.ts
