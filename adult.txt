@@ -449,17 +449,17 @@ Hiplay玩家有碼成人,p2p://60.249.213.25:9900/57131ea6000354ae00d12c0373ba66
 visit-X,rtmp://stream.visit-x.tv/vxtv/live_720p
 
 步兵1,http://210.242.196.106:1935/live/c001.stream/playlist.m3u8
-步兵2,http://210.242.196.106:1935/live/c002.stream/playlist.m3u8
-步兵3,http://210.242.196.106:1935/live/c003.stream/playlist.m3u8
-步兵4,http://210.242.196.106:1935/live/c004.stream/playlist.m3u8
-步兵5,http://210.242.196.106:1935/live/c005.stream/playlist.m3u8
-步兵6,http://210.242.196.106:1935/live/c006.stream/playlist.m3u8
-步兵7,http://210.242.196.106:1935/live/c007.stream/playlist.m3u8
-步兵8,http://210.242.196.106:1935/live/c008.stream/playlist.m3u8
-步兵9,http://210.242.196.106:1935/live/c009.stream/playlist.m3u8
-步兵10,http://210.242.196.106:1935/live/c010.stream/playlist.m3u8
-步兵11,http://210.242.196.106:1935/live/c011.stream/playlist.m3u8
-步兵12,http://210.242.196.106:1935/live/c012.stream/playlist.m3u8
+步兵1,http://210.242.196.106:1935/live/c002.stream/playlist.m3u8
+步兵2,http://210.242.196.106:1935/live/c003.stream/playlist.m3u8
+步兵2,http://210.242.196.106:1935/live/c004.stream/playlist.m3u8
+步兵3,http://210.242.196.106:1935/live/c005.stream/playlist.m3u8
+步兵3,http://210.242.196.106:1935/live/c006.stream/playlist.m3u8
+步兵4,http://210.242.196.106:1935/live/c007.stream/playlist.m3u8
+步兵4,http://210.242.196.106:1935/live/c008.stream/playlist.m3u8
+步兵5,http://210.242.196.106:1935/live/c009.stream/playlist.m3u8
+步兵5,http://210.242.196.106:1935/live/c010.stream/playlist.m3u8
+步兵6,http://210.242.196.106:1935/live/c011.stream/playlist.m3u8
+步兵6,http://210.242.196.106:1935/live/c012.stream/playlist.m3u8
 
 一本道,p2p://60.249.213.25:9900/5606c63300026a49018645fc4fa242c1.ts
 一本道,rtmp://198.211.33.185/livepkgr/1C
