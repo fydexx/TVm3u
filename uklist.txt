@@ -1,126 +1,126 @@
-UK True Movies 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5692.ts
-UK TLC UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5693.ts
-UK Tiny Pop UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5694.ts
-UK TG4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5695.ts
-UK SyFy UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5696.ts
-UK Sky Sports News HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5697.ts
-UK Sky Sports F1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5698.ts
-UK Sky Sports F1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5699.ts
-UK Sky Sports 5 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5700.ts
-UK Sky Sports 5 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5701.ts
-UK Sky Sports 4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5702.ts
-UK Sky Sports 4 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5703.ts
-UK Sky Sports 3 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5704.ts
-UK Sky Sports 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5705.ts
-UK Sky Sports 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5706.ts
-UK Sky Sports 1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5707.ts
-UK SKY NEWS,http://cp.dmbshare.net:8000/live/daryl/daryl/5708.ts
-UK Sky Movies Showcase UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5709.ts
-UK Sky Movies Sci-Fi &amp; Horror UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5710.ts
-UK Sky Movies Sci-Fi &amp; Horror HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5711.ts
-UK Sky Movies Premiere HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5712.ts
-UK Sky Movies Greats UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5713.ts
-UK Sky Movies Greats HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5714.ts
-UK Sky Movies Family UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5715.ts
-UK Sky Movies Family HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5716.ts
-UK Sky Movies Drama &amp; Romance HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5717.ts
-UK Sky Movies Disney UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5718.ts
-https://iptv.zone/en UK Sky Movies Disney UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5719.ts
-UK Sky Movies Crime &amp; Thriller UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5720.ts
-UK Sky Movies Crime &amp; Thriller HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5721.ts
-UK Sky Movies Comedy HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5722.ts
-UK Sky Movies Action &amp; Adventure UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5723.ts
-UK Sky Movies Action &amp; Adventure HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5724.ts
-UK Sky Atlantic UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5725.ts
-UK Sky 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5726.ts
-UK Sky 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5727.ts
-UK Setanta Sports UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5728.ts
-UK RTE Two HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5729.ts
-UK RTE One HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5730.ts
-UK RT. Two UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5731.ts
-UK RT. One UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5732.ts
-UK RT. News Now UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5733.ts
-UK Really UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5734.ts
-UK Real Lives UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5735.ts
-UK Racing UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5736.ts
-UK Premier Sports UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5737.ts
-UK Pick UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5738.ts
-UK Nick Jr. UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5739.ts
-UK National Geographic Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5740.ts
-UK Nat Geo Wild UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5741.ts
-UK MUTV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5742.ts
-UK MTV Music UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5743.ts
-UK Movies4Men UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5744.ts
-UK Mototrs TV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5745.ts
-UK More4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5746.ts
-UK Liverpool TV UKhttp://cp.dmbshare.net:8000/live/daryl/daryl/5747.ts
-UK ITV Encore UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5748.ts
-UK ITV BE UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5749.ts
-UK ITV 4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5750.ts
-UK ITV 3 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5751.ts
-UK ITV 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5752.ts
-UK ITV 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5753.ts
-UK Horror Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5754.ts
-UK History UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5755.ts
-UK H2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5756.ts
-UK Good Food UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5757.ts
-UK Gold UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5758.ts
-UK FOX UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5759.ts
-UK FOX News UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5760.ts
-UK Food Network UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5761.ts
-UK FLAVA UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5762.ts
-UK Film4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5763.ts
-UK Eurosport 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5764.ts
-UK Eurosport 2 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5765.ts
-UK Eurosport 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5766.ts
-UK Eurosport 1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5767.ts
-UK ETV1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5768.ts
-UK ETV HD,http://cp.dmbshare.net:8000/live/daryl/daryl/5769.ts
-UK E4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5770.ts
-UK E! UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5771.ts
-UK Drama UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5772.ts
-UK DMAX UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5773.ts
-UK Disney XD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5774.ts
-UK Disney Junior UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5775.ts
-UK Disney Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5776.ts
-UK Discovery World UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5777.ts
-UK Discovery Turbo UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5778.ts
-UK Discovery Science UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5779.ts
-UK Discovery Science HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5780.ts
-UK Discovery Investigation UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5781.ts
-UK Discovery Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5782.ts
-UK Dave UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5783.ts
-UK Dave ja vu UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5784.ts
-UK Comedy Central UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5785.ts
-UK Comedy Central Extra UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5786.ts
-UK Colors UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5787.ts
-UK CNN UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5788.ts
-UK CITV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5789.ts
-UK Chelsea TV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5790.ts
-UK Channel 5 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5791.ts
-UK Channel 4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5792.ts
-UK CBS Reality UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5793.ts
-UK CBS Drama UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5794.ts
-UK CBS Action UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5795.ts
-UK CBeebies UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5796.ts
-UK Cartoon Network UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5797.ts
-UK BT Sport EXTRA UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5798.ts
-UK BT Sport EUROPE HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5799.ts
-UK BT Sport 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5800.ts
-UK BT Sport 2 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5801.ts
-UK BT Sport 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5802.ts
-UK BT Sport 1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5803.ts
-UK BOX Nation UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5804.ts
-UK Boomerang UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5805.ts
-UK Bloomberg UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5806.ts
-UK BBC Two UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5807.ts
-UK BBC RB1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5808.ts
-UK BBC One West UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5809.ts
-UK BBC One UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5810.ts
-UK BBC One East UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5811.ts
-UK BBC News UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5812.ts
-UK BabyTV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5813.ts
-UK At The Races UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5814.ts
-UK 5 USA UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5815.ts
-UK 5 Star UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5816.ts
-UK 3E UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5817.ts
+True Movies 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5692.ts
+TLC UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5693.ts
+Tiny Pop UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5694.ts
+TG4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5695.ts
+SyFy UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5696.ts
+Sky Sports News HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5697.ts
+Sky Sports F1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5698.ts
+Sky Sports F1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5699.ts
+Sky Sports 5 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5700.ts
+Sky Sports 5 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5701.ts
+Sky Sports 4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5702.ts
+Sky Sports 4 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5703.ts
+Sky Sports 3 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5704.ts
+Sky Sports 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5705.ts
+Sky Sports 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5706.ts
+Sky Sports 1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5707.ts
+SKY NEWS,http://cp.dmbshare.net:8000/live/daryl/daryl/5708.ts
+Sky Movies Showcase UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5709.ts
+Sky Movies Sci-Fi &amp; Horror UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5710.ts
+Sky Movies Sci-Fi &amp; Horror HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5711.ts
+Sky Movies Premiere HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5712.ts
+Sky Movies Greats UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5713.ts
+Sky Movies Greats HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5714.ts
+Sky Movies Family UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5715.ts
+Sky Movies Family HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5716.ts
+Sky Movies Drama &amp; Romance HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5717.ts
+Sky Movies Disney UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5718.ts
+https://iptv.zone/en Sky Movies Disney UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5719.ts
+Sky Movies Crime &amp; Thriller UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5720.ts
+Sky Movies Crime &amp; Thriller HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5721.ts
+Sky Movies Comedy HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5722.ts
+Sky Movies Action &amp; Adventure UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5723.ts
+Sky Movies Action &amp; Adventure HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5724.ts
+Sky Atlantic UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5725.ts
+Sky 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5726.ts
+Sky 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5727.ts
+Setanta Sports UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5728.ts
+RTE Two HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5729.ts
+RTE One HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5730.ts
+RT. Two UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5731.ts
+RT. One UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5732.ts
+RT. News Now UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5733.ts
+Really UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5734.ts
+Real Lives UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5735.ts
+Racing UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5736.ts
+Premier Sports UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5737.ts
+Pick UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5738.ts
+Nick Jr. UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5739.ts
+National Geographic Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5740.ts
+Nat Geo Wild UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5741.ts
+MUTV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5742.ts
+MTV Music UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5743.ts
+Movies4Men UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5744.ts
+Mototrs TV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5745.ts
+More4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5746.ts
+Liverpool TV UKhttp://cp.dmbshare.net:8000/live/daryl/daryl/5747.ts
+ITV Encore UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5748.ts
+ITV BE UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5749.ts
+ITV 4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5750.ts
+ITV 3 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5751.ts
+ITV 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5752.ts
+ITV 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5753.ts
+Horror Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5754.ts
+History UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5755.ts
+H2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5756.ts
+Good Food UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5757.ts
+Gold UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5758.ts
+FOX UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5759.ts
+FOX News UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5760.ts
+Food Network UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5761.ts
+FLAVA UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5762.ts
+Film4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5763.ts
+Eurosport 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5764.ts
+Eurosport 2 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5765.ts
+Eurosport 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5766.ts
+Eurosport 1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5767.ts
+ETV1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5768.ts
+ETV HD,http://cp.dmbshare.net:8000/live/daryl/daryl/5769.ts
+E4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5770.ts
+E! UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5771.ts
+Drama UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5772.ts
+DMAX UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5773.ts
+Disney XD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5774.ts
+Disney Junior UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5775.ts
+Disney Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5776.ts
+Discovery World UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5777.ts
+Discovery Turbo UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5778.ts
+Discovery Science UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5779.ts
+Discovery Science HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5780.ts
+Discovery Investigation UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5781.ts
+Discovery Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5782.ts
+Dave UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5783.ts
+Dave ja vu UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5784.ts
+Comedy Central UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5785.ts
+Comedy Central Extra UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5786.ts
+Colors UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5787.ts
+CNN UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5788.ts
+CITV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5789.ts
+Chelsea TV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5790.ts
+Channel 5 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5791.ts
+Channel 4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5792.ts
+CBS Reality UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5793.ts
+CBS Drama UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5794.ts
+CBS Action UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5795.ts
+CBeebies UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5796.ts
+Cartoon Network UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5797.ts
+BT Sport EXTRA UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5798.ts
+BT Sport EUROPE HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5799.ts
+BT Sport 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5800.ts
+BT Sport 2 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5801.ts
+BT Sport 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5802.ts
+BT Sport 1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5803.ts
+BOX Nation UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5804.ts
+Boomerang UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5805.ts
+Bloomberg UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5806.ts
+BBC Two UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5807.ts
+BBC RB1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5808.ts
+BBC One West UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5809.ts
+BBC One UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5810.ts
+BBC One East UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5811.ts
+BBC News UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5812.ts
+BabyTV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5813.ts
+At The Races UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5814.ts
+5 USA UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5815.ts
+5 Star UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5816.ts
+3E UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5817.ts
