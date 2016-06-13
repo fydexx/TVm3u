@@ -16,13 +16,18 @@ mobtv,http://52.76.43.125:1935/live/mystream/playlist.m3u8
 RTM Parlimen,http://rtm-live.glueapi.io/smil:rtm-ch007/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTIiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTQ3Nn0.jdFvtxEr8m-kVof7zftUCbPVzjCRNbeKgS8I-XZuStfRKlsZu7fzqbP4dCxoz31ZXLeyY3qrCboB-hA3s3g3lg
 Aksi Sukan,http://rtm-live.glueapi.io/smil:rtm-ch008/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTQiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTUyNH0.O_8FtW46hYOJ55wdP035ubr6VxhFsNBKcB5pvuP5kRqrfJujwP424RBzmCUjdBg7YdatU0Gq-O61r6hz6j2Rsw
 
-大牌频道 THAILAND
+THAILAND泰国台
 STAR WORLD,http://iptv-blue.mine.nu/fwtv/65f7358b813048a0898f5677e1793cf9.m3u8
 FOX Crime HD,http://iptv-blue.mine.nu/fwtv/5028f7ff1d1b4d5f8189690233364737.m3u8
 SYFY,http://iptv-blue.mine.nu/fwtv/71f197de056e499a85265c03b44bdab1.m3u8
 ci,http://iptv-blue.mine.nu/fwtv/9961a963920f45f4bc0d81c3e478b334.m3u8
 国家地理野生,http://super.iptvbot.biz/iptv/5V4S36BNB322LL/133/index.m3u8
 NBA,http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+中国系列,rtmp://103.40.138.89:1935/live/ac1
+韩国电影,rtmp://103.40.138.89:1935/live/ac3
+印度,泰国电影,rtmp://103.40.138.89:1935/live/ac2
+好莱坞电影,rtmp://103.40.138.89:1935/live/ac4
+
 
 印度尼西亚
 BERITASATU 1 新闻(HD),http://edge.firstmediacdn.swiftserve.com/live/fmcdn/amlst:bsnews/chunklist_b2217000.m3u8
@@ -63,19 +68,12 @@ muzzone,http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 Klipkar TV,http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
 
 
-泰国台
-中国系列,rtmp://103.40.138.89:1935/live/ac1
-韩国电影,rtmp://103.40.138.89:1935/live/ac3
-印度,泰国电影,rtmp://103.40.138.89:1935/live/ac2
-好莱坞电影,rtmp://103.40.138.89:1935/live/ac4
-
-
 Canal 2 Hd,http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 NBA,http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 CBC体育,http://s69362.cdn.ngenix.net/live/_definst_/Stream1/playlist.m3u8
 国家地理野生,http://super.iptvbot.biz/iptv/5V4S36BNB322LL/133/index.m3u8
 PTVNWES,http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
- alex,http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/playlist.m3u8?bitrate=800
+alex,http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/playlist.m3u8?bitrate=800
 antennereunion,http://41.213.128.117:1935/antennelive/smil:antennereunion.smil/playlist.m3u8
 atv,http://195.228.75.100:1935/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
 
@@ -356,40 +354,225 @@ OutDoor,p2p://60.249.213.25:9900/5711b4860001349400bf39e74fe854a2.ts
 耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經,rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc
 
-WOWOWプライム,p2p://60.249.213.25:9900/571700180000ca430ff9d0aa11623afa.ts
-WOWOWシネマ,p2p://60.249.213.25:9900/57170136000e864b0ffe31606c9a3a2d.ts
-WOWOWライブ,p2p://60.249.213.25:9900/571700af000eb8ee0ffc22140543783a.ts
-NHK-Eテレ,p2p://60.249.213.25:9900/5714350b00036c070510a68524e92bb2.ts
-NHK総合,p2p://60.249.213.25:9900/57143495000ede7a050edc8370b22cd5.ts
-BS朝日,p2p://60.249.213.25:9900/5716fe22000b9ab20ff22a7c44a604c3.ts
-日本テレビ,p2p://60.249.213.25:9900/571435f9000e84bb05144b0e367502a3.ts
-テレビ朝日,p2p://60.249.213.25:9900/5714374a0005590a05196d1e60d07f39.ts
-TBSテレビ,p2p://60.249.213.25:9900/571437f0000dad6e051bf7b10216468e.ts
+JAPAN
+WOWOWプライム,p2p://60.249.213.25:9900/5606d4e5000d580001bfb02565675304
+WOWOWライブ,p2p://60.249.213.25:9900/5606d51b0005845401c0810a78e60217
+WOWOWシネマ,p2p://60.249.213.25:9900/5606d5530008ec4301c15ca962811d16
+NHK-Eテレ,p2p://60.249.213.25:9900/5606cf010006d2f301a8abd11e5d42be
+NHK総合,p2p://60.249.213.25:9900/5606cff8000e789801ac72a837064694
+BS朝日,p2p://60.249.213.25:9900/5606d0550003a82601addb2a30f31e49
+テレビ,p2p://60.249.213.25:9900/5606d0a4000af57801af119517245057
+テレビ朝日,p2p://60.249.213.25:9900/5606d1140007ab4201b0c6434c0814c9
+TBSテレビ,p2p://60.249.213.25:9900/5606d18d0003ab7401b29dec4eb43a84
+J-Sports1,p2p://60.249.213.25:9900/5606d67b0009bb0901c5e12371c20858
 J-Sports1,p2p://60.249.213.25:9900/5717049600064ed7100b5e39608012b8.ts
+J-Sports1,p2p://60.249.213.25:9900/5717049600064ed7100b5e39608012b8
+J-Sports2,p2p://60.249.213.25:9900/5606d6c3000e380001c6fb861e246d6b
 J-Sports2,p2p://60.249.213.25:9900/571705070006e27e100d17c8237504ef.ts
+J-Sports2,p2p://60.249.213.25:9900/571705070006e27e100d17c8237504ef
+J-Sports3,p2p://60.249.213.25:9900/5606d5d3000f331401c3524d15e46795
 J-Sports3,p2p://60.249.213.25:9900/5717055f000dc8b9100e714c22fc1d40.ts
+J-Sports3,p2p://60.249.213.25:9900/5717055f000dc8b9100e714c22fc1d40
+J-Sports4,p2p://60.249.213.25:9900/5606d61c0006e2bc01c46d4c7448531b
 J-Sports4,p2p://60.249.213.25:9900/571705cb0001a0f510101410340904eb.ts
-テレビ東京,p2p://60.249.213.25:9900/5714386c000a2d68051ddb2c3f0a2e20.ts
+J-Sports4,p2p://60.249.213.25:9900/571705cb0001a0f510101410340904eb
+J-GOLF,p2p://60.249.213.25:9900/5606e673000a430f02044209623d24bb
+テレビ东京,p2p://60.249.213.25:9900/5606d1e1000475d301b3e6322240793c
+テレビ东京,p2p://60.249.213.25:9900/5714386c000a2d68051ddb2c3f0a2e20.ts
+テレビ东京,p2p://60.249.213.25:9900/5714386c000a2d68051ddb2c3f0a2e20
+フジテレビ,p2p://60.249.213.25:9900/5606d214000d765201b4afb744bc09c9
+TOKYO-MX,p2p://60.249.213.25:9900/5606d24a0006e2fa01b580fa79a1146c
+时代剧専门チャンネル,p2p://60.249.213.25:9900/5606d91c0004c37301d024c839870982
+时代剧専门チャンネルp2p://60.249.213.25:9900/571709f8000d681c102066e10de02b3d.ts
+时代剧専门チャンネルp2p://60.249.213.25:9900/571709f8000d681c102066e10de02b3d
+旅游IAB,p2p://60.249.213.25:9900/5606cec90004362601a7d0700b3648d2
+日本赛马,p2p://60.249.213.25:9900/562ca955000489ae3a18bfb73aa527d9
+WOWOWプライム,p2p://60.249.213.25:9900/571700180000ca430ff9d0aa11623afa.ts
+WOWOWプライム,p2p://60.249.213.25:9900/571700180000ca430ff9d0aa11623afa
+WOWOWシネマ,p2p://60.249.213.25:9900/57170136000e864b0ffe31606c9a3a2d.ts
+WOWOWシネマ,p2p://60.249.213.25:9900/57170136000e864b0ffe31606c9a3a2d
+WOWOWライブ,p2p://60.249.213.25:9900/571700af000eb8ee0ffc22140543783a.ts
+WOWOWライブ,p2p://60.249.213.25:9900/571700af000eb8ee0ffc22140543783a
+NHK-Eテレ,p2p://60.249.213.25:9900/5714350b00036c070510a68524e92bb2.ts
+NHK-Eテレ,p2p://60.249.213.25:9900/5714350b00036c070510a68524e92bb2
+NHK総合,p2p://60.249.213.25:9900/57143495000ede7a050edc8370b22cd5.ts
+NHK総合,p2p://60.249.213.25:9900/57143495000ede7a050edc8370b22cd5
+BS朝日,p2p://60.249.213.25:9900/5716fe22000b9ab20ff22a7c44a604c3.ts
+BS朝日,p2p://60.249.213.25:9900/5716fe22000b9ab20ff22a7c44a604c3
+日本テレビ,p2p://60.249.213.25:9900/571435f9000e84bb05144b0e367502a3.ts
+日本テレビ,p2p://60.249.213.25:9900/571435f9000e84bb05144b0e367502a3
+テレビ朝日,p2p://60.249.213.25:9900/5714374a0005590a05196d1e60d07f39.ts
+テレビ朝日,p2p://60.249.213.25:9900/5714374a0005590a05196d1e60d07f39
+TBSテレビ,p2p://60.249.213.25:9900/571437f0000dad6e051bf7b10216468e.ts
+TBSテレビ,p2p://60.249.213.25:9900/571437f0000dad6e051bf7b10216468e
 フジテレビジョン,p2p://60.249.213.25:9900/57143904000490f205202b7d1bc42d65.ts
+フジテレビジョン,p2p://60.249.213.25:9900/57143904000490f205202b7d1bc42d65
 TOKYO-MX,p2p://60.249.213.25:9900/57143f04000c559d05379d7257fc0488.ts
-時代劇専門チャンネル,p2p://60.249.213.25:9900/571709f8000d681c102066e10de02b3d.ts
-
+TOKYO-MX,p2p://60.249.213.25:9900/57143f04000c559d05379d7257fc0488
+JAPAN:mega ,rtsp://c.itvitv.com/mega
+JAPAN:mjtv ,rtsp://c.itvitv.com/j.gfhghdayh
+JAPAN:ntv24t ,rtsp://u.itvitv.com/ntv24t
+JAPAN:test3 ,rtsp://c.itvitv.com/jp.test3
+JAPAN:mega ,rtsp://c.itvitv.com/mega
+JAPAN:mjtv ,rtsp://c.itvitv.com/j.gfhghdayh
+JAPAN:TbsMusicDay ,rtsp://u.itvitv.com/TbsMusicDay
+JAPAN:test3 ,rtsp://c.itvitv.com/jp.test3
 日本直播01,p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863.ts
+日本直播01,p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
+日本直播02,p2p://50.7.104.10:9906/540050290000343a015059b37121116a
+日本直播03,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
 日本直播04,p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9.ts
+日本直播04,p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9
 日本直播05,p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96.ts
+日本直播05,p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
 日本直播06,p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3.ts
+日本直播06,p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3
 日本直播07,p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5.ts
+日本直播07,p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
 日本直播08,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c.ts
+日本直播08,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
 日本直播09,p2p://50.7.104.10:9906/540050290000343a015059b37121116a.ts
+日本直播09,p2p://50.7.104.10:9906/540050290000343a015059b37121116a
 日本直播10,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16.ts
+日本直播10,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
 日本旅遊美食,p2p://60.249.213.25:9900/571433860003631c050ab6f926f012b5.ts
 日本動物星球,p2p://60.249.213.25:9900/567de912000a2b9f4d15eed5482c7f55.ts
 
+VIETNAM
 越南VTV6,http://118.70.203.135:1935/livevtv/vtv6hd.stream/chunklist.m3u8
 越南VTV2,http://live.tvmienphi.biz/stream-metv/vtv2.m3u8
 越南VTV1,http://live.tvmienphi.biz/stream-metv/vtv1.m3u8
 朝鮮中央電视台,mms://121.167.43.161/chosun
 
+UK LIVE TV
+True Movies 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5692.ts
+TLC UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5693.ts
+Tiny Pop UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5694.ts
+TG4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5695.ts
+SyFy UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5696.ts
+Sky Sports News HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5697.ts
+Sky Sports F1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5698.ts
+Sky Sports F1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5699.ts
+Sky Sports 5 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5700.ts
+Sky Sports 5 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5701.ts
+Sky Sports 4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5702.ts
+Sky Sports 4 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5703.ts
+Sky Sports 3 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5704.ts
+Sky Sports 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5705.ts
+Sky Sports 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5706.ts
+Sky Sports 1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5707.ts
+SKY NEWS,http://cp.dmbshare.net:8000/live/daryl/daryl/5708.ts
+Sky Movies Showcase UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5709.ts
+Sky Movies Sci-Fi &amp; Horror UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5710.ts
+Sky Movies Sci-Fi &amp; Horror HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5711.ts
+Sky Movies Premiere HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5712.ts
+Sky Movies Greats UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5713.ts
+Sky Movies Greats HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5714.ts
+Sky Movies Family UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5715.ts
+Sky Movies Family HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5716.ts
+Sky Movies Drama &amp; Romance HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5717.ts
+Sky Movies Disney UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5718.ts
+Sky Movies Disney UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5719.ts
+Sky Movies Crime &amp; Thriller UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5720.ts
+Sky Movies Crime &amp; Thriller HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5721.ts
+Sky Movies Comedy HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5722.ts
+Sky Movies Action &amp; Adventure UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5723.ts
+Sky Movies Action &amp; Adventure HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5724.ts
+Sky Atlantic UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5725.ts
+Sky 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5726.ts
+Sky 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5727.ts
+Setanta Sports UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5728.ts
+RTE Two HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5729.ts
+RTE One HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5730.ts
+RT. Two UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5731.ts
+RT. One UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5732.ts
+RT. News Now UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5733.ts
+Really UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5734.ts
+Real Lives UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5735.ts
+Racing UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5736.ts
+Premier Sports UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5737.ts
+Pick UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5738.ts
+Nick Jr. UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5739.ts
+National Geographic Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5740.ts
+Nat Geo Wild UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5741.ts
+MUTV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5742.ts
+MTV Music UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5743.ts
+Movies4Men UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5744.ts
+Mototrs TV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5745.ts
+More4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5746.ts
+Liverpool TV UKhttp://cp.dmbshare.net:8000/live/daryl/daryl/5747.ts
+ITV Encore UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5748.ts
+ITV BE UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5749.ts
+ITV 4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5750.ts
+ITV 3 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5751.ts
+ITV 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5752.ts
+ITV 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5753.ts
+Horror Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5754.ts
+History UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5755.ts
+H2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5756.ts
+Good Food UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5757.ts
+Gold UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5758.ts
+FOX UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5759.ts
+FOX News UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5760.ts
+Food Network UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5761.ts
+FLAVA UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5762.ts
+Film4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5763.ts
+Eurosport 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5764.ts
+Eurosport 2 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5765.ts
+Eurosport 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5766.ts
+Eurosport 1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5767.ts
+ETV1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5768.ts
+ETV HD,http://cp.dmbshare.net:8000/live/daryl/daryl/5769.ts
+E4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5770.ts
+E! UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5771.ts
+Drama UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5772.ts
+DMAX UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5773.ts
+Disney XD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5774.ts
+Disney Junior UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5775.ts
+Disney Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5776.ts
+Discovery World UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5777.ts
+Discovery Turbo UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5778.ts
+Discovery Science UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5779.ts
+Discovery Science HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5780.ts
+Discovery Investigation UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5781.ts
+Discovery Channel UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5782.ts
+Dave UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5783.ts
+Dave ja vu UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5784.ts
+Comedy Central UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5785.ts
+Comedy Central Extra UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5786.ts
+Colors UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5787.ts
+CNN UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5788.ts
+CITV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5789.ts
+Chelsea TV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5790.ts
+Channel 5 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5791.ts
+Channel 4 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5792.ts
+CBS Reality UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5793.ts
+CBS Drama UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5794.ts
+CBS Action UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5795.ts
+CBeebies UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5796.ts
+Cartoon Network UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5797.ts
+BT Sport EXTRA UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5798.ts
+BT Sport EUROPE HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5799.ts
+BT Sport 2 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5800.ts
+BT Sport 2 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5801.ts
+BT Sport 1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5802.ts
+BT Sport 1 HD UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5803.ts
+BOX Nation UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5804.ts
+Boomerang UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5805.ts
+Bloomberg UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5806.ts
+BBC Two UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5807.ts
+BBC RB1 UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5808.ts
+BBC One West UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5809.ts
+BBC One UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5810.ts
+BBC One East UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5811.ts
+BBC News UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5812.ts
+BabyTV UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5813.ts
+At The Races UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5814.ts
+5 USA UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5815.ts
+5 Star UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5816.ts
+3E UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5817.ts
+
+ADULT成人台
 松视一,p2p://60.249.213.25:9900/57131c4b0007ccfb00c7f9ad180f1833.ts
 松视一,p2p://150.242.250.116:34588/554f074b00077146689b83ea2fb929f6
 松视一,p2p://60.249.213.25:9900/57131c4b0007ccfb00c7f9ad180f1833
@@ -405,7 +588,6 @@ TOKYO-MX,p2p://60.249.213.25:9900/57143f04000c559d05379d7257fc0488.ts
 松视四,p2p://60.249.213.25:9900/57131d130001f89a00cb0570203d37d1.ts
 松视四,p2p://60.249.213.25:9900/57131d130001f89a00cb0570203d37d1
 松视试看1,http://www.sonsee.com.tw//filmfiles4/HSDN-366-2_484521.mp4
-
 彩虹e有碼成人,p2p://60.249.213.25:9900/57133c9e000853e201463dff41c350a4.ts
 彩虹K有碼成人,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d.ts
 彩虹電影有碼成人,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667.ts
@@ -913,18 +1095,9 @@ HD欧美131,http://video5.thepluginz.com/30/oldgoesyoung_036/hosted_flash/big_5.
 迈阿密性感采访3,http://sasuketv.iptvitalia.eu:2300/live/drunk/drunk/10079.ts
 欧美成人内衣秀,rtmp://stream.visit-x.tv/vxtv/live_720p
 俄罗斯时尚,http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
-50P2P直播
-日本直播1,p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
-日本直播2,p2p://50.7.104.10:9906/540050290000343a015059b37121116a
-日本直播3,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
-日本直播4,p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9
-日本直播5,p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
-日本直播6,p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3
-日本直播7,p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
-日本直播8,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
-日本直播9,p2p://50.7.104.10:9906/540050290000343a015059b37121116a
-日本直播10,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
-61P2P直播
+
+
+
 TVB高清翡翠台HD,p2p://61.220.227.30:8268/5663e68c0002d6812089769062ef2d01
 TVB翡翠台,p2p://61.220.227.30:8268/5663e65c000e3e7e2088bdfc6cdd768f
 TVB经典台,p2p://61.220.227.30:8268/56a02fcb000b82e1b6946cc52a4729a8
@@ -1111,23 +1284,8 @@ HKC跑马203HD,p2p://60.249.213.25:9900/57157635000486e009f732e60a6e321b
 HKC体育202HD,p2p://60.249.213.25:9900/57157611000d7f8209f6a89221b35374
 HKC足球201HD,p2p://60.249.213.25:9900/571575ec000f1d5109f61873552e705a
 龙翔时代,p2p://60.249.213.25:9900/5715780f000e271209fe70ef0ea90221
-WOWOWプライム,p2p://60.249.213.25:9900/571700180000ca430ff9d0aa11623afa
-WOWOWシネマ,p2p://60.249.213.25:9900/57170136000e864b0ffe31606c9a3a2d
-WOWOWライブ,p2p://60.249.213.25:9900/571700af000eb8ee0ffc22140543783a
-NHK-Eテレ,p2p://60.249.213.25:9900/5714350b00036c070510a68524e92bb2
-NHK総合,p2p://60.249.213.25:9900/57143495000ede7a050edc8370b22cd5
-BS朝日,p2p://60.249.213.25:9900/5716fe22000b9ab20ff22a7c44a604c3
-日本テレビ,p2p://60.249.213.25:9900/571435f9000e84bb05144b0e367502a3
-テレビ朝日,p2p://60.249.213.25:9900/5714374a0005590a05196d1e60d07f39
-TBSテレビ,p2p://60.249.213.25:9900/571437f0000dad6e051bf7b10216468e
-J-Sports1,p2p://60.249.213.25:9900/5717049600064ed7100b5e39608012b8
-J-Sports2,p2p://60.249.213.25:9900/571705070006e27e100d17c8237504ef
-J-Sports3,p2p://60.249.213.25:9900/5717055f000dc8b9100e714c22fc1d40
-J-Sports4,p2p://60.249.213.25:9900/571705cb0001a0f510101410340904eb
-テレビ東京,p2p://60.249.213.25:9900/5714386c000a2d68051ddb2c3f0a2e20
-フジテレビジョン,p2p://60.249.213.25:9900/57143904000490f205202b7d1bc42d65
-TOKYO-MX,p2p://60.249.213.25:9900/57143f04000c559d05379d7257fc0488
-時代劇専門チャンネル,p2p://60.249.213.25:9900/571709f8000d681c102066e10de02b3d
+
+
 阿里郎國際頻道,p2p://60.249.213.25:9900/57131e3f000a5d8a00cf9b7752ef19af
 channel[V]音乐,p2p://60.249.213.25:9900/57161c410007db760c7fd29b146e666b
 GTV八大第1,p2p://60.249.213.25:9900/5719eca7000f197a1b65e2df0e0f75f0
@@ -1586,26 +1744,6 @@ BT体育2,p2p://60.249.213.25:9900/562dcf4f000789593e9519046ee66461
 Deportes体育频道HD,p2p://60.249.213.25:9900/562b0aab00050b5c33c4d58603a54fea
 France_24,p2p://60.249.213.25:9900/5607b4a4000ebc8e0217383a31b1757a
 彭博财经,p2p://60.249.213.25:9900/5611a8db0002c1951eec78f875c0360d
-日本WOWOWプライム,p2p://60.249.213.25:9900/5606d4e5000d580001bfb02565675304
-日本WOWOWライブ,p2p://60.249.213.25:9900/5606d51b0005845401c0810a78e60217
-日本WOWOWシネマ,p2p://60.249.213.25:9900/5606d5530008ec4301c15ca962811d16
-日本NHK-Eテレ,p2p://60.249.213.25:9900/5606cf010006d2f301a8abd11e5d42be
-日本NHK総合,p2p://60.249.213.25:9900/5606cff8000e789801ac72a837064694
-日本BS朝日,p2p://60.249.213.25:9900/5606d0550003a82601addb2a30f31e49
-日本テレビ,p2p://60.249.213.25:9900/5606d0a4000af57801af119517245057
-日本テレビ朝日,p2p://60.249.213.25:9900/5606d1140007ab4201b0c6434c0814c9
-日本TBSテレビ,p2p://60.249.213.25:9900/5606d18d0003ab7401b29dec4eb43a84
-日本J-Sports1,p2p://60.249.213.25:9900/5606d67b0009bb0901c5e12371c20858
-日本J-Sports2,p2p://60.249.213.25:9900/5606d6c3000e380001c6fb861e246d6b
-日本J-Sports3,p2p://60.249.213.25:9900/5606d5d3000f331401c3524d15e46795
-日本J-GOLF,p2p://60.249.213.25:9900/5606e673000a430f02044209623d24bb
-日本テレビ东京,p2p://60.249.213.25:9900/5606d1e1000475d301b3e6322240793c
-日本フジテレビ,p2p://60.249.213.25:9900/5606d214000d765201b4afb744bc09c9
-日本TOKYO-MX,p2p://60.249.213.25:9900/5606d24a0006e2fa01b580fa79a1146c
-日本时代剧専门チャンネル,p2p://60.249.213.25:9900/5606d91c0004c37301d024c839870982
-日本旅游IAB,p2p://60.249.213.25:9900/5606cec90004362601a7d0700b3648d2
-日本赛马,p2p://60.249.213.25:9900/562ca955000489ae3a18bfb73aa527d9
-日本J-Sports4,p2p://60.249.213.25:9900/5606d61c0006e2bc01c46d4c7448531b
 韩国KBS1,p2p://60.249.213.25:9900/5606e43c000d5a6401fb9bfa2b4f5e76
 韩国KBS2,p2p://60.249.213.25:9900/5606e3fb000ed28401fa9e6a75b77062
 韩国BADOOK围棋,p2p://60.249.213.25:9900/5606e1d20003007201f22b3e329e746f
@@ -5315,14 +5453,7 @@ GoodTV好消息2,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live
 韩国有码高清22,rtmp://123.108.164.71/etv2/phd1003
 韩国有码高清24,rtmp://123.108.164.71/etv2/phd1006
 韩国有码高清25,rtmp://123.108.164.71/etv2/phd1008
-JAPAN:mega ,rtsp://c.itvitv.com/mega
-JAPAN:mjtv ,rtsp://c.itvitv.com/j.gfhghdayh
-JAPAN:ntv24t ,rtsp://u.itvitv.com/ntv24t
-JAPAN:test3 ,rtsp://c.itvitv.com/jp.test3
-JAPAN:mega ,rtsp://c.itvitv.com/mega
-JAPAN:mjtv ,rtsp://c.itvitv.com/j.gfhghdayh
-JAPAN:TbsMusicDay ,rtsp://u.itvitv.com/TbsMusicDay
-JAPAN:test3 ,rtsp://c.itvitv.com/jp.test3
+
 屁股窒息01,http://122.147.13.14:5011/vod/828d2a77b86e776658f8afe64d23d82f
 屁股窒息02,http://122.147.13.14:5011/vod/0df9f8efca95986488340afca04d4e8b
 屁股窒息03,http://122.147.13.14:5011/vod/4acab954f5a8c4cf5a22f418aecf4006
