@@ -31,6 +31,10 @@ Channel 8,http://tglsch8a-s.akamaihd.net/live/234736_234737/channel8.isml/Qualit
 Channel 8,http://tglsch8a-s.akamaihd.net/live/234736_234737/channel8.isml/QualityLevels(96000)/Fragments(audio101=1090882371160416)
 Channel 8,http://tglsch8a-s.akamaihd.net/live/234736_234737/channel8.isml/QualityLevels(1312000)/Fragments(video=1090882379530777)
 
+Channel NewsAsia,http://imtcnai-lh.akamaihd.net/z/cnai_main@334572/4_5dd1f943f3dced57-p.bootstrap
+Channel NewsAsia,http://imtcnai-lh.akamaihd.net/z/cnai_main@334572/4_5dd1f943f3dced57-p_Seg1-Frag4657674
+Channel NewsAsia,http://imtcnai-lh.akamaihd.net/z/cnai_main@334572/4_5dd1f943f3dced57-p_Seg1-Frag4657675
+
 KBS WORLD,rtmp://118.97.183.196/jhos//kbs
 Korean Drama (ENG),rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 METRO TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
