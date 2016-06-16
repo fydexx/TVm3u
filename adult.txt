@@ -11,6 +11,8 @@ ASTRO AWANI,http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/mas
 马来西亚1NEWS,http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Ind3dy5tYWxheXNpYTFuZXdzLm15IiwiZCI6MTQ2NTM5MDk4Nn0.mUQehw9gaOZTHwHsIue8In8DzU2vGyhCJmDpc2KkaJ69fh-lyjlv8C94oEDQPVqA2lzLDQpwS6gdXlYeNhKIMQ
 马来西亚TV3,http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master1002.m3u8
 马来西亚TV3,http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/20160611T110309/master1002/00021/master1002_01712.ts
+马来西亚TV9,http://tv9iossecure-i.akamaihd.net/hls/live/225718/ios/tv9ios_sp/master1001.m3u8
+马来西亚TV9,http://tv9iossecure-i.akamaihd.net/hls/live/225718/ios/tv9ios_sp/20160615T122214/master1002/00005/master1002_01515.ts
 tvi,http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTIxM30.q0YarF8rwfFzLNZScxUhd8S3jvYmRDYoRUAYOa2GnIddseDyinwGMzAeYYj5BS_wPs5GG9y59uG3tLRo_HJlGQ
 tvi,http://rtm-live.glueapi.io/smil:rtm-ch003.smil/chunklist_b329000_sleng.m3u8
 gala,http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTMwMH0.u9a-hhTEtM0wIIaDqvlE7qD2W8ipH4Jf9A7YIF4RZEVuyaFawRr61jpEqUsO6CrWo9d8kkDaM8PPqMBZjTTGdw
