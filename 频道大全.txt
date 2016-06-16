@@ -1,6 +1,8 @@
 ﻿tv1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MDc0M30.epqa4cWD13jWtb0dyxWDZ9W4ggd2wH19fQnAMf6EX53yf8s2qbV8V0XxbkyULKg6lo2_m8y0YXspqZgEQjwNNw
 TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug;http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8
 TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw;plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
+TV3,http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/master1002.m3u8
+TV3,http://tv3iossecure-i.akamaihd.net/hls/live/225715/ios/tv3ios_sp/20160611T110309/master1002/00021/master1002_01712.ts
 马来西亚MARA,http://stream2.1malaysiaiptv.com:1935/mylive/smil:maratv_all.smil/playlist.m3u8
 马来西亚,http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b329000_sleng.m3u8
 马来西亚,http://rtm-live.glueapi.io/smil:rtm-ch006/chunklist_b305000_sleng.m3u8
@@ -21,13 +23,18 @@ AL HIJRAH,http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/play
 AWANI,http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 BERNAMA,http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
 1NEWS,http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4OH0.9MoWFKWTtQtXsOdNB2hEa6yBhk9jo1UQ3xFjqHOY0SmzicNR4c9R8x_W-jchyEyCGvl9v9RpSfiuYpDvDALgZA
+
+Singapore
+Channel 8,http://tglsch8a-s.akamaihd.net/live/234736_234737/channel8.isml/QualityLevels(1312000)/Fragments(video=1090882359530777)
+Channel 8,http://tglsch8a-s.akamaihd.net/live/234736_234737/channel8.isml/QualityLevels(96000)/Fragments(audio101=1090882371160416)
+Channel 8,http://tglsch8a-s.akamaihd.net/live/234736_234737/channel8.isml/QualityLevels(1312000)/Fragments(video=1090882379530777)
+
 KBS WORLD,rtmp://118.97.183.196/jhos//kbs
 Korean Drama (ENG),rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
 METRO TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 AL JAZEERA ENGLISH,http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
 ABC NEWS,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 BLOOMBERG,http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-
 
 
 英语学习软件，http://125.88.92.166:30001/PLTV/88888956/224/3221227718/1.m3u8
