@@ -1,4 +1,9 @@
-﻿IN: Ten Sports,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/619.ts
+﻿Sun TV,http://192.168.0.1:49152/soap.cgi?service=WANIPConn1
+Zoom TV Live,http://dbuqq908y3dcs.cloudfront.net/Live/_definst_/sweetbcha1novD160_W_250.sdp/chunklist.m3u8
+Aaj Tak News Live,http://streamer9.vidgyor.com/aajtakdesktopabr/live/aajtak/live2/chunks.m3u8?nimblesessionid=878278
+Angel Tv Live,http://doh57iesfegop.cloudfront.net/angeltv/angeltvindia600/playlist_b627671.abst
+Anjan Tv Live,http://app.sjk.ijinshan.com/app/api/redpoint/red-status.json
+IN: Ten Sports,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/619.ts
 IN: Ten Cricket,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/620.ts
 IN: Ten Action,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/715.ts
 IN: TEN HD,http://www.x-media.tv:58080/live/deynekci/xZ15OJ9D/1253.ts
