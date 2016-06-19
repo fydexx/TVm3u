@@ -571,9 +571,96 @@ HBOfamily,p2p://106.186.121.94:8258/560785230005eaa0584aacc24e0710fb
 HBOHits,p2p://106.186.121.94:8258/5607838f000bf5db5844842c3a152b81
 HBO-Hits,p2p://61.221.233.81:9000/56067eb80006923e006f0ea27234465f
 HBOSignature,p2p://106.186.121.94:8258/560791f10002259d587cb07a546d717c
-J
  
-
+****USA-CANADA****,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2465.ts
+CCNA International,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2423.ts
+WWE Network,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2424.ts
+Vevo TV Channel 3,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2425.ts
+Versus,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2426.ts
+UALR TV,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2427.ts
+Tsn-Sport 5 HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2428.ts
+Tsn-Sport 4 HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2429.ts
+Tsn-Sport 3 HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2430.ts
+Tsn-Sport 2 HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2431.ts
+Tsn-Sport 1 HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2432.ts
+TBS HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2380.ts
+Starz West,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2381.ts
+Starz Kids&Family,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2382.ts
+Starz In Black,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2383.ts
+Starz Edge,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2384.ts
+Starz East,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2385.ts
+Starz Comedy,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2386.ts
+Starz Cinema,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2387.ts
+SportsNet One HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2388.ts
+Showtime West,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2389.ts
+Showtime Next,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2390.ts
+NFL Network HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2391.ts
+NBCSN HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2392.ts
+NBC E.P.L XTRA 7 (LIVE DURING EPL),http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2433.ts
+NBC E.P.L XTRA 6 (LIVE DURING EPL),http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2434.ts
+NBC E.P.L XTRA 5 (LIVE DURING EPL),http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2435.ts
+NBC E.P.L XTRA 4 (LIVE DURING EPL),http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2436.ts
+NBC E.P.L XTRA 3 (LIVE DURING EPL),http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2437.ts
+NBC E.P.L XTRA 2 (LIVE DURING EPL),http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2438.ts
+NBC E.P.L XTRA 1 (LIVE DURING EPL),http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2439.ts
+NBC,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2440.ts
+NBA TV,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2441.ts
+MSNBC,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2442.ts
+MMA HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2393.ts
+MMA FIGHT,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2394.ts
+MLB HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2395.ts
+Miami Music TV,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2443.ts
+LIFE TIME,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2396.ts
+Kero TV,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2444.ts
+IFC,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2397.ts
+HBO ZONE,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2445.ts
+HBO SIGNATURE,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2398.ts
+HBO PLUS,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2446.ts
+HBO HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2447.ts
+HBO FAMILY,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2448.ts
+HBO 2 West,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2399.ts
+HALLMARK,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2400.ts
+Ginx,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2449.ts
+FXX East,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2401.ts
+FOX Sport 1,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2402.ts
+Fox News,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2403.ts
+Fight Sport,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2450.ts
+Encore East,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2404.ts
+Encore Action East,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2405.ts
+E!,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2451.ts
+DJing Ibiza,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2452.ts
+Country Music Channel,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2453.ts
+CNN HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2406.ts
+CNN,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2454.ts
+CITY HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2407.ts
+Cinemax West,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2408.ts
+Cinemax East,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2409.ts
+Channel 11,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2455.ts
+CET 99,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2456.ts
+CBN News,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2457.ts
+Bravo,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2410.ts
+Big Ten Network HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2411.ts
+BET,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2458.ts
+ASD TV,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2459.ts
+AMC HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2460.ts
+AFN Sports HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2412.ts
+AFN Sports 2,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2413.ts
+AFN Sports,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2414.ts
+AFN Spectrum,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2415.ts
+AFN Prime Pacific,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2416.ts
+AFN Prime Atlantic,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2417.ts
+AFN News,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2418.ts
+AFN Movie,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2419.ts
+AFM Pulse,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2420.ts
+Adult Swim,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2461.ts
+ABC News,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2462.ts
+ABC HD,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2463.ts
+ABC FAMILY,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2421.ts
+ABC Action News,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2422.ts
+360 North,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/2464.ts
+wacxtv,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/1929.ts
+The Florida Channel,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/1930.ts
+Bloomberg,http://ksportiptv.com:1557/live/dikrayaty/dikrayaty/1931.ts
 
 ==泰国频道==
 
