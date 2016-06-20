@@ -586,6 +586,128 @@ At The Races UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5814.ts
 5 Star UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5816.ts
 3E UK,http://cp.dmbshare.net:8000/live/daryl/daryl/5817.ts
 
+>>>>>ENGLAND<<<<<,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/836.ts
+Watch,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1738.ts
+ABC,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1928.ts
+TV Nasa,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1568.ts
+TLC-IRELAND,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1746.ts
+CHANNEL 5,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1742.ts
+BBC 1 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/878.ts
+BBC 4 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1745.ts
+EuroNews,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/920.ts
+CBS Action,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1277.ts
+CBS Drama,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1276.ts
+CBS Reality,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1275.ts
+ITV 1,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1267.ts
+ITV 2 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1266.ts
+ITV 3,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1265.ts
+ITV 4,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1264.ts
+SKY 1 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1260.ts
+SKY Two HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1259.ts
+SKY Atlantic HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1258.ts
+SKY Living HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1257.ts
+Sky Action HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1060.ts
+Sky Movies Action,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1747.ts
+Sky Movies Drama,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1694.ts
+SKY Movies Premier HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1253.ts
+Sky Movies  Premiere,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1748.ts
+Sky Movies Thriller HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1251.ts
+Sky Movies Sci-fi & Horror HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1252.ts
+Sky Movies Greats HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1254.ts
+SKY Movies Disney HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1255.ts
+Sky Movies Modern,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1098.ts
+Sky Movies Family,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1097.ts
+Sky Movies Comedy,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1096.ts
+Sky Movies Select,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1099.ts
+BoomeRang,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/891.ts
+UK_Yesterday,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1789.ts
+UK_Sky Living,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1784.ts
+UK_Sky Arts,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1782.ts
+UK_Sky 1,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1785.ts
+UK_Home,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1786.ts
+UK_Gold,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1788.ts
+UK:Watch,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1792.ts
+UK:Vintage_TV,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1800.ts
+UK:Ulster TV Ireland,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1801.ts
+UK:Travel,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1802.ts
+UK:TLC,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1803.ts
+UK:TCM+1,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1804.ts
+UK:Spike,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1826.ts
+UK:Sky Thriller,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1805.ts
+UK:Sky Sports F1,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1796.ts
+UK:Sky Sports 5,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1827.ts
+UK:Sky Sports 4,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1828.ts
+UK:Sky Sports 3,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1797.ts
+UK:Sky Sports 2,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1798.ts
+UK:Sky Sports 1,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1799.ts
+UK:Sky News,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1829.ts
+UK:Sky Movies Comedy Central,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1795.ts
+UK:Sky 2,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1806.ts
+UK:Quest,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1807.ts
+UK:PICK,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1808.ts
+UK:More 4,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1809.ts
+UK:Manchester United TV,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1830.ts
+UK:Life Time,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1831.ts
+UK:Horror Channel,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1810.ts
+UK:H2,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1811.ts
+UK:Good Food,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1791.ts
+UK:Fox News,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1812.ts
+UK:FOX,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1783.ts
+UK:Film 4,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1813.ts
+UK:Eden,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1787.ts
+UK:Drama,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1794.ts
+UK:Disney XD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1832.ts
+UK:Disney Jr,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1833.ts
+UK:Disney Channel,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1814.ts
+UK:Discovery Turbo,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1815.ts
+UK:Discovery Science,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1816.ts
+UK:Discovery Home Health,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1817.ts
+UK:Discovery,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1818.ts
+UK:Dave,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1790.ts
+UK:Community,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1834.ts
+UK:CI,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1819.ts
+UK:Chelsea TV,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1835.ts
+UK:Channel 4,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1820.ts
+UK:BT Sports 2,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1836.ts
+UK:BT Sports 1,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1837.ts
+UK:BBC_one,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1838.ts
+UK:BBC TOW,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1839.ts
+UK:BBC Three,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1840.ts
+UK:BBC News,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1841.ts
+UK:At The Races,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1821.ts
+UK:Animal Planet,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1822.ts
+UK:Alibi,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1793.ts
+UK:AKA,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1823.ts
+UK:5 USA,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1824.ts
+UK:3E,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1825.ts
+Sky Sport News HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1675.ts
+Sky Sport F1 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1120.ts
+REALLY,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1935.ts
+ITVBE,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1936.ts
+EuroSport 1,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1861.ts
+Dubai Racing (Hourses),http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1865.ts
+Carton Network,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1672.ts
+Disney Junior,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1271.ts
+Nickelodeon,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1261.ts
+Nat Geo Wild,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1262.ts
+National Geographic Channel,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1322.ts
+Nat Geo,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1263.ts
+FR: Nat Geo HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1290.ts
+Discovery Channel,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1673.ts
+Discovery History,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1274.ts
+BT Sport ESPN,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1671.ts
+BT SPORT 1,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/892.ts
+BT Sport 2,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1386.ts
+Sky Sport 1,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1109.ts
+Sky Sport 2 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1112.ts
+SKY Sport 2,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1113.ts
+Sky Sport 3 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1115.ts
+Sky Sport 3,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1116.ts
+Sky Sport 4,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1388.ts
+Sky Sport 5 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1119.ts
+>>>>>>>SUEDIA<<<<<<<,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/835.ts
+TR: TV8 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1188.ts
+
 ADULT成人台
 松视一,p2p://60.249.213.25:9900/57131c4b0007ccfb00c7f9ad180f1833.ts
 松视一,p2p://150.242.250.116:34588/554f074b00077146689b83ea2fb929f6
