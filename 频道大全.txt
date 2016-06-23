@@ -211,6 +211,7 @@ RHK-32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 本港台（纽约）,http://ktv002.cdnak.ds.kylintv.net/nlds/kylin/asiatv/as/live/asiatv_4.m3u8#p2p://61.221.233.81:9000/5606a7b70009c7b2010f33837a471456&link=
 中国电影台,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
 星空HD,http://tw.59kp.com:1935/live/c246.stream/playlist.m3u8
+星空HD,http://110.77.0.182:1935/dvr/1010.stream/playlist.m3u8
 
 求索科学,http://112.253.38.62:80/padlive1-cnc.wasu.cn/hd_qspd/z.m3u8
 求索纪录,http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
@@ -541,7 +542,6 @@ DISCOVERYSCIENCE,http://tw.59kp.com:1935/live/c247.stream/playlist.m3u8
 TVBS新闻台,http://tw.59kp.com:1935/live/c162.stream/playlist.m3u8
 TVBS欢乐台,http://tw.59kp.com:1935/live/c160.stream/playlist.m3u8
 
-
 台湾综合,rtsp://2.itvitv.com/twzh.dsumenhsdbsa
 台湾戏剧台,p2p://1023005977:9900/5711aced000607ad00a18d731b7d7c67&link=HGFDSAihgfd
 台湾交通,rtsp://210.200.79.28:554/live/ftvm_sp.sdp
@@ -549,6 +549,11 @@ TVBS欢乐台,http://tw.59kp.com:1935/live/c160.stream/playlist.m3u8
 FTV影剧,http://58.99.33.4:1935/liveedge/live_751_3.stream/playlist.m3u8
 FTV旅游,http://58.99.33.4:1935/liveedge/live_750_3.stream/playlist.m3u8
 FTV综艺,http://58.99.33.4:1935/liveedge/live_748_3.stream/playlist.m3u8
+公视,http://mobile.ccdntech.com/live/_definst_/vod111_Live/live2/playlist.m3u8
+公视,http://tw.59kp.com:1935/live/c239.stream/playlist.m3u8
+公视,http://161.202.144.253/app/tvb8s-stream_aac/playlist.m3u8
+公视,http://video01-tok.streamup.com/app/tvb8s-stream_aac/playlist.m3u8
+
 
 台视
 台视HD,http://ktv042.ds.kylintv.net/nlds/kylin/ttv/droid/live/ttv_4.m3u8
@@ -838,6 +843,10 @@ JET綜合,http://du1.ottclub.info:1935/live/c225.stream/playlist.m3u8
 
 港臺電視,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 宏视卫视,http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
+宏观卫视,http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/droid/live/mactv_4.m3u8
+宏观卫视,http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
+宏观卫视,http://stream.cdn.twgate.net/live/ccdntw/mactvlive_3/chunklist_w1285155991.m3u8
+宏观卫视,p2p://207.238.82.38:9916/51aea95e000af79ee842c62c7eeb7792
 人间卫视,http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
 
  
