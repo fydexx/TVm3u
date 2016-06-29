@@ -9,6 +9,46 @@ http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbG
 #EXTINF:-1, TVi
 http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2MzM2NTA5OX0.QCguZcsE7-CealvjYrhbUoJwxSvACq0iW7DzMXHl2ketAjIyCp0acsJo-u-HKv6HGUP96bXD6Vtmntnsv8640A
 
+#EXTINF:-1 tvg-id=“TV1” tvg-name=“TV1”,TV1 (Malaysia)
+
+http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“TV2” tvg-name=“TV2”,TV2 (Malaysia)
+
+http://supercharged.stream.my/live/ngrp:rtm-ch003.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“TV3” tvg-name=“TV3”,TV3 (Malaysia)
+
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+
+#EXTINF:-1 tvg-id=“TV4” tvg-name=“TV4”,TV4 (Malaysia)
+
+http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“TV5” tvg-name=“TV5”,TV5 (Malaysia)
+
+http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“TV6” tvg-name=“TV6”,TV6 (Malaysia)
+
+http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id=“TV7” tvg-name=“NTV7”,NTV7 (Malaysia)
+
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+
+#EXTINF:-1 tvg-id=“TV8” tvg-name=“8TV”,8TV (Malaysia)
+
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+
+#EXTINF:-1 tvg-id=“TV9” tvg-name=“TV9”,TV9 (Malaysia)
+
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+
+#EXTINF:-1 tvg-id=“TV10” tvg-name=“TV10”,TV10 (Malaysia)
+
+http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
+
 #EXTINF:-1, MUZIK AKTIF
 http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2MzM2NTEzM30.H7VcAV24RVdhCnqHij0XO4mCG-p_h7qojJ3uVD2Aoer2QRdPlhUDjyggw1SH79rA1f96mQg0abxgNxOTcirTRQ
 
