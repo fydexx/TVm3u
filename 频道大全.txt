@@ -189,8 +189,9 @@ NHK BSプレミアム,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
 
 ==香港频道==
 
-翡翠台,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
+翡翠台 http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=5408f55ec27ba46b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1
 翡翠台,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=5408f55ec27ba46b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1
+翡翠台,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
 翡翠台HD,http://token.tvb.com/stream/live/hls/mobilehd_jade.smil#p2p://61.221.233.81:9000/56093dab000b879a08167ac469dc1292&link=#p2p://61.221.233.81:9000/56093d3200031b8a08149ff055b7764a&link=HGFDSAihgfd
 香港互助新闻，http://token.tvb.com/stream/live/hls/mobilehd_inews.smil
 香港卫视,rtmp://live.hkstv.hk.lxdns.com/live/hks
