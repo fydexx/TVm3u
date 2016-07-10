@@ -242,6 +242,7 @@ RHK-32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 求索动物,http://220.194.207.26/livehls1-cnc.wasu.cn/hd_qsdw/z.m3u8
 
 旅游卫视,http://ktv040.cdnak.ds.kylintv.net/nlds/kylin/traveltv/droid/live/traveltv_4.m3u8
+星空卫视西片台,http://wc3.ottclub.info:1935/live/c746.stream/playlist.m3u8
 
 OUTDOORHD,p2p://106.186.121.94:8260/560743d60004699e574b979843521f30
 探索动力,http://tw.59kp.com:1935/live/c200.stream/playlist.m3u8
