@@ -1,8 +1,9 @@
 ﻿TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MDc0M30.epqa4cWD13jWtb0dyxWDZ9W4ggd2wH19fQnAMf6EX53yf8s2qbV8V0XxbkyULKg6lo2_m8y0YXspqZgEQjwNNw
-TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug
 TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8
-马来西亚TV1,http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b329000_sleng.m3u8
-马来西亚TV1,http://rtm-live.glueapi.io/smil:rtm-ch006/chunklist_b305000_sleng.m3u8
+TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug
+TV1,http://rtm-live.glueapi.io/smil:ch001.smil/media-uf7rjc9jy_b2640000_sleng_300694.ts
+TV1,http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b329000_sleng.m3u8
+TV1,http://rtm-live.glueapi.io/smil:rtm-ch006/chunklist_b305000_sleng.m3u8
 TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw;plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
 TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTYyNn0.AJ_HBe4LEpkl0CHsFVXK8pMJiopXAjx3-iODRFeIwGHmM2dYduORX-yoVxMsmQLpjhIxTCyb_g50zRSxtS2Lgw
 TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTE0NH0.9tXlg9qvJQsmMipUOFWfBZsGMYxSmHzzKe_VA1Exh6ydATQNRXM3O5gqNKxbR773zpVFbDIEZuC4lm4R7b6Ajw
@@ -740,6 +741,7 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 三立台湾HD,http://du1.ottclub.info:1935/live
 三立台湾,p2p://106.186.121.94:8260/566e1f290005d31848769c996e042e14
 三立台湾,http://tw.59kp.com:1935/live/c196.stream/playlist.m3u8
+三立都会HD http://60.248.55.253:7002/64
 三立都会HD,http://du1.ottclub.info:1935/live/c159.stream/playlist.m3u8
 三立都会HD,http://du1.ottclub.info:1935/live/c659.stream/playlist.m3u8
 三立都会HD,http://du1.ottclub.info:1935/live/c159.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
@@ -810,6 +812,8 @@ GoodTV好消息2,http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live
 GoodTV好消息2,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdtv2_4.m3u8
 GoodTV好消息,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/droid/live/gdtv2_4.m3u8
 
+
+
 JET綜合,http://du1.ottclub.info:1935/live/c225.stream/playlist.m3u8
 年代MUCH,http://du1.ottclub.info:1935/live/c226.stream/playlist.m3u8
 年代MUCH,p2p://60.249.213.25:9900/569b5ef900041b40127e5ca165b84672.ts#p2p://60.249.213.25:9900/569b5ef900041b40127e5ca165b84672
@@ -849,6 +853,8 @@ JET綜合,http://du1.ottclub.info:1935/live/c225.stream/playlist.m3u8
 宏观卫视,p2p://207.238.82.38:9916/51aea95e000af79ee842c62c7eeb7792
 人间卫视,http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
 
+迪斯尼少年 http://60.248.55.253:7012/115
+龙华动画 http://60.248.55.253:7002/68
  
 澳门
 
