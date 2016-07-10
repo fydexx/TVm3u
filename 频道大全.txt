@@ -566,6 +566,7 @@ FTV综艺,http://58.99.33.4:1935/liveedge/live_748_3.stream/playlist.m3u8
 
 
 台视
+台视HD,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=453
 台视HD,http://ktv042.ds.kylintv.net/nlds/kylin/ttv/droid/live/ttv_4.m3u8
 台视HD,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
 台视HD,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/droid/live/ttv_4.m3u8
@@ -588,6 +589,7 @@ FTV综艺,http://58.99.33.4:1935/liveedge/live_748_3.stream/playlist.m3u8
 
 
 民视
+民视HD,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=450
 民视HD,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/droid/live/formosatv_4.m3u8
 民视HD,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
 民视HD,http://59.120.43.180:17334
@@ -651,6 +653,7 @@ FTV综艺,http://58.99.33.4:1935/liveedge/live_748_3.stream/playlist.m3u8
 
 
 中天
+中视HD,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=452
 中视HD,http://59.120.43.180:17837
 中视HD,http://tw.59kp.com:1935/live/c174.stream/playlist.m3u8
 中天综合,http://tw.59kp.com:1935/live/c220.stream/playlist.m3u8
