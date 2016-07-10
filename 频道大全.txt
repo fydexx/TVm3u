@@ -189,7 +189,8 @@ NHK BSプレミアム,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
 
 ==香港频道==
 
-TVB翡翠,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
+翡翠台,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
+翡翠台,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=5408f55ec27ba46b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1
 翡翠台HD,http://token.tvb.com/stream/live/hls/mobilehd_jade.smil#p2p://61.221.233.81:9000/56093dab000b879a08167ac469dc1292&link=#p2p://61.221.233.81:9000/56093d3200031b8a08149ff055b7764a&link=HGFDSAihgfd
 香港互助新闻，http://token.tvb.com/stream/live/hls/mobilehd_inews.smil
 香港卫视,rtmp://live.hkstv.hk.lxdns.com/live/hks
@@ -202,6 +203,7 @@ HKTV,http://ott-video-lb.hktvmall.com:8088/hktvlive.m3u8?uid=1&vid=1&d=pc&t=12e9
 TVB J2,http://token.tvb.com/stream/live/hls/mobilehd_j2.smil
 TVB J5,http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil
 TVB J5,p2p://106.186.121.94:8260/5663e68c0002d6812089769062ef2d01
+TVB8香港,rtmp://110.77.0.182:1935/dvr/1013.stream
 TVB8香港,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
 TVB8香港,http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8
 TVB8香港,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8?DVR
@@ -741,6 +743,7 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 三立台湾HD,http://du1.ottclub.info:1935/live
 三立台湾,p2p://106.186.121.94:8260/566e1f290005d31848769c996e042e14
 三立台湾,http://tw.59kp.com:1935/live/c196.stream/playlist.m3u8
+三立台湾,http://58.99.33.2:1935/liveedge/live_29_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 三立都会HD http://60.248.55.253:7002/64
 三立都会HD,http://du1.ottclub.info:1935/live/c159.stream/playlist.m3u8
 三立都会HD,http://du1.ottclub.info:1935/live/c659.stream/playlist.m3u8
@@ -755,11 +758,15 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 三立都会,p2p://106.186.121.94:8260/5607a7d3000172dd58d22b18637e5888
 三立都会,p2p://60.249.213.25:9900/560677ba000ed60f0053c0827ca14772
 三立都会,http://tw.59kp.com:1935/live/c159.stream/playlist.m3u8
+三立都会,http://58.99.33.2:1935/liveedge/live_30_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 三立综合,p2p://106.186.121.94:8260/56077973000bfeaa581d06c26d907aff
 三立戏剧,p2p://106.186.121.94:8260/560779d700013988581e8aa177120989
 
+
 八大
 八大第一,http://tw.59kp.com:1935/live/c157.stream/playlist.m3u8
+八大第一,http://58.99.33.2:1935/liveedge/live_27_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+八大綜合,http://58.99.33.2:1935/liveedge/live_28_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 八大综合,http://tw.59kp.com:1935/live/c197.stream/playlist.m3u8
 八大綜合HD,http://du1.ottclub.info:1935/live/c197.stream/playlist.m3u8
 八大综合HD,p2p://106.186.121.94:8260/5607a814000a934058d32b563fee63a5
@@ -813,7 +820,7 @@ GoodTV好消息2,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdt
 GoodTV好消息,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/droid/live/gdtv2_4.m3u8
 
 
-
+東風37,http://58.99.33.2:1935/liveedge/live_37_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 JET綜合,http://du1.ottclub.info:1935/live/c225.stream/playlist.m3u8
 年代MUCH,http://du1.ottclub.info:1935/live/c226.stream/playlist.m3u8
 年代MUCH,p2p://60.249.213.25:9900/569b5ef900041b40127e5ca165b84672.ts#p2p://60.249.213.25:9900/569b5ef900041b40127e5ca165b84672
@@ -855,6 +862,8 @@ JET綜合,http://du1.ottclub.info:1935/live/c225.stream/playlist.m3u8
 
 迪斯尼少年 http://60.248.55.253:7012/115
 龙华动画 http://60.248.55.253:7002/68
+冠军台,http://58.99.33.2:1935/liveedge/live_64_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+AXN,http://58.99.33.2:1935/liveedge/live_84_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
  
 澳门
 
