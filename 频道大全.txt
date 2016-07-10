@@ -189,6 +189,12 @@ NHK BSプレミアム,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
 
 ==香港频道==
 
+港-TVBJ2台,p2p://96.44.141.58:6038/572c660f000ce1f85a8617710380242f&automatic unlocking&Change table not lock&infinite loop.ts  
+港-TVBJ5台,p2p://96.44.141.58:6038/572c650e000ee9495a822c0a70cf4b26&automatic unlocking&Change table not lock&infinite loop.ts                                
+港-TVB翡翠台,p2p://96.44.141.58:6038/572d6229000c27945e5edcd63ff2287b&automatic unlocking&Change table not lock&infinite loop.ts#p2p://96.44.141.58:6038/572b56630006e2f85660de052d80434a&automatic unlocking&Change table not lock&infinite loop.ts
+港-TVB明珠台,p2p://96.44.141.58:6038/572c656e000d3dd45a83a2a0002215ed&automatic unlocking&Change table not lock&infinite loop.ts                               
+港-TVB互动新闻台,p2p://96.44.141.58:6038/572c65a30005c8095a846fbe2a506663&automatic unlocking&Change table not lock&infinite loop.ts
+
 翡翠台 http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=5408f55ec27ba46b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1
 翡翠台,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=5408f55ec27ba46b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1
 翡翠台,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
