@@ -83,7 +83,7 @@ HSN ,rtmp://hsn.mpl.miisolutions.net/hsn-live01/_definst_/420p500kB31
 韓國MV,http://dlhls.cdn.zhanqi.tv/zqlive/284_zMohT_400/index.m3u8
 韓-OBS,http://111.118.21.79/etv1sb/phd3/playlist.m3u8
 韓-OBS,rtmp://111.118.21.79/etv1sb/phd3
-韓國新唐人電視(國語),rtmp://123.108.164.71/etv2/phd1058#rtmp://123.108.164.71/etv2/phd926
+韓國新唐人電视(國語),rtmp://123.108.164.71/etv2/phd1058#rtmp://123.108.164.71/etv2/phd926
 韩国动画,http://123.108.164.71/etv2sb/pld13/lihattv.m3u8
 韩JES英语,http://123.108.164.71/etv2sb/pld15/lihattv.m3u8
 韩INETHD,http://123.108.164.71/etv2sb/pld263/lihattv.m3u8
@@ -221,6 +221,7 @@ RHK-32,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 中国电影台,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
 星空HD,http://tw.59kp.com:1935/live/c246.stream/playlist.m3u8
 星空HD,http://110.77.0.182:1935/dvr/1010.stream/playlist.m3u8
+星空卫视 rtmp://110.77.0.182:1935/dvr/1010.stream
 
 求索科学,http://112.253.38.62:80/padlive1-cnc.wasu.cn/hd_qspd/z.m3u8
 求索纪录,http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_qsjl/z.m3u8
@@ -456,9 +457,6 @@ CCTV英文频道,http://ktv030.cdnak.ds.kylintv.net/nlds/kylin/cctv9/as/live/cct
 厦门移动,http://fms.cntv.lxdns.com/live/flv/channel8.flv
 
 
-
-
-
 华语电视1,http://ktv015.cdnak.ds.kylintv.net/nlds/kylin/hyds/droid/live/hyds_4.m3u8
 ICN国际卫视,http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/iavc/droid/live/iavc_4.m3u8
 华夏电视,http://ktv026.cdnllnwnl.ds.kylintv.net/nlds/kylin/cathaytv/droid/live/cathaytv_4.m3u8
@@ -486,6 +484,7 @@ DIVA,http://tw.59kp.com:1935/live/c156.stream/playlist.m3u8
 
 FOX2,http://tw.59kp.com:1935/live/c165.stream/playlist.m3u8
 MOMO亲子台,http://tw.59kp.com:1935/live/c168.stream/playlist.m3u8
+MOMO亲子台,http://58.99.33.2:1935/liveedge/live_24_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
 TLC旅游生活,http://tw.59kp.com:1935/live/c170.stream/playlist.m3u8
 霹雷台湾台,http://tw.59kp.com:1935/live/c173.stream/playlist.m3u8
@@ -563,39 +562,49 @@ FTV综艺,http://58.99.33.4:1935/liveedge/live_748_3.stream/playlist.m3u8
 公视,http://tw.59kp.com:1935/live/c239.stream/playlist.m3u8
 公视,http://161.202.144.253/app/tvb8s-stream_aac/playlist.m3u8
 公视,http://video01-tok.streamup.com/app/tvb8s-stream_aac/playlist.m3u8
+公视HD,http://58.99.33.2:1935/liveedge/live_13_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
-SET I,p2p://96.44.141.58:6038/5723a5430004a38d38555b7011b77b26.ts
-ELTA VARIETY,p2p://96.44.141.58:6038/5723a395000d3000384ecdf07f721dab.ts
-ELTA SPORTS,p2p://96.44.141.58:6038/5723a3bd00058c05384f683b7bde5ffc.ts
-ELTA SPORTS+ HD,p2p://96.44.141.58:6038/5729d104000ead0f506fe4e86f083b0b.ts
-GTV TV1 HD,p2p://96.44.141.58:6038/5723a475000c84e4385238c310117765.ts
-GTV ENTAITAINMENT HD,p2p://96.44.141.58:6038/5723a568000b5a8e3855edb06bb653d6.ts
+博斯高球,http://58.99.33.1:1935/liveedge2/live_601_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+博斯網球,http://58.99.33.1:1935/liveedge2/live_602_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+博斯足球,http://58.99.33.1:1935/liveedge2/live_603_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+博斯魅力,http://58.99.33.1:1935/liveedge2/live_604_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+博斯高球 2,http://58.99.33.1:1935/liveedge2/live_605_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
-TVBS NEWS HD,p2p://96.44.141.58:6038/57567981000f0ac05ca6265b5bd67f9d.ts
-TVBS ENTERTAINMENT,p2p://96.44.141.58:6038/5723a51c00001d783854c1ef7f417f61.ts
-CTI VARIETY,p2p://96.44.141.58:6038/5723a60500033d81385850e5351612fd.ts
-CTI ENTERTAINMENT HD,p2p://96.44.141.58:6038/575674c70007070a5c93adc222d65b9d.ts
-CTI NEWS HD,p2p://96.44.141.58:6038/57567557000736d75c95e04622b1269d.ts
-CTI ASIA HD,p2p://96.44.141.58:6038/575675a1000835ab5c97019c004f14c3.ts
-CCTV1 HD,p2p://96.44.141.58:6038/57567c0c0006d5fc5cb013393c8814d3.ts
-HUNAN HD,p2p://96.44.141.58:6038/57567c44000dd7da5cb0efc1673b0a2a.ts
-JIANGSU HD,p2p://96.44.141.58:6038/57567c860006e96f5cb1efd160d21395.ts
 
-EBC VARIETY,p2p://96.44.141.58:6038/57567df7000933d15cb791ca0a7373fd.ts
-EBC MOVIES,p2p://96.44.141.58:6038/57567e710000ac035cb96c3126585776.ts
-EBC YOYO,p2p://96.44.141.58:6038/57567f1700040d465cbbf57c40552bac.ts
-ETTV ASIA,p2p://96.44.141.58:6038/57567f630009a07e5cbd1fc62fa61e0b.ts
-EBC SUPERTV,p2p://96.44.141.58:6038/57567fc80000be0d5cbea8084d431206.ts
-MOMO,p2p://96.44.141.58:6038/57567afa000cfd935cabe67e15a8244a.ts
-STAR C MOVIES,p2p://96.44.141.58:6038/57567b6900090b295cad97176dd6492a.ts
-ASIA TRAVEL HD,p2p://96.44.141.58:6038/575678de0000384d5ca3a5d639d464a6.ts
-GOLDEN JAPAN HD,p2p://96.44.141.58:6038/57567a2d000768e15ca8c44e076a4410.ts
-GOOD TV,p2p://96.44.141.58:6038/57567bb30007bc1d5caeb7d0624c360a.ts
-HOME TV,p2p://96.44.141.58:6038/575680250001f3e95cc013a63a7e2571.ts
-TEST,p2p://96.44.141.58:6038/5749b72100033bd12acfa860521463ce.ts
+動物星球,http://58.99.33.2:1935/liveedge/live_12_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+
+原视,http://58.99.33.2:1935/liveedge/live_16_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+國家地理,http://58.99.33.2:1935/liveedge/live_18_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+探索頻道,http://58.99.33.2:1935/liveedge/live_19_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+CTN NEWS,http://58.99.33.2:1935/liveedge/live_20_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+
+衛视中文,http://58.99.33.2:1935/liveedge/live_31_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+东風37,http://58.99.33.2:1935/liveedge/live_37_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+年代MUCH,http://58.99.33.2:1935/liveedge/live_38_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+高點綜合,http://58.99.33.2:1935/liveedge/live_44_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+JET 綜合,http://58.99.33.2:1935/liveedge/live_45_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+壹新闻,http://58.99.33.2:1935/liveedge/live_49_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+年代新新闻,http://58.99.33.2:1935/liveedge/live_50_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+民视新闻,http://58.99.33.2:1935/liveedge/live_53_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+TVBS,http://58.99.33.2:1935/liveedge/live_56_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+非凡新闻,http://58.99.33.2:1935/liveedge/live_58_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+衛视电影,http://58.99.33.2:1935/liveedge/live_61_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+冠軍台,http://58.99.33.2:1935/liveedge/live_64_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+HBO,http://58.99.33.2:1935/liveedge/live_65_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+好萊塢电影,http://58.99.33.2:1935/liveedge/live_68_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+國家地理,http://58.99.33.2:1935/liveedge/live_69_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+CINEMAX,http://58.99.33.2:1935/liveedge/live_71_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+FOX 體育,http://58.99.33.2:1935/liveedge/live_73_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+AXN,http://58.99.33.2:1935/liveedge/live_84_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+華视新闻資訊,http://58.99.33.2:1935/liveedge/live_97_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+EP運通,http://58.99.33.2:1935/liveedge/live_97_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+衛视合家歡,http://58.99.33.1:1935/liveedge4/live_202_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+CNA亞洲新闻,http://58.99.33.1:1935/liveedge4/live_205_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+BBC 世界新闻,http://58.99.33.1:1935/liveedge4/live_207_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
 
 台视
+台视,http://58.99.33.2:1935/liveedge/live_7_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 台视HD,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=453
 台视HD,http://ktv042.ds.kylintv.net/nlds/kylin/ttv/droid/live/ttv_4.m3u8
 台视HD,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
@@ -619,6 +628,7 @@ TEST,p2p://96.44.141.58:6038/5749b72100033bd12acfa860521463ce.ts
 
 
 民视
+民视,http://58.99.33.2:1935/liveedge/live_5_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 民视HD,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=450
 民视HD,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/droid/live/formosatv_4.m3u8
 民视HD,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/formosatv/as/live/formosatv_4.m3u8
@@ -636,7 +646,7 @@ TEST,p2p://96.44.141.58:6038/5749b72100033bd12acfa860521463ce.ts
 民视新闻HD,http://220.228.49.16/live/fet002/index.m3u8
 民视纽约HD,http://59.120.43.180:17334
 民视美洲,p2p://207.238.82.38:9926/51aea8a600029f63e83ff5493b03319a
-民視四季HD,p2p://1023005977:9900/57067d74000eef344b34dacf2f5d1ce3&link=HGFDSAihgfd
+民视四季HD,p2p://1023005977:9900/57067d74000eef344b34dacf2f5d1ce3&link=HGFDSAihgfd
 民视四季HD,http://59.120.43.180:17623
 民视四季HD,p2p://106.186.121.94:8260/56070ff10008f3995680e23a647c6a70
 民视四季HD,http://tw.59kp.com:1935/live/c193.stream/playlist.m3u8
@@ -645,7 +655,7 @@ TEST,p2p://96.44.141.58:6038/5749b72100033bd12acfa860521463ce.ts
 
 
 华视
-
+华视,http://58.99.33.2:1935/liveedge/live_11_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 华视,http://tw.59kp.com:1935/live/c172.stream/playlist.m3u8
 华视,http://59.120.43.180:17836
 华视,p2p://1023005977:9900/570684170003414b4b4ec49123576ab4&link=HGFDSAihgfd
@@ -680,15 +690,18 @@ TEST,p2p://96.44.141.58:6038/5749b72100033bd12acfa860521463ce.ts
 华娱卫视,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8
 华娱卫视,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/cetv/as/live/cetv_4.m3u8
 华娱卫视,http://ktv044.ds.kylintv.net/nlds/kylin/cetv/droid/live/cetv_4.m3u8
-
+华娱卫视,rtmp://110.77.0.182:1935/dvr/1012.stream
 
 中天
+中视,http://58.99.33.2:1935/liveedge/live_9_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 中视HD,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=452
 中视HD,http://59.120.43.180:17837
 中视HD,http://tw.59kp.com:1935/live/c174.stream/playlist.m3u8
+中天綜合,http://58.99.33.2:1935/liveedge/live_67_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 中天综合,http://tw.59kp.com:1935/live/c220.stream/playlist.m3u8
 中天综合HD,p2p://106.186.121.94:8260/56076f33000325c857f4fa8202ee52d5
 中天综合HD,http://tw.59kp.com:1935/live/c220.stream/playlist.m3u8
+中天娱乐,http://58.99.33.2:1935/liveedge/live_34_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 中天娱乐,rtsp://173.224.209.43/ztyl#p2p://60.249.213.25:9900/5606b17f000ae1d2013569140b902f16.ts#p2p://60.249.213.25:9900/5606b17f000ae1d2013569140b902f16
 中天娱乐,http://tw.59kp.com:1935/live/c228.stream/playlist.m3u8
 中天娱乐,p2p://106.186.121.94:8260/56075708000e4dc6579695672c481f25
@@ -701,6 +714,8 @@ TEST,p2p://96.44.141.58:6038/5749b72100033bd12acfa860521463ce.ts
 中视新闻,http://59.120.43.180:17837#http://59.120.43.180:17838
 中天新闻,http://59.120.43.180:17824
 中天新闻,http://tw.59kp.com:1935/live/c188.stream/playlist.m3u8
+中天新闻,http://58.99.33.2:1935/liveedge/live_52_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+
 
 TVBS,http://59.120.43.180:17833
 TVBS歡樂HD,http://du1.ottclub.info:1935/live/c660.stream/playlist.m3u8
@@ -708,16 +723,17 @@ TVBS新闻HD,http://du2.ottclub.info:1935/live/c662.stream/playlist.m3u8
 TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 中视,http://59.120.43.180:17837
 中视,http://tw.59kp.com:1935/live/c174.stream/playlist.m3u8
-中視,p2p://1023005977:9900/570683d900016f3d4b4dd1ea3c3f76bc&link=HGFDSAihgfd
-中視HD,http://du1.ottclub.info:1935/live/c174.stream/playlist.m3u8
+中视,p2p://1023005977:9900/570683d900016f3d4b4dd1ea3c3f76bc&link=HGFDSAihgfd
+中视HD,http://du1.ottclub.info:1935/live/c174.stream/playlist.m3u8
 中视菁采,http://59.120.43.180:17829
 中视箐采,p2p://106.186.121.94:8260/5607106e0000aa935682c86361951e45
 中视菁采,http://tw.59kp.com:1935/live/c201.stream/playlist.m3u8
-中視菁彩,p2p://1023005977:9900/570683f100092e384b4e31a6258f5c70&link=HGFDSAihgfd
+中视菁彩,p2p://1023005977:9900/570683f100092e384b4e31a6258f5c70&link=HGFDSAihgfd
 中视菁采,http://59.120.43.180:17829
 中视经典,http://59.120.43.180:17579
 
 东森
+东森新闻,http://58.99.33.2:1935/liveedge/live_51_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 东森新闻HD,http://220.228.49.16/live/fet004/index.m3u8
 东森新闻HD,http://220.228.38.16/live/fet003/chunklist.m3u8#http://59.120.43.180:17499
 东森新闻HD,http://du1.ottclub.info:1935/live/c191.stream/playlist.m3u8
@@ -734,9 +750,11 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 东森亚洲,http://59.120.43.180:17275
 东森亚洲,http://59.120.43.180:17368
 东森亚洲,http://59.120.43.180:17500
-东森財經新闻HD,http://du2.ottclub.info:1935/live/c233.stream/playlist.m3u8
+东森财经新闻HD,http://du2.ottclub.info:1935/live/c233.stream/playlist.m3u8
 东森财经新闻,http://tw.59kp.com:1935/live/c233.stream/playlist.m3u8
+东森财经新闻,http://58.99.33.2:1935/liveedge/live_57_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 
+东森幼幼,http://58.99.33.2:1935/liveedge/live_25_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 东森幼幼,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/droid/live/etyoyo_4.m3u8
 东森幼幼,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
 东森幼幼,http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8#p2p://106.186.121.94:8258/5607d15a000574ed59746379469d0d01#p2p://61.221.233.81:9000/5606bc400001a44e015f68980d4d0f70
@@ -744,6 +762,7 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 东森幼幼,http://du1.ottclub.info:1935/live/c227.stream/playlist.m3u8
 东森卫视,http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
 东森卫视,http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/droid/live/etgbl_4.m3u8#http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
+东森戏剧,http://58.99.33.2:1935/liveedge/live_40_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 东森戏剧,p2p://60.249.213.25:9900/56067c05000c02cf006484ca385f7c26
 东森戏剧,http://du1.ottclub.info:1935/live/c669.stream/playlist.m3u8
 东森戏剧,http://du2.ottclub.info:1935/live/c169.stream/playlist.m3u8
@@ -753,6 +772,7 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 东森超视,http://du1.ottclub.info:1935/live/c695.stream/playlist.m3u8
 东森超视,http://du1.ottclub.info:1935/live/c195.stream/playlist.m3u8
 东森超视,http://du1.ottclub.info:1935/live/c195.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
+东森洋片,http://58.99.33.2:1935/liveedge/live_66_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 东森洋片,http://du3.ottclub.info:1935/live/c694.stream/playlist.m3u8
 东森洋片,rtsp://2.itvitv.com/etyp.pwugrayhgks
 东森洋片,http://du1.ottclub.info:1935/live/c194.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
@@ -760,11 +780,13 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 东森洋片,http://tw.59kp.com:1935/live/c194.stream/playlist.m3u8
 东森美洲,http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/droid/live/etnews_4.m3u8#http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8#p2p://207.238.82.30:9926/5491b41b000989683858918d716a4d69#p2p://207.238.82.30:9916/5491b41b000989683858918d716a4d69#p2p://207.238.82.30:9916/5491b3fb000e4e1c385815c549cc7aaf.ts#p2p://207.238.82.30:9916/5491b3fb000e4e1c385815c549cc7aaf#p2p://207.238.82.30:9926/5491b3fb000e4e1c385815c549cc7aaf
 
+东森电影,http://58.99.33.2:1935/liveedge/live_62_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 东森电影,p2p://60.249.213.25:9900/56089c4a000380ec05a015ce2c2845fa
 东森电影,rtsp://c.itvitv.com/etm.jhfuowamedr
 东森电影,http://du2.ottclub.info:1935/live/c234.stream/playlist.m3u8
 东森电影,http://tw.59kp.com:1935/live/c234.stream/playlist.m3u8
 
+东森綜合,http://58.99.33.2:1935/liveedge/live_32_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 东森综合,http://tw.59kp.com:1935/live/c237.stream/playlist.m3u8
 东森綜合,http://du3.ottclub.info:1935/live/c237.stream/playlist.m3u8
 东森購物2台,http://58.99.33.1:1935/liveedge/live_35.smil/playlist.m3u8?checkCode=37050688asdfsdfsadf
@@ -772,15 +794,19 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 
 
 三立
+
+三立新闻,http://58.99.33.2:1935/liveedge/live_54_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 三立新闻,p2p://106.186.121.94:8260/5646e49c0000a7eb141cd44864a373b0
 三立新闻,http://tw.59kp.com:1935/live/c161.stream/playlist.m3u8
 三立新闻,http://streamup.global.ssl.fastly.net/app/mirror582sts-channel/chunklist.m3u8
 三立新闻HD,http://du3.ottclub.info:1935/live/c161.stream/playlist.m3u8
 三立新闻HD,http://du1.ottclub.info:1935/live/c661.stream/playlist.m3u8
 三立新闻HD,http://du1.ottclub.info:1935/live/c161.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
+三立财经,http://58.99.33.2:1935/liveedge/live_88_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 三立台湾HD,http://du3.ottclub.info:1935/live/c696.stream/playlist.m3u8
 三立台湾HD,http://du3.ottclub.info:1935/live/c196.stream/playlist.m3u8
 三立台湾HD,http://du1.ottclub.info:1935/live
+三立台湾,http://58.99.33.2:1935/liveedge/live_29_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 三立台湾,p2p://106.186.121.94:8260/566e1f290005d31848769c996e042e14
 三立台湾,http://tw.59kp.com:1935/live/c196.stream/playlist.m3u8
 三立台湾,http://58.99.33.2:1935/liveedge/live_29_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
@@ -788,6 +814,7 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 三立都会HD,http://du1.ottclub.info:1935/live/c159.stream/playlist.m3u8
 三立都会HD,http://du1.ottclub.info:1935/live/c659.stream/playlist.m3u8
 三立都会HD,http://du1.ottclub.info:1935/live/c159.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
+三立都会,http://58.99.33.2:1935/liveedge/live_30_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 三立都会,p2p://106.186.121.94:8260/5607a7d3000172dd58d22b18637e5888
 三立都会,p2p://60.249.213.25:9900/560677ba000ed60f0053c0827ca14772
 三立都会,http://tw.59kp.com:1935/live/c159.stream/playlist.m3u8
@@ -807,6 +834,7 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 八大第一,http://tw.59kp.com:1935/live/c157.stream/playlist.m3u8
 八大第一,http://58.99.33.2:1935/liveedge/live_27_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 八大綜合,http://58.99.33.2:1935/liveedge/live_28_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+八大綜合,http://58.99.33.2:1935/liveedge/live_28_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 八大综合,http://tw.59kp.com:1935/live/c197.stream/playlist.m3u8
 八大綜合HD,http://du1.ottclub.info:1935/live/c197.stream/playlist.m3u8
 八大综合HD,p2p://106.186.121.94:8260/5607a814000a934058d32b563fee63a5
@@ -815,12 +843,15 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 八大第1,http://tw.59kp.com:1935/live/c157.stream/playlist.m3u8
 八大第1HD,http://du1.ottclub.info:1935/live/c157.stream/playlist.m3u8
 八大戏剧HD,p2p://106.186.121.94:8260/56077a33000843bb581ff3cf2f1100ac
+八大戏剧,http://58.99.33.2:1935/liveedge/live_41_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 八大戏剧,http://tw.59kp.com:1935/live/c215.stream/playlist.m3u8
 八大戏剧,http://du2.ottclub.info:1935/live/c215.stream/playlist.m3u8
 
+大愛,http://58.99.33.2:1935/liveedge/live_10_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 大爱,http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/droid/live/daai_4.m3u8
 大爱,http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
 大爱,http://www.anchoredinversion.com/tv/ds/twtv.php?id=twda
+大愛2,http://58.99.33.1:1935/liveedge4/live_201_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 大愛一台,http://210.201.54.101:1935/live/Di_sp.sdp/playlist.m3u8
 大愛二台,http://210.201.54.101:1935/live/di_2.sdp/playlist.m3u8
 大愛二台,p2p://1023005977:9900/5711ba600007482c00d616fd5f794fe7&link=HGFDSAihgfd
@@ -829,15 +860,22 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 
 纬来
 纬来美洲台,p2p://207.238.82.38:9926/51b97c6400040d991bc1b78963077f1b
+纬来育乐,http://58.99.33.2:1935/liveedge/live_87_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 纬来育乐,http://tw.59kp.com:1935/live/c166.stream/playlist.m3u8
 纬来育乐,http://du1.ottclub.info:1935/live/c666.stream/playlist.m3u8
 纬来育乐,http://du1.ottclub.info:1935/live/c166.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
 纬来育乐,rtmp://lv1.ts33.net/sat/tv702#rtmp://kv3.ts33.net/sat/tv702#rtmp://kv3.ts33.net/sat/tv701#rtmp://149.3.141.210/sat/tv702
-纬来体育HD,http://du1.ottclub.info:1935/live/c163.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
-纬来日本,http://du1.ottclub.info:1935/live/c164.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
+纬来体育,http://58.99.33.2:1935/liveedge/live_72_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 纬来体育,http://tw.59kp.com:1935/live/c163.stream/playlist.m3u8
+纬来体育HD,http://du1.ottclub.info:1935/live/c163.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
+纬来日本,http://58.99.33.2:1935/liveedge/live_75_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+纬来日本,http://du1.ottclub.info:1935/live/c164.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
+纬来戏剧,http://58.99.33.2:1935/liveedge/live_43_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 纬来戏剧,http://tw.59kp.com:1935/live/c210.stream/playlist.m3u8
 纬来综合,http://tw.59kp.com:1935/live/c235.stream/playlist.m3u8
+纬来綜合,http://58.99.33.2:1935/liveedge/live_26_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+
+
 
 ELTA
 ELTA综合HD,p2p://106.186.121.94:8260/560772ae000d50c65802959863604e97
@@ -860,7 +898,7 @@ GoodTV好消息2,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/as/live/gdt
 GoodTV好消息,http://ktv017.cdnak.ds.kylintv.net/nlds/kylin/gdtv2/droid/live/gdtv2_4.m3u8
 
 
-東風37,http://58.99.33.2:1935/liveedge/live_37_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+东風37,http://58.99.33.2:1935/liveedge/live_37_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 JET綜合,http://du1.ottclub.info:1935/live/c225.stream/playlist.m3u8
 年代MUCH,http://du1.ottclub.info:1935/live/c226.stream/playlist.m3u8
 年代MUCH,p2p://60.249.213.25:9900/569b5ef900041b40127e5ca165b84672.ts#p2p://60.249.213.25:9900/569b5ef900041b40127e5ca165b84672
@@ -873,10 +911,10 @@ JET綜合,http://du1.ottclub.info:1935/live/c225.stream/playlist.m3u8
 非凡新闻,http://tw.59kp.com:1935/live/c212.stream/playlist.m3u8
 哈哈电影,http://59.120.43.180:17500
 
-臺視羙洲,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
-臺視新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
-臺視新闻,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
-臺視HD,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+臺视羙洲,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+臺视新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+臺视新闻,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
+臺视HD,http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/as/live/ttv_4.m3u8
 壹电视新闻,rtmp://video.uvlog.com/uvlog_video/4898?userId=b7834&pasword=425f1d9ef63c33799b27436140be78e2&channelId=4898&fake_param=true/stream
 壹综合,p2p://106.186.121.94:8260/56077595000a312f580deb2730a63ee1
 壹新闻,p2p://106.186.121.94:8260/560724d300075af656d2749b04d73753
@@ -892,7 +930,7 @@ JET綜合,http://du1.ottclub.info:1935/live/c225.stream/playlist.m3u8
 壹新闻,http://du1.ottclub.info:1935/live/c232.stream/playlist.m3u8
 
 
-港臺電視,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
+港臺電视,http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1296_av-b.m3u8
 宏视卫视,http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/as/live/mactv_4.m3u8
 宏观卫视,http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/droid/live/mactv_4.m3u8
 宏观卫视,http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
