@@ -1,5 +1,8 @@
 ﻿马来西亚电视
 ASTRO AWANI,http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8
+ASTRO PRIMA,http://www.layarku.tv/media/primav6.m3u8
+ASTRO RIA,http://www.layarku.tv/media/riav6.m3u8
+ASTRO WARNA,http://www.layarku.tv/media/warnav6.m3u8
 马来西亚TV1,http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b329000_sleng.m3u8
 马来西亚TV1,http://rtm-live.glueapi.io/smil:ch001.smil/chunklist_b974000_sleng.m3u8
 马来西亚TV1,http://rtm-live.glueapi.io/smil:rtm-ch006/chunklist_b305000_sleng.m3u8

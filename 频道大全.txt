@@ -17,6 +17,9 @@ TV3,http://tv3liveflash-lh.akamaihd.net/z/tv3live_3@86099/manifest.f4m?hdcore=2.
 马来西亚MARA,http://stream2.1malaysiaiptv.com:1935/mylive/smil:maratv_all.smil/playlist.m3u8
 ASTRO AWANI,http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer6.m3u8
 ASTRO AWANI,http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
+ASTRO PRIMA,http://www.layarku.tv/media/primav6.m3u8
+ASTRO RIA,http://www.layarku.tv/media/riav6.m3u8
+ASTRO WARNA,http://www.layarku.tv/media/warnav6.m3u8
 TVi,http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NTM5MTIxM30.q0YarF8rwfFzLNZScxUhd8S3jvYmRDYoRUAYOa2GnIddseDyinwGMzAeYYj5BS_wPs5GG9y59uG3tLRo_HJlGQ
 TVi,http://rtm-live.glueapi.io/smil:rtm-ch003.smil/chunklist_b329000_sleng.m3u8
 TVi,http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4Nn0.pqTaZWAnZakA2RkLSgfAk63eXbU0Tdz5ayoUzpkkt2RTF8PoDlWARY6PhzZopWiM_qJsA0LEppBHBqhs0ivoeg
