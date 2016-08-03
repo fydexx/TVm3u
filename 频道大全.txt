@@ -198,6 +198,10 @@ NHK BSプレミアム,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
 明珠,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=367
 J2,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=368
 
+
+翡翠台,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
+翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
 翡翠台 http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=5408f55ec27ba46b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1
 翡翠台,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
 翡翠台HD,http://token.tvb.com/stream/live/hls/mobilehd_jade.smil#p2p://61.221.233.81:9000/56093dab000b879a08167ac469dc1292&link=#p2p://61.221.233.81:9000/56093d3200031b8a08149ff055b7764a&link=HGFDSAihgfd
@@ -282,6 +286,8 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
  凤凰电影,rtmp://219.232.160.161:1935/livestream/fdwypqk6
  凤凰视频,http://live.cuff.ifeng.com/live/hongkong800k.m3u8
  凤凰视频,http://livews.ifeng.com/live/FHZX.flv
+ 凤凰资讯HD,http://112.17.0.10:8085/ysten-business/live/fhzixun/yst.m3u8
+ 凤凰资讯HD,http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
  凤凰资讯HD,http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/droid/live/pxinhd_5.m3u8
  凤凰资讯HD,http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
  凤凰资讯HD,p2p://106.186.121.94:8260/56072a7a00011b8356e8876079430d92
@@ -293,7 +299,7 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
  凤凰资讯HD,http://110.77.0.182:1935/dvr/1009.stream/playlist.m3u8?DVR
  凤凰资讯HD,http://110.77.0.182:1935/dvr/1009.stream/playlist.m3u8
  凤凰资讯HD,http://202.205.93.230:280/b039f4e32adba3c507423b46e08eece6/playlist.m3u8
- 凤凰资讯HD,http://112.17.0.10:8085/ysten-business/live/fhzixun/yst.m3u8
+ 
  凤凰资讯HD,http://live.3gv.ifeng.com/live/zixun.m3u8
  凤凰资讯HD,http://zv.3gv.ifeng.com/live/zixun800k.m3u8
  凤凰资讯HD,http://zv.3gv.ifeng.com/zixun800k.m3u8

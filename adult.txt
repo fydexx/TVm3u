@@ -160,6 +160,10 @@ TVB翡翠明珠,rtmp://219.232.160.161/livestream/b2xajcu7
 
 J5翡翠高清,http://httpdvb.slave.homed.me/httpdvb?programid=4200851395&playtoken=&verifycode=&auth=no
 
+
+翡翠台,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
+翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
 翡翠台,p2p://61.220.227.30:8268/5663e65c000e3e7e2088bdfc6cdd768f
 翡翠台,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
 翡翠台,p2p://60.249.213.25:9900/57121892000d960f02460bed767d17f5.ts#rtmp://219.232.160.161/livestream/bycgekwh
@@ -287,6 +291,7 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
  凤凰资讯,http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/droid/live/pxinhd_4.m3u8#http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8#http://110.77.0.182:1935/dvr/1009.stream/playlist.m3u8#p2p://60.249.213.25:9900/560740be0001f6bb00527a8d72500975.ts#p2p://60.249.213.25:9900/560740be0001f6bb00527a8d72500975#http://58.135.196.138:8090/live/369024B4C9BF4b0f909187FC58B9951C/369024B4C9BF4b0f909187FC58B9951C.m3u8
  凤凰资讯,http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
  凤凰资讯,http://httpdvb.slave.dzcatv.com:13160/httpdvb?playtype=live&auth=no&programid=4200000194
+ 凤凰资讯HD,http://112.17.0.10:8085/ysten-business/live/fhzixun/yst.m3u8
  凤凰资讯HD,p2p://60.249.213.25:9900/560740be0001f6bb00527a8d72500975
  凤凰资讯HD,http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/droid/live/pxinhd_5.m3u8
  凤凰资讯HD,http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
@@ -299,7 +304,6 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
  凤凰资讯HD,http://110.77.0.182:1935/dvr/1009.stream/playlist.m3u8?DVR
  凤凰资讯HD,http://110.77.0.182:1935/dvr/1009.stream/playlist.m3u8
  凤凰资讯HD,http://202.205.93.230:280/b039f4e32adba3c507423b46e08eece6/playlist.m3u8
- 凤凰资讯HD,http://112.17.0.10:8085/ysten-business/live/fhzixun/yst.m3u8
  凤凰资讯HD,http://live.3gv.ifeng.com/live/zixun.m3u8
  凤凰资讯HD,http://zv.3gv.ifeng.com/live/zixun800k.m3u8
  凤凰资讯HD,http://zv.3gv.ifeng.com/zixun800k.m3u8
@@ -6410,71 +6414,7 @@ VisitxTV成人台,rtmp://123.108.164.71/etv2sb/pld991
 韩国成人高清22台,http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
 韩国成人高清23台,http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
 韩国成人高清24台,http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
-gf2CR,http://a7-60.5-194.cdn13.com/30000/30931/30931.flv?cdn_hash=66299f6be7e12855f9903d214900e7d8&cdn_creation_time=1384714010&cdn_ttl=600
-47CR,http://a7-60.5-201.cdn13.com/30000/30939/30939.flv?cdn_hash=55b79b3129fadd5ae3f34a51813017c7&cdn_creation_time=1384713477&cdn_ttl=600
-4CR,http://a7-60.5-200.cdn13.com/25000/25385/25385.flv?cdn_hash=7cffda1882fc4692dfc751906c97972a&cdn_creation_time=1384717475&cdn_ttl=600
-5CR,http://a7-60.5-77.cdn13.com/25000/25543/25543.flv?cdn_hash=be10edcd25bd236f0b8dc611eedff621&cdn_creation_time=1384717438&cdn_ttl=600
-6CR,http://a7-60.5-166.cdn13.com/25000/25571/25571.flv?cdn_hash=08766536c88497ed0bb80f38f0141714&cdn_creation_time=1384717393&cdn_ttl=600
-7CR,http://a7-60.5-79.cdn13.com/29000/29224/29224.flv?cdn_hash=6a7152be047b8d2d13872a9a528e4518&cdn_creation_time=1384716762&cdn_ttl=600
-9CR,http://a7-60.5-69.cdn13.com/28000/28880/28880.flv?cdn_hash=762cdcbc6d8a139754d33c17f86d4648&cdn_creation_time=1384716555&cdn_ttl=600
-13CR,http://a7-60.5-201.cdn13.com/28000/28944/28944.flv?cdn_hash=774c0d30d6795809d2f2b2b624bf73e6&cdn_creation_time=1384716278&cdn_ttl=600
-17CR,http://a7-60.5-166.cdn13.com/28000/28905/28905.flv?cdn_hash=6b4ff1cce737e022d134ca0015cc9513&cdn_creation_time=1384716079&cdn_ttl=600
-18CR,http://a7-60.5-194.cdn13.com/28000/28978/28978.flv?cdn_hash=7875862e59b6da6bf73ef9952ef2c722&cdn_creation_time=1384716001&cdn_ttl=600
-19CR,http://a7-60.5-78.cdn13.com/29000/29139/29139.flv?cdn_hash=9f0626ce9c59dcd6da293aaa58813927&cdn_creation_time=1384715929&cdn_ttl=600
-20CR,http://a7-60.5-167.cdn13.com/29000/29018/29018.flv?cdn_hash=67b2ca616d79f623aa9daaf5f7a4e833&cdn_creation_time=1384715854&cdn_ttl=600
-29CR,http://a7-60.5-79.cdn13.com/28000/28941/28941.flv?cdn_hash=8be4152cdba1fdd9cbefea35cd1a817e&cdn_creation_time=1384715201&cdn_ttl=600
-30CR,http://a7-60.5-200.cdn13.com/29000/29229/29229.flv?cdn_hash=2f8f4afcbb8c5031fffae81fd72fc9f5&cdn_creation_time=1384715174&cdn_ttl=600
-31CR,http://a7-60.5-167.cdn13.com/29000/29220/29220.flv?cdn_hash=fe05d91a0838cc105d9062e77ededdcb&cdn_creation_time=1384715020&cdn_ttl=600
-35CR,http://a7-60.5-194.cdn13.com/30000/30947/30947.flv?cdn_hash=8dd7906448795dc757ce15096a204848&cdn_creation_time=1384714746&cdn_ttl=600
-36CR,http://a7-60.5-194.cdn13.com/30000/30930/30930.flv?cdn_hash=2a020f4f5af6fd6795aef14c5eb32f14&cdn_creation_time=1384714665&cdn_ttl=600
-39CR,http://a7-60.5-194.cdn13.com/30000/30938/30938.flv?cdn_hash=ffeed519fae4dff6891c33d7ba592fac&cdn_creation_time=1384714467&cdn_ttl=600
-41CR,http://a7-60.5-194.cdn13.com/30000/30920/30920.flv?cdn_hash=df89afb0f9e84d12e1a3ad7385e8fd86&cdn_creation_time=1384714394&cdn_ttl=600
-42CR,http://a7-60.5-77.cdn13.com/30000/30933/30933.flv?cdn_hash=a45939196b257ff989de501fe11e88ad&cdn_creation_time=1384714359&cdn_ttl=600
-44CR,http://a7-60.5-77.cdn13.com/30000/30919/30919.flv?cdn_hash=a8d0058a6ac4a1d48315899a31e9e6a2&cdn_creation_time=1384714117&cdn_ttl=600
-45CR,http://a7-60.5-194.cdn13.com/30000/30932/30932.flv?cdn_hash=9b5566bf859b991eda5e6733f46b35f7&cdn_creation_time=1384714038&cdn_ttl=600
-欧美3D超清单片16,http://galleries.3dcatchyfetish.com/tube/016/trailer.f4v
-欧美3D超清单片5,http://galleries.3dcatchyfetish.com/tube/005/trailer.f4v
-HD欧美27,http://content2.sexforsure.com/2013/07/02/12/Video.mp4
-HD欧美28,http://content2.sexforsure.com/2013/07/03/3/Video.mp4
-HD欧美29,http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-HD欧美30,http://content2.sexforsure.com/2013/07/03/18/Video.mp4
-HD欧美32,http://content2.sexforsure.com/2013/07/03/7/Video.mp4
-HD欧美33,http://content2.sexforsure.com/2013/07/03/11/Video.mp4
-HD欧美34,http://content2.sexforsure.com/2013/07/03/20/Video.mp4
-HD欧美35,http://content2.sexforsure.com/2013/07/03/19/Video.mp4
-HD欧美36,http://content2.sexforsure.com/2013/07/02/14/Video.mp4
-HD欧美37,http://content2.sexforsure.com/2013/07/02/16/Video.mp4
-HD欧美38,http://content2.sexforsure.com/2013/07/02/8/Video.mp4
-HD欧美39,http://content2.sexforsure.com/2013/07/03/4/Video.mp4
-HD欧美40,http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-HD欧美41,http://content2.sexforsure.com/2013/07/03/1/Video.mp4
-HD欧美42,http://content2.sexforsure.com/2013/07/02/12/Video.mp4
-HD欧美43,http://content2.sexforsure.com/2013/07/03/2/Video.mp4
-HD欧美44,http://content2.sexforsure.com/2013/07/02/7/Video.mp4
-BBC科学，,rtsp://c.itvitv.com/bbchd.duenmjksxndbcre
-历史频道，,rtsp://c.itvitv.com/h
-Discovery ,rtsp://c.itvitv.com/dshd.geyutrkugh
-动物星球 ,rtsp://c.itvitv.com/dwxq.spr
-Discovery Science，,rtsp://c.itvitv.com/dssc.ujk
-FOX HD,rtsp://c.itvitv.com/foxhd.jks
-美国探索台,rtsp://c.itvitv.com/dshd.geyutrkugh
-美国探索科学台,rtsp://c.itvitv.com/dssc.ujk
-高清电影3,rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
-高清电影3,http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?
-高清电影6,http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
-高清电影9,http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/27478_syWmp.flv?wshc_tag=0&wsiphost=ipdbm
-高清电影9,http://wshdl.load.cdn.zhanqi.tv/zqlive/27478_syWmp.flv
-高清电影10,http://182.34.127.33/wshdl.load.cdn.zhanqi.tv/zqlive/15773_BDfrG.flv?wshc_tag=0&wsiphost=ipdbm
-韩国GirlTv台,rtmp://123.108.164.71/etv2sb/pld501
-欧美05,http://galsflv.videosz.com//mom-and-the-pop_4/videosz-mom-and-the-pop-42.flv
-欧美06,http://galsflv.videosz.com//cum-filled-milfs_3/videosz-cum-filled-milfs-32.flv
-欧美10,http://galsflv.videosz.com//squirters-and-gushers_2/videosz-squirters-and-gushers-23.flv
-性感2台HD，,rtmp://edge2.everyon.tv/etv2/pld1005
-兔子成人台HD，,rtmp://edge2.everyon.tv/etv2/pld1006
-韩国红圈一台，,rtmp://edge2.everyon.tv/etv2/pld1008
-棒子3,rtmp://edge2.everyon.tv/etv2/phd1005
-日本台8,rtsp://c.itvitv.com/wowow.ghfyenxdhfdscz
-日韩CR电影5,rtmp://123.108.164.71/etv2/phd1005
+
 新韩源1,rtmp://edge2.everyon.tv/etv2/phd1003
 新韩源7,rtmp://edge2.everyon.tv:1935/etv2/phd1003
 新韩源2,rtmp://edge2.everyon.tv/etv2/phd1005
@@ -6509,6 +6449,57 @@ FOX HD,rtsp://c.itvitv.com/foxhd.jks
 韩国有码高清22,rtmp://123.108.164.71/etv2/phd1003
 韩国有码高清24,rtmp://123.108.164.71/etv2/phd1006
 韩国有码高清25,rtmp://123.108.164.71/etv2/phd1008
+
+gf2CR,http://a7-60.5-194.cdn13.com/30000/30931/30931.flv?cdn_hash=66299f6be7e12855f9903d214900e7d8&cdn_creation_time=1384714010&cdn_ttl=600
+47CR,http://a7-60.5-201.cdn13.com/30000/30939/30939.flv?cdn_hash=55b79b3129fadd5ae3f34a51813017c7&cdn_creation_time=1384713477&cdn_ttl=600
+4CR,http://a7-60.5-200.cdn13.com/25000/25385/25385.flv?cdn_hash=7cffda1882fc4692dfc751906c97972a&cdn_creation_time=1384717475&cdn_ttl=600
+5CR,http://a7-60.5-77.cdn13.com/25000/25543/25543.flv?cdn_hash=be10edcd25bd236f0b8dc611eedff621&cdn_creation_time=1384717438&cdn_ttl=600
+6CR,http://a7-60.5-166.cdn13.com/25000/25571/25571.flv?cdn_hash=08766536c88497ed0bb80f38f0141714&cdn_creation_time=1384717393&cdn_ttl=600
+7CR,http://a7-60.5-79.cdn13.com/29000/29224/29224.flv?cdn_hash=6a7152be047b8d2d13872a9a528e4518&cdn_creation_time=1384716762&cdn_ttl=600
+9CR,http://a7-60.5-69.cdn13.com/28000/28880/28880.flv?cdn_hash=762cdcbc6d8a139754d33c17f86d4648&cdn_creation_time=1384716555&cdn_ttl=600
+13CR,http://a7-60.5-201.cdn13.com/28000/28944/28944.flv?cdn_hash=774c0d30d6795809d2f2b2b624bf73e6&cdn_creation_time=1384716278&cdn_ttl=600
+17CR,http://a7-60.5-166.cdn13.com/28000/28905/28905.flv?cdn_hash=6b4ff1cce737e022d134ca0015cc9513&cdn_creation_time=1384716079&cdn_ttl=600
+18CR,http://a7-60.5-194.cdn13.com/28000/28978/28978.flv?cdn_hash=7875862e59b6da6bf73ef9952ef2c722&cdn_creation_time=1384716001&cdn_ttl=600
+19CR,http://a7-60.5-78.cdn13.com/29000/29139/29139.flv?cdn_hash=9f0626ce9c59dcd6da293aaa58813927&cdn_creation_time=1384715929&cdn_ttl=600
+20CR,http://a7-60.5-167.cdn13.com/29000/29018/29018.flv?cdn_hash=67b2ca616d79f623aa9daaf5f7a4e833&cdn_creation_time=1384715854&cdn_ttl=600
+29CR,http://a7-60.5-79.cdn13.com/28000/28941/28941.flv?cdn_hash=8be4152cdba1fdd9cbefea35cd1a817e&cdn_creation_time=1384715201&cdn_ttl=600
+30CR,http://a7-60.5-200.cdn13.com/29000/29229/29229.flv?cdn_hash=2f8f4afcbb8c5031fffae81fd72fc9f5&cdn_creation_time=1384715174&cdn_ttl=600
+31CR,http://a7-60.5-167.cdn13.com/29000/29220/29220.flv?cdn_hash=fe05d91a0838cc105d9062e77ededdcb&cdn_creation_time=1384715020&cdn_ttl=600
+35CR,http://a7-60.5-194.cdn13.com/30000/30947/30947.flv?cdn_hash=8dd7906448795dc757ce15096a204848&cdn_creation_time=1384714746&cdn_ttl=600
+36CR,http://a7-60.5-194.cdn13.com/30000/30930/30930.flv?cdn_hash=2a020f4f5af6fd6795aef14c5eb32f14&cdn_creation_time=1384714665&cdn_ttl=600
+39CR,http://a7-60.5-194.cdn13.com/30000/30938/30938.flv?cdn_hash=ffeed519fae4dff6891c33d7ba592fac&cdn_creation_time=1384714467&cdn_ttl=600
+41CR,http://a7-60.5-194.cdn13.com/30000/30920/30920.flv?cdn_hash=df89afb0f9e84d12e1a3ad7385e8fd86&cdn_creation_time=1384714394&cdn_ttl=600
+42CR,http://a7-60.5-77.cdn13.com/30000/30933/30933.flv?cdn_hash=a45939196b257ff989de501fe11e88ad&cdn_creation_time=1384714359&cdn_ttl=600
+44CR,http://a7-60.5-77.cdn13.com/30000/30919/30919.flv?cdn_hash=a8d0058a6ac4a1d48315899a31e9e6a2&cdn_creation_time=1384714117&cdn_ttl=600
+45CR,http://a7-60.5-194.cdn13.com/30000/30932/30932.flv?cdn_hash=9b5566bf859b991eda5e6733f46b35f7&cdn_creation_time=1384714038&cdn_ttl=600
+欧美3D超清单片16,http://galleries.3dcatchyfetish.com/tube/016/trailer.f4v
+欧美3D超清单片5,http://galleries.3dcatchyfetish.com/tube/005/trailer.f4v
+
+BBC科学，,rtsp://c.itvitv.com/bbchd.duenmjksxndbcre
+历史频道，,rtsp://c.itvitv.com/h
+Discovery ,rtsp://c.itvitv.com/dshd.geyutrkugh
+动物星球 ,rtsp://c.itvitv.com/dwxq.spr
+Discovery Science，,rtsp://c.itvitv.com/dssc.ujk
+FOX HD,rtsp://c.itvitv.com/foxhd.jks
+美国探索台,rtsp://c.itvitv.com/dshd.geyutrkugh
+美国探索科学台,rtsp://c.itvitv.com/dssc.ujk
+
+高清电影3,rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/21333_CvnhE
+高清电影3,http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/21333_CvnhE.flv?
+高清电影6,http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn.m3u8
+高清电影9,http://60.174.241.114/wshdl.load.cdn.zhanqi.tv/zqlive/27478_syWmp.flv?wshc_tag=0&wsiphost=ipdbm
+高清电影9,http://wshdl.load.cdn.zhanqi.tv/zqlive/27478_syWmp.flv
+高清电影10,http://182.34.127.33/wshdl.load.cdn.zhanqi.tv/zqlive/15773_BDfrG.flv?wshc_tag=0&wsiphost=ipdbm
+韩国GirlTv台,rtmp://123.108.164.71/etv2sb/pld501
+欧美05,http://galsflv.videosz.com//mom-and-the-pop_4/videosz-mom-and-the-pop-42.flv
+欧美06,http://galsflv.videosz.com//cum-filled-milfs_3/videosz-cum-filled-milfs-32.flv
+欧美10,http://galsflv.videosz.com//squirters-and-gushers_2/videosz-squirters-and-gushers-23.flv
+性感2台HD，,rtmp://edge2.everyon.tv/etv2/pld1005
+兔子成人台HD，,rtmp://edge2.everyon.tv/etv2/pld1006
+韩国红圈一台，,rtmp://edge2.everyon.tv/etv2/pld1008
+棒子3,rtmp://edge2.everyon.tv/etv2/phd1005
+日本台8,rtsp://c.itvitv.com/wowow.ghfyenxdhfdscz
+日韩CR电影5,rtmp://123.108.164.71/etv2/phd1005
 日本无码1,http://199.195.195.108:32001
 日本无码4,http://199.195.195.108:32004
 KoreaOkadai,rtmp://edge2.everyon.tv/etv2/pld1003
@@ -6525,32 +6516,6 @@ x3,http://208.122.3.2:9000
 韓國成人20頻道,rtmp://edge2.everyon.tv/etv2sb/phd992
 韓國成人21頻道,rtmp://edge2.everyon.tv/etv2sb/phd993
 花花公子韩国1,rtmp://123.108.164.71/etv2sb//pld769
-HD欧美73,http://img3.younggirlstube.com/scj/thumbs/galleries/7/176/0_268.flv
-HD欧美74,http://img3.younggirlstube.com/scj/thumbs/galleries/7/160/0_945.flv
-HD欧美75,http://img4.younggirlstube.com/scj/thumbs/galleries/7/042/0_402.flv
-HD欧美77,http://img3.younggirlstube.com/scj/thumbs/galleries/7/127/0_242.flv
-HD欧美78,http://img3.younggirlstube.com/scj/thumbs/galleries/7/870/0_631.flv
-HD欧美81,http://img5.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
-HD欧美86,http://img5.younggirlstube.com/scj/thumbs/galleries/7/184/0_772.flv
-HD欧美87,http://img3.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
-HD欧美88,http://img3.younggirlstube.com/scj/thumbs/galleries/7/320/0_228.flv
-HD欧美89,http://img4.younggirlstube.com/scj/thumbs/galleries/7/019/0_476.flv
-HD欧美90,http://s4233.wtfpass.com/tap/flv/0023tapflvjpn.flv
-HD欧美120,http://img5.younggirlstube.com/scj/thumbs/galleries/7/123/0_833.flv
-HD欧美13,http://sofuckingreal.com/movies/cfnm18/fitness08.mp4
-HD欧美73,http://img3.younggirlstube.com/scj/thumbs/galleries/7/176/0_268.flv
-HD欧美74,http://img3.younggirlstube.com/scj/thumbs/galleries/7/160/0_945.flv
-HD欧美75,http://img4.younggirlstube.com/scj/thumbs/galleries/7/042/0_402.flv
-HD欧美77,http://img3.younggirlstube.com/scj/thumbs/galleries/7/127/0_242.flv
-HD欧美78,http://img3.younggirlstube.com/scj/thumbs/galleries/7/870/0_631.flv
-HD欧美81,http://img5.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
-HD欧美86,http://img5.younggirlstube.com/scj/thumbs/galleries/7/184/0_772.flv
-HD欧美87,http://img3.younggirlstube.com/scj/thumbs/galleries/7/162/0_192.flv
-HD欧美88,http://img3.younggirlstube.com/scj/thumbs/galleries/7/320/0_228.flv
-HD欧美89,http://img4.younggirlstube.com/scj/thumbs/galleries/7/019/0_476.flv
-HD欧美90,http://s4233.wtfpass.com/tap/flv/0023tapflvjpn.flv
-HD欧美91,http://galleries.wtfpass.com/hs18/flv/hs180028.flv
-HD欧美120,http://img5.younggirlstube.com/scj/thumbs/galleries/7/123/0_833.flv
 
 Hustler TV (720x576p25 @ 1500 kbps) (MR),http://217.30.67.231:9001/udp/239.1.1.177:11111
 Private TV (720x576p25 @ 1500 kbps) (MR),http://217.30.67.231:9001/udp/239.1.1.178:11111
@@ -6583,69 +6548,221 @@ Babestation,http://158.69.127.19:8000/live/dydlista/dydlista/514.ts
 Live x latinas,http://158.69.127.19:8000/live/dydlista/dydlista/510.ts
 Jasmin tv,http://158.69.127.19:8000/live/dydlista/dydlista/511.ts
 Venus,http://158.69.127.19:8000/live/dydlista/dydlista/515.ts 
-xx Young.And.Delicious.2,http://149.202.68.106:8000/movie/gallo/gallo1/2988.mkv
-xx Worlds.Hottest.Lesbians,http://149.202.68.106:8000/movie/gallo/gallo1/2980.mkv
-xx Stoccolm.Syndrome,http://149.202.68.106:8000/movie/gallo/gallo1/2981.mkv
-xx Sexually.Insatiable.Teens.2,http://149.202.68.106:8000/movie/gallo/gallo1/2989.mkv
-xx Neighborhood.Swingers.15,http://149.202.68.106:8000/movie/gallo/gallo1/2982.mkv
-xx Muthas.And.Brothas.Orgy.2,http://149.202.68.106:8000/movie/gallo/gallo1/2983.mkv
-xx Love.My.Job,http://149.202.68.106:8000/movie/gallo/gallo1/2972.mkv
-xx Interracial.Threesomes.2,http://149.202.68.106:8000/movie/gallo/gallo1/2973.mkv
+
 EXYU: PINK EROTIK 1,http://cp.dmbshare.net:8000/live/jukka/jukka/2917.ts
 EXYU: PINK EROTIK 2,http://cp.dmbshare.net:8000/live/jukka/jukka/2918.ts
 EXYU: PINK EROTIK 3,http://cp.dmbshare.net:8000/live/jukka/jukka/2919.ts
 EXYU: PINK EROTIK 4,http://cp.dmbshare.net:8000/live/jukka/jukka/2905.ts 
-xx Im.A.Sx.Crazzzy.Teen.14,http://149.202.68.106:8000/movie/gallo/gallo1/2984.mkv
-xx Girl.Next.Door.Likes.It.Dirty.5,http://149.202.68.106:8000/movie/gallo/gallo1/2985.mkv
-xx Full.Anal.Service,http://149.202.68.106:8000/movie/gallo/gallo1/2974.mkv
-xx Dana.Vespolis.Real.Sex.Diary.3,http://149.202.68.106:8000/movie/gallo/gallo1/2975.mkv
-xx Cougars,http://149.202.68.106:8000/movie/gallo/gallo1/2976.mkv
-xx Cougar.Tutors,http://149.202.68.106:8000/movie/gallo/gallo1/2986.mkv
-xx Booty.Jackin.4,http://149.202.68.106:8000/movie/gallo/gallo1/2977.mkv
-xx Black.Heat.3,http://149.202.68.106:8000/movie/gallo/gallo1/2978.mkv
-xx All.About.That.Orgy,http://149.202.68.106:8000/movie/gallo/gallo1/2987.mkv
-xx A.Very.Adult.Wednesday.Addams,http://149.202.68.106:8000/movie/gallo/gallo1/2968.mkv
-xx A.Hotwife.Blindfolded.2,http://149.202.68.106:8000/movie/gallo/gallo1/2969.mkv
-xx 8th.Street.Latinas.35,http://149.202.68.106:8000/movie/gallo/gallo1/2970.mkv
-xx 2.Cute.4.Porn.2,http://149.202.68.106:8000/movie/gallo/gallo1/2979.mkv
-xx 1st.Prince.2,http://149.202.68.106:8000/movie/gallo/gallo1/2971.mkv
-xx We.Are.Hairy.2,http://149.202.68.106:8000/movie/gallo/gallo1/2944.mkv
-xx The.Creepy.Landlord,http://149.202.68.106:8000/movie/gallo/gallo1/2945.mkv
-xx The.Best.Of.The.Beautiful.2.DiSC2,http://149.202.68.106:8000/movie/gallo/gallo1/2947.mkv
-xx The.Best.Of.The.Beautiful.2.DiSC1,http://149.202.68.106:8000/movie/gallo/gallo1/2946.mkv
-xx Take.Me.On.A.Ride,http://149.202.68.106:8000/movie/gallo/gallo1/2948.mkv
-xx Supersquirt.6,http://149.202.68.106:8000/movie/gallo/gallo1/2949.mkv
-xx Shades.Of.Scarlet.2,http://149.202.68.106:8000/movie/gallo/gallo1/2950.mkv
-xx Planet.Orgy.8,http://149.202.68.106:8000/movie/gallo/gallo1/2952.mkv
-xx My.Sister.Has.A.Tight.Pu.4,http://149.202.68.106:8000/movie/gallo/gallo1/2953.mkv
-xx My.New.Hot.Stepmother,http://149.202.68.106:8000/movie/gallo/gallo1/2954.mkv
-xx My.Hotwifes.Gangbang.2,http://149.202.68.106:8000/movie/gallo/gallo1/2955.mkv
-xx Jizz.On.My.Glasses.DiSC2,http://149.202.68.106:8000/movie/gallo/gallo1/2956.mkv
-xx Jizz.On.My.Glasses.DiSC1,http://149.202.68.106:8000/movie/gallo/gallo1/2957.mkv
-xx Fornication.101.7th.Semester,http://149.202.68.106:8000/movie/gallo/gallo1/2958.mkv
-xx Footsie.Babes.21,http://149.202.68.106:8000/movie/gallo/gallo1/2959.mkv
-xx Daddy.Says.Im.The.Best,http://149.202.68.106:8000/movie/gallo/gallo1/2960.mkv
-xx Buttman.Toy.Master.2.Disc1,http://149.202.68.106:8000/movie/gallo/gallo1/2961.mkv
-xx Buttman.Toy.Master.2.Disc.2,http://149.202.68.106:8000/movie/gallo/gallo1/2962.mkv
-xx Bush.League.5,http://149.202.68.106:8000/movie/gallo/gallo1/2963.mkv
-xx Brazzers.House.DiSC2,http://149.202.68.106:8000/movie/gallo/gallo1/2965.mkv
-xx Brazzers.House.DiSC1,http://149.202.68.106:8000/movie/gallo/gallo1/2964.mkv
-xx Black.Bombshells,http://149.202.68.106:8000/movie/gallo/gallo1/2966.mkv
-xx Anal.Redemption.3,http://149.202.68.106:8000/movie/gallo/gallo1/2967.mkv
-XX.ITA.Le.mogli.degli.altri,http://149.202.68.106:8000/movie/gallo/gallo1/2776.mkv
-XX.ITA.La.Ragazza.Che.Abita.Di.Fronte,http://149.202.68.106:8000/movie/gallo/gallo1/2777.mkv
-XX.ITA.La.mamma.tradita,http://149.202.68.106:8000/movie/gallo/gallo1/2778.mkv
-XX.ITA.Il.gioiellino.di.mamma.e.zia,http://149.202.68.106:8000/movie/gallo/gallo1/2779.mkv
-XX.ITA.20.Segreti.di.Famiglia,http://149.202.68.106:8000/movie/gallo/gallo1/2780.mkv
-XX.ITA.Selen.Queen.Of.The.Elefants,http://149.202.68.106:8000/movie/gallo/gallo1/2772.mkv
-XX.ITA.Porno.Parcheggi-La.Succhiacazzi,http://149.202.68.106:8000/movie/gallo/gallo1/2773.mkv
-XX.ITA.Mafia.o.dio.sesso.CD2,http://149.202.68.106:8000/movie/gallo/gallo1/2774.mkv
-XX.ITA.Mafia.o.dio.sesso.CD1,http://149.202.68.106:8000/movie/gallo/gallo1/2775.mkv
-XX.ITA.Una.Sfida.Indimenticabile,http://149.202.68.106:8000/movie/gallo/gallo1/2771.mkv
-XX.ITA.Rocco.One.On.One.3,http://149.202.68.106:8000/movie/gallo/gallo1/2761.mkv
-XX.ITA.Orgasmi.Privati,http://149.202.68.106:8000/movie/gallo/gallo1/2763.mkv
-XX.ITA.Nessa.Devil.ANALFUCKED,http://149.202.68.106:8000/movie/gallo/gallo1/2764.mkv
-XX.ITA.Marina.Visconti.(Roccos.Perfect.Slaves.8),http://149.202.68.106:8000/movie/gallo/gallo1/2765.mkv
+
+济南
+济南新闻频道,rtmp://222.173.22.109:1935/live/jnxw_sd
+济南都市频道,rtmp://222.173.22.109:1935/live/jnds_sd
+济南影视频道,rtmp://222.173.22.109:1935/live/jnyd_sd
+济南娱乐频道,rtmp://222.173.22.109:1935/live/jnyl_sd
+济南生活频道,rtmp://222.173.22.109:1935/live/jnsh_sd
+济南商务频道,rtmp://222.173.22.109:1935/live/jnsw_sd
+
+母婴
+母婴健康,http://222.184.57.135/live.aishang.ctlcdn.com/00000110240258_1/encoder/0/playlist.m3u8
+电影
+电影直播1HD,http://streamup.global.ssl.fastly.net/app/twkumazombie005s-channel/chunklist.m3u8
+电影直播2HD,http://streamup.global.ssl.fastly.net/app/marxethics-channel/chunklist.m3u8
+电影直播3HD,http://streamup.global.ssl.fastly.net/app/geatv24s-channel/chunklist.m3u8
+电影直播4HD,http://streamup.global.ssl.fastly.net/app/gtot2200s-stream/chunklist.m3u8
+鱼儿影院,rtmp://dlrtmp.cdn.zhanqi.tv/zqlive/6500_S9pw2
+波妞,http://dlhls.cdn.zhanqi.tv/zqlive/49858_wgGj1.m3u8
+电影2恐怖洋片,rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/7032_0s2qn
+幂诗影院,rtmp://121.17.123.229/dlrtmp.cdn.zhanqi.tv/zqlive/20910_uUMgC
+
+熊猫电影1 http://58.250.126.17/pl8.live.panda.tv/live_panda/f81f840257ec00194af0b83e7b16277a.flv
+熊猫电影2 http://58.250.126.17/pl8.live.panda.tv/live_panda/8dd539552902c2ec70382e90bf67057d.flv
+熊猫电影3 http://58.250.126.17/pl8.live.panda.tv/live_panda/f3ad3541208aebfc63e37314ef6895cc.flv
+熊猫电影4 http://58.250.126.17/pl8.live.panda.tv/live_panda/f28d7d69a0d68afdc3e8fb032dd0c274.flv
+熊猫电影5 http://58.250.126.17/pl8.live.panda.tv/live_panda/b229faeb4be929b447a43815ebe7d7d3.flv
+熊猫电影7 http://113.207.64.8/pl8.live.panda.tv/live_panda/4bbbce9442f2b4a0faac7cc7ff0a4c87.flv
+熊猫电影7 http://pl8.live.panda.tv/live_panda/4bbbce9442f2b4a0faac7cc7ff0a4c87.flv
+熊猫电影9 http://113.207.64.8/pl8.live.panda.tv/live_panda/8eab78c56d466ec592bec91cbcefbde5.flv
+熊猫电影9 http://pl8.live.panda.tv/live_panda/8eab78c56d466ec592bec91cbcefbde5.flv
+熊猫电影10 http://113.207.64.8/pl8.live.panda.tv/live_panda/8569a29ba9a59de6470465174647712b.flv
+熊猫电影10 http://pl8.live.panda.tv/live_panda/8569a29ba9a59de6470465174647712b.flv
+熊猫电影11 http://113.207.64.8/pl8.live.panda.tv/live_panda/c94667deb1d547c9109072e983f16a4b.flv
+熊猫电影11 http://pl8.live.panda.tv/live_panda/c94667deb1d547c9109072e983f16a4b.flv
+熊猫电影13 http://113.207.64.8/pl8.live.panda.tv/live_panda/a801d157baf82ce4bcb132082b35f5a6.flv
+熊猫电影13 http://pl8.live.panda.tv/live_panda/a801d157baf82ce4bcb132082b35f5a6.flv
+熊猫电影14 http://113.207.64.8/pl8.live.panda.tv/live_panda/22cd1682e7e97c3d90fc6b1c7907a141.flv
+熊猫电影15 http://pl8.live.panda.tv/live_panda/22cd1682e7e97c3d90fc6b1c7907a141.flv
+VIP电影1 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
+VIP电影2 http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
+VIP电影3 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
+VIP电影4 http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
+VIP电影5 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8029
+高清影院11 http://dlhls.cdn.zhanqi.tv/zqlive/20910_uUMgC.m3u8
+高清影院17 http://dlhls.cdn.zhanqi.tv/zqlive/33765_6qakZ.m3u8
+HOT精品剧场,http://222.191.24.5:6610/2/2/ch00000090990000001228/index.m3u8?ispcode=3
+HOT欧美影院,http://222.191.24.5:6610/2/2/ch00000090990000001238/index.m3u8?ispcode=3
+HOT探索记录,http://222.191.24.5:6610/2/2/ch00000090990000001241/index.m3u8?ispcode=3
+精选,http://222.184.57.135/live.aishang.ctlcdn.com/00000110240275_1/encoder/0/playlist.m3u8
+喜剧影院,http://222.184.57.135/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
+动作影院,http://222.184.57.135/live.aishang.ctlcdn.com/00000110240277_1/encoder/0/playlist.m3u8
+家庭影院,http://222.184.57.135/live.aishang.ctlcdn.com/00000110240278_1/encoder/0/playlist.m3u8
+星影,http://222.184.57.135/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8
+谍战剧场,http://222.184.57.135/live.aishang.ctlcdn.com/00000110240003_1/encoder/0/playlist.m3u8
+相声小品
+相声小品,http://222.184.57.135/live.aishang.ctlcdn.com/00000110240006_1/encoder/0/playlist.m3u8
+爆笑云社,http://dlhls.cdn.zhanqi.tv/zqlive/13393_Raq4m.m3u8
+德云社连播，http://dlhls.cdn.zhanqi.tv/zqlive/43626_vQOn9.m3u8
+
+欧美
+VISIT-X TV,rtmp://stream.visit-x.tv/vxtv/live_720p
+JasminTV HD,rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+PASSIXXX,http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+欧美辣椒1,p2p://good.govsms.net:6060/56b159c20006edbf893d891e65fb6d0f.ts
+欧美辣椒2,p2p://good.govsms.net:6060/56b159d700034b2a893dda3c0ee74b3a.ts
+迈阿密性感采访1,http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w732305586_b1550000.m3u8
+迈阿密性感采访2,http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+迈阿密性感采访3,http://sasuketv.iptvitalia.eu:2300/live/drunk/drunk/10079.ts
+欧美人妖,p2p://61.221.233.81:9000/5606bb3400065a1f015b52e7599c4725.ts
+特殊重口味,p2p://61.221.233.81:9000/5606ca6a000da06f0196bfbe3cb63127.ts
+欧式连动,p2p://61.221.233.81:9000/5606c970000d262a0192ef072f1777f1.ts
+
+时装
+时尚19禁,rtmp://edge2.everyon.tv/etv2/pld24
+韩国内衣秀,rtmp://123.108.164.71/etv2sb/phd43
+日本
+情趣女优,http://v.oywine.com:8091/wuma/20160422/18352/1/hls/index.m3u8
+情趣女优1,http://v.oywine.com:8091/wuma/20160330/14705/1/hls/index.m3u8	
+情趣女优2,http://v.oywine.com:8091/wuma/20160330/18326/1/hls/index.m3u8	
+情趣女优3,http://v.oywine.com:8091/wuma/20160330/18184/1/hls/index.m3u8
+情趣女优4,http://v.oywine.com:8091/wuma/20160330/18328/1/hls/index.m3u8
+情趣女优5,http://v.oywine.com:8091/wuma/20160330/18338/1/hls/index.m3u8
+情趣女优6,http://v.oywine.com:8091/wuma/20160330/18218/1/hls/index.m3u8
+情趣女优7,http://v.oywine.com:8091/wuma/20160330/18008/1/hls/index.m3u8
+情趣女优8,http://v.oywine.com:8091/wuma/20160330/18182/1/hls/index.m3u8
+情趣女优9,http://v.oywine.com:8091/wuma/20160327/14701/1/hls/index.m3u8
+情趣女优10,http://v.oywine.com:8091/wuma/20160327/17940/1/hls/index.m3u8
+情趣女优11,http://v.oywine.com:8091/oumei/20160413/o4wu0dw/1/hls/index.m3u8
+情趣女优12,http://v.oywine.com:8091/oumei/20160413/o4wsksu/1/hls/index.m3u8
+情趣女优13,http://v.oywine.com:8091/oumei/20160413/o4wsq4m/1/hls/index.m3u8
+情趣女优14,http://v.oywine.com:8091/oumei/20160413/o4wtx6c/1/hls/index.m3u8
+情趣女优15,http://v.oywine.com:8091/oumei/20160413/o4wtgvp/1/hls/index.m3u8
+情趣女优16,http://v.oywine.com:8091/guochan/20160410/201604020174/1/hls/index.m3u8
+情趣女优17,http://v.oywine.com:8091/guochan/20160410/201604020159/1/hls/index.m3u8
+情趣女优18,http://v.oywine.com:8091/guochan/20160410/201604020132/1/hls/index.m3u8
+情趣女优19,http://v.oywine.com:8091/guochan/20160410/201604020134/1/hls/index.m3u8
+情趣女优20,http://v.oywine.com:8091/guochan/20160410/201604020149/1/hls/index.m3u8
+情趣女优21,http://v.oywine.com:8091/guochan/20160410/201604020230/1/hls/index.m3u8
+情趣女优22,http://v.oywine.com:8091/guochan/20160410/201604020236/1/hls/index.m3u8
+情趣女优23,http://v.oywine.com:8091/youma/20160409/18sprd00822/1/hls/index.m3u8
+情趣女优24,http://v.oywine.com:8091/youma/20160409/18sprd00823/1/hls/index.m3u8
+情趣女优25,http://v.oywine.com:8091/youma/20160403/h_101gs01509/1/hls/index.m3u8
+情趣女优26,http://v.oywine.com:8091/youma/20160403/h_113yp01508/1/hls/index.m3u8
+情趣女优27,http://v.oywine.com:8091/youma/20160403/12scr00124/1/hls/index.m3u8
+情趣女优28,http://v.oywine.com:8091/zimu/20160415/ydg8ecv055/1/hls/index.m3u8
+绝美女优0,http://a7-60.5-69.cdn13.com/28000/28927/28927.flv?cdn_hash=617053833638d35a5a573c8103eb99a2&cdn_creation_time=1384716160&cdn_ttl=600
+绝美女优1,http://69.46.86.186:1935/vod/mp4:ab-026-5.mp4/playlist.m3u8
+绝美女优2,http://69.46.86.186:1935/vod/mp4:ab-020-5.mp4/playlist.m3u8
+绝美女优3,http://69.46.86.186:1935/vod/mp4:ab-024-5.mp4/playlist.m3u8
+绝美女优4,http://69.46.86.186:1935/vod/mp4:ab-030-5.mp4/chunklist_w303037729.m3u8
+绝美女优5,http://69.46.86.186:1935/vod/mp4:ab-027-5.mp4/playlist.m3u8
+绝美女优6,http://69.46.86.186:1935/vod/mp4:ab-032-5.mp4/playlist.m3u8
+绝美女优7,http://69.46.86.186:1935/vod/mp4:ab-025-5.mp4/playlist.m3u8
+绝美女优8,http://69.46.86.186:1935/vod/mp4:ab-015-5.mp4/playlist.m3u8
+绝美女优9,http://69.46.86.186:1935/vod/mp4:ab-012-5.mp4/playlist.m3u8
+绝美女优10,http://69.46.86.186:1935/vod/mp4:ab-028-5.mp4/playlist.m3u8
+绝美女优11,http://69.46.86.186:1935/vod/mp4:ab-029-5.mp4/playlist.m3u8
+绝美女优12,http://69.46.86.186:1935/vod/mp4:ab-010-5.mp4/playlist.m3u8
+绝美女优13,http://69.46.86.186:1935/vod/mp4:ab-009-5.mp4/playlist.m3u8
+绝美女优14,http://69.46.86.186:1935/vod/mp4:ab-006-5.mp4/playlist.m3u8
+绝美女优15,http://69.46.86.186:1935/vod/mp4:ab-003-5.mp4/playlist.m3u8
+绝美女优16,http://69.46.86.186:1935/vod/mp4:ab-002-5.mp4/playlist.m3u8
+绝美女优17,http://69.46.86.186:1935/vod/mp4:ab-001-5.mp4/playlist.m3u8
+绝美女优18,http://v.oywine.com:8091/wuma/20160422/17994/1/hls/index.m3u8
+撞够本,http://120.52.73.90/s1.bbbplayer.com/3dm-60.mp4/playlist.m3u8
+新木紫织,http://23.27.103.162:1935/vod/mp4:mkd-s114-500.mp4/playlist.m3u8
+东京热,p2p://61.221.233.81:9000/5606ca1a0000960e019583e61e8c38f0.ts
+春天之爱,p2p://61.221.233.81:9000/5606c9f5000bffa40194f648464f5cf3.ts
+playy台 http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
+6日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4006.mp4
+9日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4009.mp4
+18日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4027.mp4
+19日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4028.mp4
+25日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4035.mp4
+26日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4036.mp4
+28日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4038.mp4
+32日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4042.mp4
+42日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4052.mp4
+49日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4085.mp4
+54日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4090.mp4
+76日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4118.mp4
+78日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4120.mp4
+79日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4121.mp4
+84日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4133.mp4
+85日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4134.mp4
+154日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4240.mp4
+日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4279.mp4
+日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4240.mp4
+日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4241.mp4
+日本無碼  http://120.52.73.65/data1.cache.directory/media/videos/iphone/4294.mp4
+一本道2,rtmp://198.211.33.185/livepkgr/1C
+一本道3,rtmp://198.211.33.185/livepkgr/3C
+一本道5,rtmp://198.211.33.185/livepkgr/5C
+一本道6,rtmp://198.211.33.185/livepkgr/6C
+
+韩国
+狂插爱神,http://120.52.73.93/s1.bbbplayer.com/3dm-78.mp4
+英雄好色,http://120.52.73.94/s1.bbbplayer.com/3dm-67.mp4
+极乐酷刑,http://120.52.73.90/s1.bbbplayer.com/3dm-69.mp4
+香港学院1994,http://120.52.73.91/s1.bbbplayer.com/20158cn-003.mp4
+爱用国货,p2p://61.221.233.81:9000/5606ca47000dee8e0196370f050348e3.ts
+韩-新唐人TND http://123.108.164.71/etv2/phd1058/playlist.m3u8
+韩国高清4 rtmp://123.108.164.71/etv2sb/phd10062
+韩国标清4 http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
+韩国标清7playboy http://123.108.164.110/etv1sb/pld10497/playlist.m3u8
+韩国高清8欧美 rtmp://123.108.164.71/etv2sb/phd10499
+韩国高清8欧美 http://123.108.164.75/etv2sb/phd10499/playlist.m3u8
+韩国标清8欧美 http://edge2.everyon.tv/etv2sb/pld10499/playlist.m3u8
+韩国高清9GirlTV http://123.108.164.75/etv2sb/phd10501/playlist.m3u8
+韩国标清9GirlTV http://edge2.everyon.tv/etv2sb/pld10501/playlist.m3u8
+韩国标清10Viki http://123.108.164.110/etv1sb/pld10765/playlist.m3u8
+韩国标清10Viki http://edge1.everyon.tv/etv1sb/pld10765/playlist.m3u8
+韩国高清11M http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+韩国高清12PlayY http://123.108.164.75/etv2sb/phd10769/playlist.m3u8
+韩国标清12PlayY http://edge2.everyon.tv/etv2sb/pld10769/playlist.m3u8
+韩国高清13the http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+韩国标清13the http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
+韩国标清14ButGo http://123.108.164.75/etv2sb/pld10772/playlist.m3u8
+韩国标清14ButGo http://edge2.everyon.tv/etv2sb/pld10772/playlist.m3u8
+韩国标清15 http://edge1.everyon.tv/etv1sb/pld10927/playlist.m3u8
+韩国高清16HoneyHD http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+韩国高清1台 http://123.108.164.75/etv2sb/phd10059/playlist.m3u8
+其他
+女孩电视,rtmp://edge2.everyon.tv/etv2sb/phd10501
+女孩电视,http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
+粉红高清,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+粉红高清,rtmp://edge1.everyon.tv/etv1sb/pld10928
+粉红水晶鞋,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d
+粉红水晶鞋1,p2p://60.249.213.25:9900/57131c150000c94c00c724f1771a7869
+粉红水晶鞋2,p2p://60.249.213.25:9900/57131b30000c526b00c3a95c2d4e34b2
+午夜19高清,rtmp://edge1.everyon.tv/etv1sb/phd10766
+午夜19高清,http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8
+午夜19高清,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+花花公子19,rtmp://edge1.everyon.tv/etv1sb/phd10497
+花花公子19,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
+绚丽19高清,rtmp://edge2.everyon.tv/etv2sb/phd10769
+绚丽19高清,http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
+金碧的马,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
+金碧的马,rtmp://edge1.everyon.tv/etv1sb/phd10927
+色彩,http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
+色彩,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
+色彩,rtmp://edge2.everyon.tv/etv2sb/phd10062
+情趣电视,http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
+情趣电视,rtmp://edge2.everyon.tv/etv2sb/phd10499
+情趣电视,http://edge2.everyon.tv:1935/etv2sb/pld10499/playlist.m3u8
+专属高清,http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
+专属高清,rtmp://edge2.everyon.tv/etv2sb/phd10771
+VIKI,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
+VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
+
 XX: PassionXX,http://149.202.208.196:8080/live/melasuda/compaq/1417.ts
 XX: Sexto Senso,http://149.202.208.196:8080/live/melasuda/compaq/1415.ts
 XX: SCT HQ,http://149.202.208.196:8080/live/melasuda/compaq/1414.ts
