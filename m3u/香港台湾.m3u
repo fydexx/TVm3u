@@ -172,6 +172,10 @@ http://110.77.0.182:1935/dvr/1008.stream/playlist.m3u8?DVR
 http://ktv028.cdnak.ds.kylintv.net/nlds/kylin/pxasia/as/live/pxasia_4.m3u8
 #EXTINF:-1, 凤凰资讯HD
 http://ktv005.cdnak.ds.kylintv.net/nlds/kylin/pxinhd/as/live/pxinhd_4.m3u8
+#EXTINF:-1, 凤凰资讯台
+http://222.191.24.5:6610/2/2/ch00000090990000001309/index.m3u8?ispcode=3
+#EXTINF:-1, 凤凰资讯HD
+http://112.17.0.10:8085/ysten-business/live/fhzixun/yst.m3u8
 #EXTINF:-1, 凤凰资讯
 http://110.77.0.182:1935/dvr/1009.stream/playlist.m3u8?DVR
 #EXTINF:-1, 凤凰卫视香港
