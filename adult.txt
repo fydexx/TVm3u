@@ -114,7 +114,7 @@ Electric,mms://100automoto.tv/channel_electric
 
 ==香港频道==
 
-
+凤凰卫视中文台,http://222.191.24.5:6610/2/2/ch00000090990000001308/index.m3u8?ispcode=3
 
 HKTV,http://14.198.245.129:8088/hktvlive/hktv_576p_track.m3u8
 TVB8,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
@@ -133,16 +133,21 @@ TVB翡翠國際,http://116.199.4.203:8114/a/b/index.m3u8
 香港衛视,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
 
 TVB经典台,p2p://61.220.227.30:8268/56a02fcb000b82e1b6946cc52a4729a8
-TVB翡翠,p2p://60.249.213.25:9900/57121892000d960f02460bed767d17f5
-TVBJ5高清翡翠,p2p://60.249.213.25:9900/571217f20007ba850243996d2a1a32d0
+TVB 翡翠台,http://202.126.55.12/session/98fea012-5a23-11e6-ab26-005056902609/s8y2vq/mytvlive/smil:mobilehd_jade.smil/chunklist_b224000.m3u8
+TVB 翡翠台,p2p://60.249.213.25:9900/57121892000d960f02460bed767d17f5
+TVB J5,p2p://60.249.213.25:9900/571217f20007ba850243996d2a1a32d0
+TVB J5,p2p://60.249.213.25:9900/56093d3200031b8a08149ff055b7764a
+TVB J5,http://202.126.55.12/session/98fea012-5a23-11e6-ab26-005056902609/s8y2vq/mytvlive/smil:mobilehd_hdj.smil/chunklist_b224000.m3u8
+TVB J5,http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/mytvlive/smil:mobilehd_hdj.smil/playlist.m3u8
+
 TVB翡翠明珠,p2p://60.249.213.25:9900/571219620009f11c0249377f7cfc15bd
 TVB翡翠J2娱乐,p2p://60.249.213.25:9900/571219e6000c6f84024b3bc364573e9b
 TVB翡翠互动新闻,p2p://60.249.213.25:9900/57121a640006fb80024d268f0b9a014c
 viutv,p2p://60.249.213.25:9900/57121b1a0004afb0024fece94e6d26f4
-TVBJ5高清翡翠,p2p://60.249.213.25:9900/56093d3200031b8a08149ff055b7764a
+
 TVB翡翠,p2p://60.249.213.25:9900/56093dab000b879a08167ac469dc1292
 TVB明珠,p2p://60.249.213.25:9900/5606be4a0002383101675fd23c44743b
-TVBJ2,p2p://60.249.213.25:9900/5606b48a000acc8e01414c037dbb021f
+
 TVB互动新闻,p2p://60.249.213.25:9900/5606b5280002d5860143b31f3c555379
 澳门卫视,p2p://60.249.213.25:9900/5606f28900028271023375f5774f1769
 澳门莲花,p2p://60.249.213.25:9900/5607416a000230b200551a7472c670f4
@@ -152,8 +157,10 @@ TVB互动新闻,p2p://60.249.213.25:9900/5606b5280002d5860143b31f3c555379
 探索动力,p2p://60.249.213.25:9900/56067f900001924e0072591937076890
 
 TVB翡翠,http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/mytvlive/smil:mobilehd_jade.smil/playlist.m3u8
-TVB翡翠J2,http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/mytvlive/smil:mobilehd_j2.smil/playlist.m3u8
-TVB高清翡翠J5,http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/mytvlive/smil:mobilehd_hdj.smil/playlist.m3u8
+TVB J2,http://202.126.55.12/session/98fea012-5a23-11e6-ab26-005056902609/s8y2vq/mytvlive/smil:mobilehd_j2.smil/chunklist_b224000.m3u8
+TVB J2,http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/mytvlive/smil:mobilehd_j2.smil/playlist.m3u8
+TVB J2,p2p://60.249.213.25:9900/5606b48a000acc8e01414c037dbb021f
+
 TVB翡翠互动新闻,http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/mytvlive/smil:mobilehd_inews.smil/playlist.m3u8
 TVB翡翠娱乐新闻,http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-005056b15a5f/s8y2vq/enewslive/smil:mobilehd_enews.smil/playlist.m3u8
 TVB翡翠明珠,rtmp://219.232.160.161/livestream/b2xajcu7
@@ -173,7 +180,9 @@ J5翡翠高清,http://httpdvb.slave.homed.me/httpdvb?programid=4200851395&playto
 香港互助新闻，http://token.tvb.com/stream/live/hls/mobilehd_inews.smil
 香港卫视,rtmp://live.hkstv.hk.lxdns.com/live/hks
 香港卫视,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+
 Viutv,p2p://60.249.213.25:9900/57121b1a0004afb0024fece94e6d26f4.ts
+
 HKTV,http://14.198.245.129:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=2ab17bc1-2ee0-44d4-934e-053430671eb4&uid=1&vid=1&mxres=1920&s=0f9ab3830cf484d7f5843628b25eb9a7
 HKTV,http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338
 HKTV,http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338#http://14.198.245.114:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=5e431c85-2915-40a9-9246-0b5e494700e5&uid=1&vid=1&mxres=1920&s=cba70a883505956ec617bc36aace7886#http://14.198.245.135:8088/hktvlive/hktv_432pb_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=82ab2c92-e15a-4b81-9c1b-2f98fbf3d596&uid=1&vid=1&mxres=720&s=f28849d9f4c57e9e93a5e77cc87c7338#http://ott-video-lb.hktvmall.com:8088/hktvlive.m3u8?uid=1&vid=1&d=pc&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1920&net=&udid=83fedc4f-f254-11e4-97ac-0862662c98fc&ts=1430742398985&s=15e72de02a374db21d5952849fdd6a17#http://14.198.245.114:8088/hktvlive/hktv_576p_track.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=5e431c85-2915-40a9-9246-0b5e494700e5&uid=1&vid=1&mxres=1920&s=cba70a883505956ec617bc36aace7886
@@ -243,7 +252,7 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
 中经电视,http://116.213.200.53/tslsChannelLive/PCG0DuD.m3u8
 
 凤凰台分类：
-
+凤凰资讯,http://222.191.24.5:6610/2/2/ch00000090990000001309/index.m3u8?ispcode=3
 凤凰资讯,p2p://61.220.227.30:8268/56072a7a00011b8356e8876079430d92
 凤凰香港,p2p://61.220.227.30:8268/56072ae80008e60556ea36ff6c7e14f8
 凤凰香港,p2p://183.60.142.158:9906/5621ab810004f78519e109341aa7605c
