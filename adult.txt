@@ -6775,52 +6775,61 @@ playy台 http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
 VIKI,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
 VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
 
-XX: PassionXX,http://149.202.208.196:8080/live/melasuda/compaq/1417.ts
-XX: Sexto Senso,http://149.202.208.196:8080/live/melasuda/compaq/1415.ts
-XX: SCT HQ,http://149.202.208.196:8080/live/melasuda/compaq/1414.ts
-XX: SCT HD,http://149.202.208.196:8080/live/melasuda/compaq/1413.ts
-XX: Redlight HD,http://149.202.208.196:8080/live/melasuda/compaq/1412.ts
-XX: Privee TV,http://149.202.208.196:8080/live/melasuda/compaq/1411.ts
-XX: Platinum TV,http://149.202.208.196:8080/live/melasuda/compaq/1410.ts
-XX: Pink o TV,http://149.202.208.196:8080/live/melasuda/compaq/1409.ts
-XX: Hustler HD,http://149.202.208.196:8080/live/melasuda/compaq/1406.ts
-XX: Hustler,http://149.202.208.196:8080/live/melasuda/compaq/1405.ts
-XX: Venus,http://149.202.208.196:8080/live/melasuda/compaq/395.ts
-XX: Private,http://149.202.208.196:8080/live/melasuda/compaq/398.ts
-XX: PLAYBOY,http://149.202.208.196:8080/live/melasuda/compaq/396.ts
-XX: Penthouse,http://149.202.208.196:8080/live/melasuda/compaq/393.ts
-XX: Boy&Boy,http://149.202.208.196:8080/live/melasuda/compaq/399.ts
-XX: Frenchlover TV,http://149.202.208.196:8080/live/melasuda/compaq/397.ts
-XX: Brazzers,http://149.202.208.196:8080/live/melasuda/compaq/394.ts
-Adults: Czech Streets Helena,http://149.202.208.196:8080/movie/melasuda/compaq/440.mkv
-Adults: My Wifes Hot Friend Nicole Johnny,http://149.202.208.196:8080/movie/melasuda/compaq/469.mkv
-Adults: My Wife Is My Pornstar  August Ames,http://149.202.208.196:8080/movie/melasuda/compaq/468.mkv
-Adults: My Sisters Hot Friend Melissa Moore,http://149.202.208.196:8080/movie/melasuda/compaq/467.mkv
-Adults: My Sisters Hot Friend Kate England,http://149.202.208.196:8080/movie/melasuda/compaq/466.mkv
-Adults: My GirlfriendsBusty Friend Ashley Adams,http://149.202.208.196:8080/movie/melasuda/compaq/465.mkv
-Adults: My Girlfriends Busty Friend  Ashley Adams,http://149.202.208.196:8080/movie/melasuda/compaq/452.mkv
-Adults: My Friends Hot Mom Veronica Avluv Eva Notty,http://149.202.208.196:8080/movie/melasuda/compaq/464.mkv
-Adults: My Friends Hot Mom Puma Swede,http://149.202.208.196:8080/movie/melasuda/compaq/463.mkv
-Adults: My Friends Hot Mom Nora Nair,http://149.202.208.196:8080/movie/melasuda/compaq/462.mkv 
-XX.ITA.La.Bocca.Di.Tua.Moglie,http://149.202.68.106:8000/movie/gallo/gallo1/2766.mkv
-XX.ITA.L.Imbianchino,http://149.202.68.106:8000/movie/gallo/gallo1/2767.mkv
-XX.ITA.Incesti.Italiani.Papa.E.Mamma.A.Confronto,http://149.202.68.106:8000/movie/gallo/gallo1/2768.mkv
-XX.ITA.Fratelli,http://149.202.68.106:8000/movie/gallo/gallo1/2769.mkv
-XX.ITA.CaraDolce.Mmammina,http://149.202.68.106:8000/movie/gallo/gallo1/2770.mkv
-XX | Set Senso,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/46.ts
-XX | SCT HD,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/45.ts
-XX | SCT 4,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/44.ts
-XX | RedLight,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/43.ts
-XX | Private,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/42.ts
-XX | Primafila Hot Club 9,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/41.ts
-XX | Primafila Hot Club 8,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/40.ts
-XX | Primafila Hot Club 7,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/39.ts
-XX | Primafila Hot Club 6,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/38.ts
-XX | Primafila Hot Club 5,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/37.ts
-XX | Primafila Hot Club 4,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/36.ts
-XX | Primafila Hot Club 3,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/35.ts
-XX | Primafila Hot Club 2,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/34.ts
-XX | Primafila Hot Club 1,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/32.ts
+极乱家族01,http://69.46.75.107/files/videos/140747456300c03.flv
+极乱家族02,http://69.46.75.107/files/videos/1408405892924a3.flv
+极乱家族03,http://69.46.75.107/files/videos/1410962219b8929.flv
+极乱家族04,http://69.46.75.107/files/videos/141188120614378.flv
+极乱家族05,http://69.46.75.107/files/videos/141344498070660.flv
+韩国有码成人高清1,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
+韩国有码成人高清2,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
+韩国有码成人高清3,http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
+韩国有码成人高清4,http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
+韩国有码成人高清5,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
+韩国有码成人高清6,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+韩国有码成人高清7,http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
+韩国有码成人高清8,http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
+韩国有码成人高清9,http://123.108.164.71/etv2sb/phd10772/playlist.m3u8
+韩国有码成人高清10,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
+韩国有码成人高清11,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+韩国成人内衣秀,http://123.108.164.71/etv2sb/phd43/playlist.m3u8
+日本直播1,p2p://50.7.104.10:9906/5400502a000565db01505ef032c46863
+日本直播2,p2p://50.7.104.10:9906/540050290000343a015059b37121116a
+日本直播3,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
+日本直播4,p2p://50.7.104.10:9906/540050270009ff6c0150546512a7eef9
+日本直播5,p2p://50.7.104.10:9906/54005029000a6c4501505c51139d7f96
+日本直播6,p2p://50.7.104.10:9906/54005028000555ef0150571cacca9cf3
+日本直播7,p2p://50.7.104.10:9906/540044fe0001069f0124b9f18b00efe5
+日本直播8,p2p://50.7.104.10:9906/540050270000a1b7015051ffa41b571c
+日本直播9,p2p://50.7.104.10:9906/540050290000343a015059b37121116a
+日本直播10,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
+日欧1,http://64.140.160.186:8066/HLS/live/101/index.m3u8?mid=64&pwd=mars
+ 日欧2,http://64.140.160.186:8066/HLS/live/102/index.m3u8?mid=64&pwd=mars
+ 日欧3,http://64.140.160.186:8066/HLS/live/103/index.m3u8?mid=64&pwd=mars
+ 日欧4,http://64.140.160.186:8066/HLS/live/201/index.m3u8?mid=64&pwd=mars
+ 日欧5,http://64.140.160.186:8066/HLS/live/202/index.m3u8?mid=64&pwd=mars
+ 日欧5,http://64.140.160.186:8066/HLS/live/203/index.m3u8?mid=64&pwd=mars
+ LATINSEX,http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+ JustSex,http://46.182.25.34:1935/tv/1420/playlist.m3u8
+ 莉莉电视,rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream#rtmp://109.71.162.112/live/sd.jasminchannel.stream
+ 思密达内衣秀,rtmp://123.108.164.71/etv2sb/phd43
+ 思密达高清4台,rtmp://123.108.164.71/etv2sb/phd10062
+ 思密达高清8台,rtmp://123.108.164.71/etv2sb/phd10499
+ 思密达高清9台,rtmp://123.108.164.71/etv2sb/phd10501
+ 思密达高清12台,rtmp://123.108.164.71/etv2sb/phd10769
+ 思密达高清13台,rtmp://123.108.164.71/etv2sb/phd10771
+ 思密达高清14台,rtmp://123.108.164.71/etv2sb/phd10772
+ 思密达高清4台,http://123.108.164.75/etv2sb/phd10062/playlist.m3u8
+ 思密达高清7台,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
+ 思密达高清8台,http://123.108.164.75/etv2sb/phd10499/playlist.m3u8
+ 思密达高清9台,http://123.108.164.75/etv2sb/phd10501/playlist.m3u8
+ 思密达高清10台,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
+ 思密达高清11台,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+ 思密达高清12台,http://123.108.164.75/etv2sb/phd10769/playlist.m3u8
+ 思密达高清13台,http://123.108.164.75/etv2sb/phd10771/playlist.m3u8
+ 思密达高清14台,http://123.108.164.75/etv2sb/phd10772/playlist.m3u8
+ 思密达高清15台,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
+ 思密达高清16台,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+ 
 XX | Playboy,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/31.ts
 XX | Platinum,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/30.ts
 XX | Pink TV,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/29.ts
