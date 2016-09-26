@@ -7105,37 +7105,3 @@ VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
  思密达高清14台,http://123.108.164.75/etv2sb/phd10772/playlist.m3u8
  思密达高清15台,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
  思密达高清16台,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
- 
-XX | Playboy,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/31.ts
-XX | Platinum,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/30.ts
-XX | Pink TV,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/29.ts
-XX | Pink Erotic 4,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/28.ts
-XX | Pink Erotic 3,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/27.ts
-XX | Pink Erotic 2,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/25.ts
-XX | Pink Erotic 1,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/24.ts
-XX | Penthouse HD,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/23.ts
-XX | O La La,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/22.ts
-XX | Meiden van Holland Hard NL,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/21.ts
-XX | Hustler TV,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/20.ts
-XX | Hust,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/19.ts
-XX |  Hot,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/18.ts
-XX | Blacked,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/48.ts
-XX | Primafila Hot Club 10,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/33.ts
-XX |  Dusk DeLuxe NL,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/17.ts
-XX |  Dorcel TV,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/16.ts
-XX |  Desire,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/15.ts
-XX |  Cento Cento,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/14.ts
-XX |  Bunga Bunga,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/13.ts
-XX |  Brazzers TV,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/12.ts
-XX |  Blue Hustler,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/11.ts
-XX |  Adult 12,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/10.ts
-XX | SIRINA,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/1.ts
-XX |  Adult 9,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/9.ts
-XX |  Adult 8,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/8.ts
-XX | Adult 7,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/7.ts
-XX | Adult 6,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/6.ts
-XX | Adult 5,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/5.ts
-XX | Adult 4,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/4.ts
-XX | Adult 3,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/3.ts
-XX | Adult 2,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/2.ts
-XX | Venus,http://devcon.1dns1.com:8080/live/testxxx/28xxx16/47.ts
