@@ -976,8 +976,24 @@ TR: TV8 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1188.ts
 ADULT成人台
 
 台湾艺术,http://61.216.71.67/sta/ch3.m3u8
+松视1HD,http://210.242.52.97/stc/ch023cs.m3u8
+松视1HD,http://125.227.22.181/stc/ch022cs.m3u8#http://125.227.22.181/stc/ch023cs.m3u8
 松视1HD,http://61.216.71.67/stc/ch22.m3u8
 松视1HD,http://61.216.71.67/stc/ch23.m3u8
+
+松视2,http://210.242.52.97/stc/ch019cs.m3u8
+松视2,http://125.227.22.181/stc/ch019cs.m3u8
+松视3,http://210.242.52.97/stc/ch020cs.m3u8
+松视3,http://125.227.22.181/stc/ch020cs.m3u8
+松视4,http://210.242.52.97/stc/ch021cs.m3u8
+松视4,http://125.227.22.181/stc/ch021cs.m3u8
+
+乐活频道,http://210.242.52.97/stc/ch161cs.m3u8
+乐活频道,http://125.227.22.181/stc/ch161cs.m3u8
+奥视惊艳,http://210.242.52.97/stc/ch162cs.m3u8
+奥视惊艳,http://125.227.22.181/stc/ch162cs.m3u8
+奥视香蕉,http://210.242.52.97/stc/ch163cs.m3u8
+奥视香蕉,http://125.227.22.181/stc/ch163cs.m3u8
 
 樂活頻道,http://210.242.52.97/stc/ch161.m3u8
 奧視驚艷,http://210.242.52.97/stc/ch162.m3u8
