@@ -170,7 +170,6 @@ TVB翡翠明珠,rtmp://219.232.160.161/livestream/b2xajcu7
 
 J5翡翠高清,http://httpdvb.slave.homed.me/httpdvb?programid=4200851395&playtoken=&verifycode=&auth=no
 
-
 翡翠台,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
 翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
 翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
@@ -180,6 +179,7 @@ J5翡翠高清,http://httpdvb.slave.homed.me/httpdvb?programid=4200851395&playto
 翡翠台HD,p2p://61.220.227.30:8268/5663e68c0002d6812089769062ef2d01
 翡翠台HD,http://token.tvb.com/stream/live/hls/mobilehd_jade.smil#p2p://61.221.233.81:9000/56093dab000b879a08167ac469dc1292&link=#p2p://61.221.233.81:9000/56093d3200031b8a08149ff055b7764a&link=HGFDSAihgfd
 翡翠台,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
+翡翠台1HD,http://wshls.acgvideo.com/live/live_44206803_1959058/playlist.m3u8?wsSecret=51d71659d69878d413a6f489b1e9bb0f&wsTime=57c569f1
 香港互助新闻，http://token.tvb.com/stream/live/hls/mobilehd_inews.smil
 香港卫视,rtmp://live.hkstv.hk.lxdns.com/live/hks
 香港卫视,http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
@@ -194,6 +194,7 @@ HKTV,http://ott-video-lb.hktvmall.com:8088/hktvlive.m3u8?uid=1&vid=1&d=pc&t=12e9
 TVB J2,http://token.tvb.com/stream/live/hls/mobilehd_j2.smil
 TVB J5,http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil
 TVB J5,p2p://106.186.121.94:8260/5663e68c0002d6812089769062ef2d01
+TVB8,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/tvb8/dujuejiami.m3u8
 TVB8香港,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
 TVB8香港,http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8
 TVB8香港,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8?DVR
@@ -370,7 +371,11 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
  星空卫视,http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=TZ0NABVFSB8XYEO961YOH0VGZM1459869471K50009148W380797&programid=4200000124&playtoken=TZ0NABVFSB8XYEO961YOH0VGZM1459869471K50009148W380797&programid=31609PIAZGZAAAA1&verifycode=11814&rate=raw&auth=no
  星空卫视,http://httpdvb.slave.pygdzhcs.com:13160/playurl?playtype=live&protocol=http&accesstoken=T3AF00N3ZRAPUO5A0F0RFTUCBM1460116537K50009364W381616&programid=4200000124&playtoken=T3AF00N3ZRAPUO5A0F0RFTUCBM1460116537K50009364W381616&programid=31609PIAZGZAAAA1&playtoken=31609AZAAAAZAZZ1&verifycode=113775&rate=raw&auth=no
  星空卫视,http://222.37.159.225:13160/playurl?playtype=live&protocol=http&accesstoken=TZ0NABVFSB8XYEO961YOH0VGZM1459869471K50009148W380797&programid=4200000124&playtoken=31609AZAAZAUZVA1&verifycode=11814&rate=raw&auth=no
- 
+
+AXN电影,rtsp://c.itvitv.com/axn
+香港电影,http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+香港电影,http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+乐视香港电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
  
 宏观卫视,http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/droid/live/mactv_4.m3u8
 澳亚卫视,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/droid/live/mastv_4.m3u8 
@@ -378,7 +383,6 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
 卫视卡式粤语,http://iliketot.dyndns.tv/tot/web/c8233976dbba4a06a101780907447375.m3u8
 卫视中文台,http://tw.59kp.com:1935/live/c158.stream/playlist.m3u8
 卫视电影台,http://tw.59kp.com:1935/live/c167.stream/playlist.m3u8
- 
 
 互動新闻HD(4),p2p://60.249.213.25:9900/57121a640006fb80024d268f0b9a014c.ts
 TVB8(5),http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8
@@ -410,6 +414,7 @@ MOMO親子,p2p://60.249.213.25:9900/57122bdb0003a2ad02915e902ec73020.ts
 三立新闻HD,http://hp1.ottclub.info:1935/live/c661.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 三立台湾HD,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581
 三立台湾,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581.ts
+三立台湾,http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/02ldeknk95.m3u8
 三立综合 http://60.248.55.253:7002/63
 三立综合,p2p://60.249.213.25:9900/56068b9a0008947800a161f031226168
 三立戏剧,p2p://60.249.213.25:9900/5606a48100080e330102a8257ae52321
@@ -417,6 +422,7 @@ MOMO親子,p2p://60.249.213.25:9900/57122bdb0003a2ad02915e902ec73020.ts
 三立都会,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
 三立都会,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
 三立都会,p2p://60.249.213.25:9900/560677ba000ed60f0053c0827ca14772.ts#http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
+三立都会HD,http://bcoveliveios-i.akamaihd.net/hls/live/241983/4338955585001_1/master.m3u8
 三立都会HD,http://hp1.ottclub.info:1935/live/c159.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 三立都会HD,p2p://60.249.213.25:9900/560677ba000ed60f0053c0827ca14772
 三立都会HD,p2p://61.220.227.30:8268/5607a7d3000172dd58d22b18637e5888
@@ -980,13 +986,12 @@ ADULT成人台
 松视1HD,http://125.227.22.181/stc/ch022cs.m3u8#http://125.227.22.181/stc/ch023cs.m3u8
 松视1HD,http://61.216.71.67/stc/ch22.m3u8
 松视1HD,http://61.216.71.67/stc/ch23.m3u8
-
-松视2,http://210.242.52.97/stc/ch019cs.m3u8
-松视2,http://125.227.22.181/stc/ch019cs.m3u8
-松视3,http://210.242.52.97/stc/ch020cs.m3u8
-松视3,http://125.227.22.181/stc/ch020cs.m3u8
-松视4,http://210.242.52.97/stc/ch021cs.m3u8
-松视4,http://125.227.22.181/stc/ch021cs.m3u8
+松视1HD,http://58.99.33.1:1935/liveedge4/live_405_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadfd
+松视2,http://61.219.11.157/stc/ch019.m3u8#http://211.22.61.25/stc/ch019.m3u8#http://211.22.61.163/stc/ch019.m3u8#http://125.227.23.199/stc/ch019.m3u8#http://125.227.22.115/stc/ch019.m3u8#http://211.23.194.247/stc/ch019.m3u8#http://125.227.175.199/stc/ch019.m3u8#http://61.222.48.67/stc/ch019.m3u8#http://61.216.71.67/stc/ch019.m3u8#http://125.227.22.181/stc/ch019.m3u8
+松视3,http://61.219.11.157/stc/ch020.m3u8#http://211.22.61.25/stc/ch020.m3u8#http://211.22.61.163/stc/ch020.m3u8#http://125.227.23.199/stc/ch020.m3u8#http://125.227.22.115/stc/ch020.m3u8#http://211.23.194.247/stc/ch020.m3u8#http://125.227.175.199/stc/ch020.m3u8#http://61.222.48.67/stc/ch020.m3u8#http://61.216.71.67/stc/ch020.m3u8#http://125.227.22.181/stc/ch020.m3u8
+松视3,http://58.99.33.1:1935/liveedge4/live_407_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadfd
+松视4,http://61.219.11.157/stc/ch021.m3u8#http://211.22.61.25/stc/ch021.m3u8#http://211.22.61.163/stc/ch021.m3u8#http://125.227.23.199/stc/ch021.m3u8#http://125.227.22.115/stc/ch021.m3u8#http://211.23.194.247/stc/ch021.m3u8#http://125.227.175.199/stc/ch021.m3u8#http://61.222.48.67/stc/ch021.m3u8#http://61.216.71.67/stc/ch021.m3u8#http://125.227.22.181/stc/ch021.m3u8
+松视4,http://58.99.33.1:1935/liveedge4/live_404_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadfd
 
 乐活频道,http://210.242.52.97/stc/ch161cs.m3u8
 乐活频道,http://125.227.22.181/stc/ch161cs.m3u8
