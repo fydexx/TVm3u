@@ -387,6 +387,79 @@ AXN电影,rtsp://c.itvitv.com/axn
 互動新闻HD(4),p2p://60.249.213.25:9900/57121a640006fb80024d268f0b9a014c.ts
 TVB8(5),http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8
 
+Signature http://210.209.13.36/sta/CH004.m3u8
+hbo http://210.209.13.39/sta/CH004.m3u8
+台视-HD http://210.209.13.37/sta/CH043.m3u8
+HBO-HD http://210.209.13.37/sta/CH005.m3u8
+星空影院 http://210.209.13.36/sta/CH007.m3u8
+八大第1台-HD http://210.209.13.39/sta/CH011.m3u8
+FOX3-HD http://210.209.13.36/sta/CH002.m3u8
+台湾艺术台 http://210.209.13.39/sta/CH003.m3u8
+八大综合-HD http://210.209.13.39/sta/CH010.m3u8
+八大戏剧-HD http://210.209.13.38/sta/CH009.m3u8
+大爱-HD http://210.209.13.39/sta/CH012.m3u8
+中天综合 http://210.209.13.38/sta/CH015.m3u8
+东风37 http://210.209.13.38/sta/CH016.m3u8
+东森电影 http://210.209.13.37/sta/CH018.m3u8
+东森幼幼 http://210.209.13.38/sta/CH017.m3u8
+中天娱乐 http://210.209.13.39/sta/CH013.m3u8
+龙华电影 http://210.209.13.38/sta/CH023.m3u8
+中天新闻 http://210.209.13.39/sta/CH014.m3u8
+纬来电影 http://210.209.13.39/sta/CH025.m3u8
+东森戏剧 http://210.209.13.39/sta/CH019.m3u8
+东森洋片 http://210.209.13.39/sta/CH020.m3u8
+国家地理 http://210.209.13.39/sta/CH029.m3u8
+探索发现 http://210.209.13.37/sta/CH030.m3u8
+ELTA体育-HD http://210.209.13.37/sta/CH032.m3u8
+非凡新闻-HD http://210.209.13.36/sta/CH031.m3u8
+纬来戏剧 http://211.22.61.163/sta/CH026.m3u8
+CinemaWorld http://210.209.13.39/sta/CH035.m3u8
+纬来体育-HD http://210.209.13.38/sta/CH027.m3u8
+CNN http://210.209.13.36/sta/CH036.m3u8
+MTV-HD http://125.227.22.115/sta/CH033.m3u8
+AXN http://210.209.13.39/sta/CH034.m3u8
+Hollywood http://210.209.13.39/sta/CH040.m3u8
+年代MUCH-HD http://210.209.13.38/sta/CH039.m3u8
+卫视中文台-HD http://210.209.13.38/sta/CH037.m3u8
+东森超视-HD http://210.209.13.37/sta/CH047.m3u8
+公视-HD http://210.209.13.38/sta/CH042.m3u8
+民视-HD http://125.227.23.199/sta/CH044.m3u8
+卫视电影台 http://210.209.13.36/sta/CH038.m3u8
+JET综合 http://210.209.13.39/sta/CH048.m3u8
+华视-HD http://210.209.13.38/sta/CH046.m3u8
+好消息 http://61.219.11.157/sta/CH053.m3u8
+亚洲综合台 http://125.227.175.199/sta/CH051.m3u8
+生命卫视 http://125.227.23.199/sta/CH056.m3u8
+动物星球 http://125.227.23.199/sta/CH052.m3u8
+CN卡通频道 http://125.227.22.115/sta/CH058.m3u8
+AFC http://211.22.61.163/sta/CH060.m3u8
+TLC旅游生活 http://125.227.23.199/sta/CH059.m3u8
+中华财经台 http://61.219.11.157/sta/CH054.m3u8
+龙华戏剧 http://211.22.61.163/sta/CH073.m3u8
+台视综合台 http://210.209.13.37/sta/CH083.m3u8
+iConcerts http://125.227.175.199/sta/CH075.m3u8
+台视新闻台 http://61.222.48.67/sta/CH076.m3u8
+古典音乐台 http://211.22.61.25/sta/CH077.m3u8
+东森购物2 http://210.209.13.38/sta/CH107.m3u8
+东森购物4 http://210.209.13.38/sta/CH504.m3u8
+韩国娱乐台 http://125.227.23.199/sta/CH078.m3u8
+Bravo菁采台 http://210.209.13.38/sta/CH505.m3u8
+中视-HD http://210.209.13.38/sta/CH506.m3u8
+中天亚洲台-HD http://210.209.13.38/sta/CH514.m3u8
+TVBS-HD http://210.209.13.38/sta/CH509.m3u8
+中视新闻台-HD http://210.209.13.38/sta/CH508.m3u8
+东森财经新闻-HD http://210.209.13.37/sta/CH513.m3u8
+中视经典台-HD http://210.209.13.38/sta/CH507.m3u8
+台视经典台-HD http://210.209.13.38/sta/CH515.m3u8
+台视新闻台-HD http://210.209.13.39/sta/CH516.m3u8
+TVB8-HD http://210.209.13.37/sta/CH511.m3u8
+富立 http://210.209.13.37/sta/CH521.m3u8
+东森新闻-HD http://210.209.13.36/sta/CH512.m3u8
+华视综合娱乐-HD http://210.209.13.38/sta/CH520.m3u8
+TVBS新闻台-HD http://210.209.13.38/sta/CH510.m3u8
+华视新闻资讯-HD http://210.209.13.39/sta/CH519.m3u8
+台艺2台 http://210.209.13.39/sta/CH522.m3u8
+
 人間衛视,http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
 台视HD,p2p://60.249.213.25:9900/57067e410009388b4b37fa2115343fc0.ts#http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/droid/live/ttv_4.m3u8#http://59.120.43.180:17822
 大愛,http://ktv033.cdnak.ds.kylintv.net/nlds/kylin/daai/as/live/daai_4.m3u8
@@ -999,7 +1072,6 @@ ADULT成人台
 奥视惊艳,http://125.227.22.181/stc/ch162cs.m3u8
 奥视香蕉,http://210.242.52.97/stc/ch163cs.m3u8
 奥视香蕉,http://125.227.22.181/stc/ch163cs.m3u8
-
 樂活頻道,http://210.242.52.97/stc/ch161.m3u8
 奧視驚艷,http://210.242.52.97/stc/ch162.m3u8
 奧視香蕉,http://210.242.52.97/stc/ch163.m3u8
@@ -1022,10 +1094,6 @@ Hiplay玩家频道,p2p://60.249.213.25:9900/57131ea6000354ae00d12c0373ba663c
 NEWLY ADDED ADULT成人台
 JasminTV HD,rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 时装秀Fashionone,http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
-极乱家族01,http://69.46.75.107/files/videos/140747456300c03.flv
-极乱家族02,http://69.46.75.107/files/videos/1408405892924a3.flv
-极乱家族03,http://69.46.75.107/files/videos/1410962219b8929.flv
-极乱家族04,http://69.46.75.107/files/videos/141188120614378.flv
 V?P CHANNEL 2,http://devcon.1dns1.com:8080/live/testxxx7x/290816/47.ts
 V?P CHANNEL 3,http://devcon.1dns1.com:8080/live/testxxx7x/290816/46.ts
 PENTHOUSE HD,http://devcon.1dns1.com:8080/live/testxxx7x/290816/44.ts
