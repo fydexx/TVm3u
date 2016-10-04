@@ -1055,11 +1055,11 @@ TR: TV8 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1188.ts
 ADULT成人台
 
 台湾艺术,http://61.216.71.67/sta/ch3.m3u8
-松视1HD,http://210.242.52.97/stc/ch023cs.m3u8
-松视1HD,http://125.227.22.181/stc/ch022cs.m3u8#http://125.227.22.181/stc/ch023cs.m3u8
+松视1HD,http://58.99.33.1:1935/liveedge4/live_405_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadfd
 松视1HD,http://61.216.71.67/stc/ch22.m3u8
 松视1HD,http://61.216.71.67/stc/ch23.m3u8
-松视1HD,http://58.99.33.1:1935/liveedge4/live_405_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadfd
+松视1HD,http://210.242.52.97/stc/ch023cs.m3u8
+松视1HD,http://125.227.22.181/stc/ch022cs.m3u8#http://125.227.22.181/stc/ch023cs.m3u8
 松视2,http://61.219.11.157/stc/ch019.m3u8#http://211.22.61.25/stc/ch019.m3u8#http://211.22.61.163/stc/ch019.m3u8#http://125.227.23.199/stc/ch019.m3u8#http://125.227.22.115/stc/ch019.m3u8#http://211.23.194.247/stc/ch019.m3u8#http://125.227.175.199/stc/ch019.m3u8#http://61.222.48.67/stc/ch019.m3u8#http://61.216.71.67/stc/ch019.m3u8#http://125.227.22.181/stc/ch019.m3u8
 松视3,http://61.219.11.157/stc/ch020.m3u8#http://211.22.61.25/stc/ch020.m3u8#http://211.22.61.163/stc/ch020.m3u8#http://125.227.23.199/stc/ch020.m3u8#http://125.227.22.115/stc/ch020.m3u8#http://211.23.194.247/stc/ch020.m3u8#http://125.227.175.199/stc/ch020.m3u8#http://61.222.48.67/stc/ch020.m3u8#http://61.216.71.67/stc/ch020.m3u8#http://125.227.22.181/stc/ch020.m3u8
 松视3,http://58.99.33.1:1935/liveedge4/live_407_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadfd
