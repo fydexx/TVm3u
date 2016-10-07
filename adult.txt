@@ -1094,6 +1094,9 @@ Hiplay玩家频道,p2p://60.249.213.25:9900/57131ea6000354ae00d12c0373ba663c
 NEWLY ADDED ADULT成人台
 JasminTV HD,rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 时装秀Fashionone,http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
+XXXL VİP CHANNEL,http://pro.panel2cc101.us:8000/live/haldun/haldun123/1951.ts
+XXX VİP CHANNEL 2,http://pro.panel2cc101.us:8000/live/haldun/haldun123/1952.ts
+XXX VİP CHANNEL,http://pro.panel2cc101.us:8000/live/haldun/haldun123/1949.ts
 V?P CHANNEL 2,http://devcon.1dns1.com:8080/live/testxxx7x/290816/47.ts
 V?P CHANNEL 3,http://devcon.1dns1.com:8080/live/testxxx7x/290816/46.ts
 PENTHOUSE HD,http://devcon.1dns1.com:8080/live/testxxx7x/290816/44.ts
