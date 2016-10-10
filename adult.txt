@@ -287,12 +287,18 @@ TVB翡翠明珠,rtmp://219.232.160.161/livestream/b2xajcu7
 J5翡翠高清,http://httpdvb.slave.homed.me/httpdvb?programid=4200851395&playtoken=&verifycode=&auth=no
 
 番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin&size
+翡翠台,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
 翡翠台,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
 翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
 翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
 翡翠台,p2p://61.220.227.30:8268/5663e65c000e3e7e2088bdfc6cdd768f
 翡翠台,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
 翡翠台,p2p://60.249.213.25:9900/57121892000d960f02460bed767d17f5.ts#rtmp://219.232.160.161/livestream/bycgekwh
+翡翠台HD,http://wshls.acgvideo.com/live/live_44206803_1959058/playlist.m3u8
+翡翠台HD,http://app.tll888.com/bilibili.php?cid=1366528
+翡翠台HD,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+翡翠台HD,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=363&showTime=0
+翡翠台HD,http://live.3xgd.com/VJTVPlayer.swf?src=http://61.164.209.109:5021/live/362&usep2p=0&showTime=0
 翡翠台HD,p2p://61.220.227.30:8268/5663e68c0002d6812089769062ef2d01
 翡翠台HD,http://token.tvb.com/stream/live/hls/mobilehd_jade.smil#p2p://61.221.233.81:9000/56093dab000b879a08167ac469dc1292&link=#p2p://61.221.233.81:9000/56093d3200031b8a08149ff055b7764a&link=HGFDSAihgfd
 翡翠台,http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=&Fsv_filetype=&Fsv_ctype=LIVES&Fsv_cid=&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b
@@ -373,10 +379,12 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
 中经电视,http://116.213.200.53/tslsChannelLive/PCG0DuD.m3u8
 
 凤凰台分类：
+凤凰资讯,http://42.63.204.15:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R57E50E84U39D78289K7749ABD0M30EAF0DW181930&programid=4200900110&auth=no
 凤凰资讯,http://222.191.24.5:6610/2/2/ch00000090990000001309/index.m3u8?ispcode=3
 凤凰资讯,p2p://61.220.227.30:8268/56072a7a00011b8356e8876079430d92
 凤凰香港,p2p://61.220.227.30:8268/56072ae80008e60556ea36ff6c7e14f8
 凤凰香港,p2p://183.60.142.158:9906/5621ab810004f78519e109341aa7605c
+凤凰香港,http://202.205.93.230:280/b039f4e32adba3c507423b46e08eece6/playlist.m3u8
 凤凰卫视,http://122.192.67.72/live/main5.m3u8
 凤凰卫视中文,http://14.17.115.9/live/zhongwen800k.m3u8?ts=1460605248&adj=14400&au=dc913f2e3302ba028615320e644ac460
 凤凰卫视资讯,http://14.17.115.10/live/zixun800k.m3u8?ts=1460605287&adj=14400&au=4a6c0c2e8d15ba1f656eefa312d63a04
@@ -387,6 +395,7 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
 凤凰卫视资讯,http://110.77.0.182:1935/dvr/1009.stream/playlist.m3u8
 凤凰中文,http://58.135.196.138:8090/live/789E9CE292A040d2A459CF55D2FB362E/789E9CE292A040d2A459CF55D2FB362E.m3u8
 凤凰资讯,http://58.135.196.138:8090/live/369024B4C9BF4b0f909187FC58B9951C/369024B4C9BF4b0f909187FC58B9951C.m3u8
+凤凰中文,http://42.63.204.15:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R57E50E84U39D78289K7749ABD0M30EAF0DW181930&programid=4200900107&auth=no
 凤凰中文,http://121.251.49.204/hls/ustc-tv7.m3u8
 凤凰中文HD,http://111.20.115.242/live/stream5.m3u8
 凤凰资讯HD,http://111.20.115.242/live/stream7.m3u8
