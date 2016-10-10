@@ -504,7 +504,6 @@ AXN电影,rtsp://c.itvitv.com/axn
 乐视香港电影,http://live.gslb.letv.com/gslb?tag=live&stream_id=lb_hkmovie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=C1S&expect=1
  
 宏观卫视,http://ktv004.cdnak.ds.kylintv.net/nlds/kylin/mactv/droid/live/mactv_4.m3u8
-澳亚卫视,http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/droid/live/mastv_4.m3u8 
 卫视中文国语,http://iliketot.dyndns.tv/tot/web/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 卫视卡式粤语,http://iliketot.dyndns.tv/tot/web/c8233976dbba4a06a101780907447375.m3u8
 卫视中文台,http://tw.59kp.com:1935/live/c158.stream/playlist.m3u8
@@ -516,17 +515,9 @@ TVB8(5),http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8
 公视HD,http://59.120.41.145/sta/ch5168042.m3u8
 台视HD,http://59.120.41.145/sta/ch5168043.m3u8
 华视HD,http://59.120.41.145/sta/ch5168046.m3u8
-
-Signature http://210.209.13.36/sta/CH004.m3u8
-hbo http://210.209.13.39/sta/CH004.m3u8
-台视-HD http://210.209.13.37/sta/CH043.m3u8
-HBO-HD http://210.209.13.37/sta/CH005.m3u8
-星空影院 http://210.209.13.36/sta/CH007.m3u8
 八大第1台-HD http://210.209.13.39/sta/CH011.m3u8
 FOX3-HD http://210.209.13.36/sta/CH002.m3u8
 台湾艺术台 http://210.209.13.39/sta/CH003.m3u8
-八大综合-HD http://210.209.13.39/sta/CH010.m3u8
-八大戏剧-HD http://210.209.13.38/sta/CH009.m3u8
 大爱-HD http://210.209.13.39/sta/CH012.m3u8
 中天综合 http://210.209.13.38/sta/CH015.m3u8
 东风37 http://210.209.13.38/sta/CH016.m3u8
