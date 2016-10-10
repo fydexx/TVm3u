@@ -115,6 +115,122 @@ Electric,mms://100automoto.tv/channel_electric
 体育,http://92.222.205.40:8085/lighd
 
 
+STV2 HD,http://92.62.234.209:2222/udp/239.9.0.102:1234?
+Joj plus,http://92.62.234.203:2222/udp/239.3.1.101:1234?
+Wau,http://92.62.234.203:2222/udp/239.3.1.102:1234?
+Ctv HD,http://92.62.234.202:2222/udp/239.2.1.101:1234
+BBC,http://92.62.234.202:2222/udp/239.2.1.105:1234
+Eronewa,http://92.62.234.202:2222/udp/239.2.1.106:1234
+1,http://92.62.234.202:2222/udp/239.2.1.107:1234
+STV2 ,http://92.62.234.207:2222/udp/239.7.1.101:1234
+Klik tv,http://92.62.234.207:2222/udp/239.7.1.103:1234
+ó?ko hity,http://92.62.234.207:2222/udp/239.7.1.105:1234
+Prima love,http://92.62.234.207:2222/udp/239.7.1.107:1234
+Sport HD,http://92.62.234.235:2222/udp/239.35.0.101:1234
+Ct1,http://92.62.234.233:2222/udp/239.33.1.101:1234
+Ct2,http://92.62.234.233:2222/udp/239.33.1.102:1234
+Ct24,http://92.62.234.233:2222/udp/239.33.1.103:1234
+NOE TV,http://92.62.234.233:2222/udp/239.33.1.105:1234
+ó?ko Express,http://92.62.234.233:2222/udp/239.33.1.107:1234
+Osem,http://92.62.234.233:2222/udp/239.33.1.108:1234
+Nazivo1 HD,http://92.62.234.228:2222/udp/239.28.1.101:1234
+Nazivo2 HD,http://92.62.234.228:2222/udp/239.28.1.102:1234
+Max HD,http://92.62.234.238:2222/udp/239.38.1.101:1234
+STV HD,http://92.62.234.238:2222/udp/239.38.1.102:1234
+Prime HD,http://92.62.234.240:2222/udp/239.40.1.101:1234
+Nova HD,http://92.62.234.240:2222/udp/239.40.1.102:1234
+Film Box,http://92.62.234.225:2222/udp/239.25.1.101:1234
+Cs Film,http://92.62.234.225:2222/udp/239.25.1.102:1234
+Cool,http://92.62.234.225:2222/udp/239.25.1.103:1234
+Prime,http://92.62.234.225:2222/udp/239.25.1.104:1234
+Toon2,http://92.62.234.222:2222/udp/239.22.1.101:1234
+Joj HD,http://92.62.234.222:2222/udp/239.22.1.102:1234
+CNN,http://92.62.234.222:2222/udp/239.22.1.107:1234
+DW,http://92.62.234.222:2222/udp/239.22.1.108:1234
+Stagr TV,http://92.62.234.222:2222/udp/239.22.1.109:1234
+24,http://92.62.234.221:2222/udp/239.21.1.101:1234
+DF live,http://92.62.234.221:2222/udp/239.21.1.103:1234
+Planta rtr,http://92.62.234.221:2222/udp/239.21.1.102:1234
+Arbic,http://92.62.234.221:2222/udp/239.21.1.108:1234
+Family,http://92.62.234.220:2222/udp/239.20.1.101:1234
+Comody,http://92.62.234.220:2222/udp/239.20.1.102:1234
+Unkown,http://92.62.234.220:2222/udp/239.20.1.104:1234
+F HD,http://92.62.234.218:2222/udp/239.18.1.100:1234
+Nova,http://92.62.234.215:2222/udp/239.15.1.101:1234
+Muziko,http://92.62.234.215:2222/udp/239.15.1.107:1234
+Baby TV,http://92.62.234.213:2222/udp/239.13.1.101:1234
+Mova Sport HD,http://92.62.234.212:2222/udp/239.12.1.101:1234
+CtvSport,http://92.62.234.210:2222/udp/239.10.1.101:1234日本ANIMAX，rtsp://c.itvitv.com:554//animaxj.yuwnshydgtrf
+Pik-TV_HD,rtsp://fms.pik-tv.com/live/piktv3pik3tv
+
+星卫娱乐,http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
+星卫娱乐,http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4_400/index.m3u8
+亚太第一,http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
+亚洲联合,http://tv.unbtv.tv/app_2/ls_1.stream/playlist.m3u8
+亚洲联合,http://tv.unbtv.tv/app_2/ls_1.stream/chunklist.m3u8?wowzasessionid=1998247339
+亚洲旅游,http://61.216.71.67/sta/ch50.m3u8
+亚洲旅游,http://61.216.71.67/stc/ch004.m3u8
+亚洲旅游,http://61.216.71.67/stc/ch034.m3u8
+亚洲旅游,http://210.242.52.97/stc/ch004.m3u8
+亚洲旅游,http://210.242.52.97/stc/ch034.m3u8
+亚洲旅游,http://210.242.52.97/sta/ch50.m3u8
+亚洲新闻,http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8
+亚洲影院,http://61.55.145.198/live/hls/1083.m3u8
+阳光卫视,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/yangguangstv/.m3u8
+壹电视新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+原住民电视,http://live.waaarp.com/live/_definst_/smil:titv/titv.smil/chunklist_b3000000.m3u8
+中视,http://210.242.52.97/sta/ch506.m3u8
+中视,http://210.242.52.97/sta/ch41.m3u8
+中视,http://61.216.71.67/sta/ch41.m3u8
+中视,http://61.216.71.67/sta/ch506.m3u8
+中视经典,http://210.242.52.97/sta/ch507.m3u8
+中视经典,http://61.216.71.67/sta/ch507.m3u8
+中视新闻,http://210.242.52.97/sta/ch508.m3u8
+中视新闻,http://61.216.71.67/sta/ch508.m3u8
+三立都会,http://bcoveliveios-i.akamaihd.net/hls/live/241983/4338955585001_1/02wevfbdd54.m3u8
+三立台湾,http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/02ldeknk95.m3u8
+三立台湾,http://61.216.71.67/sta/ch49.m3u8STV1 HD,http://92.62.234.209:2222/udp/239.9.0.101:1234?三立都會台,http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/master.m3u8
+三立台湾台,http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/master.m3u8
+﻿TVBS HD,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_6/master.m3u8
+TVBS新聞台,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_5/master.m3u8
+TVBS新聞台,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_3/master.m3u8
+TVBS歡樂台HD,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_4/master.m3u8
+﻿﻿FOX_HD,http://59.120.41.145/sta/ch5168001.m3u8
+FOX_3HD,http://59.120.41.145/sta/ch5168002.m3u8
+台湾艺术台,http://59.120.41.145/sta/ch5168003.m3u8
+HBO优质,http://59.120.41.145/sta/ch5168004.m3u8
+HBO_HD,http://59.120.41.145/sta/ch5168005.m3u8
+MOMO亲子台,http://59.120.41.145/sta/ch5168006.m3u8
+卫视HD西片,http://59.120.41.145/sta/ch5168007.m3u8
+大爱HD,http://59.120.41.145/sta/ch5168012.m3u8
+中天娱乐,http://59.120.41.145/sta/ch5168013.m3u8
+中天新闻,http://59.120.41.145/sta/ch5168014.m3u8
+中天综合,http://59.120.41.145/sta/ch5168015.m3u8
+东风37,http://59.120.41.145/sta/ch5168016.m3u8
+东森幼幼,http://59.120.41.145/sta/ch5168017.m3u8
+东森电影,http://59.120.41.145/sta/ch5168018.m3u8
+东森戏剧,http://59.120.41.145/sta/ch5168019.m3u8
+东森洋片,http://59.120.41.145/sta/ch5168020.m3u8
+龙华电影,http://59.120.41.145/sta/ch5168023.m3u8
+纬来电影63,http://59.120.41.145/sta/ch5168025.m3u8
+纬来体育HD,http://59.120.41.145/sta/ch5168027.m3u8
+国家地理,http://59.120.41.145/sta/ch5168029.m3u8
+探索频道,http://59.120.41.145/sta/ch5168030.m3u8
+非凡新闻HD,http://59.120.41.145/sta/ch5168031.m3u8
+ELTA体育HD,http://59.120.41.145/sta/ch5168032.m3u8
+AXN,http://59.120.41.145/sta/ch5168034.m3u8
+世界影城电影,http://59.120.41.145/sta/ch5168035.m3u8
+CNN,http://59.120.41.145/sta/ch5168036.m3u8
+卫视中文台HD,http://59.120.41.145/sta/ch5168037.m3u8
+卫视电影台,http://59.120.41.145/sta/ch5168038.m3u8
+年代MUCH_HD,http://59.120.41.145/sta/ch5168039.m3u8
+好莱坞电影,http://59.120.41.145/sta/ch5168040.m3u8
+东森超视HD,http://59.120.41.145/sta/ch5168047.m3u8
+JET综合,http://59.120.41.145/sta/ch5168048.m3u8
+华藏卫视,http://59.120.41.145/sta/ch5168067.m3u8
+非凡新聞台,http://60.199.188.151/HLS/WG_USTV-N/index.m3u8
+
+
 ==香港频道==
 
 凤凰卫视中文台,http://222.191.24.5:6610/2/2/ch00000090990000001308/index.m3u8?ispcode=3
@@ -170,6 +286,7 @@ TVB翡翠明珠,rtmp://219.232.160.161/livestream/b2xajcu7
 
 J5翡翠高清,http://httpdvb.slave.homed.me/httpdvb?programid=4200851395&playtoken=&verifycode=&auth=no
 
+番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin&size
 翡翠台,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
 翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
 翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
@@ -387,6 +504,10 @@ AXN电影,rtsp://c.itvitv.com/axn
 互動新闻HD(4),p2p://60.249.213.25:9900/57121a640006fb80024d268f0b9a014c.ts
 TVB8(5),http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8
 
+公视HD,http://59.120.41.145/sta/ch5168042.m3u8
+台视HD,http://59.120.41.145/sta/ch5168043.m3u8
+华视HD,http://59.120.41.145/sta/ch5168046.m3u8
+
 Signature http://210.209.13.36/sta/CH004.m3u8
 hbo http://210.209.13.39/sta/CH004.m3u8
 台视-HD http://210.209.13.37/sta/CH043.m3u8
@@ -478,6 +599,9 @@ MOMO親子,p2p://60.249.213.25:9900/57122bdb0003a2ad02915e902ec73020.ts
 东森幼幼,p2p://60.249.213.25:9900/5606bc400001a44e015f68980d4d0f70.ts#http://ktv051.cdnak.ds.kylintv.net/nlds/kylin/etyoyo/as/live/etyoyo_4.m3u8
 緯來綜合,p2p://60.249.213.25:9900/56067c310000874100652db6490b71f9.ts
 
+八大戏剧,http://59.120.41.145/sta/ch5168009.m3u8
+八大综合HD,http://59.120.41.145/sta/ch5168010.m3u8
+八大第1HD,http://59.120.41.145/sta/ch5168011.m3u8
 八大第一,p2p://60.249.213.25:9900/5719eca7000f197a1b65e2df0e0f75f0.ts
 八大綜合,p2p://60.249.213.25:9900/560678bd0007cc720057b26e25011b42.ts
 
@@ -485,6 +609,7 @@ MOMO親子,p2p://60.249.213.25:9900/57122bdb0003a2ad02915e902ec73020.ts
 三立新闻,p2p://60.249.213.25:9900/5606b854000cbe8e0150198f191821af
 三立新闻HD,http://hp3.ottclub.info:1935/live/c161.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 三立新闻HD,http://hp1.ottclub.info:1935/live/c661.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+三立台湾HD,http://59.120.41.145/sta/ch5168049.m3u8
 三立台湾HD,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581
 三立台湾,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581.ts
 三立台湾,http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/02ldeknk95.m3u8
