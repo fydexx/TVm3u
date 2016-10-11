@@ -1180,25 +1180,32 @@ TR: TV8 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1188.ts
 ADULT成人台
 
 台湾艺术,http://61.216.71.67/sta/ch3.m3u8
+
+松視1HD,http://125.227.23.199/stc/ch168022.m3u8#http://125.227.23.199/stc/ch168023.m3u8
 松视1HD,http://61.216.71.67/stc/ch23.m3u8
 松视1HD,http://58.99.33.1:1935/liveedge4/live_405_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadfd
 松视1HD,http://61.216.71.67/stc/ch22.m3u8
 松视1HD,http://210.242.52.97/stc/ch023cs.m3u8
 松视1HD,http://125.227.22.181/stc/ch022cs.m3u8#http://125.227.22.181/stc/ch023cs.m3u8
+松視2,http://210.209.13.37/stc/ch168019.m3u8
 松视2,http://61.219.11.157/stc/ch019.m3u8#http://211.22.61.25/stc/ch019.m3u8#http://211.22.61.163/stc/ch019.m3u8#http://125.227.23.199/stc/ch019.m3u8#http://125.227.22.115/stc/ch019.m3u8#http://211.23.194.247/stc/ch019.m3u8#http://125.227.175.199/stc/ch019.m3u8#http://61.222.48.67/stc/ch019.m3u8#http://61.216.71.67/stc/ch019.m3u8#http://125.227.22.181/stc/ch019.m3u8
+松視3,http://210.209.13.37/stc/ch168020.m3u8
 松视3,http://61.219.11.157/stc/ch020.m3u8#http://211.22.61.25/stc/ch020.m3u8#http://211.22.61.163/stc/ch020.m3u8#http://125.227.23.199/stc/ch020.m3u8#http://125.227.22.115/stc/ch020.m3u8#http://211.23.194.247/stc/ch020.m3u8#http://125.227.175.199/stc/ch020.m3u8#http://61.222.48.67/stc/ch020.m3u8#http://61.216.71.67/stc/ch020.m3u8#http://125.227.22.181/stc/ch020.m3u8
 松视3,http://58.99.33.1:1935/liveedge4/live_407_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadfd
+松視4,http://210.209.13.37/stc/ch168021.m3u8
 松视4,http://61.219.11.157/stc/ch021.m3u8#http://211.22.61.25/stc/ch021.m3u8#http://211.22.61.163/stc/ch021.m3u8#http://125.227.23.199/stc/ch021.m3u8#http://125.227.22.115/stc/ch021.m3u8#http://211.23.194.247/stc/ch021.m3u8#http://125.227.175.199/stc/ch021.m3u8#http://61.222.48.67/stc/ch021.m3u8#http://61.216.71.67/stc/ch021.m3u8#http://125.227.22.181/stc/ch021.m3u8
 松视4,http://58.99.33.1:1935/liveedge4/live_404_2.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadfd
-
+乐活频道,http://210.209.13.37/stc/ch168161.m3u8
 乐活频道,http://210.242.52.97/stc/ch161cs.m3u8
 乐活频道,http://125.227.22.181/stc/ch161cs.m3u8
+乐活频道,http://210.242.52.97/stc/ch161.m3u8
+奥视惊艳,http://210.209.13.37/stc/ch168162.m3u8
 奥视惊艳,http://210.242.52.97/stc/ch162cs.m3u8
 奥视惊艳,http://125.227.22.181/stc/ch162cs.m3u8
+奥视惊艳,http://210.242.52.97/stc/ch162.m3u8
+奧視香蕉,http://210.209.13.37/stc/ch168163.m3u8
 奥视香蕉,http://210.242.52.97/stc/ch163cs.m3u8
 奥视香蕉,http://125.227.22.181/stc/ch163cs.m3u8
-樂活頻道,http://210.242.52.97/stc/ch161.m3u8
-奧視驚艷,http://210.242.52.97/stc/ch162.m3u8
 奧視香蕉,http://210.242.52.97/stc/ch163.m3u8
 
 潘朵拉粉红台,p2p://211.75.214.186:9906/5783bee90009bc99065c3ac140ced589
