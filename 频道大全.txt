@@ -212,8 +212,9 @@ J2,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=3
 翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
 翡翠台 http://116.199.4.203:8114/a/b/index.m3u8?FvSeid=5408f55ec27ba46b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=46&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=1&Fsv_ShiftTsp=240&Provider_id=a&Pcontent_id=b&Fsv_otype=1
 翡翠台,p2p://106.186.121.94:8260/5663e65c000e3e7e2088bdfc6cdd768f
-翡翠台HD,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
+
 翡翠台HD,http://wshls.acgvideo.com/live/live_44206803_1959058/playlist.m3u8
+翡翠台HD,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
 翡翠台HD,http://app.tll888.com/bilibili.php?cid=1366528
 翡翠台HD,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=363&showTime=0
 翡翠台HD,http://live.3xgd.com/VJTVPlayer.swf?src=http://61.164.209.109:5021/live/362&usep2p=0&showTime=0
