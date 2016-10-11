@@ -215,6 +215,7 @@ MOMO亲子台,http://59.120.41.145/sta/ch5168006.m3u8
 纬来电影63,http://59.120.41.145/sta/ch5168025.m3u8
 纬来体育HD,http://59.120.41.145/sta/ch5168027.m3u8
 国家地理,http://59.120.41.145/sta/ch5168029.m3u8
+国家地理HD,http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=115
 探索频道,http://59.120.41.145/sta/ch5168030.m3u8
 非凡新闻HD,http://59.120.41.145/sta/ch5168031.m3u8
 ELTA体育HD,http://59.120.41.145/sta/ch5168032.m3u8
@@ -239,8 +240,7 @@ HKTV,http://14.198.245.129:8088/hktvlive/hktv_576p_track.m3u8
 TVB8,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
 TVBJ2高清HD,p2p://60.249.213.25:9900/571219e6000c6f84024b3bc364573e9b.ts
 TVBJ5高清翡翠,p2p://60.249.213.25:9900/571217f20007ba850243996d2a1a32d0.ts
-TVB明珠台,rtmp://219.232.160.161/livestream/b2xajcu7
-TVB明珠台,http://223.19.145.252:9981/stream/channelid/24?ticket=CAC903CCC2CC681BA3A13D71EC935416AA3940D1
+TVB明珠台,http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=367
 TVB明珠台HD,p2p://60.249.213.25:9900/571219620009f11c0249377f7cfc15bd.ts
 TVB翡翠國際,http://116.199.4.203:8114/a/b/index.m3u8
 
@@ -372,6 +372,7 @@ H2,p2p://106.186.121.94:8260/56073999000540735723997a2e9b6279
 动物星球,http://tw.59kp.com:1935/live/c176.stream/playlist.m3u8
 国家地理HD,http://tw.59kp.com:1935/live/c206.stream/playlist.m3u8
 国家野生HD,http://tw.59kp.com:1935/live/c207.stream/playlist.m3u8
+香港AXNrt,rtsp://c.itvitv.com/axn
 
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8#http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc
@@ -1194,7 +1195,7 @@ ADULT成人台
 潘多拉完美频道,p2p://60.249.213.25:9900/57131d85000e2ff400ccc5e1018c4967
 彩虹电影频道,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667
 彩虹K频道,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d
-彩虹e频道,p2p://60.249.213.25:9900/57133c9e000853e201463dff41c350a4
+彩虹e频道,http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=262
 
 星颖STAR频道,p2p://60.249.213.25:9900/57131d3d000a3af500cbab9d1f3a4066
 HAPPY有码成人,p2p://60.249.213.25:9900/57131ec4000aee3400d1a3256523166c
