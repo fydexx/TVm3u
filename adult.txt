@@ -1182,6 +1182,31 @@ ADULT成人台
 
 台湾艺术,http://61.216.71.67/sta/ch3.m3u8
 
+playy台,http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
+女孩电视,rtmp://edge2.everyon.tv/etv2sb/phd10501
+女孩电视,http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
+粉红高清,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+粉红高清,rtmp://edge1.everyon.tv/etv1sb/pld10928
+午夜19高清,rtmp://edge1.everyon.tv/etv1sb/phd10766
+午夜19高清,http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8
+午夜19高清,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+花花公子19,rtmp://edge1.everyon.tv/etv1sb/phd10497
+花花公子19,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
+绚丽19高清,rtmp://edge2.everyon.tv/etv2sb/phd10769
+绚丽19高清,http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
+金碧的马,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
+金碧的马,rtmp://edge1.everyon.tv/etv1sb/phd10927
+色彩,http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
+色彩,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
+色彩,rtmp://edge2.everyon.tv/etv2sb/phd10062
+情趣电视,http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
+情趣电视,rtmp://edge2.everyon.tv/etv2sb/phd10499
+情趣电视,http://edge2.everyon.tv:1935/etv2sb/pld10499/playlist.m3u8
+专属高清,http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
+专属高清,rtmp://edge2.everyon.tv/etv2sb/phd10771
+VIKI,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
+VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
+
 松視1HD,http://125.227.23.199/stc/ch168022.m3u8#http://125.227.23.199/stc/ch168023.m3u8
 松視2,http://210.209.13.37/stc/ch168019.m3u8
 松視3,http://210.209.13.37/stc/ch168020.m3u8

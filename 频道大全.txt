@@ -1,9 +1,4 @@
-﻿新加坡7,p2p://96.44.141.58:6038/57a7d67000021b24f3d1f6cd3d9b2f29 
-新加坡8HD,p2p://96.44.141.58:6038/57a410350007773ce51404b5308a28cf 
-新加坡U,p2p://96.44.141.58:6038/57a40ff100077535e512fb147bf36e75 
-8TV,p2p://96.44.141.58:6038/57a7d62100021cf1f3d0c2376f38151a
-
-
+﻿
 翡翠台HD,http://wshls.acgvideo.com/live/live_44206803_1959058/playlist.m3u8
 
 星卫国际电影,http://222.37.159.225:13164/playurl.m3u8?playtype=live&protocol=ios&accesstoken=R57F2ACA8U31626625K7739976EM2FF7562W2531394&programid=4200000102&playtoken=ABCDEFGH&ts=50&verifycode=2000000610 
@@ -369,35 +364,10 @@ HOT少儿动漫,http://222.191.24.5:6610/2/2/ch00000090990000001231/index.m3u8?i
 
 佳佳卡通,http://222.191.24.5:6610/2/2/ch00000090990000001235/index.m3u8?ispcode=3
 ABC NEWS,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8#
-playy台,http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
-
 Foi Daquele Jeito-CENA 1,http://sex4.brasileirinhas.com.br/vod-sex2/Filmes_HD/FoiDaqueleJeito/Low/FoiDaqueleJeito_cena1.mp4
 
 letstryanalVOD176,http://a7-60.5-69.cdn13.com/28000/28167/28167.flv
 
-女孩电视,rtmp://edge2.everyon.tv/etv2sb/phd10501
-女孩电视,http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
-粉红高清,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
-粉红高清,rtmp://edge1.everyon.tv/etv1sb/pld10928
-午夜19高清,rtmp://edge1.everyon.tv/etv1sb/phd10766
-午夜19高清,http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8
-午夜19高清,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
-花花公子19,rtmp://edge1.everyon.tv/etv1sb/phd10497
-花花公子19,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
-绚丽19高清,rtmp://edge2.everyon.tv/etv2sb/phd10769
-绚丽19高清,http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
-金碧的马,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
-金碧的马,rtmp://edge1.everyon.tv/etv1sb/phd10927
-色彩,http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
-色彩,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
-色彩,rtmp://edge2.everyon.tv/etv2sb/phd10062
-情趣电视,http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
-情趣电视,rtmp://edge2.everyon.tv/etv2sb/phd10499
-情趣电视,http://edge2.everyon.tv:1935/etv2sb/pld10499/playlist.m3u8
-专属高清,http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
-专属高清,rtmp://edge2.everyon.tv/etv2sb/phd10771
-VIKI,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
-VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
 VIP电影1,http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
 VIP电影2,http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
 VIP电影3,http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
