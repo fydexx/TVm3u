@@ -237,7 +237,7 @@ JET综合,http://59.120.41.145/sta/ch5168048.m3u8
 凤凰卫视中文台,http://222.191.24.5:6610/2/2/ch00000090990000001308/index.m3u8?ispcode=3
 
 HKTV,http://14.198.245.129:8088/hktvlive/hktv_576p_track.m3u8
-TVB8,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
+
 TVBJ2高清HD,p2p://60.249.213.25:9900/571219e6000c6f84024b3bc364573e9b.ts
 TVBJ5高清翡翠,p2p://60.249.213.25:9900/571217f20007ba850243996d2a1a32d0.ts
 TVB明珠台,http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=367
@@ -317,7 +317,7 @@ HKTV,http://ott-video-lb.hktvmall.com:8088/hktvlive.m3u8?uid=1&vid=1&d=pc&t=12e9
 TVB J2,http://token.tvb.com/stream/live/hls/mobilehd_j2.smil
 TVB J5,http://token.tvb.com/stream/live/hls/mobilehd_hdj.smil
 TVB J5,p2p://106.186.121.94:8260/5663e68c0002d6812089769062ef2d01
-TVB8,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/tvb8/dujuejiami.m3u8
+
 TVB8香港,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
 TVB8香港,http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8
 TVB8香港,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8?DVR
@@ -511,6 +511,11 @@ AXN电影,rtsp://c.itvitv.com/axn
 卫视电影台,http://tw.59kp.com:1935/live/c167.stream/playlist.m3u8
 
 互動新闻HD(4),p2p://60.249.213.25:9900/57121a640006fb80024d268f0b9a014c.ts
+TVB8,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
+TVB8,http://111.39.226.103:8112/120000001001/wlds:8080/ysten-business/live/tvb8/dujuejiami.m3u8
+TVB8,p2p://60.249.213.25:9900/5711acd40001672000a12a9b620a55e3
+TVB8,p2p://60.249.213.25:9900/56069994000781a600d7fa3a398d6548
+TVB8,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
 TVB8(5),http://112.17.0.10:8085/ysten-business/live/tvb8/dujuejiami.m3u8
 
 公视HD,http://59.120.41.145/sta/ch5168042.m3u8
@@ -2229,7 +2234,6 @@ CinemaWorld电影,p2p://60.249.213.25:9900/57137f34000c4826024a58f44b2f05d3
 ELTA影剧HD,p2p://60.249.213.25:9900/5711ad21000e857900a25abf2505723e
 三立戏剧,p2p://60.249.213.25:9900/5711ad05000e408800a1ed4e580e3652
 三立综合,p2p://60.249.213.25:9900/5711ac9c0000635e00a04f986c16642e
-TVB8,p2p://60.249.213.25:9900/5711acd40001672000a12a9b620a55e3
 星卫娱乐,p2p://60.249.213.25:9900/5711ad800008a24f00a3cc5655561edd
 台湾戏剧,p2p://60.249.213.25:9900/5711aced000607ad00a18d731b7d7c67
 EYETV戏剧HD,p2p://60.249.213.25:9900/5711ad4b000cc87200a2fe5e35345bae
@@ -2597,7 +2601,6 @@ Nicke卡通,p2p://60.249.213.25:9900/56068a190003ecea009b80d561580316
 人间卫视,p2p://60.249.213.25:9900/5606f11d000401fb022de8754c160df3
 客家电视,p2p://60.249.213.25:9900/5606df0d0009d84b01e75b814e894e01
 美食星球,p2p://60.249.213.25:9900/560680e000032d5600777a012ee23246
-TVB8,p2p://60.249.213.25:9900/56069994000781a600d7fa3a398d6548
 
 afc,p2p://60.249.213.25:9900/56068ccd000b889b00a611ed73be21db
 健康家庭,p2p://60.249.213.25:9900/56067f64000f40640071b0ba34ea2d4d
@@ -2843,7 +2846,6 @@ CCTV-13新闻,http://110.77.0.182:1935/dvr/1007.stream/playlist.m3u8
 
 东方财经,http://110.77.0.182:1935/dvr/1011.stream/playlist.m3u8
 华娱卫视,http://110.77.0.182:1935/dvr/1012.stream/playlist.m3u8
-TVB8,http://110.77.0.182:1935/dvr/1013.stream/playlist.m3u8
 CCTV-10科教,http://110.77.0.182:1935/dvr/1014.stream/playlist.m3u8
 深圳卫视高清,http://110.77.0.182:1935/dvr/1017.stream/playlist.m3u8
 湖南卫视高清,http://110.77.0.182:1935/dvr/1018.stream/playlist.m3u8
