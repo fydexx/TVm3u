@@ -1201,32 +1201,42 @@ Sky Sport 5 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1119.ts
 >>>>>>>SUEDIA<<<<<<<,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/835.ts
 TR: TV8 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1188.ts
 
-ADULT成人台
-
 台湾艺术,http://61.216.71.67/sta/ch3.m3u8
 
-playy台,http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
-女孩电视,rtmp://edge2.everyon.tv/etv2sb/phd10501
-女孩电视,http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
-粉红高清,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
-粉红高清,rtmp://edge1.everyon.tv/etv1sb/pld10928
+ADULT成人台
+
 午夜19高清,rtmp://edge1.everyon.tv/etv1sb/phd10766
 午夜19高清,http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8
 午夜19高清,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+
 花花公子19,rtmp://edge1.everyon.tv/etv1sb/phd10497
 花花公子19,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
-绚丽19高清,rtmp://edge2.everyon.tv/etv2sb/phd10769
+
 绚丽19高清,http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
+绚丽19高清,rtmp://edge2.everyon.tv/etv2sb/phd10769
+
 金碧的马,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
 金碧的马,rtmp://edge1.everyon.tv/etv1sb/phd10927
-色彩,http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
-色彩,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
-色彩,rtmp://edge2.everyon.tv/etv2sb/phd10062
+
 情趣电视,http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
 情趣电视,rtmp://edge2.everyon.tv/etv2sb/phd10499
 情趣电视,http://edge2.everyon.tv:1935/etv2sb/pld10499/playlist.m3u8
+
 专属高清,http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
 专属高清,rtmp://edge2.everyon.tv/etv2sb/phd10771
+
+playy台,http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
+
+女孩电视,rtmp://edge2.everyon.tv/etv2sb/phd10501
+女孩电视,http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
+
+粉红高清,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+粉红高清,rtmp://edge1.everyon.tv/etv1sb/pld10928
+
+色彩,http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
+色彩,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
+色彩,rtmp://edge2.everyon.tv/etv2sb/phd10062
+
 VIKI,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
 VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
 
@@ -1249,6 +1259,23 @@ VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
 彩虹电影频道,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667
 彩虹K频道,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d
 彩虹e频道,http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=262
+彩虹e频道,p2p://60.249.213.25:9900/57133c9e000853e201463dff41c350a4
+彩虹e频道,p2p://60.249.213.25:9900/57133c9e000853e201463dff41c350a4.ts
+彩虹K频道,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d.ts
+彩虹K频道,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d
+彩虹電影有碼成人,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667.ts
+彩虹电影有码成人,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667
+彩虹K有码成人,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d
+彩虹e有码成人,p2p://60.249.213.25:9900/57133c9e000853e201463dff41c350a4
+彩虹頻道,p2p://fox.jixieshang.com:32602/548aaa7e00096e8703b36a590ce132d7&link=nvidajvas9d34dasnfmoijf890qweu.ts
+彩虹e台,p2p://fox.jixieshang.com:32602/548aaa5d000b86f603b2e9f42431261e&link=nvidajvas9d34dasnfmoijf890qweu.ts
+彩虹电影,p2p://fox.jixieshang.com:32602/548aaa4f00079fb303b2b24120a64517&link=nvidajvas9d34dasnfmoijf890qweu.ts
+彩虹电影,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667
+彩虹电影,p2p://150.242.250.116:34588/554f07190004d1e3689abfee28951f9c
+彩虹频道,p2p://150.242.250.116:34588/554f073500026f89689b2cb248274dbe
+彩虹E台,p2p://150.242.250.116:34588/554f0722000588fe689ae3453ec41813
+彩虹电影频道,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667
+
 
 性开发,http://www.55jiuseteng.com/play.php/7974.m3u8
 ﻿﻿﻿﻿换妻一族,http://www.55jiuseteng.com/play.php/1774.m3u8
@@ -1276,6 +1303,7 @@ Hiplay玩家频道,p2p://60.249.213.25:9900/57131ea6000354ae00d12c0373ba663c
 香蕉成人,p2p://60.249.213.25:9900/57131bf0000c667c00c69762056c7489
 
 NEWLY ADDED ADULT成人台
+
 JasminTV HD,rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 时装秀Fashionone,http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 XXXL VİP CHANNEL,http://pro.panel2cc101.us:8000/live/haldun/haldun123/1951.ts
@@ -1298,6 +1326,9 @@ PORNOXHD,http://devcon.1dns1.com:8080/live/testxxx7x/290816/2988.ts
 PENTHOUSEHD,http://devcon.1dns1.com:8080/live/testxxx7x/290816/2979.ts
 DAR?NGTV,http://devcon.1dns1.com:8080/live/testxxx7x/290816/2980.ts
 BABESTATIONXTREME,http://devcon.1dns1.com:8080/live/testxxx7x/290816/2986.ts
+5欧美,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
+6欧美,http://edge2.everyon.tv/etv2sb/pld10499/playlist.m3u8
+
 欧美电话美女02-sexysat2,http://81.89.48.215:1935/xyz888wkz/xy8/playlist.m3u8
 欧美电话美女04-bs24,http://de-origin-live.3qsdn.com:1935/2346/Ct6zG7Nrj3v2JxD/playlist.m3u8
 欧美电话美女07-central1,http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/playlist.m3u8
@@ -1326,14 +1357,7 @@ VISIT-X TV,rtmp://stream.visit-x.tv/vxtv/live_720p
 BLUE HUSTLER TV,http://devcon.1dns1.com:8080/live/testxxx7x/290816/42.ts
 PASSIONXXX,http://devcon.1dns1.com:8080/live/testxxx7x/290816/2987.ts
 MARCDORCELTV,http://devcon.1dns1.com:8080/live/testxxx7x/290816/2985.ts
-女孩电视,rtmp://edge2.everyon.tv/etv2sb/phd10501
-粉红高清,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
-绚丽19高清,rtmp://edge2.everyon.tv/etv2sb/phd10769
-色彩,rtmp://edge2.everyon.tv/etv2sb/phd10062
-情趣电视,rtmp://edge2.everyon.tv/etv2sb/phd10499
-情趣电视,http://edge2.everyon.tv:1935/etv2sb/pld10499/playlist.m3u8
-专属高清,rtmp://edge2.everyon.tv/etv2sb/phd10771
-午夜19高清,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+
 韩国有码成人高清3,http://edge2.everyon.tv:1935/etv2sb/phd10499/playlist.m3u8
 韩国有码成人高清4,http://edge2.everyon.tv:1935/etv2sb/phd10501/playlist.m3u8
 韩国有码成人高清7,http://edge2.everyon.tv:1935/etv2sb/phd10769/playlist.m3u8
@@ -1341,16 +1365,6 @@ MARCDORCELTV,http://devcon.1dns1.com:8080/live/testxxx7x/290816/2985.ts
 韩国有码成人高清9,http://edge2.everyon.tv:1935/etv2sb/phd10772/playlist.m3u8
 韩国高清13the,http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
  
-午夜19高清,rtmp://edge1.everyon.tv/etv1sb/phd10766
-午夜19高清,http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8
-午夜19高清,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
-花花公子19,rtmp://edge1.everyon.tv/etv1sb/phd10497
-花花公子19,http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
-绚丽19高清,http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
-金碧的马,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
-金碧的马,rtmp://edge1.everyon.tv/etv1sb/phd10927
-情趣电视,http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
-专属高清,http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
 VIKI,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
 VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
 jasmin TV,rtmp://109.71.162.112/live//sd.jasminchannel.stream
@@ -1376,33 +1390,11 @@ JasminTV HD,rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 VIKI,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
 VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
 ABC NEWS,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8#
-playy台,http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
 ?PentHouse TV,http://edge1.everyon.tv/etv1sb/phd10927/playlist.m3u8
 Honey HD,http://edge1.everyon.tv/etv1sb/phd10928/playlist.m3u8
 BUT GO,http://edge2.everyon.tv/etv2sb/phd10772/playlist.m3u8
 VIKI,rtmp://edge1.everyon.tv/etv1sb/phd1076
-粉红高清,rtmp://edge1.everyon.tv/etv1sb/pld10928
-午夜19高清,rtmp://edge1.everyon.tv/etv1sb/phd10766#http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8
-金碧的马,rtmp://edge1.everyon.tv/etv1sb/phd10927
-色彩,http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
-情趣电视,http://edge2.everyon.tv:1935/etv2sb/pld10499/playlist.m3u8
-专属高清,rtmp://edge2.everyon.tv/etv2sb/phd10771
-女孩电视,rtmp://edge2.everyon.tv/etv2sb/phd10501
-女孩电视,http://123.108.164.71/etv2sb/phd10501/playlist.m3u8
-粉红高清,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
-粉红高清,rtmp://edge1.everyon.tv/etv1sb/pld10928
-绚丽19高清,rtmp://edge2.everyon.tv/etv2sb/phd10769
-绚丽19高清,http://123.108.164.71/etv2sb/phd10769/playlist.m3u8
-金碧的马,http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
-金碧的马,rtmp://edge1.everyon.tv/etv1sb/phd10927
-色彩,http://edge2.everyon.tv/etv2sb/phd10062/playlist.m3u8
-色彩,http://123.108.164.71/etv2sb/phd10062/playlist.m3u8
-色彩,rtmp://edge2.everyon.tv/etv2sb/phd10062
-情趣电视,http://123.108.164.71/etv2sb/phd10499/playlist.m3u8
-情趣电视,rtmp://edge2.everyon.tv/etv2sb/phd10499
-情趣电视,http://edge2.everyon.tv:1935/etv2sb/pld10499/playlist.m3u8
-专属高清,http://123.108.164.71/etv2sb/phd10771/playlist.m3u8
-专属高清,rtmp://edge2.everyon.tv/etv2sb/phd10771
+
 韩国GoodTV,rtmp://mobliestream.c3tv.com:554/live/goodtv.sdp
 韩国KCTV,rtmp://122.202.129.136:1935/live/ch4
 韩国KTVHD高清,rtmp://218.38.152.31:1935/klive/klive.stream
@@ -1521,22 +1513,6 @@ VIKI,rtmp://edge1.everyon.tv/etv1sb/phd1076
 韩国标清15,http://edge1.everyon.tv/etv1sb/pld10927/playlist.m3u8
 韩国高清16HoneyHD,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
 
-彩虹e频道,p2p://60.249.213.25:9900/57133c9e000853e201463dff41c350a4
-彩虹e频道,p2p://60.249.213.25:9900/57133c9e000853e201463dff41c350a4.ts
-彩虹K频道,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d.ts
-彩虹K频道,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d
-彩虹電影有碼成人,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667.ts
-彩虹电影有码成人,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667
-彩虹K有码成人,p2p://60.249.213.25:9900/57131c760002b49600c8a0570239525d
-彩虹e有码成人,p2p://60.249.213.25:9900/57133c9e000853e201463dff41c350a4
-彩虹頻道,p2p://fox.jixieshang.com:32602/548aaa7e00096e8703b36a590ce132d7&link=nvidajvas9d34dasnfmoijf890qweu.ts
-彩虹e台,p2p://fox.jixieshang.com:32602/548aaa5d000b86f603b2e9f42431261e&link=nvidajvas9d34dasnfmoijf890qweu.ts
-彩虹电影,p2p://fox.jixieshang.com:32602/548aaa4f00079fb303b2b24120a64517&link=nvidajvas9d34dasnfmoijf890qweu.ts
-彩虹电影,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667
-彩虹电影,p2p://150.242.250.116:34588/554f07190004d1e3689abfee28951f9c
-彩虹频道,p2p://150.242.250.116:34588/554f073500026f89689b2cb248274dbe
-彩虹E台,p2p://150.242.250.116:34588/554f0722000588fe689ae3453ec41813
-彩虹电影频道,p2p://60.249.213.25:9900/57131cb40001e85300c9925340d81667
 
 潘多拉天使薄码成人,http://58.99.33.4:1935/liveedge/live_413_3.stream/playlist.m3u8
 潘多拉天使薄码成人,http://58.99.33.4:1935/liveedge/live_785_3.stream/playlist.m3u8
