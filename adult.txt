@@ -163,6 +163,21 @@ Mova Sport HD,http://92.62.234.212:2222/udp/239.12.1.101:1234
 CtvSport,http://92.62.234.210:2222/udp/239.10.1.101:1234日本ANIMAX，rtsp://c.itvitv.com:554//animaxj.yuwnshydgtrf
 Pik-TV_HD,rtsp://fms.pik-tv.com/live/piktv3pik3tv
 
+央视台球,http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001293/index.m3u8
+天映频道,http://42.63.204.15:13164/playurl?playtype=live&protocol=hls&accesstoken=R579FE77DU3D708289K774997B2M30E46B6W138002&programid=4200900116&playtoken=31612ZZAAZAZAZW1&rate=raw&auth=no
+
+IPTV3+,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227895/1.m3u8
+IPTV5+,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227923/1.m3u8
+IPTV6+,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227889/1.m3u8
+IPTV8+,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227920/1.m3u8
+IPTV谍战剧场,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227917/2.m3u8
+IPTV相声小品,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227861/1.m3u8
+IPTV热播剧场,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227864/1.m3u8
+IPTV少儿动画,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227867/1.m3u8
+IPTV经典电影,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227892/1.m3u8
+IPTV魅力时尚,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227898/1.m3u8
+IPTV收视指南,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227926/1.m3u8
+
 星卫娱乐,http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4.m3u8
 星卫娱乐,http://dlhls.cdn.zhanqi.tv/zqlive/1285_Zloy4_400/index.m3u8
 亚太第一,http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
@@ -1215,6 +1230,7 @@ playy台,http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
 VIKI,http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
 VIKI,rtmp://edge1.everyon.tv/etv1sb/phd10765
 
+昕魅力1,http://61.219.11.157/sta/32350000.m3u8
 松視1HD,http://125.227.23.199/stc/ch168022.m3u8#http://125.227.23.199/stc/ch168023.m3u8
 松视1台,http://61.219.11.157/stc/ch168022.m3u8
 松視2,http://210.209.13.37/stc/ch168019.m3u8
