@@ -87,7 +87,6 @@ Kronehit,http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
 muzzone,http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 Klipkar TV,http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
 
-
 Canal 2 Hd,http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 NBA,http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 CBC体育,http://s69362.cdn.ngenix.net/live/_definst_/Stream1/playlist.m3u8
@@ -165,6 +164,10 @@ Pik-TV_HD,rtsp://fms.pik-tv.com/live/piktv3pik3tv
 
 央视台球,http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001293/index.m3u8
 天映频道,http://42.63.204.15:13164/playurl?playtype=live&protocol=hls&accesstoken=R579FE77DU3D708289K774997B2M30E46B6W138002&programid=4200900116&playtoken=31612ZZAAZAZAZW1&rate=raw&auth=no
+星空卫视电影,http://v.34pd.com/live/nxtv.php?id=111
+HBO亚洲电影,http://v.34pd.com/live/nxtv.php?id=115
+国家地理,http://v.34pd.com/live/nxtv.php?id=114
+天映频道,http://v.34pd.com/live/nxtv.php?id=116
 
 IPTV3+,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227895/1.m3u8
 IPTV5+,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227923/1.m3u8
@@ -202,10 +205,7 @@ IPTV收视指南,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227926/1.m3u
 中视经典,http://61.216.71.67/sta/ch507.m3u8
 中视新闻,http://210.242.52.97/sta/ch508.m3u8
 中视新闻,http://61.216.71.67/sta/ch508.m3u8
-三立都会,http://bcoveliveios-i.akamaihd.net/hls/live/241983/4338955585001_1/02wevfbdd54.m3u8
-三立台湾,http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/02ldeknk95.m3u8
-三立台湾,http://61.216.71.67/sta/ch49.m3u8STV1 HD,http://92.62.234.209:2222/udp/239.9.0.101:1234?三立都會台,http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/master.m3u8
-三立台湾台,http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/master.m3u8
+
 ﻿TVBS HD,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_6/master.m3u8
 TVBS新聞台,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_5/master.m3u8
 TVBS新聞台,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_3/master.m3u8
@@ -629,27 +629,47 @@ MOMO親子,p2p://60.249.213.25:9900/57122bdb0003a2ad02915e902ec73020.ts
 八大第一,p2p://60.249.213.25:9900/5719eca7000f197a1b65e2df0e0f75f0.ts
 八大綜合,p2p://60.249.213.25:9900/560678bd0007cc720057b26e25011b42.ts
 
+三立财经,http://210.201.54.102/live2/setmoney/playlist.m3u8
+三立台湾,rtmp://kv3.ts33.net/sat/tv292
+三立台湾HD,http://hp3.ottclub.info:1935/live/c696.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+三立台湾HD,http://hp3.ottclub.info:1935/live/c196.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+三立台湾,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581.ts
+三立台湾,http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/02ldeknk95.m3u8
+三立台湾,http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/02ldeknk95.m3u8
+三立台湾,http://61.216.71.67/sta/ch49.m3u8STV1 HD,http://92.62.234.209:2222/udp/239.9.0.101:1234?
+三立台湾台HD,http://125.227.239.37/sta/ch5168049.m3u8
+三立台湾台,http://bcoveliveios-i.akamaihd.net/hls/live/226708/4338955585001/master.m3u8
 三立新闻,p2p://60.249.213.25:9900/5606b854000cbe8e0150198f191821af.ts
 三立新闻,p2p://60.249.213.25:9900/5606b854000cbe8e0150198f191821af
+三立新闻HD,http://210.201.54.102/live2/setnews/playlist.m3u8
 三立新闻HD,http://hp3.ottclub.info:1935/live/c161.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 三立新闻HD,http://hp1.ottclub.info:1935/live/c661.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 三立台湾HD,http://59.120.41.145/sta/ch5168049.m3u8
 三立台湾HD,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581
-三立台湾,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581.ts
-三立台湾,http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/02ldeknk95.m3u8
+三立综合,p2p://60.249.213.25:9900/5711ac9c0000635e00a04f986c16642e
 三立综合 http://60.248.55.253:7002/63
 三立综合,p2p://60.249.213.25:9900/56068b9a0008947800a161f031226168
+三立戏剧,p2p://60.249.213.25:9900/5711ad05000e408800a1ed4e580e3652.ts
+三立戏剧,p2p://60.249.213.25:9900/5711ad05000e408800a1ed4e580e3652
 三立戏剧,p2p://60.249.213.25:9900/5606a48100080e330102a8257ae52321
+三立戏剧台,p2p://61.220.227.30:8268/560779d700013988581e8aa177120989
 三立都会,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
 三立都会,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
 三立都会,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
 三立都会,p2p://60.249.213.25:9900/560677ba000ed60f0053c0827ca14772.ts#http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
+三立都会,http://bcoveliveios-i.akamaihd.net/hls/live/241983/4338955585001_1/02wevfbdd54.m3u8
 三立都会HD,http://bcoveliveios-i.akamaihd.net/hls/live/241983/4338955585001_1/master.m3u8
 三立都会HD,http://hp1.ottclub.info:1935/live/c159.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 三立都会HD,p2p://60.249.213.25:9900/560677ba000ed60f0053c0827ca14772
 三立都会HD,p2p://61.220.227.30:8268/5607a7d3000172dd58d22b18637e5888
 三立都会HD http://60.248.55.253:7002/64
 三立都会HD,http://hp1.ottclub.info:1935/live/c659.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+三立都会台,http://bcoveliveios-i.akamaihd.net/hls/live/226707/4338955585001/master.m3u8
+三立都会台1080,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
+三立都会台960,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
+三立都会台740,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
+三立都会台640,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/04.m3u8
+三立都会台352,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/05.m3u8
 
 衛视中文HD,p2p://60.249.213.25:9900/5606b0de000ce0c10132f4b01f687440.ts#http://iliketot.dyndns.tv/tot/web/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 东森綜合,p2p://60.249.213.25:9900/56089bdd0004c826059e6c56391d2420.ts
@@ -660,10 +680,10 @@ MOMO親子,p2p://60.249.213.25:9900/57122bdb0003a2ad02915e902ec73020.ts
 东森衛视(東風),http://ktv032.cdnak.ds.kylintv.net/nlds/kylin/etgbl/as/live/etgbl_4.m3u8
 年代MUCH,p2p://60.249.213.25:9900/569b5ef900041b40127e5ca165b84672.ts
 中天娛樂,p2p://60.249.213.25:9900/5606b17f000ae1d2013569140b902f16.ts
-东森戲劇,p2p://60.249.213.25:9900/56067c05000c02cf006484ca385f7c26.ts
-八大戲劇,p2p://60.249.213.25:9900/570cd44b000615f163f8106100de6ce0.ts
+东森戏剧,p2p://60.249.213.25:9900/56067c05000c02cf006484ca385f7c26.ts
+八大戏剧,p2p://60.249.213.25:9900/570cd44b000615f163f8106100de6ce0.ts
 TVBS歡樂台,p2p://60.249.213.25:9900/56067d2f0006a3e800690f7c2ed204b0.ts
-緯來戲劇,p2p://60.249.213.25:9900/56218c030001d1760eaddf6316fa759b.ts
+緯來戏剧,p2p://60.249.213.25:9900/56218c030001d1760eaddf6316fa759b.ts
 壹綜合(高點電视),p2p://60.249.213.25:9900/5713456c000003980168a0995ecb1979.ts
 ELTA綜合HD(衛视合家歡),p2p://60.249.213.25:9900/570cd69200043ef16400f544430c7878.ts
 中视新闻(森森百貨),http://59.120.43.180:17838
@@ -711,7 +731,7 @@ ELTA育樂HD,p2p://60.249.213.25:9900/57131bbe0001f4b300c5d165292b79c4.ts
 ELTA影劇HD,p2p://60.249.213.25:9900/5711ad21000e857900a25abf2505723e.ts
 ELTA體育HD,rtmp://kv3.ts33.net:1935/sat/us171
 EYETV旅遊HD,p2p://60.249.213.25:9900/5711ac7f000a60fc009fe0df7d8c44ed.ts
-EYE-TV戲劇台,p2p://60.249.213.25:9900/5711ad4b000cc87200a2fe5e35345bae.ts
+EYE-TV戏剧台,p2p://60.249.213.25:9900/5711ad4b000cc87200a2fe5e35345bae.ts
 FIGHT摔跤格鬥,p2p://60.249.213.25:9900/562ca981000c40783a196d921c417b14.ts
 FOX,1
 FOX-CRIME,p2p://60.249.213.25:9900/570ca3a10005b0d76339f83c55b51a6a.ts
@@ -741,12 +761,6 @@ OutDoor,p2p://60.249.213.25:9900/5711b4860001349400bf39e74fe854a2.ts
 人間衛视,http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/droid/live/bltv_4.m3u8
 人間衛视,p2p://60.249.213.25:9900/5606f11d000401fb022de8754c160df3.ts
 人間衛视,p2p://60.249.213.25:9900/571349c10003ace401798d8656530774.ts
-三立都會台1080,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/01.m3u8
-三立都會台960,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/02.m3u8
-三立都會台740,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/03.m3u8
-三立都會台640,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/04.m3u8
-三立都會台352,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/05.m3u8
-三立戲劇,p2p://60.249.213.25:9900/5711ad05000e408800a1ed4e580e3652.ts
 大愛,p2p://60.249.213.25:9900/560778e600067c10012dd7ed2a07029c.ts
 大愛2,p2p://60.249.213.25:9900/5711ba600007482c00d616fd5f794fe7.ts
 中天亞洲,p2p://60.249.213.25:9900/5606b2180007086b0137bdb91ccf5714.ts
@@ -827,7 +841,7 @@ OutDoor,p2p://60.249.213.25:9900/5711b4860001349400bf39e74fe854a2.ts
 陽光衛视,http://ktv011.cdnak.ds.kylintv.net/nlds/kylin/chann7/droid/live/chann7_4.m3u8
 靖天映畫,p2p://60.249.213.25:9900/5713494c0009dc770177c613216247eb.ts
 靖天綜合,p2p://60.249.213.25:9900/570cd6f800023c046402833055424a53.ts
-靖天戲劇,p2p://60.249.213.25:9900/570cd4a90004fbc663f97f4a4687542d.ts
+靖天戏剧,p2p://60.249.213.25:9900/570cd4a90004fbc663f97f4a4687542d.ts
 靖洋卡通,p2p://60.249.213.25:9900/570cd65e000ac03664002bce3a4428dc.ts
 靖天日本,p2p://76.73.57.138:9999/570cd712000bd6026402eb3612d86830.ts
 臺灣好,http://58.99.33.4:1935/liveedge/live_168_3.stream/playlist.m3u8
@@ -853,7 +867,7 @@ OutDoor,p2p://60.249.213.25:9900/5711b4860001349400bf39e74fe854a2.ts
 龍华偶像,p2p://60.249.213.25:9900/570cd486000c439963f8f86f7d537bb2.ts
 龍华動畫,p2p://60.249.213.25:9900/570cd62a0009299a63ff6045572c4172.ts
 龍华電影HD,p2p://60.249.213.25:9900/571346dd000a88c1016e44a5655b4629.ts
-龍华戲劇,p2p://60.249.213.25:9900/570cc3bd0009b38e63b766aa6d8a3e50.ts
+龍华戏剧,p2p://60.249.213.25:9900/570cc3bd0009b38e63b766aa6d8a3e50.ts
 龍华影劇,p2p://60.249.213.25:9900/571346fc0000f886016ebb4a46e33091.ts
 環球影院頻道,p2p://60.249.213.25:9900/57134a7b00036c8b017c6407305a1779.ts
 鴻基影劇,p2p://60.249.213.25:9900/570cd30800037d3963f321fe619a070b.ts
@@ -1843,37 +1857,6 @@ k頻道,p2p://fox.jixieshang.com:32602/548aaa6900023dcc03b3167020dc007e&link=nvi
 韩国2cr,http://cr.stream.omc.hk/etv2/phd1005/playlist.m3u8
 chengren1,http://edge2.everyon.tv/etv2sb/pld993/playlist.m3u8
 chengren4,http://a7-60.5-201.cdn13.com/29000/29132/29132.flv?
-HD欧美13,http://sofuckingreal.com/movies/cfnm18/fitness08.mp4
-HD欧美31,http://content2.sexforsure.com/2013/07/02/3/Video.mp4
-HD欧美31,http://content2.sexforsure.com/2013/07/02/3/Video.mp4
-HD欧美32,http://content2.sexforsure.com/2013/07/02/4/Video.mp4
-HD欧美32,http://content2.sexforsure.com/2013/07/02/4/Video.mp4
-HD欧美33,http://content2.sexforsure.com/2013/07/02/5/Video.mp4
-HD欧美34,http://content2.sexforsure.com/2013/07/02/6/Video.mp4
-HD欧美35,http://content2.sexforsure.com/2013/07/02/7/Video.mp4
-HD欧美36,http://content2.sexforsure.com/2013/07/02/8/Video.mp4
-HD欧美37,http://content2.sexforsure.com/2013/07/02/9/Video.mp4
-HD欧美38,http://content2.sexforsure.com/2013/07/02/10/Video.mp4
-HD欧美39,http://content2.sexforsure.com/2013/07/02/11/Video.mp4
-HD欧美40,http://content2.sexforsure.com/2013/07/02/13/Video.mp4
-HD欧美41,http://content2.sexforsure.com/2013/07/02/12/Video.mp4
-HD欧美42,http://content2.sexforsure.com/2013/07/03/9/Video.mp4
-HD欧美43,http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-HD欧美44,http://content2.sexforsure.com/2013/07/02/14/Video.mp4
-HD欧美45,http://content2.sexforsure.com/2013/07/02/15/Video.mp4
-HD欧美46,http://content2.sexforsure.com/2013/07/02/16/Video.mp4
-HD欧美47,http://content2.sexforsure.com/2013/07/02/17/Video.mp4
-HD欧美48,http://content2.sexforsure.com/2013/07/02/18/Video.mp4
-HD欧美49,http://content2.sexforsure.com/2013/07/02/19/Video.mp4
-HD欧美50,http://content2.sexforsure.com/2013/07/02/20/Video.mp4
-HD欧美51,http://content2.sexforsure.com/2013/07/03/1/Video.mp4
-HD欧美52,http://content2.sexforsure.com/2013/07/03/2/Video.mp4
-HD欧美53,http://content2.sexforsure.com/2013/07/03/3/Video.mp4
-HD欧美54,http://content2.sexforsure.com/2013/07/03/4/Video.mp4
-HD欧美55,http://content2.sexforsure.com/2013/07/03/5/Video.mp4
-HD欧美56,http://content2.sexforsure.com/2013/07/03/7/Video.mp4
-HD欧美57,http://content2.sexforsure.com/2013/07/02/1/Video.mp4
-HD欧美58,http://content2.sexforsure.com/2013/07/02/2/Video.mp4
 HD欧美73,http://img3.younggirlstube.com/scj/thumbs/galleries/7/176/0_268.flv
 HD欧美73,http://img3.younggirlstube.com/scj/thumbs/galleries/7/176/0_268.flv
 HD欧美74,http://img3.younggirlstube.com/scj/thumbs/galleries/7/160/0_945.flv
@@ -2130,7 +2113,6 @@ ELTA影剧HD,p2p://61.220.227.30:8268/56077d8e000712af582d0efd2f3d1aa3
 东森戏剧,p2p://61.220.227.30:8268/5607d0830002d84459711af52e966a2e
 东森综合,p2p://61.220.227.30:8268/5607d0fa0004f1055972ec577a7b2138
 东森幼幼,p2p://61.220.227.30:8268/5607d15a000574ed59746379469d0d01
-三立戏剧台,p2p://61.220.227.30:8268/560779d700013988581e8aa177120989
 八大戏剧HD,p2p://61.220.227.30:8268/56077a33000843bb581ff3cf2f1100ac
 靖洋戏剧台,p2p://61.220.227.30:8268/56077aed000b95725822cb391d8c29df
 靖天戏剧台,p2p://61.220.227.30:8268/56077b4c000c997958243e94409b02a2
@@ -2248,8 +2230,6 @@ DIVA电影,p2p://60.249.213.25:9900/5711ad66000907b100a366e069e87b6d
 CinemaWorld电影,p2p://60.249.213.25:9900/57137f34000c4826024a58f44b2f05d3
 人间卫视,p2p://60.249.213.25:9900/571349c10003ace401798d8656530774
 ELTA影剧HD,p2p://60.249.213.25:9900/5711ad21000e857900a25abf2505723e
-三立戏剧,p2p://60.249.213.25:9900/5711ad05000e408800a1ed4e580e3652
-三立综合,p2p://60.249.213.25:9900/5711ac9c0000635e00a04f986c16642e
 星卫娱乐,p2p://60.249.213.25:9900/5711ad800008a24f00a3cc5655561edd
 台湾戏剧,p2p://60.249.213.25:9900/5711aced000607ad00a18d731b7d7c67
 EYETV戏剧HD,p2p://60.249.213.25:9900/5711ad4b000cc87200a2fe5e35345bae
@@ -3221,7 +3201,6 @@ ELTA体育HD,rtmp://kv3.ts33.net:1935/sat/us171
 博斯网球,rtmp://kv3.ts33.net:1935/sat/us172
 欧洲体育,rtmp://kv3.ts33.net:1935/sat/us292
 纬来综合,rtmp://kv3.ts33.net/sat/tv262
-三立台湾,rtmp://kv3.ts33.net/sat/tv292
 中天娱乐,rtmp://kv3.ts33.net/sat/tv392
 TVBS欢乐,rtmp://kv3.ts33.net/sat/tv422
 东森财经新闻,rtmp://kv3.ts33.net/sat/tv572
@@ -5689,8 +5668,6 @@ CI犯罪纪实,http://210.201.54.102/live2/ci.sdp/playlist.m3u8
 TVBS新闻HD,http://210.201.54.102/live2/tvbsnhd/playlist.m3u8
 TVBS欢乐,http://210.201.54.102/live2/tvbsg/playlist.m3u8
 TVBS综合,http://210.201.54.102/live2/tvbs_sp.sdp/playlist.m3u8
-三立新闻HD,http://210.201.54.102/live2/setnews/playlist.m3u8
-三立财经,http://210.201.54.102/live2/setmoney/playlist.m3u8
 非凡新闻HD,http://210.201.54.102/live2/ustvn_sp.sdp/playlist.m3u8
 非凡商业,http://210.201.54.102/live2/ustvc_sp.sdp/playlist.m3u8
 中天新闻,http://210.201.54.102/live2/ctinews/playlist.m3u8
@@ -5795,7 +5772,6 @@ HBO原创巨献,http://hp1.ottclub.info:1935/live/c690.stream/playlist.m3u8?a=57
 
 东森洋片,http://hp3.ottclub.info:1935/live/c694.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 东森超视,http://hp1.ottclub.info:1935/live/c695.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
-三立台湾HD,http://hp3.ottclub.info:1935/live/c696.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 八大综合HD,http://hp1.ottclub.info:1935/live/c697.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 迪斯尼频道,http://hp1.ottclub.info:1935/live/c698.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 CINEMAX电影,http://hp1.ottclub.info:1935/live/c699.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
@@ -5885,7 +5861,6 @@ HBO原创巨献,http://hp1.ottclub.info:1935/live/c190.stream/playlist.m3u8?a=57
 东森新闻HD,http://hp1.ottclub.info:1935/live/c191.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 东森洋片,http://hp2.ottclub.info:1935/live/c194.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 东森超视,http://hp1.ottclub.info:1935/live/c195.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
-三立台湾HD,http://hp3.ottclub.info:1935/live/c196.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 八大综合HD,http://hp1.ottclub.info:1935/live/c197.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 迪斯尼频道,http://hp2.ottclub.info:1935/live/c198.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 CINEMAX电影,http://hp1.ottclub.info:1935/live/c199.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
