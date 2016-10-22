@@ -671,6 +671,7 @@ MOMO親子,p2p://60.249.213.25:9900/57122bdb0003a2ad02915e902ec73020.ts
 三立都会台640,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/04.m3u8
 三立都会台352,http://bcoveliveios-i.akamaihd.net/hls/live/226260/4338955585001/05.m3u8
 
+
 衛视中文HD,p2p://60.249.213.25:9900/5606b0de000ce0c10132f4b01f687440.ts#http://iliketot.dyndns.tv/tot/web/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 东森綜合,p2p://60.249.213.25:9900/56089bdd0004c826059e6c56391d2420.ts
 东森衛视(东森超视),p2p://207.238.82.30:9916/5491b41b000989683858918d716a4d69.ts
@@ -693,6 +694,13 @@ UDN新闻(东森購物),p2p://60.249.213.25:9900/57134aa20002b5ff017cfc30027e760
 年代新闻,p2p://60.249.213.25:9900/570683880005ca504b4c969f668971a6.ts
 东森新闻HD,p2p://60.249.213.25:9900/564f0135000da7452256122d6e7904b0.ts#http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8
 中天新闻,p2p://60.249.213.25:9900/570684c3000f3f3a4b51678416411031.ts
+
+睛彩丝路,http://120.205.13.203:5001/nl.ts?id=JCDSJ
+睛彩电影,http://120.205.13.203:5001/nl.ts?id=JCDY
+台球1,http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001293/01.m3u8
+台球2,http://180.100.1.250/cdn/iptv/Tvod/001/ch00000090990000001294/01.m3u8
+猪哥亮歌厅秀,http://58.99.33.4:1935/liveedge/live_190_3.stream/playlist.m3u8
+猪哥亮歌厅秀,http://58.99.33.4:1935/liveedge/live_788_3.stream/playlist/m3u8
 
 TVBS-N,p2p://60.249.213.25:9900/564ab75b0004d0df1195944f033b3778.ts
 TVBS,p2p://60.249.213.25:9900/5608f22000008e5a06ef60f843001fd1.ts
