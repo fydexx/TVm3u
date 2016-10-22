@@ -1216,6 +1216,7 @@ Sky Sport 5 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1119.ts
 TR: TV8 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1188.ts
 
 台湾艺术,http://61.216.71.67/sta/ch3.m3u8
+NS妃儿是哈儿,rtmp://119.97.157.159/liveshow/rtdg_ff3bd1988c85aff1896507713737e76a4ed8709f
 
 ADULT成人台
 
