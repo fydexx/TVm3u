@@ -1449,7 +1449,10 @@ Hiplay玩家频道,p2p://60.249.213.25:9900/57131ea6000354ae00d12c0373ba663c
 
 NEWLY ADDED ADULT成人台
 
-paxTV,rtmp://124.139.232.61:1935/live/livestream
+俄直播1台,http://81.89.48.215:1935/xyz666wkz/xy6/playlist.m3u8
+俄直播2台,http://81.89.48.215:1935/xyz888wkz/xy8/playlist.m3u8
+俄直播3台,http://81.89.48.215:1935/xyz112wkz/xy112_360p/i.m3u8
+
 JasminTV HD,rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 时装秀Fashionone,http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 XXXL VİP CHANNEL,http://pro.panel2cc101.us:8000/live/haldun/haldun123/1951.ts
@@ -1514,6 +1517,7 @@ Honey HD,http://edge1.everyon.tv/etv1sb/phd10928/playlist.m3u8
 BUT GO,http://edge2.everyon.tv/etv2sb/phd10772/playlist.m3u8
 VIKI,rtmp://edge1.everyon.tv/etv1sb/phd1076
 
+PAXTV,rtmp://124.139.232.61:1935/live/livestream
 韩国GoodTV,rtmp://mobliestream.c3tv.com:554/live/goodtv.sdp
 韩国KCTV,rtmp://122.202.129.136:1935/live/ch4
 韩国KTVHD高清,rtmp://218.38.152.31:1935/klive/klive.stream
