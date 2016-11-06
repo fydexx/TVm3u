@@ -205,6 +205,8 @@ IPTV收视指南,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227926/1.m3u
 中视经典,http://61.216.71.67/sta/ch507.m3u8
 中视新闻,http://210.242.52.97/sta/ch508.m3u8
 中视新闻,http://61.216.71.67/sta/ch508.m3u8
+富立,http://61.216.71.67/sta/ch5168600.m3u8
+hakka,http://61.216.71.67/sta/ch5168602.m3u8
 
 ﻿TVBS HD,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_6/master.m3u8
 TVBS新聞台,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001_5/master.m3u8
@@ -214,7 +216,9 @@ TVBS歡樂台HD,http://bcoveliveios-i.akamaihd.net/hls/live/249639/4862438529001
 FOX_3HD,http://59.120.41.145/sta/ch5168002.m3u8
 台湾艺术台,http://59.120.41.145/sta/ch5168003.m3u8
 HBO优质,http://59.120.41.145/sta/ch5168004.m3u8
-HBO_HD,http://59.120.41.145/sta/ch5168005.m3u8
+HBO HD,http://59.120.41.145/sta/ch5168005.m3u8
+HBO HD,http://61.216.71.67/sta/ch5168005.m3u8
+HBO HD,http://61.216.71.67/sta/ch5168006.m3u8
 MOMO亲子台,http://59.120.41.145/sta/ch5168006.m3u8
 卫视HD西片,http://59.120.41.145/sta/ch5168007.m3u8
 大爱HD,http://59.120.41.145/sta/ch5168012.m3u8
@@ -604,6 +608,20 @@ TVB8-HD http://210.209.13.37/sta/CH511.m3u8
 TVBS新闻台-HD http://210.209.13.38/sta/CH510.m3u8
 华视新闻资讯-HD http://210.209.13.39/sta/CH519.m3u8
 台艺2台 http://210.209.13.39/sta/CH522.m3u8
+FOX HD,http://kk.luoke.net.cn/tw/astt.php?id=231
+HBO,http://kk.luoke.net.cn/tw/astt.php?id=210
+Ci罪案侦缉,http://kk.luoke.net.cn/tw/asbb.php?id=058
+CatchPlay电影,http://kk.luoke.net.cn/tw/asbb.php?id=155
+卫视电影,http://kk.luoke.net.cn/tw/asbb.php?id=167 
+东森电影,http://kk.luoke.net.cn/tw/astt.php?id=234
+东森洋片,http://kk.luoke.net.cn/tw/astt.php?id=194
+星卫电影HD,http://kk.luoke.net.cn/tw/astt.php?id=205
+美亚电影HD,http://kk.luoke.net.cn/tw/asbb.php?id=204
+星空电影,http://kk.luoke.net.cn/tw/astt.php?id=246
+AXN,http://kk.luoke.net.cn/tw/astt.php?id=179
+福斯家庭电影,http://kk.luoke.net.cn/tw/astt.php?id=202 
+环球影城,http://kk.luoke.net.cn/tw/asbb.php?id=203
+CINEMAX,http://kk.luoke.net.cn/tw/astt.php?id=199
 
 人間衛视,http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
 台视HD,p2p://60.249.213.25:9900/57067e410009388b4b37fa2115343fc0.ts#http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/droid/live/ttv_4.m3u8#http://59.120.43.180:17822
@@ -630,9 +648,11 @@ MOMO親子,p2p://60.249.213.25:9900/57122bdb0003a2ad02915e902ec73020.ts
 八大綜合,p2p://60.249.213.25:9900/560678bd0007cc720057b26e25011b42.ts
 
 三立财经,http://210.201.54.102/live2/setmoney/playlist.m3u8
-三立台湾,rtmp://kv3.ts33.net/sat/tv292
 三立台湾HD,http://hp3.ottclub.info:1935/live/c696.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
-三立台湾HD,http://hp3.ottclub.info:1935/live/c196.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
+三立台湾HD,http://59.120.41.145/sta/ch5168049.m3u8
+三立台湾HD,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581
+三立台湾,http://61.216.71.67/sta/ch5168049.m3u8
+三立台湾,rtmp://kv3.ts33.net/sat/tv292
 三立台湾,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581.ts
 三立台湾,http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/02ldeknk95.m3u8
 三立台湾,http://bcoveliveios-i.akamaihd.net/hls/live/241984/4338955585001_1/02ldeknk95.m3u8
@@ -644,8 +664,6 @@ MOMO親子,p2p://60.249.213.25:9900/57122bdb0003a2ad02915e902ec73020.ts
 三立新闻HD,http://210.201.54.102/live2/setnews/playlist.m3u8
 三立新闻HD,http://hp3.ottclub.info:1935/live/c161.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
 三立新闻HD,http://hp1.ottclub.info:1935/live/c661.stream/playlist.m3u8?a=5716a07e&amp;b=-Vyr2x-1lPkiJi_sTduDHQ
-三立台湾HD,http://59.120.41.145/sta/ch5168049.m3u8
-三立台湾HD,p2p://60.249.213.25:9900/560dd72f0003097f1001679c2d9a0581
 三立综合,p2p://60.249.213.25:9900/5711ac9c0000635e00a04f986c16642e
 三立综合 http://60.248.55.253:7002/63
 三立综合,p2p://60.249.213.25:9900/56068b9a0008947800a161f031226168

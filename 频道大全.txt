@@ -620,6 +620,21 @@ TVBS,http://58.99.33.2:1935/liveedge/live_56_1.stream/chunklist_wlive.m3u8?check
 衛视电影,http://58.99.33.2:1935/liveedge/live_61_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 冠軍台,http://58.99.33.2:1935/liveedge/live_64_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 HBO,http://58.99.33.2:1935/liveedge/live_65_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+HBO HD,http://61.216.71.67/sta/ch5168005.m3u8
+HBO HD,http://61.216.71.67/sta/ch5168006.m3u8
+FOX HD,http://kk.luoke.net.cn/tw/astt.php?id=231
+HBO,http://kk.luoke.net.cn/tw/astt.php?id=210
+Ci罪案侦缉,http://kk.luoke.net.cn/tw/asbb.php?id=058
+CatchPlay电影,http://kk.luoke.net.cn/tw/asbb.php?id=155
+卫视电影,http://kk.luoke.net.cn/tw/asbb.php?id=167 
+星卫电影HD,http://kk.luoke.net.cn/tw/astt.php?id=205
+美亚电影HD,http://kk.luoke.net.cn/tw/asbb.php?id=204
+星空电影,http://kk.luoke.net.cn/tw/astt.php?id=246
+AXN,http://kk.luoke.net.cn/tw/astt.php?id=179
+福斯家庭电影,http://kk.luoke.net.cn/tw/astt.php?id=202 
+环球影城,http://kk.luoke.net.cn/tw/asbb.php?id=203
+CINEMAX,http://kk.luoke.net.cn/tw/astt.php?id=199
+
 好萊塢电影,http://58.99.33.2:1935/liveedge/live_68_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 國家地理,http://58.99.33.2:1935/liveedge/live_69_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 CINEMAX,http://58.99.33.2:1935/liveedge/live_71_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
@@ -630,6 +645,8 @@ EP運通,http://58.99.33.2:1935/liveedge/live_97_2.stream/chunklist_wlive.m3u8?c
 衛视合家歡,http://58.99.33.1:1935/liveedge4/live_202_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 CNA亞洲新闻,http://58.99.33.1:1935/liveedge4/live_205_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 BBC 世界新闻,http://58.99.33.1:1935/liveedge4/live_207_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
+富立,http://61.216.71.67/sta/ch5168600.m3u8
+hakka,http://61.216.71.67/sta/ch5168602.m3u8
 
 
 台视
@@ -804,11 +821,13 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 东森洋片,http://58.99.33.2:1935/liveedge/live_66_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 东森洋片,http://du3.ottclub.info:1935/live/c694.stream/playlist.m3u8
 东森洋片,rtsp://2.itvitv.com/etyp.pwugrayhgks
+东森洋片,http://kk.luoke.net.cn/tw/astt.php?id=194
 东森洋片,http://du1.ottclub.info:1935/live/c194.stream/playlist.m3u8?a=574d6ebe&b=vU8dbohaTjAfT32W1VsjVg
 东森洋片,http://du2.ottclub.info:1935/live/c194.stream/playlist.m3u8
 东森洋片,http://tw.59kp.com:1935/live/c194.stream/playlist.m3u8
 东森美洲,http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/droid/live/etnews_4.m3u8#http://ktv029.cdnak.ds.kylintv.net/nlds/kylin/etnews/as/live/etnews_4.m3u8#p2p://207.238.82.30:9926/5491b41b000989683858918d716a4d69#p2p://207.238.82.30:9916/5491b41b000989683858918d716a4d69#p2p://207.238.82.30:9916/5491b3fb000e4e1c385815c549cc7aaf.ts#p2p://207.238.82.30:9916/5491b3fb000e4e1c385815c549cc7aaf#p2p://207.238.82.30:9926/5491b3fb000e4e1c385815c549cc7aaf
 
+东森电影,http://kk.luoke.net.cn/tw/astt.php?id=234
 东森电影,http://58.99.33.2:1935/liveedge/live_62_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 东森电影,p2p://60.249.213.25:9900/56089c4a000380ec05a015ce2c2845fa
 东森电影,rtsp://c.itvitv.com/etm.jhfuowamedr
@@ -835,6 +854,7 @@ TVBS新闻,http://du3.ottclub.info:1935/live/c162.stream/playlist.m3u8
 三立台湾HD,http://du3.ottclub.info:1935/live/c696.stream/playlist.m3u8
 三立台湾HD,http://du3.ottclub.info:1935/live/c196.stream/playlist.m3u8
 三立台湾HD,http://du1.ottclub.info:1935/live
+三立台湾,http://61.216.71.67/sta/ch5168049.m3u8
 三立台湾,http://58.99.33.2:1935/liveedge/live_29_1.stream/chunklist_wlive.m3u8?checkCode=37050688asdfsdfsadf
 三立台湾,p2p://106.186.121.94:8260/566e1f290005d31848769c996e042e14
 三立台湾,http://tw.59kp.com:1935/live/c196.stream/playlist.m3u8
