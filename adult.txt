@@ -1346,6 +1346,8 @@ Filmon 102,http://live-1124.la2.edge.filmon.com/live/3692.low.stream/playlist.m3
 Filmon 103,http://live-1124.la2.edge.filmon.com/live/3695.low.stream/playlist.m3u8?
 
 台湾艺术,http://61.216.71.67/sta/ch3.m3u8
+怀旧剧场,http://v.91kds.com/t2/hsbdh.php?id=hjjc&&nwtime=1477409456&sign=1d9cb4
+动作电影,http://live.gslb.cmvideo.cn/wd_r1/gesee/chcdzdy/600/index.m3u8?msisdn=11ci253049861958033247233&sid=2206172314&timestamp=20161025233225&Channel_ID=0117_42000802-00002-201800000000012&pid=2028597139&spid=699019&imei=11bd02143c8cf5e75cc5bd137aced633&netType=5&ProgramID=614951837&client_ip=114.215.157.159&encrypt=61c905b177e8c445fbc997c95366dce8
 
 原味,rtmp://119.84.75.118/liveshow/rthy3_92667098599af59c570540d098ee13e014e0e446#
 原味,rtmp://119.84.75.118/liveshow/rthy3_92667098599af59c570540d098ee13e014e0e446#
@@ -1497,6 +1499,11 @@ NEWLY ADDED ADULT成人台
 俄直播1台,http://81.89.48.215:1935/xyz666wkz/xy6/playlist.m3u8
 俄直播2台,http://81.89.48.215:1935/xyz888wkz/xy8/playlist.m3u8
 俄直播3台,http://81.89.48.215:1935/xyz112wkz/xy112_360p/i.m3u8
+
+Первый,http://109.226.106.218:4022/udp/232.0.1.28:1234
+Первый канал HD,http://109.226.106.218:4022/udp/232.1.20.4:1234
+Россия 1,http://109.226.106.218:4022/udp/232.0.1.5:1234
+Россия HD,http://109.226.106.218:4022/udp/232.0.2.14:1234
 
 JasminTV HD,rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 时装秀Fashionone,http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
