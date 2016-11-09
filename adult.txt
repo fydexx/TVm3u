@@ -169,6 +169,13 @@ HBO亚洲电影,http://v.34pd.com/live/nxtv.php?id=115
 国家地理,http://v.34pd.com/live/nxtv.php?id=114
 天映频道,http://v.34pd.com/live/nxtv.php?id=116
 
+DOX映画HD,http://httpdvb.slave.mycatv.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R580EB117U3C6EFF25K7735D6A6M2FB0EDDW90945&programid=4200851032
+DOX剧场HD,http://httpdvb.slave.mycatv.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R580EB117U3C6EFF25K7735D6A6M2FB0EDDW90945&programid=4200851033
+DOX新艺HD,http://httpdvb.slave.mycatv.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R580EB117U3C6EFF25K7735D6A6M2FB0EDDW90945&programid=4200851034
+DOX英伦HD,http://httpdvb.slave.mycatv.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R580EB117U3C6EFF25K7735D6A6M2FB0EDDW90945&programid=4200851035
+DOX院线HD,http://httpdvb.slave.mycatv.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R580EB117U3C6EFF25K7735D6A6M2FB0EDDW90945&programid=4200851036
+DOX怡家HD,http://httpdvb.slave.mycatv.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R580EB117U3C6EFF25K7735D6A6M2FB0EDDW90945&programid=4200851037
+
 IPTV3+,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227895/1.m3u8
 IPTV5+,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227923/1.m3u8
 IPTV6+,http://rrsm.iptv.gd.cn:30001/PLTV/88888956/224/3221227889/1.m3u8
@@ -1386,9 +1393,7 @@ ADULT成人台
 韩国标清8欧美,http://edge2.everyon.tv/etv2sb/pld10499/playlist.m3u8
 
 韩国标清15,http://edge1.everyon.tv/etv1sb/pld10927/playlist.m3u8
-樂視欧美成人1,http://live.g3proxy.lecloud.comhgslb?stream_id=lb_hk_adult1_1800&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
-樂視日本成人3,http://live.g3proxy.lecloud.comhgslb?stream_id=lb_hk_adult3_1800&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
-成龍,http://live.g3proxy.lecloud.comhgslb?stream_id=lb_hk_jackiechen_3000&tag=live&ext=m3u8&ext=m3u8&platid=10&splatid=1009
+
 ButGo,http://edge2.everyon.tv/etv2sb/pld10772/playlist.m3u8
 ButGo,http://123.108.164.75/etv2sb/pld10772/playlist.m3u8
 午夜19高清,rtmp://edge1.everyon.tv/etv1sb/phd10766
