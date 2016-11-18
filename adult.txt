@@ -629,6 +629,7 @@ AXN,http://kk.luoke.net.cn/tw/astt.php?id=179
 福斯家庭电影,http://kk.luoke.net.cn/tw/astt.php?id=202 
 环球影城,http://kk.luoke.net.cn/tw/asbb.php?id=203
 CINEMAX,http://kk.luoke.net.cn/tw/astt.php?id=199
+天映频道,http://live.dh.starcor.cn/nn_live.Ts?id=TYDYBQ2.5M
 
 人間衛视,http://ktv027.cdnak.ds.kylintv.net/nlds/kylin/bltv/as/live/bltv_4.m3u8
 台视HD,p2p://60.249.213.25:9900/57067e410009388b4b37fa2115343fc0.ts#http://ktv042.cdnak.ds.kylintv.net/nlds/kylin/ttv/droid/live/ttv_4.m3u8#http://59.120.43.180:17822
