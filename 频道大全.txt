@@ -203,6 +203,7 @@ NHK BSプレミアム,p2p://50.7.104.10:9906/540044fd00064c650124b7636fadae16
 J2,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=368
 
 翡翠台,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
+翡翠台,http://app.tll888.com/bilibili.php?cid=1524800
 翡翠台,http://202.126.55.12/session/98fea012-5a23-11e6-ab26-005056902609/s8y2vq/mytvlive/smil:mobilehd_jade.smil/chunklist_b224000.m3u8
 翡翠台,http://live.3xgd.com/VJTVPlayer.swf?src=vjms://122.147.254.85:8500/live/cid=362
 翡翠台,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8

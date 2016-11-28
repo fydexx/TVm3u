@@ -311,9 +311,9 @@ TVB翡翠娱乐新闻,http://14.136.137.43/session/09ab3476-0b5d-11e6-8265-00505
 TVB翡翠明珠,rtmp://219.232.160.161/livestream/b2xajcu7
 
 J5翡翠高清,http://httpdvb.slave.homed.me/httpdvb?programid=4200851395&playtoken=&verifycode=&auth=no
-
 番薯台,http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin&size
 翡翠台,http://wshls.acgvideo.com/live/live_752869_9917726/playlist.m3u8
+翡翠台,http://app.tll888.com/bilibili.php?cid=1524800
 翡翠台,http://dlhls.cdn.zhanqi.tv/zqlive/2869_tUPFz.m3u8
 翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
 翡翠台,http://wshdl.load.cdn.zhanqi.tv/zqlive/2869_tUPFz.flv
