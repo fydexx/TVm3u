@@ -1410,9 +1410,16 @@ ADULT成人台
 韩国标清8欧美,http://edge2.everyon.tv/etv2sb/pld10499/playlist.m3u8
 
 韩国标清15,http://edge1.everyon.tv/etv1sb/pld10927/playlist.m3u8
-
+日韩CR电影,rtmp://123.108.164.71/etv2sb/pld993
+Brazzers TV,http://46.182.25.34:1935/tv/1420/chunklist_w558817657.m3u8
 ButGo,http://edge2.everyon.tv/etv2sb/pld10772/playlist.m3u8
 ButGo,http://123.108.164.75/etv2sb/pld10772/playlist.m3u8
+
+一本道2,rtmp://198.211.33.185/livepkgr/1C
+一本道3,rtmp://198.211.33.185/livepkgr/3C
+一本道5,rtmp://198.211.33.185/livepkgr/5C
+一本道6,rtmp://198.211.33.185/livepkgr/6C
+
 午夜19高清,rtmp://edge1.everyon.tv/etv1sb/phd10766
 午夜19高清,http://edge1.everyon.tv:1935/etv1sb/pld10766/playlist.m3u8
 午夜19高清,http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
