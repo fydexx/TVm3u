@@ -1546,6 +1546,133 @@ NEWLY ADDED ADULT成人台
 俄直播2台,http://81.89.48.215:1935/xyz888wkz/xy8/playlist.m3u8
 俄直播3台,http://81.89.48.215:1935/xyz112wkz/xy112_360p/i.m3u8
 
+福利1	,http://122.147.13.14:5011/vod/bbdb374c141837710d6649059336ac9d
+福利10	,http://122.147.13.14:5011/vod/6e15f440db400d493727f00dad91bbd1
+福利11	,http://122.147.13.14:5011/vod/828d2a77b86e776658f8afe64d23d82f
+福利12	,http://122.147.13.14:5011/vod/d84a75ed141001e2deda5e1c79a25578
+福利13	,http://122.147.13.14:5011/vod/db71fec35e779665b7af26690cbd01a5
+福利14	,http://122.147.13.14:5011/vod/060959e183c832e314e1b5ebc4576eff
+福利15	,http://122.147.13.14:5011/vod/20a17cccbdb2252f296477801200a163
+福利16	,http://122.147.13.14:5011/vod/6ce674506a5dc2128c6158b35ba4d670
+福利17	,http://122.147.13.14:5011/vod/52331a444e20eee4805ddb6768c95004
+福利18	,http://122.147.13.14:5011/vod/f105d5068938fc88417b53d21c9467a6
+福利19	,http://122.147.13.14:5011/vod/dd4690b936895e98659a3b02f15be490
+福利2	,http://122.147.13.14:5011/vod/9e1f4c92edf25578f84c036146567114
+福利20	,http://122.147.13.14:5011/vod/cdcb661d95516f69e02ce4e50a7756ce
+福利21	,http://122.147.13.14:5011/vod/19fdad7fede06825d3c6f245caa32311
+福利22	,http://122.147.13.14:5011/vod/34f04b571c38e7c9457424406407233e
+福利23	,http://122.147.13.14:5011/vod/004bb95c59292924dbf537ae88c106c1
+福利24	,http://122.147.13.14:5011/vod/26c2c016e1d3da440fcdad286b3ef0b8
+福利25	,http://122.147.13.14:5011/vod/8de322a50ca8739d0cb5fc2cbfcb0911
+福利26	,http://122.147.13.14:5011/vod/f82ba38555eec1ddc5bfb46e2bce3455
+福利27	,http://122.147.13.14:5011/vod/e20cb593d4e0a9982aa74acba3c66920
+福利28	,http://122.147.13.14:5011/vod/f16b59932a2b4d62764feba29e1a7a54
+福利29	,http://122.147.13.14:5011/vod/19d2da46bf033f835a9ee4b68160e4a1
+福利3	,http://122.147.13.14:5011/vod/a761917f86c24c37ee141f51c0b1bb0a
+福利4	,http://122.147.13.14:5011/vod/cf71ccd8679f932a305f25b30240e94f
+福利5	,http://122.147.13.14:5011/vod/5de198315f391063e0a939e65eca6ddb
+福利6	,http://122.147.13.14:5011/vod/f54838bc711a76dfd4c32216d59e06a1
+福利7	,http://122.147.13.14:5011/vod/2c25f3568e0fddc35ae00b6887f623c6
+福利8	,http://122.147.13.14:5011/vod/8847d214f9b0327b3031184eec6d36fc
+福利9	,http://122.147.13.14:5011/vod/e1e182f1ab77d5ff49db346069c75c02
+
+DIVA直播	,http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/you_diva-tablet.3gp/you_diva-tablet.3gp-mr648k.m3u8?
+亲密电视现场直播	,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/victorias_secret_angels-tablet.3gp/victorias_secret_angels-tablet.3gp-mr648k.m3u8
+前100名火辣	,http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8?
+国货无码1,	p2p://61.221.233.81:9000/5606ca47000dee8e0196370f050348e3
+国货无码2,	p2p://61.221.233.81:9000/5606ca6a000da06f0196bfbe3cb63127
+大胸运动现场	,http://198.179.31.197/live/3152.low.stream/playlist.m3u8?id=5e24383f2f407cec75a808af8d9407ae7d6aea304f55075212d616c248a73feeaaaa7aa138bb547ca4e6db83711c66e5478b03fbce8d27f2f3feda6577b261deabac117685cc4976d062266b4b7c52a750efc9ce8bd285b636ddf1c2f536f6fb858065c82b05cd1ef607e97c7adf5bfbed7e1650c574b9512bbbe1bf2b63b17b0724eae6b33801bf1d3877064a782a59aa50698f45508600
+天黑以后电视	,http://198.179.31.197/live/345.low.stream/playlist.m3u8?id=1858b75cd25c550e063e3579850489f675f8c1e85d1f05bb14e96cc2c52258ee8d8ba7c147dfe1150a74eaee816428dedf38dc7f6bce8981e90605ba9c62eeba57e3bc328863ecae6b36490d995f727c3ef95f5b5777d8c108ccdfad92f3ff9e69a4947b4f7f69634fa6dffd0c2737a3969344063adf2b7a120d2df5cb22385d445b82a59510fdb70f80cfe3adac076910c7d287d3ba794f
+女神精简版电视	,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/you_diva_lite-tablet.3gp/you_diva_lite-tablet.3gp-mr397k.m3u8?
+学院美女	,http://198.179.31.197/live/1858.low.stream/playlist.m3u8?id=772c3cceb99f85d3a3a39b47c715354d479d3383b1b69e27d4ec7c6f2e18ec844aeb776e0792a8408230d4a85fef82f3c40c1fbb797a027d8134071eee9deeef11aa18bc4a24dba6ab2e9f96d2b6634aa017f5ea095fb2ef4d4c7452579002c888c3ae034e62eccaa204e7fe5949689eb0a6436d3428d10f0b360fe667ae2e83beae121aa8c02d9dceaba700752ba18e5492636fdcba8b5d
+宝莱坞比基尼	,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/bollywood_bikini-tablet.3gp/bollywood_bikini-tablet.3gp-mr647k.m3u8?
+宝贝Spotting live	,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/babe_spotting-tablet.3gp/babe_spotting-tablet.3gp-mr648k.m3u8?
+尤物杂志 ,	sop://59.120.43.185:3918/5841
+彩虹E有码,	p2p://61.221.233.81:9000/5606aaa50000ce4a011aa2e829b55a91
+彩虹K有码,	p2p://61.221.233.81:9000/5606abcc00043107011f241940b24937
+彩虹电影有码,	p2p://61.221.233.81:9000/5606ab8c0000cf1e011e294639b2734c
+日本无码1,	p2p://61.221.233.81:9000/5606ca1a0000960e019583e61e8c38f0
+日本无码10,	p2p://61.221.233.81:9000/5606c7d400009cbe018ca26e01724f38
+日本无码11,	p2p://61.221.233.81:9000/5606c7a3000ae291018be5b40357763a
+日本无码2,	p2p://61.221.233.81:9000/5606c63300026a49018645fc4fa242c1
+日本无码3,	p2p://61.221.233.81:9000/5606c65c000c89a00186e8c049b37400
+日本无码4,	p2p://61.221.233.81:9000/5606c67a000d28af01875e1e0b5433e7
+日本无码5,	p2p://61.221.233.81:9000/5606c69700081a4e0187ce1f04ae551d
+日本无码6,	p2p://61.221.233.81:9000/5606c74500073f5b018a759425c52547
+日本无码7,	p2p://61.221.233.81:9000/5606c76c00078a7b018b0dfc5ae42139
+日本无码8,	p2p://61.221.233.81:9000/5606c787000221cf018b761109756be3
+日本无码9,	p2p://61.221.233.81:9000/5606c72a000898e8018a0c7678d7492c
+日本有码1	,http://210.200.79.26:1935/live/aracity_m_new/chunklist.m3u8
+日本有码1 ,	sop://59.120.43.185:3918/5569
+日本有码2	,http://210.200.79.26:1935/live/aracity02/chunklist.m3u8
+日本有码2 ,	sop://59.120.43.185:3918/5570
+日本有码3 ,	sop://59.120.43.185:3918/5820
+日本有码4 ,	sop://59.120.43.185:3918/5828
+日本有码5 ,	sop://59.120.43.185:3918/5905
+日本有码6 ,	sop://59.120.43.185:3918/5906
+
+松視1有码,	p2p://61.221.233.81:9000/561fa06c000459cb072d9a3156b0558e
+松視2有码,	p2p://61.221.233.81:9000/561fa08f000ecdbc072e258f15211e7d
+松視4有码,	p2p://61.221.233.81:9000/560695d50002232600c956ba7e1016e0
+櫻花頻道有码,	p2p://61.221.233.81:9000/5606ab3a000c134e011cebda231d55eb
+欧美无码1	,http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/_definst_/smil:tvmia-arg-vodlive1.smil/chunklist_w647328831_b800000.m3u8
+欧美无码1	,http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
+欧美无码1	,http://encoder.iviplanet.com:1935/playlist?application/TVMIA-ARG-VODLive1.m3u8
+欧美无码1,	p2p://61.221.233.81:9000/5606c9f5000bffa40194f648464f5cf3
+欧美无码10	,http://62.210.88.244:8081/private/private/playlist.m3u8
+欧美无码10,	p2p://61.221.233.81:9000/5606b68a000c38f801491c5c3b12754c
+欧美无码11	,http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+欧美无码11,	p2p://61.221.233.81:9000/5606bb3400065a1f015b52e7599c4725
+欧美无码12	,http://178.33.126.213:1935/leved/privateCom/.m3u8
+欧美无码12	,http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
+欧美无码12,	p2p://61.221.233.81:9000/5643d5ac0003923600fa6d954ffe6d09
+欧美无码13	,http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+欧美无码13,	p2p://61.221.233.81:9000/5643d3e1000a4bfa00f36e5151787368
+欧美无码14	,http://62.210.88.244:8081/hotgirl/hotgirl/playlist.m3u8
+欧美无码14(有声无图),	p2p://61.221.233.81:9000/5606baf7000b4dd1015a65ea3c034b04
+欧美无码15	,http://s1.edem.tv/iptv/DG3SKB7NEKMAYG/527/index.m3u8
+欧美无码15(有声无图),	p2p://61.221.233.81:9000/5643d56d0002c0d000f9774616683f8c
+欧美无码16	,http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/147/index.m3u8
+欧美无码2	,http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/_definst_/smil:tvmia-arg-vodlive2.smil/chunklist_w2027288128_b800000.m3u8
+欧美无码2	,http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/smil:tvmia-arg-vodlive2.smil/playlist.m3u8
+欧美无码2	,http://encoder.iviplanet.com:1935/playlist?application/TVMIA-ARG-VODLive2.m3u8
+欧美无码2,	p2p://61.221.233.81:9000/5606c887000a9c69018f60407af83320
+欧美无码3	,http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive3/_definst_/smil:tvmia-arg-vodlive3.smil/chunklist_w2027288128_b800000.m3u8
+欧美无码3	,http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive3/smil:tvmia-arg-vodlive3.smil/playlist.m3u8
+欧美无码3	,http://encoder.iviplanet.com:1935/playlist?application/TVMIA-ARG-VODLive3.m3u8
+欧美无码3,	p2p://61.221.233.81:9000/5606c8ad000df49b018ff58c532e79d6
+欧美无码4	,http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive4/_definst_/smil:tvmia-arg-vodlive4.smil/chunklist_w1455873433_b1200000.m3u8
+欧美无码4	,http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive4/smil:tvmia-arg-vodlive4.smil/playlist.m3u8
+欧美无码4	,http://encoder.iviplanet.com:1935/playlist?application/TVMIA-ARG-VODLive4.m3u8
+欧美无码4,	p2p://61.221.233.81:9000/5606c8db0008f9a80190a7ea3b311e23
+欧美无码5	,http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/5.ts
+欧美无码5,	p2p://61.221.233.81:9000/5606c918000e106c019197854b3b38d9
+欧美无码6	,http://62.210.88.244:8081/brasileirinhas/brasileirinhas/playlist.m3u8
+欧美无码6,	p2p://61.221.233.81:9000/5606c8ad000df49b018ff58c532e79d6
+欧美无码7	,http://62.210.88.244:8081/hustlertv/hustlertv/playlist.m3u8
+欧美无码7,	p2p://61.221.233.81:9000/5606c942000115950192384672207bad
+欧美无码8	,http://62.210.88.244:8081/pboytv/pboytv/playlist.m3u8
+欧美无码8,	p2p://61.221.233.81:9000/5606c918000e106c019197854b3b38d9
+欧美无码9	,http://62.210.88.244:8081/sexhothd/sexhothd/playlist.m3u8
+欧美无码9,	p2p://61.221.233.81:9000/5606bab7000c686801596c310aea665f
+欧美有码	,http://210.200.79.26:1935/live/aracity03/chunklist.m3u8
+歌姬直播	,http://46.249.213.87/iPhone/HLS_TS/broadcast/you_diva-tablet.3gp/you_diva-tablet.3gp-mr398k.m3u8
+比基尼厨房	,http://204.107.27.250/live/2000.low.stream/playlist.m3u8?id=597eb0b15dd27787c3c79ac3c856178c162fcb4245603b50febe9f33d225252987f97a25b4a67d9fcab51becf1ed1e2925c8dc524ad51d4a5c2b583771a45396c6890d7964abdf61b056c1e5cb1dce48cf969c0de9e4e3ef16a4344576c76f68f38a522ae3829491535cd74a333458af984b49d99d67c3c3a5a25b08c2a44b942fd500061f59cab9924c8e5cf80dee4f6f4b7c1324424ce0
+比基尼海滩秀	,http://204.107.27.250/live/2726.low.stream/playlist.m3u8?id=e7ac64b82426f77b9bb8951be4dd82e15c09af326d8dec6e72fdd883d59a79b2dd9067f43d69cc70592a2eab7bd25f110e8af20ec961804f1c317d0e4690947574e455a1b131ae79ab32bdb66d3e17c8e4566a22f0ba4c836efb934f46c1c970b749cc9d722d3df2f0f987510f37315bc1a77cf295fdb90567a3b3e608327f324f0d6b5a177bd941f730ea53d05d096a19eb731605807a82
+比基尼电视直播	,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/bollywood_bikini-tablet.3gp/bollywood_bikini-tablet.3gp-mr647k.m3u8?
+比基尼美女工作室	,http://198.179.31.197/live/3155.low.stream/playlist.m3u8?id=5e24383f2f407ceca795395fd5403302a2bff38541d87f29a00972033898c337a40f0a50374954a50d33cbf65ed2aeec32f241ee76a337cd03f711e4bc6b36081ce2086af45c082b73a7942c8bf2effc57c5056b42383b7cc3cfc8dfec2b8b7a9f2676c2f861b7d1ec847e2652c59c56b839cca91ea4c6e5fd23d8e5b69168d33ab46f02f67028dc65a85d560261534c087e7cd87f27c12a
+比基尼美女炫耀	,http://198.179.31.197/live/2984.low.stream/playlist.m3u8?id=bb369ed3895b5e66e0da28958048f812cb7864a3db308d34f3a4e8810ee99a1ae06ad00d4c1c96f79d5895bfbd7589db0c6d30a51e6ce603871191499e250923dca67d87ec4f1276333edbdc233f1d004c7e34818d38ccb78722ff9b770fa90826670c62f90fa3f516c05995b7f841848be1abe9defff4634446363434dd42909e7dcd91ab643d13b447dbd29ec39f87338e660580766170
+比基尼美女秀	,http://204.107.26.245/live/3133.low.stream/chunklist_w1571212900.m3u8?id=667656ea69e6859a24fed064051519dcd88b4762c466b95aa4c063e900c1208fca95f5ad9d1cfe1ebb38e1da80ef3df1a1f6113192696ef7550bee2ed15a41d109accf3d82c0384a04c0d44e530eccac7c54a9d9c222ed3bfac601ae244eb72d818a68a1087b9a98265b034535557c3d9313cc8e63f2b7dac861b1e81a8cceb6304b691061cf9398b08a87e75e8cd16424c24105e7e0dd1b
+海滩辣妹	,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_shots_beach_babes-tablet.3gp/hot_shots_beach_babes-tablet.3gp-mr646k.m3u8?
+潘多拉完美HD,	sop://59.120.43.185:3918/5818
+潘多拉粉红HD ,	sop://59.120.43.185:3918/5819
+潘朵拉玩美有码,	p2p://61.221.233.81:9000/560684e50009d3fe00872f3c2037691a
+潘朵拉粉紅有码,	p2p://61.221.233.81:9000/5606a423000201c40101376903b40b9b
+火辣比基尼	,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/bikini_hotties-tablet.3gp/bikini_hotties-tablet.3gp-mr653k.m3u8?
+热的射击生存	,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8?
+电源女孩电视	,http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/power_girls-tablet.3gp/power_girls-tablet.3gp-mr397k.m3u8?
+电视频道(有缓冲)	,http://46.249.213.93/iPhone/HLS_TS/broadcast/bikini_hotties-tablet.3gp/bikini_hotties-tablet.3gp-mr400k.m3u8
+
 PENTHOUSE_HD_+18,http://tech343.com:8080/live/tomy6565/78290f/62.ts
 BLUE_HUSTLER_TV_+18,http://tech343.com:8080/live/tomy6565/78290f/263.ts
 PENTHOUSEHD,http://tech343.com:8080/live/tomy6565/78290f/2334.ts
