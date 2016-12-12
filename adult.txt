@@ -1395,6 +1395,46 @@ XBritneyX,http://trailers.bangbros.com/camvids/xbritneyx.mp4?start=0
 
 ADULT成人台
 
+一本道,p2p://61.221.233.81:9000/5606c63300026a49018645fc4fa242c1.ts
+二本道,p2p://61.221.233.81:9000/5606c65c000c89a00186e8c049b37400.ts
+三本道,p2p://61.221.233.81:9000/5606c67a000d28af01875e1e0b5433e7.ts
+四本道,p2p://61.221.233.81:9000/5606c69700081a4e0187ce1f04ae551d.ts
+五本道,p2p://61.221.233.81:9000/5606c72a000898e8018a0c7678d7492c.ts
+六本道,p2p://61.221.233.81:9000/5606c74500073f5b018a759425c52547.ts
+七本道,p2p://61.221.233.81:9000/5606c76c00078a7b018b0dfc5ae42139.ts
+九本道,p2p://61.221.233.81:9000/5606c787000221cf018b761109756be3.ts
+
+新韩源1,http://edge2.everyon.tv/etv2/phd1003/BratuMarian.m3u8#rtmp://edge2.everyon.tv/etv2/phd1003#rtmp://edge2.everyon.tv:1935/etv2/phd1003
+新韩源2,http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8#rtmp://edge2.everyon.tv:1935/etv2/phd1005#rtmp://edge2.everyon.tv/etv2/phd1005
+新韩源3,rtmp://edge2.everyon.tv:1935/etv2/phd1008#rtmp://edge2.everyon.tv/etv2/phd1008
+
+Korea Ask TV,http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8#rtmp://edge2.everyon.tv/etv2/phd1005
+彩虹电影Hot MoviesTV 18+,rtmp://edge2.everyon.tv/etv2//pld1008
+
+Korea Paradise TV,http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
+Olala,http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+Russian Night,http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+VOVTV,http://hlscache.fptplay.net.vn/livez/smil:vovtv_hls.smil/playlist.m3u8
+VPopVN,http://206.190.140.142/liveStream/vpoptv_1/chunklist_w2139601650.m3u8
+VPopVN,http://83.170.111.147:1935/liveStream/vpoptv_1/chunklist_w1149148728.m3u8
+VPTV,http://206.190.140.142/liveStream/vpoptv_1/chunklist_w109987798.m3u8
+VTC1,http://113.160.49.34/lives/origin01/vtc1sd.isml/vtc1sd-1096k.m3u8
+VTC2,http://113.160.49.34/lives/origin01/vtc2sd.isml/vtc2sd-1096k.m3u8
+VTC3,http://113.160.49.34/lives/origin01/vtc3sd.isml/vtc3sd-1096k.m3u8
+VTC4,http://113.160.49.34/lives/origin01/vtc4sd.isml/vtc4sd-1096k.m3u8
+VTC5,http://113.160.49.34/lives/origin01/vtc5sd.isml/vtc5sd-1096k.m3u8
+VTC6,http://113.160.49.34/lives/origin01/vtc6sd.isml/vtc6sd-1096k.m3u8
+VTC7,http://113.160.49.34/lives/origin01/vtc7sd.isml/vtc7sd-1096k.m3u8
+VTC(VIEW)8,http://113.160.49.34/lives/origin01/vtc8sd.isml/vtc8sd-1096k.m3u8
+VTC9,http://113.160.49.34/lives/origin01/vtc9sd.isml/vtc9sd-1096k.m3u8
+VTC10,http://113.160.49.34/lives/origin01/vtc10sd.isml/vtc10sd-1096k.m3u8
+VTC11,http://113.160.49.34/lives/origin01/vtc11sd.isml/vtc11sd-1096k.m3u8
+VTC12,http://113.160.49.34/lives/origin01/vtc12sd.isml/vtc12sd-1096k.m3u8
+VTC13,http://113.160.49.34/lives/origin01/vtc13sd.isml/vtc13sd-1096k.m3u8
+VTC14,http://113.160.49.34/lives/origin01/vtc14sd.isml/vtc14sd-1096k.m3u8
+
+樱花台,rtmp://111.118.21.77:1935/ptv3/phd61
+
 韩国有码成人标清2,http://123.108.164.75/etv2sb/pld10060/playlist.m3u8
 韩国有码成人标清3,http://123.108.164.75/etv2sb/pld10061/playlist.m3u8
 韩国有码成人标清5,http://123.108.164.75/etv2sb/pld10063/playlist.m3u8
