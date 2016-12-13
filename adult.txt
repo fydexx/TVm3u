@@ -1410,6 +1410,8 @@ ADULT成人台
 
 Korea Ask TV,http://edge2.everyon.tv/etv2/phd1005/BratuMarian.m3u8#rtmp://edge2.everyon.tv/etv2/phd1005
 彩虹电影Hot MoviesTV 18+,rtmp://edge2.everyon.tv/etv2//pld1008
+Venus,http://www.mobdro.com/watching?id=Channels&0bdc508a17811a3a860d32749ad44e4b
+Hustler TV,http://www.mobdro.com/watching?id=Channels&dcd83748a61b77531c01b4c283dacb81
 
 Korea Paradise TV,http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
 Olala,http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
