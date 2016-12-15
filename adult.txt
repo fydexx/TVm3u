@@ -1414,7 +1414,7 @@ Venus,http://premium.exabytetv.info/HLSST/285/285-NKJSM-101100010001000100101010
 
 Okadai TV,http://main2sb.everyon.tv:1935/etv2sb/pld10499/HasBahCa.m3u8
 Real TV,http://premium.exabytetv.info/HLSST/1021/1021-NKJSM-1011000100010001001010100010010-ExabyteTV.m3u8
-Hustler TV,http://www.mobdro.com/watching?id=Channels&dcd83748a61b77531c01b4c283dacb81
+Hustler TV,http://92.240.232.205:8888/udp/232.232.68.4:5004
 
 Korea Paradise TV,http://edge2.everyon.tv/etv2/pld1008/BratuMarian.m3u8
 Olala,http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
@@ -1505,11 +1505,21 @@ HoneyHD,http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
 昕魅力1,http://61.219.11.157/sta/32350000.m3u8
 彩虹电影,p2p://60.249.213.25:9900/56e9fc020000c4e904c0593f16c33cd2
 彩虹K,p2p://60.249.213.25:9900/56e9fbd40009083904bfa7ac742935f6
+彩虹e,http://box.s-itv.com/flashplay/VJTVPlayer.swf?src=vjms://43.230.90.195:8500/live/cid=262
 Hiplay玩家,p2p://60.249.213.25:9900/56e9fd76000a439704c608cf740e6613
 星颖STAR,p2p://60.249.213.25:9900/56e9fe370002f05a04c8f8d874365de8
 HAPPY,p2p://60.249.213.25:9900/56e9fda50002edc904c6be86546f421d
 潘朵拉粉紅,p2p://60.249.213.25:9900/5606a423000201c40101376903b40b9b
 潘多拉完美,p2p://60.249.213.25:9900/56e9fe900002ac3604ca546f73cd1e5b
+
+e1,http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/45.ts
+e2,http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/46.ts
+e3,http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/47.ts
+e4,http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/48.ts
+e5,http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/49.ts
+e6,http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/50.ts
+e7,http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/51.ts
+e8,http://37.187.128.169:8000/live/545dfkdji/askdhfkaj477eej/52.ts
 
 松视1HD,http://211.22.61.109/stc/ch168023.m3u8
 松視1HD,http://125.227.23.199/stc/ch168022.m3u8#http://125.227.23.199/stc/ch168023.m3u8
@@ -1545,6 +1555,7 @@ HAPPY,p2p://60.249.213.25:9900/56e9fda50002edc904c6be86546f421d
 奥视惊艳,http://125.227.175.199/stc/3683h3.m3u8
 奥视惊艳,http://211.22.61.109/stc/ch168172.m3u8
 魅力1台,http://211.22.61.109/sta/32350000.m3u8
+魅力1台,http://211.22.61.109/sta/ch32350000.m3u8
 奥视香蕉,http://211.22.61.109/stc/ch168163.m3u8
 奧視香蕉,http://210.209.13.37/stc/ch168163.m3u8
 奧視香蕉,http://125.227.175.199/stc/3683h3.m3u8
