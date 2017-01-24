@@ -1251,6 +1251,20 @@ Sky Sport 3,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1116.ts
 Sky Sport 4,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1388.ts
 Sky Sport 5 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1119.ts
 >>>>>>>SUEDIA<<<<<<<,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/835.ts
+
+凤凰中文台,p2p://66.90.95.115:6015/57087afd0004b1d85ff1e72b57ba02c6.ts
+凤凰资讯台,p2p://66.90.95.115:6015/57087b2b000769eb5ff29b973761036f.ts
+凤凰香港台,p2p://66.90.95.115:6015/57087b6a000d886e5ff393360d8451cf.ts
+凤凰电影,p2p://66.90.95.115:6015/576d4b1500027d52be5403c779e44547.ts
+翡翠台,p2p://66.90.95.115:6015/578df3c2000a4aa63de6e9921bfc49bf.ts
+TVBJ2,p2p://66.90.95.115:6015/577cd3d3000c5df0fb022c77464318b3.ts
+TVBJ5,p2p://66.90.95.115:6015/577f4ceb0006db4704ab30d00f1f5f81.ts
+TVB明珠,p2p://66.90.95.115:6015/57a83732000aa58ea47f445118796a27.ts
+TVB互动新闻,p2p://66.90.95.115:6015/577cd3d3000badd5fb022c585de5350f.ts
+新视觉 HD,p2p://66.90.95.115:6015/5705e75000037a2e55e10b1516311c50.ts
+华娱卫视,p2p://66.90.95.115:6015/5705daff000e79dd55b0f17c62c8189e.ts
+CHC 动作电影,p2p://66.90.95.115:6015/576d4bd100031453be56e24641071ccd.ts
+
 TR: TV8 HD,http://ksportiptv.com:1557/live/iptv1org/bestfreeiptv/1188.ts
 
 Filmon 1,http://live-1124.la2.edge.filmon.com/live/6.low.stream/playlist.m3u8?
@@ -1391,7 +1405,7 @@ Tara Bone Cam,http://trailers.bangbros.com/camvids/tarabone.mp4?start=0
 Spicy Cam,http://trailers.bangbros.com/camvids/spicyj.mp4?start=0
 AsianHoney,http://trailers.bangbros.com/camvids/asianhoney.mp4?start=0
 XBritneyX,http://trailers.bangbros.com/camvids/xbritneyx.mp4?start=0
-
+福利,http://oa.hot1024.win/deolhashda/deolhashda.m3u8
 
 ADULT成人台
 
