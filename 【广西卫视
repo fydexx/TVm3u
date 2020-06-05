@@ -1,0 +1,28 @@
+http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8
+【广西影视】,http://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
+【广西国际】,http://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
+【广西新闻】,http://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
+【广西综艺】,http://mobilelive.gxtv.cn/live/nn_live1005/playlist.m3u8
+【广西都市】,http://mobilelive.gxtv.cn/live/nn_live1006/playlist.m3u8
+ 
+【广西科教】,http://mobilelive.gxtv.cn/live/nn_live1010/playlist.m3u8
+【广西移动】,http://mobilelive.gxtv.cn/live/nn_live1008/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 ,南宁新闻综合频道
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1 ,南宁都市生活频道
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1 ,南宁影视娱乐频道
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1 ,南宁公共频道
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1 ,南宁老友LIVE频道
+http://hls.nntv.cn/nnlive/NNTV_LYOU.m3u8
+#EXTINF:-1 ,南宁老友LIVE频道
+http://hls.nntv.cn/nnlive/NNTV_LYOU.m3u8
+#EXTINF:-1 ,南宁隆安
+http://hls.nntv.cn/nnlive/LATV_A.m3u8
+#EXTINF:-1 ,南宁隆安
+http://hls.nntv.cn/nnlive/LATV_A.m3u8
+#EXTINF:-1 ,南宁马山
+http://hls.nntv.cn/nnlive/MSTV_A.m3u8
