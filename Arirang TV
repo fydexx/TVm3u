@@ -1,0 +1,55 @@
+Arirang TV,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+HallyPOP,https://809.cdn.nextologies.com/ngrp:Player.stream_all/chunklist_b4128000.m3u8
+KBS World,https://neaoiomcci.vieon.vn/hls/3b55e4ebc76ddcdd356483cda854a14c/1585210650836/live/kbs_world_1080p/index.m3u8
+NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NHK 华语視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+North Korea TV ,https://tv.nknews.org/tvhls/stream.m3u8
+tVN Asia,https://vcdnjt.useetv.com/joss/15/tvn/chunklist_sleng.m3u8
+WakuWaku Japan,https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_sleng.m3u8
+
+KBS1,rtmp://live2.kbs.gscdn.com/1tv_home/definst/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTdBRjY4M0U5NDFEJmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9NUEzOEY0RDAwRDAyJnBhdGg9LzF0dl9ob21lL19kZWZpbnN0Xy8xdHZfaG9tZS5zdHJlYW0mZmlsZT0xdHZfaG9tZS5zdHJlYWKBS2,rtmp://live2.kbs.gscdn.com/2tv_home/definst/?id=2101&secure=c2lkPWticy1saXZlJnRva2VuPUtCUy1MSVZFOTg0RUU3NzhCNjU3Jmlzc3Vlcj01OC4yMjcuMTk0LjEwNiZjaWQ9RTcxNkFCNUEyRjBCJnBhdGg9LzJ0dl9ob21lL19kZWZpbnN0Xy8ydHZfaG9tZS5zdHJlYW0mZmlsZT0ydHZfaG9tZS5zdHJlYW0mYnlwYXNzPWZhbHNlJmF0aW1lPTEzNDczNTc1NjM=
+MBC,http://211.54.140.36/hdmi
+MBC On,http://1.248.219.167/on_preview_500k/definst/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
+
+SBS International,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+SBS Plus,https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+SBS Star,https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+EBS,http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8
+EBS2,http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+EBS플러스1,http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+EBS플러스2,http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+EBS English,http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+EBS Kids,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+KTV,rtmp://218.38.152.31:1935/klive/klive.stream
+TV조선,http://live.chosun.gscdn.com/live/definst/tvchosun3.stream/chunklist.m3u8
+YTN,http://slive.ytn.co.kr/ytn/definst/ytn_stream_20190306/playlist.m3u8
+YTN사이언스,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+ArteTV,http://etomatomobile.hscdn.com/artemobile/livestream/playlist.m3u8
+BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+CTS기독교TV,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+STB상생방송,http://118.130.121.108:1935/live-stb/definst/0d93902639680f27e8fc524d3b292479ca6759f4f0e0a84f35f70fd6f5339332/playlist.m3u8
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+이데일리TV,http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8
+매일경제TV,rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
+한국직업방송,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+OBS,rtmp://live.obs.co.kr/live/obs/myStream.sdp
+OBS W,http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
+머니투데이방송,http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
+팍스경제TV,rtmp://124.139.232.61:1935/live/livestream
+KCTV HD,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+TBS,http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
+G1,rtmp://smart.igtb.co.kr:1935/live/stream.sdp
+UBC,http://59.25.202.81:1935/live/UBCstream/playlist.m3u8
+TJB,http://1.245.74.5:1935/live/tv/.m3u8
+KBC,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+TBC,http://221.157.125.239:1935/live/psike/playlist.m3u8
+CJB,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+NHK BS 1,http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
+BS TBS,http://220.158.149.28:8180/live/TV00000000000000000074@HHZT
+BS 朝日,http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
+BSフジ,http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
+日テレ NEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
