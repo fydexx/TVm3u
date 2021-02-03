@@ -1,5 +1,4 @@
 
-
 #EXTM3U
 #EXTINF:-1 group-title="Afghanistan" tvg-logo="https://i.imgur.com/x8mlbJM.jpg",Ariana News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
@@ -5525,72 +5524,4 @@ https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
 https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 #EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/VCfZB73.png",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/VCfZB73.png",Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/0qwmBEm.png",Aliento Vision
-http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/hjvjGVf.png",American Classic Network
-https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/JLkzt7v.jpg",American Horrors
-http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/JLkzt7v.jpg",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="http://amgtv.tv/wp-content/uploads/2019/11/new_amgtv_top.png",AMG TV
-https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/T1VHfY5.jpg",Apple Sauce TV
-https://nimble.dashstreams.net/onestudio/applesaucetv/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/hSYez3V.png",Atlanta Channel
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg",Beach TV (30A)
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="http://www.cla.csulb.edu/departments/polisci/wp-content/uploads/2016/01/Beach-TV-Logo-300x169.jpg",Beach TV (CSULB)
-http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://image.roku.com/developer_channels/prod/35acf46bccd9f553b11b66ef1fa709c1fbd3a480c1d9394d3880e69911bafa2e.png",Beach TV (Panama City)
-http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/tHopHL9.png",Beach TV (Pawleys Island)
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.ytimg.com/vi/JueWq1SOiwY/maxresdefault.jpg",Beauty IQ
-https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports West
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 group-title="United States",Beto TV
-https://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
-#EXTINF:-1 group-title="United States",Better Health TV
-http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
-#EXTINF:-1 group-title="United States",Better Life TV
-http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-#EXTINF:-1 group-title="United States",Better Nature TV
-http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/wwUtlBi.png",Bible Explorations
-http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/KjDQSPu.jpg",Black Widow TV
-https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c5/BlazeTVDec2018.png",BlazeTV
-https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mCDNDMyYYBOec99P3fwkxLChmCfPgz2k9hM5w=s900-mo-c-c0xffffffff-rj-k-no",Bloomberg
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",Bloomberg TV
-https://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",Bloomberg TV
-https://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",Bloomberg TV
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",Bloomberg TV
-https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png",Bloomberg TV
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA",Bloomberg TV
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/3gi2eBn.jpg",Bloomberg TV Asia
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/EEAwv8z.jpg",Bloomberg TV Asia Live Event
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/EEAwv8z.jpg",Bloomberg TV EMEA Live Event
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/4UIqtXt.jpg",Bloomberg TV Europe
-https://liveprodeucentral.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/4UIqtXt.jpg",Bloomberg TV Europe
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/UuO7vxr.jpg",Bloomberg TV Euro
+#EXTINF:-1 group-title="United States" tvg-logo="https://i.imgur.com/V
