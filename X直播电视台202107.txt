@@ -64,8 +64,7 @@ HGTV居家乐活,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
 FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
 中视,tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb#p2p://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#p2p://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#p2p://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#rtmp://59.124.75.130/sat/tv091
-华视,p2p://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#p2p://fccsovh.pvbox.live:18912/5b14095f000efa0ea879c11942a356bd.ts#p2p://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3.ts#p2p://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
-华视,rtmp://59.124.75.130/sat/tv111
+华视,tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx#tvbus://8T3wfVYkDvT5Wwrv3VVAW8DGzMeJxkX5Q77bkcg1ZQmk7gcWrX#p2p://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#p2p://fccsovh.pvbox.live:18912/5b14095f000efa0ea879c11942a356bd.ts#p2p://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3.ts#p2p://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#rtmp://59.124.75.130/sat/tv111
 台视,p2p://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#p2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
 台视,rtmp://59.124.75.130/sat/tv071
 民视,http://198.16.106.62:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
