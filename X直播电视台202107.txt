@@ -63,8 +63,7 @@ HGTV居家乐活,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 HGTV居家乐活,http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
 FOX,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-中视,p2p://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#p2p://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#p2p://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts
-中视,rtmp://59.124.75.130/sat/tv091
+中视,tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb#p2p://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#p2p://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#p2p://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts#p2p://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#rtmp://59.124.75.130/sat/tv091
 华视,p2p://fccsovh.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts#p2p://fccsovh.pvbox.live:18912/5b14095f000efa0ea879c11942a356bd.ts#p2p://fccseuro.pvbox.live:18912/5c72484f000e498b1d51fe2201d92dd3.ts#p2p://fccseuro.pvbox.live:18912/5c2dd7470006324161ec704805b9e422.ts
 华视,rtmp://59.124.75.130/sat/tv111
 台视,p2p://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#p2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
@@ -82,12 +81,16 @@ TVBS欢乐台,rtmp://59.124.75.130:1935/sat/tv421
 中天综合台,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
 中天综合台,http://198.16.106.62:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
 中天综合台,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts#p2p://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts#http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8,p2p://fccseuro.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts
-中天娱乐台,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8中天娱乐台,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
+中天娱乐台,http://198.16.106.62:8278/streams/d/ctient/playlist.m3u8
+中天娱乐台,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
 三立综合台,http://198.16.106.62:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
 三立台湾台,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
 三立都会台,p2p://fccseuro.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts#p2p://fccsovh.pvbox.live:18912/5b14098f000d8c65aa7714d393792210.ts#p2p://fccseuro.pvbox.live:18912/5c72486f0000d4e31d5277b7483f11e3.ts#p2p://fccsovh.pvbox.live:18912/5c2dd74e0008135f19666442e08f8a73.ts
 爱尔达影剧,p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#p2p://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts#p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts
-爱尔达综合,p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#p2p://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts#p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts八大第一台,p2p://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts#p2p://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts八大综合台,p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8,p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts纬来综合台,p2p://fccseuro.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts#p2p://fccsovh.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts
+爱尔达综合,p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#p2p://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts#p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts
+八大第一台,p2p://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts#p2p://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts
+八大综合台,p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8,p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts
+纬来综合台,p2p://fccseuro.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts#p2p://fccsovh.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts
 纬来戏剧台,p2p://fccsovh.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa.ts#p2p://fccseuro.pvbox.live:18912/5c72488e000bae061d52f38e705751dd.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa.ts
 纬来育乐台,p2p://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts#p2p://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
 纬来育乐台,rtmp://59.124.75.130/sat/tv701
@@ -102,7 +105,9 @@ JET综合台,p2p://fccsovh.pvbox.live:18912/5b1409f30001262751180c32d7f81d19.ts#
 卫视中文台,p2p://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3#p2p://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f#p2p://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80#p2p://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
 BBCEarth,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 BBCEarth,p2p://fccseuro.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts#p2p://fccsovh.pvbox.live:18912/5b1408f200071c8bda8dd5a44dfda4bb.ts
-BBCLifestyle,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#p2p://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts国家地理野生频道,p2p://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts#p2p://fccseuro.pvbox.live:18912/5c7249fb000db88c1d5885e333974925.ts#p2p://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts国家地理频道,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
+BBCLifestyle,p2p://fccsovh.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts#p2p://fccseuro.pvbox.live:18912/5b1408f2000906bdb5da58904b5c003c.ts
+国家地理野生频道,p2p://fccsovh.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts#p2p://fccseuro.pvbox.live:18912/5c7249fb000db88c1d5885e333974925.ts#p2p://fccseuro.pvbox.live:18912/5b1409170007d342d4c16db15d8876c8.ts
+国家地理频道,p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccseuro.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts#p2p://fccsovh.pvbox.live:18912/5c724a010005e9d11d589b4f1fc54b2b.ts
 国家地理悠人频道,p2p://fccsovh.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f.ts#p2p://fccseuro.pvbox.live:18912/5b14093f000b29ff7371d28209f33f5f.ts
 动物星球,p2p://fccsovh.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts#p2p://fccseuro.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts
 Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
@@ -112,7 +117,9 @@ MTV,p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fcc
 FashionTV,p2p://fccsovh.pvbox.live:18912/5b1409dc00021a611a60a4af158b465d.ts#p2p://fccseuro.pvbox.live:18912/5b1409dc00021a611a60a4af158b465d.ts
 东森超视,rtmp://59.124.75.130/sat/tv771
 CN卡通频道,p2p://fccsovh.pvbox.live:18912/5b593933000710c554e89c7ce9dd6bef.ts#p2p://fccseuro.pvbox.live:18912/5b593933000710c554e89c7ce9dd6bef.ts
-CN卡通频道,p2p://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts#p2p://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8.tsTLC旅游生活频道,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b.ts#p2p://Disney,p2p://fccsovh.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts#p2p://fccseuro.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts东森幼幼台,p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts#p2p://fccseuro.pvbox.live:18912/5c724866000564111d5255b84de26a1c.ts#p2p://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts
+CN卡通频道,p2p://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts#p2p://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts
+TLC旅游生活频道,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0f4a1b.ts#p2p://Disney,p2p://fccsovh.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts#p2p://fccseuro.pvbox.live:18912/5b1409f30004f6ece892d1065e09745c.ts
+东森幼幼台,p2p://fccsovh.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts#p2p://fccseuro.pvbox.live:18912/5c724866000564111d5255b84de26a1c.ts#p2p://fccseuro.pvbox.live:18912/5b140a9a00071c28641ddb2252e4cebc.ts
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 美食星球,p2p://fccsovh.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts#p2p://fccseuro.pvbox.live:18912/5b140917000d8becd3fe4a0f85a8e193.ts
 FoodNetwork美食台,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
@@ -208,7 +215,8 @@ ASTRO SPORT 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 ASTRO SPORT 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 FOX体育,p2p://fccsovh.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts#p2p://fccseuro.pvbox.live:18912/5b1409770007963d420c400c71f70b15.ts
-FOXSports,p2p://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.tsFOXSports2,p2p://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts
+FOXSports,p2p://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts
+FOXSports2,p2p://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts#p2p://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts
 WWE摔角,http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
 NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 
