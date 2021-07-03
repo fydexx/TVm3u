@@ -1,6 +1,11 @@
 X直播電視臺 油管頻道
 香港☒頻道,#genre#
-
+HBO原创,tvbus://6c6yvoNhChui1kDJuVTNne6jdmncQ6BR3BBhPB1dSQKUjmohGqbXJV7G3CGqN
+HBO强档,tvbus://6Kq4EfNGSDQKVthowXmS7hgdBpnxB5rz2uyd1fURCQiKr9FfdiHU48vH1orek
+HBO家庭,tvbus://5VXd5wEuHpXJUaSUnebQ5q2pR7ECNfLMHDCxmB9or21JXuffo3tMozVAJGoDw
+FX,tvbus://5mNudv1NY7oPmaoFhPdfh4HbvUVkppCsqHn1wmQPHo2jVYCveHurYcfbfHSQF
+Eleven_Sport2,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp9pM2mRg8ahfkJG9AjKTCJwZQjaKUL
+tvbj2,480×270,rtmp://www.dghsfs.com/abc/abc
 
 博斯运动II,tvbus://8RXsBA2c75Hu7JA27UAZwpzm1vpkQmBtiqsRXvtTdMs9QmshuZ
 高尔夫,tvbus://5keAFkcojbKfrBYtjrFtVibNP6oZN2BZt3wHdVnbdAw4muZGgFhiFxJeSWqeG
