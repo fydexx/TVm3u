@@ -1,9 +1,7 @@
 X直播電視臺 油管頻道
 香港☒頻道,#genre#
-东森电影,tvbus://3WznTPXujunxutkiJ6eTktHcYMad6VA4knBiKnichQt5o7b1Bt
-星卫娱乐台,tvbus://6XMK9ZQymVRsT43shjgXz1D7JypzNN5kACurefZNF5ihwrBxqXvyErS3QJkZr
-美亞電影臺,tvbus://4A7AVjTaabYxh66cHDAUZWoBK82X6x6ZRiibxR8fFaLNuGT6TM
-卫视中文,tvbus://8RszbvB7e8knMo7EUqEzXPdZuTFVUbj8ShxYwA7Nojjjv5dany
+三立综合台,tvbus://5wxNvjVtyjVq39hnew1Y55rvTnU1ULS9nuomHn6rSYkt23wSfNvscKmvCpFe8
+三立财经台,tvbus://5ZbnUfiKH4jFZ7uQoMMgk9o7GWhD8MZJa6ZM1cypdSZQFeYhLmRkU1NhreVFL
 
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
