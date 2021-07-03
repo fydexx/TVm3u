@@ -1,21 +1,6 @@
 X直播電視臺 油管頻道
 測試頻道,#genre#
-凤凰中文 HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8,ppepg-141
-凤凰资讯 HD,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8#http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-凤凰香港 HD,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8#http://qlive.fengshows.cn/live720p/PHK.flv#http://183.207.249.34/PLTV/3/224/3221226975/index.m3u8
-香港卫视,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
-TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
-澳门有线,http://202.175.127.77/live/show/ch1/index.m3u8
-互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
 
-東森新聞,http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 中天新闻,http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 中天娱乐,http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
@@ -43,6 +28,30 @@ TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_o
 中天综合,http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 FOX动作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 HBO 2,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
+
+TVB 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+TVB 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+HKS卫视 高清,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+TVB财经台,http://prdsecurelive.ainemo.com/live/225cjcj.flv
+有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
+有线电影台,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
+凤凰卫视资讯台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+凤凰卫视资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰卫视中文台,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+凤凰卫视中文台,http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+凤凰卫视香港台,http://qlive.fengshows.cn/live720p/PHK.flv
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
+香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
+凤凰香港,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
+BabyFirst,http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+TVB 星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
+明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+阳光卫视,http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
+
 
 香港☒頻道,#genre#
 CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
