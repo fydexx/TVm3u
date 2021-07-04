@@ -126,7 +126,8 @@ TLC旅遊生活頻道,p2p://fccsovh.pvbox.live:18912/5b13f6f10002d2ef87429e6d2f0
 FoodNetwork美食台,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 FoodNetwork美食台,p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 EYE旅遊,p2p://fccseuro.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts#p2p://fccsovh.pvbox.live:18912/5b140916000c98189a8f92d5a76411a4.ts
-亞洲旅遊台,p2p://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts#p2p://fccseuro.pvbox.live:18912/5c724854000188081d520e6e279b2446.ts#p2p://fccsovh.pvbox.live:18912/5b140917000941831d58f5cbea1509ac.ts#p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7.tsAstor AODᴴᴰ,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+亞洲旅遊台,p2p://fccsovh.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts#p2p://fccseuro.pvbox.live:18912/5c724854000188081d520e6e279b2446.ts#p2p://fccsovh.pvbox.live:18912/5b140917000941831d58f5cbea1509ac.ts#p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts
+Astor AODᴴᴰ,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
 Astro AECᴴᴰ,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
 Astro 歡喜ᴴᴰhttp://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 Astro 雙星ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
