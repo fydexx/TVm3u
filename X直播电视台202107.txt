@@ -2,41 +2,27 @@ X直播電視臺 油管頻道
 測試頻道,#genre#
 
 香港直播,#genre#
-CCTV13,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
-CCTV13,https://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-CCTV13,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv13
-翡翠台,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts#http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188,p2p://fccsovh.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
-J2,p2p://fccseuro.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ce0004b0ebd816f2f1ed100d7b.ts
-J5,p2p://fccseuro.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts#p2p://fccsovh.pvbox.live:18912/5b14095400047cf5d3436751842bee62.ts
-明珠台,p2p://fccseuro.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
+翡翠台,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+翡翠台,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+翡翠台HD,https://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台HD,p2p://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
+翡翠台HD,http://61.238.6.49:8000/bysid/1
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
-TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
-无线新闻,p2p://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
-无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
-有线18,rtmp://59.124.75.130/sat/hk042
-有线新闻台,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
-RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
-RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
-Viu TV,p2p://fccseuro.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c70009386833caae6ccb5d0800.ts
-Viu TV 6,p2p://fccseuro.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c9000305c43cdb0149358f3a61.ts
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-天映电影,http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-天映电影2,http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-天映经典2,http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-凤凰中文,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
-凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2
-凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
 凤凰资讯,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
-凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1
-凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3
-凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
-星空卫视,rtmp://58.200.131.2:1935/livetv/startv
-Star Sports,rtmp://58.200.131.2:1935/livetv/starsports
-Channel[V],rtmp://58.200.131.2:1935/livetv/channelv
-Discovery,rtmp://58.200.131.2:1935/livetv/discovery
-国家地理频道(台湾),rtmp://58.200.131.2:1935/livetv/natlgeo
+凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8?time=1607567430694
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/.m3u8
+凤凰卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+凤凰卫视,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+凤凰卫视,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
+珠江电视台,https://tcdn.itouchtv.cn/live/gdzj.m3u8?t_token=bb02ce4888eac79f8e636451deceeea4-PwEyo515Z17dv0ER9Uy6IrUASmsbynF4bsBMLbMzhQrHCjv%2FHyuollzpeX5eilxIhpFcEg8g7UDDI3Cye9X8DCoFg0h7CAFRg6s%2FUKNAqZh3eevigrS2amHI56t0VDOz9q91%2FQxfnvRCBhiwbaJ2CAFav7iz1LJZJHcN8GnOI%2BwdhydPUJxIDtNVPKDckhEs
+珠江电视台,http://nclive.grtn.cn/zjpd/sd/live.m3u8?_upt=29f9be9b1607583437
+明珠台,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+明珠台,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV,http://61.238.6.49:8000/bysid/99
+ViuTVsix,http://61.238.6.49:8000/bysid/96
+
+5+体育,rtmp://ivi.bupt.edu.cn:1935/livetv/cctv5phd
 
 台湾直播,#genre#
 中视,rtmp://59.124.75.130/sat/tv091
