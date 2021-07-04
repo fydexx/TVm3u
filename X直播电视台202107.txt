@@ -55,46 +55,6 @@ http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1,NHK WORLD（英文字幕）,
 http://113.196.177.81:8931/VideoInput/play.ts
 
-台湾直播,#genre#
-中视,rtmp://59.124.75.130/sat/tv091
-华视,rtmp://59.124.75.130/sat/tv111
-台视,rtmp://59.124.75.130/sat/tv071
-民视,rtmp://59.124.75.130/sat/tv051
-TVBS欢乐台,rtmp://59.124.75.130/sat/tv421
-TVBS欢乐台,rtmp://59.124.75.130:1935/sat/tv421
-中天综合台,p2p://fccsovh.pvbox.live:18912/5b14096a0007d345099b2cab04de36b4.ts#p2p://fccsovh.pvbox.live:18912/5b14096a0007d3450c87c1ef7ed574cc.ts#http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-中天娱乐台,p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
-纬来育乐台,rtmp://59.124.75.130/sat/tv701
-纬来育乐台,rtmp://59.124.75.130/sat/tv702
-纬来育乐台,rtmp://59.124.75.130:1935/sat/tv701
-纬来日本台,rtmp://59.124.75.130:1935/sat/tv521
-纬来日本台,rtmp://59.124.75.130/sat/tv522
-靖天日本台,p2p://fccsovh.pvbox.live:18912/5b140916000ab016e3f48ed1e2e52260.ts#p2p://fccseuro.pvbox.live:18912/5b140916000ab016e3f48ed1e2e52260.ts
-国兴卫视,p2p://fccsovh.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts#p2p://fccseuro.pvbox.live:18912/5b1409f2000ebd78d6d3484d2e182303.ts
-Z频道,p2p://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts#p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts
-卫视中文台,p2p://fccsovh.pvbox.live:18912/5b14096a00006f07db24be365821c0f3#p2p://fccseuro.pvbox.live:18912/5c2dd752000079be2a26f4d3f111382f#p2p://fccseuro.pvbox.live:18912/5c724873000682671d5288bf72c31a80#p2p://fccseuro.pvbox.live:18912/5b14096a00006f07db24be365821c0f3
-tvN,p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
-ANIMAL-PLANET,p2p://fccsovh.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts#p2p://fccseuro.pvbox.live:18912/5b5939130005971d4f247d9ea9194679.ts
-东森超视,rtmp://59.124.75.130/sat/tv771
-中华美食,p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
-Astro AEC ᴴᴰ,http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-Astro 欢喜 ᴴᴰhttp://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-Astro 双星 ᴴᴰ,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro 全佳 ᴴᴰ,http://185.180.221.194:8278/streams/d/Quanjia/playlist.m3u8
-新传媒U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
-TVBS新闻台,rtmp://59.124.75.130/sat/tv551
-TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
-壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
-东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-东森财经新闻台,rtmp://59.124.75.130/sat/tv571
-三立新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
-中视新闻,http://seb.sason.top/sc/zsxw_fhd.m3u8
-台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
-民视台湾台,http://seb.sason.top/ptv/ftv.php?id=tw
-民视新闻台,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-華視新聞資訊,http://seb.sason.top/sc/hsxw_fhd.m3u8
 
 电影频道,#genre#
 星卫HD电影,p2p://fccsovh.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b#p2p://fccseuro.pvbox.live:18912/5b140940000a727a11706edeb2e5c36b
