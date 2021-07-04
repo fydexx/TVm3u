@@ -13,7 +13,7 @@ TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/./playlist.m3u8
 无线新闻,p2p://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
 无线财经,p2p://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts#p2p://fccsovh.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
-有线18rtmp://59.124.75.130/sat/hk042
+有线18,rtmp://59.124.75.130/sat/hk042
 有线新闻台,http://198.16.106.62:8278/streams/d/hkcnews_twn/playlist.m3u8
 RHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
