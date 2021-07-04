@@ -90,7 +90,7 @@ TVBS歡樂台,rtmp://59.124.75.130:1935/sat/tv421
 愛爾達影劇,p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b#p2p://fccsovh.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts#p2p://fccseuro.pvbox.live:18912/5b1409dc0006a1ca305641ab9696976b.ts
 愛爾達綜合,p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a#p2p://fccsovh.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts#p2p://fccseuro.pvbox.live:18912/5b1409db0002d1cf08b40d87eb24e73a.ts
 八大第一台,p2p://fccsovh.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts#p2p://fccseuro.pvbox.live:18912/5b14096a0004400315488cff3fdbf3b5.ts
-八大綜合台,p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8,p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts
+八大綜合台,p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts
 緯來綜合台,p2p://fccseuro.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts#p2p://fccsovh.pvbox.live:18912/5b1409230004f71efab2c84f47ebe4ef.ts
 緯來戲劇台,p2p://fccsovh.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa.ts#p2p://fccseuro.pvbox.live:18912/5c72488e000bae061d52f38e705751dd.ts#p2p://fccseuro.pvbox.live:18912/5b1409f3000a72b5e945fde38f88c8aa.ts
 緯來育樂台,p2p://fccsovh.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts#p2p://fccseuro.pvbox.live:18912/5b14092c000a35b5b875ce840ff0b5a3.ts
