@@ -17,8 +17,7 @@ FoxFamilyMovies,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 東森洋片台,p2p://fccsovh.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef#p2p://fccseuro.pvbox.live:18912/5b14092300021ad17dc817097ff4a5ef
 美亞高清電影台,p2p://fccsovh.pvbox.live:18912/5b14098f00079615addc7da33962b735#p2p://fccseuro.pvbox.live:18912/5c724a0e000442831d58cdaa6a2c5c52#p2p://fccseuro.pvbox.live:18912/5b14098f00079615addc7da33962b735
 龍華電影,p2p://fccsovh.pvbox.live:18912/5b140922000d1231db04a3ca4e5816d4.ts#p2p://fccseuro.pvbox.live:18912/5b140922000d1231db04a3ca4e5816d4.ts
-龍華洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e#p2p://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e
-#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
+龍華洋片,p2p://fccsovh.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e#p2p://fccseuro.pvbox.live:18912/5b140917000c1e9b03053da5fe1d342e#p2p://fccseuro.pvbox.live:18912/5b14096a000a35a138bfced0badeee87
 天映頻道,p2p://fccseuro.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts#p2p://fccseuro.pvbox.live:18912/5e64a27b000b40186caada2a41021861.ts#p2p://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
 靖天電影台,p2p://fccsovh.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3.ts#p2p://fccseuro.pvbox.live:18912/5b14093f0000e91ed352c047ce05b9b3.ts
 緯來電影台,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
