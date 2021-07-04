@@ -1,7 +1,7 @@
 小Q整理中
 測試2頻道,#genre#
 香港衛視,
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.[m3u8](https://dtvzj.com/tag/m3u8/)
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港衛視,
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港hks,
