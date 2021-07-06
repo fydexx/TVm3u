@@ -170,6 +170,37 @@ https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
 https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 
 測試©頻道,#genre#
+Jasmin TV(18+),http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+Jasmin TV HD(18+),http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Miami TV-Colombia(18+),http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
+Miami TV-Colombia(18+),http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+Miami TV-Jenny Live(18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+Miami TV-Jenny Live(18+),http://23.111.128.190:1935/miamitv/smil:miamitvROKU/chunklist_b2592000.m3u8
+O-la-la(18+),http://37.205.94.97:81/udp/239.54.6.71:1234
+Русская ночь(18+),http://37.205.94.97:81/udp/239.54.6.159:1234
+Big Ass(18+),http://live.redtraffic.xyz/bigass.m3u8
+Big Dick(18+),http://live.redtraffic.xyz/bigdick.m3u8
+Big Tits(18+),http://live.redtraffic.xyz/bigtits.m3u8
+Blowjob(18+),http://live.redtraffic.xyz/blowjob.m3u8
+Cuckold(18+),http://live.redtraffic.xyz/cuckold.m3u8
+Fetish(18+),http://live.redtraffic.xyz/fetish.m3u8
+Hardcore(18+),http://live.redtraffic.xyz/hardcore.m3u8
+Interracial(18+),http://live.redtraffic.xyz/interracial.m3u8
+Latina(18+),http://live.redtraffic.xyz/latina.m3u8
+Lesbian(18+),http://live.redtraffic.xyz/lesbian.m3u8
+MILF(18+),http://live.redtraffic.xyz/milf.m3u8
+POV(18+),http://live.redtraffic.xyz/pov.m3u8
+Pornstar(18+),http://live.redtraffic.xyz/pornstar.m3u8
+Russian(18+),http://live.redtraffic.xyz/russian.m3u8
+Teen(18+),http://live.redtraffic.xyz/teen.m3u8
+Threesome(18+),http://live.redtraffic.xyz/threesome.m3u8
+鳳凰電影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+澳視澳門,rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
+澳視高清,rtmp://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live
+澳門澳視衛視,rtmp://live4.tdm.com.mo:80/ch3/_definst_/ch3.live
+澳門蓮花,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
+澳門葡文,rtmp://live4.tdm.com.mo:80/ch2/_definst_/ch2.live
+澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
 國會頻道,http://61.58.60.230:9319/live/123.m3u8
 國會頻道,http://61.58.60.230:9319/live/124.m3u8
 行政院環保署空氣品質監測,http://61.58.60.230:9319/live/709.m3u8
