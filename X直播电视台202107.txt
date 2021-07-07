@@ -1,7 +1,7 @@
 小Q整理中
 台灣節目表,#genre#
-公用頻道|２,http://61.58.60.230:9319/live/2.m3u8
-公用頻道|３,http://61.58.60.230:9319/live/3.m3u8
+縣公用頻道|２,http://61.58.60.230:9319/live/2.m3u8
+市公用頻道|３,http://61.58.60.230:9319/live/3.m3u8
 CNN國際新聞|５,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
 民視|６,http://seb.sason.top/ptv/ftv.php?id=ms#http://198.16.106.62:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce#tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd#tvbus://6Lj9rFEdKejTmFCH2Kv7jX2G56jH6y1zu7sNmRWp1qGYpyWzZk4tgPKnwWSi2
 台視|８,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc#tvbus://6Q1Sse26Zx4Bb33LwYrUXekJwjGu5ogGDiBiqTbonztTEr7bESCCm5BY4s1xb#p2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
@@ -71,17 +71,19 @@ AnimaxHD|７７,tvbus://64e38SnAoCiJg5r3viGX4F1b5bMYrwcrsthuJHizPCUinbBJ7XgRYbe9
 HGTV居家樂活|７８,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8#http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 國興衛視|７８,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
 FOX|HD７９,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8#tvbus://6YLw3eozv6kQqv9CcB3Vneu2Tt5qkSjUUxQLaAfiS5dy8oAwi7MAjrk1GbxN1
+幸福成家|８０,http://61.58.60.230:9319/live/80.m3u8
 CHANNEL[V]|８０,rtmp://58.200.131.2:1935/livetv/channelv
 MTV Live HD|８０,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs#p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts
 Z頻道|８１,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq#p2p://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts#p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts
 寰宇新聞|８５,tvbus://7beSKBhbYwem2JMcyAPiw9Lq15919uQamc7r6Srh1Kq6TyFLWm#tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
 八大娛樂台|８６失效,tvbus://68HTXA74c984HSYJrg7um6zdoF8KwdpiCsr76CjGKuW6gYTSabfKgqxNd7xtP
+諸羅藝文|９０,http://61.58.60.230:9319/live/90.m3u8
 非凡商業台|９１,tvbus://895W53umit5N3nDMJGrFAd5HWbQNByLPD4CmgFJAEkwTWdamqB#tvbus://6eWzSkXPamkfbbEuACBdRgUUCxCFicmZVui2zQcaYJj7HRNDY9yZRZmzPfZSx
 三立財經新聞|９２,tvbus://5ZbnUfiKH4jFZ7uQoMMgk9o7GWhD8MZJa6ZM1cypdSZQFeYhLmRkU1NhreVFL#tvbus://7vrngitcWdRhRaWE5NSqqbC85RP52aPx4e2D9iLv1yE2Y8zSZo
 三立iNEWS|９２,http://seb.sason.top/sc/slinews_fhd.m3u8
 新唐人亞太台|９３,https://live.ntdimg.com/aplive200/playlist.m3u8
 公視三台|９５,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
-大愛二台|９６,tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
+大愛二台|９６,http://61.58.60.230:9319/live/191.m3u8#tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
 華藏電視|１０２,tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
 FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 華視體育文化|１０９,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
@@ -89,6 +91,9 @@ FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist
 國會一台|１２３,http://61.58.60.230:9319/live/123.m3u8#tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY
 國會二台|１２４,http://61.58.60.230:9319/live/124.m3u8#tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo
 幸福空間居家台|１２５,http://61.58.60.230:9319/live/125.m3u8
+歐洲新聞台|１２９,http://61.58.60.230:9319/live/129.m3u8
+韓國阿里郎|１３０,http://61.58.60.230:9319/live/130.m3u8
+FRANCE 24新聞|１３１,http://61.58.60.230:9319/live/131.m3u8
 民視影劇台|１４８,http://seb.sason.top/ptv/ftv.php?id=yj
 民視綜藝台|１４９,http://seb.sason.top/ptv/ftv.php?id=zy
 民視旅遊台|１５０,http://seb.sason.top/ptv/ftv.php?id=ly
