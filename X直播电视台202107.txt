@@ -11,7 +11,7 @@ CNN國際新聞頻道,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefp
 公視2,tvbus://5TiPr2DjeUVndyJeyKN4scd8hyRYWMSYHcvLpK6XMHKzowB3vrMx9oVvxBJf2
 原住民頻道,tvbus://6VRaErUmzKHUxGxS1c3J4zgyMaM61ZnBEtMRP81eo5A5iMCqaSvmynndsgWrs
 客家電視台,tvbus://6ET11DM8BSXWgDFLR6rvGy5FiW73cnZHMwm26f8pz9ieA5mW8ouybGgf1SpY5
-Discovery頻道,tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F#rtmp://58.200.131.2:1935/livetv/discovery
+Discovery頻道,tvbus://66ZJBnoErjPriZPjTocXRVY8ZvdC9etLK7nw2uiWSHbRrbTEt2QJv4fwrJ66k#tvbus://3er2dXyjCT9n5ZB3MdAyWPT5q6WrYKNK7DB2sgfDmvoakg3vML#tvbus://5hRnim3vdD4FMR6B2WZck8mQ2dcupLronp9ks2CRDHAz7ehuUqff38zD66W9F#rtmp://58.200.131.2:1935/livetv/discovery
 TLC旅遊生活頻道,tvbus://6ZoepDKPgs2BA5dBFEdB4iTUWd4JJJvhff1VX4t3V2B8Vde4MpAwrkkMviKir
 
 
