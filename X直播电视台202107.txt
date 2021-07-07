@@ -54,9 +54,20 @@ CINEMAX|７０,tvbus://5ehU7TgbheBuRFcsKK1PQFhccU1RWD51wYKTrKuYtm4DHX3r7HcWhFuAD
 緯來日本台|７５,tvbus://6aXrMD1Fq4WUmnGWi2jLES3532SG84b4FNawKcrGXERkP2ytUfjZWGv2QjPP8#tvbus://6uRaEVB6zUUTj8hPENXF15Xb888X3y3Yrhj7HjZubfA18jRhCu#tvbus://6HF1yWQYSSGjGvak1fNJHay9UmLQbAZh7MK2bmbZhS7sxF75ngzTnEP4Lj99a
 WakuWaku|日本７６,tvbus://6FvygsEHnZgMxxhQRLQVxWYwM53dCPMMbwk8xzdci1L2MEUeM3FsZ3aW1kAoU#tvbus://786qCNs7FLm9ouCtbUEPA57ZkRQZfZBkcQM7Yg8CV6Xti36r7D
 tvbus://64e38SnAoCiJg5r3viGX4F1b5bMYrwcrsthuJHizPCUinbBJ7XgRYbe9C4mjb
-Animax|７７,tvbus://64e38SnAoCiJg5r3viGX4F1b5bMYrwcrsthuJHizPCUinbBJ7XgRYbe9C4mjb
+AnimaxHD|７７,tvbus://64e38SnAoCiJg5r3viGX4F1b5bMYrwcrsthuJHizPCUinbBJ7XgRYbe9C4mjb
 HGTV居家樂活|７８,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8#http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 MTV Live HD|８０,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs#p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts
+寰宇新聞|８５,tvbus://7beSKBhbYwem2JMcyAPiw9Lq15919uQamc7r6Srh1Kq6TyFLWm,tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
+八大娛樂台|８６,tvbus://68HTXA74c984HSYJrg7um6zdoF8KwdpiCsr76CjGKuW6gYTSabfKgqxNd7xtP
+非凡商業台|９１,tvbus://895W53umit5N3nDMJGrFAd5HWbQNByLPD4CmgFJAEkwTWdamqB#tvbus://6eWzSkXPamkfbbEuACBdRgUUCxCFicmZVui2zQcaYJj7HRNDY9yZRZmzPfZSx
+三立財經新聞台inews|９２,http://seb.sason.top/sc/slinews_fhd.m3u8
+新唐人亞太台|９３,https://live.ntdimg.com/aplive200/playlist.m3u8
+公視三台|９５,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
+大愛二台|９６,https://pulltv2.wanfudaluye.com/live/tv2.m3u8#tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
+台視新聞台|９７,http://seb.sason.top/sc/tsxw_fhd.m3u8#tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
+
+
+
 
 
 
