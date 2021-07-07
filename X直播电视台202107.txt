@@ -15,7 +15,7 @@ Discovery|探索１９海外2.3源失效,tvbus://66ZJBnoErjPriZPjTocXRVY8ZvdC9et
 TLC旅遊生活|２０海外,tvbus://6ZoepDKPgs2BA5dBFEdB4iTUWd4JJJvhff1VX4t3V2B8Vde4MpAwrkkMviKir
 動物星球|２１,tvbus://6SPfmkT19m1ckp3MBcEhkxUqXGzzBXBxNffqaEviMgW56WJ3Hzoc5skNVKojq
 CN卡通頻道|２２,tvbus://6cCTwbYLkkx5vSHmZ1fTVb7rrbo5XRcaWbtNuUTTpSHFxsqPD6KyZuEHESnZz
-Disney Channel|迪士尼頻道２３,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX#tvbus://5WZAW4e6iyxWUMRoeMtVnzgXYSPtgQyJrYR93PK2BYU5UMU7s9r3cgQZLtUvb
+Disney Channel|２３,tvbus://5kZ8i4ftZm6b3DroFWmRPREjDQiyuxkwSCc69bE4xafAyWXXUpLncR3sCjCJX#tvbus://5WZAW4e6iyxWUMRoeMtVnzgXYSPtgQyJrYR93PK2BYU5UMU7s9r3cgQZLtUvb
 MOMO親子台|２４,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16sHebm9L8Xqn#tvbus://8LYzzxsK9M826tCuaepTTrHW5xAvwogA53NcLdYWGno72Xx5nF#tvbus://5ZmNFNkNNWLmV5r4xXWWQe7VWgsTVcX7Rn2jYap433Kjmh46SHNGxiAdKMn7h
 東森幼幼台|２５,tvbus://6QCZY2EVkFP5ebQcSLx9Bn1GJ95zvxkQDW1ia3fy6gQZETKgvBh1yXLtYaZnd#tvbus://7mTCKDyRQkAMpAsx4eMdtWdUjzrk85yb3mbfmN8qeLUi1qpWxg#tvbus://62FLkYBGPwzHY5r9ZBacYVyPgckqiggdj76u4jLsqU9FdQJEevHVW1VE2dzX9
 緯來綜合台|２６,tvbus://5vv8ngW7EBMnpjCvuYFLbNN9nfaYptrEiTXZ79tBQd4VQgArPtThhrd16ZYe7#tvbus://5SXdVfYqit7RdyW6WTtQ8tZg8tdbjaZmmM7EqW4vQhL4o2Fvr9sQWnxdV8Kxn
@@ -41,6 +41,29 @@ TVBS新聞台|５５,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.6
 TVBS|５６,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8#http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#tvbus://7DEtCmyxRnfvA1VSsvwavm42Jo9LAYjp8jNVgFDyuBjWE4mTAz#tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z#tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK
 東森財經新聞台|５７,http://seb.sason.top/sc/dscjxw_fhd.m3u8#tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB#tvbus://7YpF7VbL4JJRLGYJHvurtd2KsVQ1xdkZSsGJAhfvtDkjdhKgma#tvbus://5wwi3y9MzBLXka9eTVFY48EKgx5xRmLETDdsesPVwK8gAmeujrjM6oJcGbzdE
 非凡新聞台|５８,tvbus://7fcGBVVLMEQdPr3aLn8RPPBNryvRgacDd9Deq6APwTGqXMaChg#tvbus://6fFJfrc7GqviCHEg6jXkNAALyqTEdBbRkPFHePCnZCfEJ9Zzgcyd9Zu183Z9Q
+東森電影台|６２,tvbus://5KVKy5MZ69VvVapedT8GC56zKNGuoCD4eqyfgwppcwFPYdc4GK5ghmydBRehB#tvbus://842MQ89LSM4MXqVbmtTY82FSVVHYDQ7MEFtu7NzeeDXY4dNGaw#tvbus://5fnK4ncrmUBiAai25pDbktTiswjBfoz44V9pJ4aLJY54SFpjdWYMWQsB2wAgA
+緯來電影台|６３,http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8#tvbus://5XDwXtHqpxQFkV9kv3JUroUu9bQnDJrSHwAPbt3EETaQi8TjL9rBBpF9wRsAF#tvbus://8ENdGkwVWTG2Nrp4PFmGyJsnUKpbMKE3va3fa7XrTHyHJYiQfN#tvbus://6cGoEr7v2MEnApyeizicBLjKFqGfw2mHsVnN84oGDYCrpmxYpCPedDYsE9xgY
+HBO|６５,tvbus://5opYE6ErJoLGfYc4vUN9WxYLLzrKu7PT6g6TKqDtkZHVxPZCrxTmrQTBNyigP#tvbus://5rd48zEsp3Yeo2SY2J78CL1ZstuhDRJrE8ubXXNLBejiMXZHgcTR7pbSdy2Ti#tvbus://6GFRVAcUsiqY67h8ePy4DnJvBS2L7onVFvB1g6HRCJZ3n57Ua2pBbENmboqd7#tvbus://63U7LYaMCu6bVzx6F1rC9oJTwA29jDQsW5oJaZxAtrHNJ36JDa2RSmj4dUTgv#tvbus://5g7NaB7D2Ro6A1q6kHELAdczsLhfbhEFfwnXM3UR3Qu5zhjxwzchXvkRVrgxX#p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+東森洋片台|６６,tvbus://6dTYTD7sdGGBDNnToo42Nig1KvfEw2nNfn1NuWRcYfUGudoiorjJFkHCXV9My#tvbus://8CL79ssarGCRssJC3vQMUwc8sPeRw2pwRyMoMpcKztSyjvREGQ#tvbus://6WvuhzptiyGW73YYbNYnCb1k1QQMTo3nMQiiYm85VdVrEAfWbqZcCqzHWRZMb
+AXN|６７,tvbus://6Tuzxb72WjjEXqCn6YG8YU4dPChX78TuWQC1k1kE3SR8XtV19RuHJJtobrPfw,tvbus://5Xa5Xi6H8hrChXWA3cxbieDjMgJ3YBxcsxZdah27A8PCAQeP92UDypH2uXdZQ
+好萊塢電影台|６８,tvbus://5KrB5QCAYhhvfJ4c8jiUPu9HfpP4i2wnjDZXU1ATJAQpzAYzcwfZjRPVL8iHP#tvbus://5mZuWreLzTUCP1PsypWqFGy9SKFybZcbqJbB9KWsVALtKHdGE7gw4Ckbgv7AR#p2p://fccsovh.pvbox.live:18912/5b1409f3000c1df591cff1add8163783#p2p://fccseuro.pvbox.live:18912/5b1409f3000c1df591cff1add8163783
+WarnerTV|華納電視６９,tvbus://5nx3ew6pSzsNypijptouK8okba1QBASVFvb75jSokUVoCesubL4qCf1XfU5PU
+CINEMAX|７０,tvbus://5ehU7TgbheBuRFcsKK1PQFhccU1RWD51wYKTrKuYtm4DHX3r7HcWhFuADKd8U#tvbus://5Qw9N9pt5zcsdoWSupAV43E6yYLF7RxVBn2zVCXW6uRs16gdzqb1AzSKUPEjH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
