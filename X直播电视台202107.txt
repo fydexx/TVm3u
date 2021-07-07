@@ -23,6 +23,21 @@ MOMO親子台|２４,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16s
 八大綜合台|２８,tvbus://5L5N1QrvtKfN1R2rZVrXewcP5EJuRcXFqaYanE6GrqfaGvZoQDvxF89bQc55Q#tvbus://6hfWgjwocr7LeYLf2vV1sBahEpzikaKALHtd5dL8m9ukhQHJNG6M4AtTSYDSk#p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts
 三立台灣台|２９,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF#tvbus://6KDZEwsaiTyKpYASWzYE3aJSWB8vkhQyrgtNDb8XAqgriAwdo2EiMcMhVm8oa
 三立都會台|３０,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY#tvbus://6ZLRzjLE58srUuzBPq3QNRSPE9L5EYDhp1p2uvYHEBZ8nJBY9kQii1X5hTy2w
+tvN|３１,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N#p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
+東森綜合台|３２,tvbus://5Qrgum8xNNX2B7wtwBCTiVb3Lse9teDkoL1cbqFr3rKBK79tp5czXXpKBMj4z
+東森超視|３３,tvbus://6UY92VSrRoTTi43hYRfCNiyDCzFTA2sgqF22Cea8KQ1SjkMfPanUBCAak2CtH
+中天綜合台|３６,http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8#tvbus://5rgD9pjmXsTKdWcJnpJuJyrvUnaBotkNk8Yr38KkcZVUyNRcCTu2bhPnMFfMN
+中天娛樂台|３９,tvbus://6XFa2kYAStDvecKtn6Zy8h93kvFaWY3eSKt7BP9phpGywAc1PJFkGfHw5qo6R#p2p://fccsovh.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts#p2p://fccseuro.pvbox.live:18912/5b1409f300034b9468d187e0e1ce2520.ts
+東森戲劇台|４０,tvbus://5yfhooLEp2fj8eQP3MZcLVCHRTuQe9ByW9T6Hj5DY4rJjhFUzB2BENnEBWKuQ#tvbus://5oVqYGutbkbRbkZa9DXwjDtAjLHMQ2V8HZ5EF73Zy8jcYEZbJAr2HURvqftBL
+
+
+
+
+
+
+
+
+
 
 
 
