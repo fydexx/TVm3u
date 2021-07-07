@@ -69,8 +69,24 @@ ELEVEN體育一台|１０３,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrt
 ELEVEN體育二台|１０４,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL#tvbus://8hEdnTPJhq69QcwbkqZXsPZPLDoH8tu65sE2gVk77hRYrggwFL#tvbus://5ieLy6Bs8rBH2rWXWF1aiFCpgMC3vzsKY8dD7FKwSkFreqYcb6rD5dCrXhdwL
 FoodNetwork美食台|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 華視體育文化|１０９,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
-
-
+台視財經台|１１６,tvbus://5QKsG2nutAoqFyBrLsWUUX6NyzLK8M2DTXtb2Z5ynMKNFnVZ1piYPwYmHuSUY
+台視綜合台|１１７,tvbus://6Z9NPPR697ZRRs1JyrvJkcEFXT9iUZ1aDBMqTGdBsVM6ectZ9aKDNPk89SVYf
+華視新聞資訊台|１２１,http://seb.sason.top/sc/hsxw_fhd.m3u8#tvbus://5v634cmpVDfScXt8753ifdEd7G2JQYo51ikg3oTJVuFTz75T9W5PLXpgbcfNU
+國會一台|１２３,tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY
+國會二台|１２４,tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo
+民視第一台|１５１,http://seb.sason.top/ptv/ftv.php?id=dy#tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
+民視台灣台|１５２,http://seb.sason.top/ptv/ftv.php?id=tw#tvbus://83WXpNj2LANa9a9K37rfRY6pjfw41JwJbDwjeBMYbSZPNBECTp#tvbus://5qUwVXwdT4DdpcNKXRi77GdzH9Gb2ZQD5WWueA5WkZ7kpuvmC53oDoSCDVRTd
+中視新聞台|１４３,http://seb.sason.top/sc/zsxw_fhd.m3u8#tvbus://5R9W8Pyu2dnVpue6Jsfx74SJwa1Vn2VtWxuDHCWihBMMFkrCMeMr7Wz1hdFdQ
+博斯運動一台|２０１,tvbus://5PWUSk5i67uQNx1TYcu9KANMCLe6CtTztGSgXAdnqqDpNX7YkVjUvscJDtYYo
+博斯網球台|２０２,tvbus://5ZjaFSgh4BXSSVPJLgRybUYuxPeLQxLBSpnwqcUuvH4ZPWZuYFMNB4hwRXWui
+博斯無限台|２０５,tvbus://6UKxSYxrqMVTE7RkrLjrLrbnQX2y2iRUJoYiWVEhqzr8uwZ7QJio6qbaVacHf
+博斯高球一台|２０７,tvbus://61gn94JLNN2gxHHPZGD5N7wn8JfZSKsrwr9HnBrfoRA8Y6Lh4tfWzREoSsQJN
+博斯高球二台|２０８,tvbus://5sBm5icQbDAZimzmUUCDWftepBhGDcrT4c21xnxyn8bBMtn7Jm7F1az6vdNJX
+Nick Jr.|２３１,tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAeCCeX9Tx
+亞洲旅遊台|２３３,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM,p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts
+希望電視台|４１１,tvbus://6XAXMTpAZewLnNstKjwysvqqJ4QZbKgW3za2rBdnbYMu1Khc81pg27JVtSSXu
+唯心電視台|４１２,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+好消息二台|４１５,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
 
 
 
