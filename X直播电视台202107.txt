@@ -62,12 +62,12 @@ CINEMAX|７０,tvbus://5ehU7TgbheBuRFcsKK1PQFhccU1RWD51wYKTrKuYtm4DHX3r7HcWhFuAD
 ELEVEN體育一台|７３,tvbus://5NrQ5pvLs9nQVyZtWJYJQaobzbEa1uTQwg2D4P1mwrtAh7ZsWZfpG2hA9FM2P#tvbus://7TQ2t52MTCykoWYFEGU39rQkJ5QzcQSfefoVrNCeP9boy9AS5n 
 ELEVEN體育二台|７４,tvbus://6SxHQswLudukLP996c4UcgZPuWG7HDvp2PM2mRg8ahfkJG9AjKTCJwZQjaKUL#tvbus://8hEdnTPJhq69QcwbkqZXsPZPLDoH8tu65sE2gVk77hRYrggwFL#tvbus://5ieLy6Bs8rBH2rWXWF1aiFCpgMC3vzsKY8dD7FKwSkFreqYcb6rD5dCrXhdwL
 緯來日本台|７５,tvbus://6aXrMD1Fq4WUmnGWi2jLES3532SG84b4FNawKcrGXERkP2ytUfjZWGv2QjPP8#tvbus://6uRaEVB6zUUTj8hPENXF15Xb888X3y3Yrhj7HjZubfA18jRhCu#tvbus://6HF1yWQYSSGjGvak1fNJHay9UmLQbAZh7MK2bmbZhS7sxF75ngzTnEP4Lj99a
-WakuWaku|日本７６,tvbus://6FvygsEHnZgMxxhQRLQVxWYwM53dCPMMbwk8xzdci1L2MEUeM3FsZ3aW1kAoU#tvbus://786qCNs7FLm9ouCtbUEPA57ZkRQZfZBkcQM7Yg8CV6Xti36r7D
-tvbus://64e38SnAoCiJg5r3viGX4F1b5bMYrwcrsthuJHizPCUinbBJ7XgRYbe9C4mjb
+WakuWaku|日本７６,tvbus://6FvygsEHnZgMxxhQRLQVxWYwM53dCPMMbwk8xzdci1L2MEUeM3FsZ3aW1kAoU#tvbus://786qCNs7FLm9ouCtbUEPA57ZkRQZfZBkcQM7Yg8CV6Xti36r7D#tvbus://64e38SnAoCiJg5r3viGX4F1b5bMYrwcrsthuJHizPCUinbBJ7XgRYbe9C4mjb
 AnimaxHD|７７,tvbus://64e38SnAoCiJg5r3viGX4F1b5bMYrwcrsthuJHizPCUinbBJ7XgRYbe9C4mjb
 HGTV居家樂活|７８,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8#http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 國興衛視|７８,tvbus://5SX9vAMYLsHuC9UPJvZSGQcjCp3Zq2yCZYJP5YSdCyi7CrYu7CJmSkmWe11aP
 FOX|HD７９,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8#tvbus://6YLw3eozv6kQqv9CcB3Vneu2Tt5qkSjUUxQLaAfiS5dy8oAwi7MAjrk1GbxN1
+CHANNEL[V]|８０,rtmp://58.200.131.2:1935/livetv/channelv
 MTV Live HD|８０,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs#p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts
 Z頻道|８１,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq#p2p://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts#p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts
 寰宇新聞|８５,tvbus://7beSKBhbYwem2JMcyAPiw9Lq15919uQamc7r6Srh1Kq6TyFLWm#tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
@@ -118,8 +118,6 @@ CNBC Asia|３１１,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5x
 
 測試1頻道,#genre#
 
-Baby-TV,tvbus://4dYdFKyCCJz8edr1iMhUU6UJveFVAgzyuwEXEX3NeK9Xovue65
-CHANNEL [V]國際頻道,rtmp://58.200.131.2:1935/livetv/channelv
 TVB星河,tvbus://2x1hbZ9nHnRxGmUz74sgiW6BfXNr3KFgbbLFgryHAEVvP7UfUD
 凤凰卫视香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 凤凰中文,http://198.16.106.62:8278/streams/d/phoenixtv_hd/playlist.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
