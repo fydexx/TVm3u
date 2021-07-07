@@ -1,9 +1,9 @@
 小Q整理中
-整理好頻道,#genre#
+台灣節目表,#genre#
 CNN國際新聞|５,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
 民視|６,http://seb.sason.top/ptv/ftv.php?id=ms#http://198.16.106.62:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce#tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd#tvbus://6Lj9rFEdKejTmFCH2Kv7jX2G56jH6y1zu7sNmRWp1qGYpyWzZk4tgPKnwWSi2
 台視|８,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc#tvbus://6Q1Sse26Zx4Bb33LwYrUXekJwjGu5ogGDiBiqTbonztTEr7bESCCm5BY4s1xb#p2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
-大愛電視臺|９,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8#tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
+大愛電視|９,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8#tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
 中視|１０,tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb#tvbus://5LmrGHhxSH1Up9zZ15nLUL1sMTP1oQJEkGsGdZ9HtHyS3J2GoHccAP2rdowRE
 霹靂台灣台|１１,tvbus://5tbhpmB9A19vYgEerCRAK923PMVMbtPByt4Ku3T1XrAJeBzfiMS7kCXtfJ5mX
 華視|１２,tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx#tvbus://8T3wfVYkDvT5Wwrv3VVAW8DGzMeJxkX5Q77bkcg1ZQmk7gcWrX#tvbus://5fBSSdxDCwiMGu78eXCcAGdrMrRJMgRoi9AwsmFD8t37G5WGbw1z9pxZW5iv1
@@ -23,6 +23,7 @@ MOMO親子台|２４,tvbus://5X5Hd9WdA5SySjWsbASTc8rbcxfcYewnPnvy59KegMAhWFrA16s
 八大綜合台|２８,tvbus://5L5N1QrvtKfN1R2rZVrXewcP5EJuRcXFqaYanE6GrqfaGvZoQDvxF89bQc55Q#tvbus://6hfWgjwocr7LeYLf2vV1sBahEpzikaKALHtd5dL8m9ukhQHJNG6M4AtTSYDSk#p2p://fccsovh.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts#p2p://fccseuro.pvbox.live:18912/5b14092c0004b9c210b0c400e8356e40.ts
 三立台灣台|２９,http://198.16.106.62:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb#tvbus://5bs16MgndrbAVgewPk3FnyB65GFG34CUgswUfMxVirdmUUJxnuv7Rx2Ly7CqF#tvbus://6KDZEwsaiTyKpYASWzYE3aJSWB8vkhQyrgtNDb8XAqgriAwdo2EiMcMhVm8oa
 三立都會台|３０,tvbus://5eQroiSHYbP571m8HFv6R5vjDGFaQn75vPvEfeW3XHZg8JhcZLV4qsWTjmqpY#tvbus://6ZLRzjLE58srUuzBPq3QNRSPE9L5EYDhp1p2uvYHEBZ8nJBY9kQii1X5hTy2w
+衛視中文台|３１,tvbus://6b7sWQXkuKumRbpqkoGxkW4cKZXXnW93KDY1tnVQq5CneNeZAEQduCLST2xKW#tvbus://8RszbvB7e8knMo7EUqEzXPdZuTFVUbj8ShxYwA7Nojjjv5dany
 tvN|３１,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N#p2p://fccseuro.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts#p2p://fccsovh.pvbox.live:18912/5b14090b000aaf9d29b8f9f0baa85606.ts
 東森綜合台|３２,tvbus://5Qrgum8xNNX2B7wtwBCTiVb3Lse9teDkoL1cbqFr3rKBK79tp5czXXpKBMj4z
 東森超視|３３,tvbus://6UY92VSrRoTTi43hYRfCNiyDCzFTA2sgqF22Cea8KQ1SjkMfPanUBCAak2CtH
@@ -33,6 +34,7 @@ tvN|３１,tvbus://65KYwFzVqS88CUAqVYKj9ymf7R7CLMNHhbVB7DnYMHezRAzZLkEWqrFpkah2N
 TVBS歡樂台|４２,tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF3bDqbiF1vo#tvbus://7zPtZ59uCMN6yYUukgdVWxT6RQB3u6UomETnNg3rPcYTdfuc5k#tvbus://6FUFFuZFETY7s9Lm9r9d7STYXSu61w8m5DUTKJg9GxaKSDSjpAPkfV8eZnBt6
 緯來戲劇台|４３,tvbus://64GFZ6uKjo9WiZHyHw8vuiqtuygNEc7KNJLTvZEkkF7i36kqoUSS4oMxxajtR
 高點電視臺|４４,tvbus://8BnmsVjVRUSXVAccaMNkx6psUkpsoWRdtUaVzfydvA5D6g82jg
+JET綜合台|４５,tvbus://5U1W3wwHj8CaXbN9pHyGxavr3cDQrh8Z8VXTRHLKB4XCLCKE2kSk8pd93goqv
 壹電視新聞台|４９,http://stream.nexttv.com.tw/n001/playlist.m3u8#tvbus://6HAaEgfgUnyuir85rt9epacbB99a2XyEzmGkwUidf2dwjDSZ15at8d8AouURP#tvbus://7TrzE6Xx7cZLYSHaRKVYNCZmHUmfrqJTu4ErxGdhZDy4o6JxQ7#tvbus://6VxQAotw4pWJEc6KG7vLj4amLjRtZov2tizb3Jo3CgfBgaahJsnreepQpWL7X#tvbus://5XLTqkLouunJVQjAkFkwtzspw1e42pTBYKQCAPJWXegco4CN8vQCdsWtqT2z9
 東森新聞台|５１,http://seb.sason.top/sc/dsxw_fhd.m3u8#tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk#tvbus://78Xc88RpwMy8oVCbeHLe8FMoVYJMNytJs9i1hGsP25Mz3KqZKh#tvbus://5iQJQRmVNS9DgohYheCxw9BTbZJq4zy2kwcXwkbmJsBXRjsb8NULMaTrGgezd#tvbus://6JhikyytsgNi9tqJHuj7SRzPB5kwKJdeUQTBsd4b7jFJxToXZKiZbJw7Zu1x6
 民視新聞台|５３,http://seb.sason.top/sc/msxw_fhd.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
@@ -86,7 +88,7 @@ NickJr.|２３１,tvbus://5zHPzU324J3guXpHAuUB3YnfR7KTBQxj5bcp4Da8iyYJDHJDhnrGAe
 亞洲旅遊台|２３３,tvbus://6TGif8EbHMdyDFXSrEwTcoPZXaAuPMgDjDLNLLcgmTZEHxv7Snj16RYxM98ZM#p2p://fccseuro.pvbox.live:18912/5b140917000941832426c7a7c76903f7.ts
 希望電視台|４１１,tvbus://6XAXMTpAZewLnNstKjwysvqqJ4QZbKgW3za2rBdnbYMu1Khc81pg27JVtSSXu
 唯心電視台|４１２,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-GoodTV2|好消息二台|４１５,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
+好消息二台|４１５,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
 
 
 
