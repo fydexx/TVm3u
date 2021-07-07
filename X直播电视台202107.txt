@@ -34,6 +34,45 @@ TVBS歡樂台|４２,tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF
 緯來戲劇台|４３,tvbus://64GFZ6uKjo9WiZHyHw8vuiqtuygNEc7KNJLTvZEkkF7i36kqoUSS4oMxxajtR
 高點電視臺|４４,tvbus://8BnmsVjVRUSXVAccaMNkx6psUkpsoWRdtUaVzfydvA5D6g82jg
 壹電視新聞台|４９,http://stream.nexttv.com.tw/n001/playlist.m3u8#tvbus://6HAaEgfgUnyuir85rt9epacbB99a2XyEzmGkwUidf2dwjDSZ15at8d8AouURP#tvbus://7TrzE6Xx7cZLYSHaRKVYNCZmHUmfrqJTu4ErxGdhZDy4o6JxQ7#tvbus://6VxQAotw4pWJEc6KG7vLj4amLjRtZov2tizb3Jo3CgfBgaahJsnreepQpWL7X#tvbus://5XLTqkLouunJVQjAkFkwtzspw1e42pTBYKQCAPJWXegco4CN8vQCdsWtqT2z9
+東森新聞台|５１,http://seb.sason.top/sc/dsxw_fhd.m3u8#tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk#tvbus://78Xc88RpwMy8oVCbeHLe8FMoVYJMNytJs9i1hGsP25Mz3KqZKh#tvbus://5iQJQRmVNS9DgohYheCxw9BTbZJq4zy2kwcXwkbmJsBXRjsb8NULMaTrGgezd#tvbus://6JhikyytsgNi9tqJHuj7SRzPB5kwKJdeUQTBsd4b7jFJxToXZKiZbJw7Zu1x6
+民視新聞台|５３,http://seb.sason.top/sc/msxw_fhd.m3u8#https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+三立新聞台|５４,http://seb.sason.top/sc/sllive_fhd.m3u8#tvbus://6WxVzF559pzcD3LF3jGWZLz5cVHqsBkzm42eB7Uc7xhYtxHyS1bZTRUWkEguQ#tvbus://7YZWC167sdVy4xDaeGwu56oLobQxvyG4KfCdU6zY8jr8c6Smsb#tvbus://6BPkoTzjx1a4Bu7bLY4Xbft7nEgFjACpgrLmcaYrL9SCJ14Kgqq7hJDXadxQJ#tvbus://5cwGJpWNtUKi6osPYwMrGPt3mfGQnmS2ZkuGCPnsvfmBqKoba1JydtMDUynb7#tvbus://6grJ5Kh3Y5LeEyJg6db6eEz2opG8Yd3yN4UAezPc3k1o8HRS2PE6PQuR3fmhN#tvbus://5fVoWnfWFQtnZ49MckmFpNnQ3aNsjAJPExFjAuhQixA1ouZNCzTxgokrcSDYY#tvbus://644CvCRxBrPxB4nW7u4shAHTbuEaRKCcN1y39E6bX6bVSuALpZ7ZsPTzmsRMN
+TVBS新聞台|５５,http://seb.sason.top/sc/tvbsxw_fhd.m3u8#http://198.16.106.62:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3##tvbus://5LFtjMDFSxRdXcHM8iCW5WzgMDKBSJcWtkrKq4dbcpkbL7YrrQTBfypj1MAJB#tvbus://7CyU6ZP3BBpcF91MruJCdXjLyFZeSniyanTBASwG47S3fLTQx9#tvbus://6KxfkSoU56HDWea64uocvh7CTtc4Wq67mqQzw24vWqBavv19xEHDToAGitsG8#tvbus://5TZxcd2Pzyvmc2n5B54G2QaVmrJdb3JPtVNaeg3gLBw2aqNtGM7Lt5PJ4Es7K
+TVBS|５６,http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8#http://198.16.106.62:8278/tvbs/playlist.m3u8?tid=m0f93590c7a75&ct=18335&tsum=d55d4e5f3a3d424454dbc8d70e3bb1b6#tvbus://7DEtCmyxRnfvA1VSsvwavm42Jo9LAYjp8jNVgFDyuBjWE4mTAz#tvbus://5khZxPGzFF6DCCCjBW4pivattKmEfaJqf25epZCHUA823V8jt5F6QHJMu4N6z#tvbus://65qXnWpqWqgbrh5nhu8jE5eYgx5TcwFWCLSgHjkYip1quwX47T9se7J8peFbK
+東森財經新聞台|５７,http://seb.sason.top/sc/dscjxw_fhd.m3u8#tvbus://5bY69cepoVBMLLDSy3mDoo8QBJQRmRvgEHqHiJayEqejKoS6Z47qRqjewb9TB#tvbus://7YpF7VbL4JJRLGYJHvurtd2KsVQ1xdkZSsGJAhfvtDkjdhKgma#tvbus://5wwi3y9MzBLXka9eTVFY48EKgx5xRmLETDdsesPVwK8gAmeujrjM6oJcGbzdE
+非凡新聞台|５８,tvbus://7fcGBVVLMEQdPr3aLn8RPPBNryvRgacDd9Deq6APwTGqXMaChg#tvbus://6fFJfrc7GqviCHEg6jXkNAALyqTEdBbRkPFHePCnZCfEJ9Zzgcyd9Zu183Z9Q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
