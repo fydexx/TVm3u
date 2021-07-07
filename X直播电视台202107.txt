@@ -1,9 +1,11 @@
 小Q整理中
 台灣節目表,#genre#
+公用頻道|２,http://61.58.60.230:9319/live/2.m3u8
+公用頻道|３,http://61.58.60.230:9319/live/3.m3u8
 CNN國際新聞|５,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
 民視|６,http://seb.sason.top/ptv/ftv.php?id=ms#http://198.16.106.62:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce#tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd#tvbus://6Lj9rFEdKejTmFCH2Kv7jX2G56jH6y1zu7sNmRWp1qGYpyWzZk4tgPKnwWSi2
 台視|８,tvbus://6Uz6j3KQTSS5GjDTezuHHSozxzwZhEsBi6h39pUAkJfHvu5Ybsc9UMcnBcLgc#tvbus://6Q1Sse26Zx4Bb33LwYrUXekJwjGu5ogGDiBiqTbonztTEr7bESCCm5BY4s1xb#p2p://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
-大愛電視|９,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8#tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
+大愛電視|９,https://pulltv1.wanfudaluye.com/live/tv1.m3u8#https://pulltv2.wanfudaluye.com/live/tv2.m3u8#http://61.58.60.230:9319/live/10.m3u8#tvbus://6LBhU5bVWq8GLvbG5AyUxSauccyLttKDomgGTpxjSF9AD31pcH14yXGmtY3N7
 中視|１０,tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb#tvbus://5LmrGHhxSH1Up9zZ15nLUL1sMTP1oQJEkGsGdZ9HtHyS3J2GoHccAP2rdowRE
 霹靂台灣台|１１,tvbus://5tbhpmB9A19vYgEerCRAK923PMVMbtPByt4Ku3T1XrAJeBzfiMS7kCXtfJ5mX
 華視|１２,tvbus://5uupLdVx6j2ddXjJwMTC1uPCVmXLkzyxvzJvx1XrGD5vyjEPSJVqKTd8FuMmx#tvbus://8T3wfVYkDvT5Wwrv3VVAW8DGzMeJxkX5Q77bkcg1ZQmk7gcWrX#tvbus://5fBSSdxDCwiMGu78eXCcAGdrMrRJMgRoi9AwsmFD8t37G5WGbw1z9pxZW5iv1
@@ -37,6 +39,7 @@ TVBS歡樂台|４２,tvbus://5iuZdrPxQDmVpNk2RvS5p7U9UMSk1r7CrcjvpP1yzBQjMe6GytF
 緯來戲劇台|４３,tvbus://64GFZ6uKjo9WiZHyHw8vuiqtuygNEc7KNJLTvZEkkF7i36kqoUSS4oMxxajtR
 高點電視臺|４４,tvbus://8BnmsVjVRUSXVAccaMNkx6psUkpsoWRdtUaVzfydvA5D6g82jg
 JET綜合台|４５失效,tvbus://5U1W3wwHj8CaXbN9pHyGxavr3cDQrh8Z8VXTRHLKB4XCLCKE2kSk8pd93goqv
+世新綜合一台|４９,http://61.58.60.230:9319/live/49.m3u8
 壹電視新聞台|４９,http://stream.nexttv.com.tw/n001/playlist.m3u8#tvbus://6HAaEgfgUnyuir85rt9epacbB99a2XyEzmGkwUidf2dwjDSZ15at8d8AouURP#tvbus://7TrzE6Xx7cZLYSHaRKVYNCZmHUmfrqJTu4ErxGdhZDy4o6JxQ7#tvbus://6VxQAotw4pWJEc6KG7vLj4amLjRtZov2tizb3Jo3CgfBgaahJsnreepQpWL7X#tvbus://5XLTqkLouunJVQjAkFkwtzspw1e42pTBYKQCAPJWXegco4CN8vQCdsWtqT2z9
 東森新聞台|５１,http://seb.sason.top/sc/dsxw_fhd.m3u8#tvbus://5SiRxAgocLNdjGDhS3QsJVs8oKjwsDjHZBzVggh3Swv1AAoPzq6oDfa2ZMcDk#tvbus://78Xc88RpwMy8oVCbeHLe8FMoVYJMNytJs9i1hGsP25Mz3KqZKh#tvbus://5iQJQRmVNS9DgohYheCxw9BTbZJq4zy2kwcXwkbmJsBXRjsb8NULMaTrGgezd#tvbus://6JhikyytsgNi9tqJHuj7SRzPB5kwKJdeUQTBsd4b7jFJxToXZKiZbJw7Zu1x6#tvbus://6bwLyETqFVQRVffwpoF2xFTiGRKqQ5y9Wrjab6973ErVkfV6FTbEgVoNHXwBS#tvbus://5WNwrNnuaCWrqeoUzdhfQpg5JYQzNQaiJKshfnw7XQDyjyWRNiFwFUq1xcAYa#tvbus://5Q28mBDHXwTRDXxMDF9PvrrM75hgJm8u7bD8rzRdYEDFsNd61MQbFSfWyRDBh#p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8513c4ec41b6e9f5.ts
 中天新聞台|５２,http://seb.sason.top/sc/ztxw_fhd.m3u8#tvbus://7UHpuAACKw56RQXMGVVXYPryYa7v8nJpEGnACG5WpCNupZXuLc#
@@ -83,8 +86,9 @@ Z頻道|８１,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gv
 FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 華視體育文化|１０９,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
 華視新聞資訊|１２１,http://seb.sason.top/sc/hsxw_fhd.m3u8#tvbus://5v634cmpVDfScXt8753ifdEd7G2JQYo51ikg3oTJVuFTz75T9W5PLXpgbcfNU
-國會一台|１２３,tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY
-國會二台|１２４,tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo
+國會一台|１２３,http://61.58.60.230:9319/live/123.m3u8#tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY
+國會二台|１２４,http://61.58.60.230:9319/live/124.m3u8#tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo
+幸福空間居家台|１２５,http://61.58.60.230:9319/live/125.m3u8
 民視影劇台|１４８,http://seb.sason.top/ptv/ftv.php?id=yj
 民視綜藝台|１４９,http://seb.sason.top/ptv/ftv.php?id=zy
 民視旅遊台|１５０,http://seb.sason.top/ptv/ftv.php?id=ly
@@ -1128,18 +1132,12 @@ https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
 放鬆吉他音樂,
 https://bozztv.com/36bay2/gin/giniko_guitarrelax_2000kb_36bay2/index.m3u8
-新聞網（高清）,
-https://bozztv.com/36bay2/gin-newsnet/index.m3u8
-FASHIONTV,
-https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
-立即開始,
-https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
-5m快速工藝品,
-https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
-5m生活黑客,
-https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
-5m廚房黑客,
-https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
+新聞網（高清）,https://bozztv.com/36bay2/gin-newsnet/index.m3u8
+FASHIONTV,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/index.m3u8
+立即開始,https://bozztv.com/veset1/720pHi/playlist_720pHi.m3u8
+5m快速工藝品,https://bozztv.com/36bay2/gin/giniko_5min_1500kb_36bay2/index.m3u8
+5m生活黑客,https://bozztv.com/36bay2/gin/giniko_5minlifehacks_1500kb_36bay2/index.m3u8
+5m廚房黑客,https://bozztv.com/36bay2/gin/giniko_5minkitchen_1500kb_36bay2/index.m3u8
 
 測試©頻道,#genre#
 Jasmin TV(18+),http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
@@ -1173,8 +1171,7 @@ Threesome(18+),http://live.redtraffic.xyz/threesome.m3u8
 澳門蓮花,rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c
 澳門葡文,rtmp://live4.tdm.com.mo:80/ch2/_definst_/ch2.live
 澳視體育,rtmp://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live
-國會頻道,http://61.58.60.230:9319/live/123.m3u8
-國會頻道,http://61.58.60.230:9319/live/124.m3u8
+國會頻道,
 行政院環保署空氣品質監測,http://61.58.60.230:9319/live/709.m3u8
 
 凤凰中文,http://qlive.fengshows.cn/live720p/PCC.m3u8
