@@ -67,7 +67,6 @@ HGTV居家樂活|７８,http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8#htt
 FOX|HD７９,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8#tvbus://6YLw3eozv6kQqv9CcB3Vneu2Tt5qkSjUUxQLaAfiS5dy8oAwi7MAjrk1GbxN1
 MTV Live HD|８０,tvbus://6KkQcWWPHAd5MuTaseQeai1b1o8Zx3zwS7LtXzERkChRirKYMUkjgRdeYS4Xs#p2p://fccsovh.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts#p2p://fccseuro.pvbox.live:18912/5b1408f100084d6ada825c7c91f5af05.ts
 Z頻道|８１,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gvj6vq#p2p://fccsovh.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts#p2p://fccseuro.pvbox.live:18912/5b14094a00088a56c163c32bb6faf8bc.ts
-
 寰宇新聞|８５,tvbus://7beSKBhbYwem2JMcyAPiw9Lq15919uQamc7r6Srh1Kq6TyFLWm#tvbus://6JKuKpFKftPN5faMaHje6597pVufZ44XiP8oC8uGCmw12E2XX1VNho9cNnR2c
 八大娛樂台|８６失效,tvbus://68HTXA74c984HSYJrg7um6zdoF8KwdpiCsr76CjGKuW6gYTSabfKgqxNd7xtP
 非凡商業台|９１,tvbus://895W53umit5N3nDMJGrFAd5HWbQNByLPD4CmgFJAEkwTWdamqB#tvbus://6eWzSkXPamkfbbEuACBdRgUUCxCFicmZVui2zQcaYJj7HRNDY9yZRZmzPfZSx
@@ -77,12 +76,12 @@ Z頻道|８１,tvbus://6R1Mb1nKR5CvDNMeoPgdwFbgR4hAT8GoYmjAmg71KpcS1CnCZNqcsb5gv
 公視三台|９５,tvbus://6F5LQ73o1ic8HGkwvdC5Zw9m2xz9KQpEgrb1pTz9dvRLP6neoj8SD7Q511Maq
 大愛二台|９６,tvbus://5gpZ12gBUN956QP3NRzrmDxarUBuCFwnrLoahRr6f7w9h3cJxLVxjVXKXXeHy
 台視新聞台|９７,http://seb.sason.top/sc/tsxw_fhd.m3u8#tvbus://6ZmEsG1fAYZVjYz1Zv4p9b3tjEiYuxHqbe6QBtmNwtKuFCcfcxV7iM1snBVx9
-華藏電視台|１０２,tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
-FoodNetwork美食台|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
+華藏電視|１０２,tvbus://5KJu4mHQebPojUWthRKPcWt2VcqW5jhRNQ5hTB15bqHMdL8SXBBsH6kYovvY2
+FoodNetwork|１０８,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8#p2p://fccseuro.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts#p2p://fccsovh.pvbox.live:18912/5b14092b000126610a53e060e2c8aa45.ts
 華視體育文化|１０９,tvbus://6bJSUQVVo3EoQuP1S1mA1KKDsG2qo52CjTKU4RDu7doyUGpHqXu5jDm2HvL4n
 台視財經台|１１６,tvbus://5QKsG2nutAoqFyBrLsWUUX6NyzLK8M2DTXtb2Z5ynMKNFnVZ1piYPwYmHuSUY
 台視綜合台|１１７,tvbus://6Z9NPPR697ZRRs1JyrvJkcEFXT9iUZ1aDBMqTGdBsVM6ectZ9aKDNPk89SVYf
-華視新聞資訊台|１２１,http://seb.sason.top/sc/hsxw_fhd.m3u8#tvbus://5v634cmpVDfScXt8753ifdEd7G2JQYo51ikg3oTJVuFTz75T9W5PLXpgbcfNU
+華視新聞資訊|１２１,http://seb.sason.top/sc/hsxw_fhd.m3u8#tvbus://5v634cmpVDfScXt8753ifdEd7G2JQYo51ikg3oTJVuFTz75T9W5PLXpgbcfNU
 國會一台|１２３,tvbus://6JG8STKz4KFLM5D7nithFifWcDia8YRiBLrvCVgEse9DG81F6r5NKUQMijnNY
 國會二台|１２４,tvbus://6ABgi8XPMfaivT1965Ad6R7hxuk3C3WjEFRnqPiMg5woXGTt1QJPc2tBu5FKo
 民視第一台|１５１,http://seb.sason.top/ptv/ftv.php?id=dy#tvbus://6ednGj6km9MMnYffReGPEqn5nkuGF9JeeS8KYs1FfWdZD7TNDfeeHbjzWTS37
