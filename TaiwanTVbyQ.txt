@@ -127,24 +127,7 @@ CNBC Asia|３１１,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5x
 好消息二台|４１５,tvbus://6PDiL5v2TyzqJeK9W3V9eLRqsJaBAQhSWddfWofmEBe7USe38CBbqp3khAJWH
 
 還沒測試的,#genre#
-TV1,http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDkiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxhWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMTY1N30.jQxQqExLcnb6ivEgZkSFW66kjYpiQt9VmjK4TMbgRJTcl86fDjLeo2cA7QS4HUxAPP3leKXBidvlDKYUoXF0ug;http://rtm-live.glueapi.io/smil:ch001.smil/playlist.m3u8
-TV2,http://rtm-live.glueapi.io/smil:rtm-ch002/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNDgiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6ImNkbi1ydG0tcGxheWVyLmdsdWVtcHNhcHAuY29tIiwiZCI6MTQ2MjczMjA1Nn0.VR27yLPA80udhrteAhY1kzoiu3P1HQ2LfEjL2LsrH7xfMt58cDynVaMyJ1r-_fJ3_EY85MwB9hLb_WpIOu8AAw;plugin://plugin.video.youtube/?action=play_video&amp;videoid=T6QpFWa9zVY
-马来西亚MARA,http://stream2.1malaysiaiptv.com:1935/mylive/smil:maratv_all.smil/playlist.m3u8
-TVi,http://rtm-live.glueapi.io/smil:rtm-ch003.smil/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTAiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4Nn0.pqTaZWAnZakA2RkLSgfAk63eXbU0Tdz5ayoUzpkkt2RTF8PoDlWARY6PhzZopWiM_qJsA0LEppBHBqhs0ivoeg
-MUZIK AKTIF,http://rtm-live.glueapi.io/smil:rtm-ch004/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTEiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4N30.ro-QIyNGm1WGKnhd0gri7rJExai4M233NUujCBhcEH3EadH1dah1q6xGxQREPeF7Zg2jxYPrFiqU1-w_Kt8fSQ
-AL HIJRAH,http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
-AWANI,http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
-BERNAMA,http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/chunklist_w774237887_b878000_sleng.m3u8
-1NEWS,http://rtm-live.glueapi.io/smil:rtm-ch006/playlist.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJpIjoiMTAxNTMiLCJtIjoicHJvdmlzaW9uaW5nIiwiciI6Im15a2xpay5ydG0uZ292Lm15IiwiZCI6MTQ2NDc1Mjk4OH0.9MoWFKWTtQtXsOdNB2hEa6yBhk9jo1UQ3xFjqHOY0SmzicNR4c9R8x_W-jchyEyCGvl9v9RpSfiuYpDvDALgZA
-KBS WORLD,rtmp://118.97.183.196/jhos//kbs
-Korean Drama (ENG),rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama
-METRO TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-AL JAZEERA ENGLISH,http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
-ABC NEWS,http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-BLOOMBERG,http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-NHK WORLD,http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
-NASA TV HD,http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-UK: Nicktoons,http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/102.m3u8
+
 UK: Nickelodeon,http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8
 World Travel Channel,http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
 MBC MAX,http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
