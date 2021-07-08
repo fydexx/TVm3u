@@ -128,39 +128,10 @@ CNBC Asia|３１１,tvbus://5ZDSmV1dT2PZUXpxX1z6AZrWhyyuqpqdbMpSfAJWeFN5wFEAYx5x
 
 還沒測試的,#genre#
 
-UK: Nickelodeon,http://giptv.gemaccs.com:8899/live/belkhirabdou1/belkhirabdou1/103.m3u8
-World Travel Channel,http://stream.taksimbilisim.com:1935/wtc/bant1/WTC.m3u8
-MBC MAX,http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-DUBAI ONE,http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
-PLAYY WEST,http://123.108.164.71/etv2sb/phd743/lihattv.m3u8
-FOX Action Movies,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-FOX Movies,http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-VEVO 1 HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-VEVO 2 HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-VEVO 3 HD,http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-ONE 1 HD,http://rtmp.one.by:1300
-Korea Hits,rtmp://edge1.everyon.tv/etv1/ playpath=phd71 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/1293/korea-hits
-*BACKUP BPL LIVE,http://50.7.96.210:8285
+UK:
+1MUSIC TV HD,http://rtmp.one.by:1300
 
-SINGAPORE
-SG: Mio Sports 8,http://62.210.148.126:2500/live/kashif/kashif/3182.ts
-SG: Mio Sports 7,http://62.210.148.126:2500/live/kashif/kashif/3181.ts
-SG: Mio Sports 6,http://62.210.148.126:2500/live/kashif/kashif/3180.ts
-SG: Mio Sports 5,http://62.210.148.126:2500/live/kashif/kashif/3179.ts
-SG: Mio Sports 4,http://62.210.148.126:2500/live/kashif/kashif/3178.ts
-SG: Mio Sports 3,http://62.210.148.126:2500/live/kashif/kashif/3177.ts
-SG: Mio Sports 2,http://62.210.148.126:2500/live/kashif/kashif/3176.ts
-SG: Eleven sports 2,http://62.210.148.126:2500/live/kashif/kashif/3175.ts
-SG: Eleven sports 1,http://62.210.148.126:2500/live/kashif/kashif/3174.ts
 
-USA
-美国航天局NASA,http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
-美国BOOK TV,http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
-US: HBO ZONE,http://orbit-iptv.com:2500/live/OnECwnB3Pl/i4mshabOsF/2209.ts
-EPL astro 2,http://89.163.148.31:8000/live/michele/michele/4564.ts
-EPL astro 1,http://89.163.148.31:8000/live/michele/michele/4563.ts
-USA: womens entertainment,http://89.163.148.31:8000/live/michele/michele/4618.ts
-USA: Willow HD,http://89.163.148.31:8000/live/michele/michele/4603.ts
 USA: VH1,http://89.163.148.31:8000/live/michele/michele/4616.ts
 USA: USA Network,http://89.163.148.31:8000/live/michele/michele/4605.ts
 USA: TSN 5,http://89.163.148.31:8000/live/michele/michele/4598.ts
